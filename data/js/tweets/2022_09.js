@@ -1,6 +1,1528 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Wed Sep 07 10:10:04 +0000 2022",
+		"id": 1567455152814305300,
+		"id_str": "1567455152814305285",
+		"full_text": "#딩고뮤직 #dingo_music\nMZ들 사이에서 술게임하는 이석훈?!  l [짠한사이] EP.03 대전\nhttps://t.co/fHfiUKZFz6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "딩고뮤직",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "dingo_music",
+					"indices": [
+						6,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fHfiUKZFz6",
+					"expanded_url": "https://youtu.be/jWdMZYWLlHo",
+					"display_url": "youtu.be/jWdMZYWLlHo",
+					"indices": [
+						59,
+						82
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 254,
+			"friends_count": 461,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 235,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 87840,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#딩고뮤직 #dingo_music\nMZ들 사이에서 술게임하는 이석훈?!  l [짠한사이] EP.03 대전\nhttps://t.co/fHfiUKZFz6"
+	},
+	{
+		"created_at": "Wed Sep 07 09:58:15 +0000 2022",
+		"id": 1567437591301222400,
+		"id_str": "1567452176334704640",
+		"full_text": "[KCON 2022 LA | AUG 21]\nCLOSING w/‘POPPIA’ Signature Song💚🎵\n\n잊을 수 없는 기억 가득한 KCON 2022 LA💙\nKCON-ers~ 우리 다음에 또 만나요!\n\nSEE YOU AT NEXT KCON🔥\n\n#KCON #KCONUSA #KCON2022LA https://t.co/rMEUO2CXWl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						138,
+						143
+					]
+				},
+				{
+					"text": "KCONUSA",
+					"indices": [
+						144,
+						152
+					]
+				},
+				{
+					"text": "KCON2022LA",
+					"indices": [
+						153,
+						164
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rMEUO2CXWl",
+					"expanded_url": "https://twitter.com/kconusa/status/1567437522300436480",
+					"display_url": "twitter.com/kconusa/status…",
+					"indices": [
+						165,
+						188
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER\n📍 KCON 2022 JAPAN 10/14 ~ 10/16(JST)",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 460980,
+			"friends_count": 76,
+			"listed_count": 1125,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 138,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12947,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1562616645817839617/lfE26AYF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1562616645817839617/lfE26AYF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1661845613",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1567437522300436500,
+		"quoted_status_id_str": "1567437522300436480",
+		"quoted_status_permalink": {
+			"url": "https://t.co/rMEUO2CXWl",
+			"expanded": "https://twitter.com/kconusa/status/1567437522300436480",
+			"display": "twitter.com/kconusa/status…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Sep 07 09:00:01 +0000 2022",
+			"id": 1567437522300436500,
+			"id_str": "1567437522300436480",
+			"full_text": "[KCON 2022 LA | AUG 21]\nCLOSING w/‘POPPIA’ Signature Song💚🎵\n\nOur unforgettable memories at KCON 2022 LA💙\nKCON-ers~ We'll see you next time!\n\nSEE YOU AT NEXT KCON🔥\n\n#KCON #KCONUSA #KCON2022LA https://t.co/9yYeQq677D",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				190
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "KCON",
+						"indices": [
+							164,
+							169
+						]
+					},
+					{
+						"text": "KCONUSA",
+						"indices": [
+							170,
+							178
+						]
+					},
+					{
+						"text": "KCON2022LA",
+						"indices": [
+							179,
+							190
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1567429352656351200,
+						"id_str": "1567429352656351233",
+						"indices": [
+							191,
+							214
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1567429352656351233/img/QjB6-br6sPyJyRym.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1567429352656351233/img/QjB6-br6sPyJyRym.jpg",
+						"url": "https://t.co/9yYeQq677D",
+						"display_url": "pic.twitter.com/9yYeQq677D",
+						"expanded_url": "https://twitter.com/kconusa/status/1567437522300436480/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1567429352656351200,
+						"id_str": "1567429352656351233",
+						"indices": [
+							191,
+							214
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1567429352656351233/img/QjB6-br6sPyJyRym.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1567429352656351233/img/QjB6-br6sPyJyRym.jpg",
+						"url": "https://t.co/9yYeQq677D",
+						"display_url": "pic.twitter.com/9yYeQq677D",
+						"expanded_url": "https://twitter.com/kconusa/status/1567437522300436480/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 340907,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1567429352656351233/vid/640x360/CdM98M2w33rv0g1x.mp4?tag=14"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1567429352656351233/vid/1280x720/RjnatmHRi0qh3Z55.mp4?tag=14"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1567429352656351233/pl/bEPjZagvREPqlkdL.m3u8?tag=14&container=fmp4"
+								},
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1567429352656351233/vid/480x270/Bn0nJRArIL7ktzbq.mp4?tag=14"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "[KCON 2022 LA] AUG 21 CLOSING",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 739451875,
+				"id_str": "739451875",
+				"name": "KCONUSA",
+				"screen_name": "kconusa",
+				"location": "Los Angeles, CA",
+				"description": "The official Twitter account of KCONUSA. #LetsKCON",
+				"url": "https://t.co/FLWmbXsnw0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/FLWmbXsnw0",
+								"expanded_url": "http://www.kconusa.com",
+								"display_url": "kconusa.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 238939,
+				"friends_count": 9,
+				"listed_count": 491,
+				"created_at": "Sun Aug 05 23:40:55 +0000 2012",
+				"favourites_count": 3048,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 20834,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1537845271031205888/TQ5o6UCj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537845271031205888/TQ5o6UCj_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/739451875/1655163038",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "E6F6F9",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 613,
+			"favorite_count": 1404,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 11,
+		"favorite_count": 59,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[KCON 2022 LA | AUG 21]\nCLOSING w/‘POPPIA’ Signature Song💚🎵\n\n잊을 수 없는 기억 가득한 KCON 2022 LA💙\nKCON-ers~ 우리 다음에 또 만나요!\n\nSEE YOU AT NEXT KCON🔥\n\n#KCON #KCONUSA #KCON2022LA https://t.co/rMEUO2CXWl"
+	},
+	{
+		"created_at": "Wed Sep 07 09:29:47 +0000 2022",
+		"id": 1567444818988761000,
+		"id_str": "1567445014791290884",
+		"full_text": "[#Notice] #정재형\n\n정재형이 함께하는 JTBC &lt;인생 리셋 재데뷔 쇼 - 스타탄생&gt;이 오늘 저녁 8시 50분 첫 방송됩니다🌟\n\n@le_petit_piano \n#JungJaeHyung\n#JTBC #인생리셋재데뷔쇼 #스타탄생 https://t.co/Z9ew6ccK7R",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Notice",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "정재형",
+					"indices": [
+						10,
+						14
+					]
+				},
+				{
+					"text": "JungJaeHyung",
+					"indices": [
+						99,
+						112
+					]
+				},
+				{
+					"text": "JTBC",
+					"indices": [
+						113,
+						118
+					]
+				},
+				{
+					"text": "인생리셋재데뷔쇼",
+					"indices": [
+						119,
+						128
+					]
+				},
+				{
+					"text": "스타탄생",
+					"indices": [
+						129,
+						134
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "le_petit_piano",
+					"name": "J.H.JUNG",
+					"id": 120697779,
+					"id_str": "120697779",
+					"indices": [
+						82,
+						97
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1567444812282069000,
+					"id_str": "1567444812282068992",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/FcCuwIkaAAAP6_-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcCuwIkaAAAP6_-.jpg",
+					"url": "https://t.co/Z9ew6ccK7R",
+					"display_url": "pic.twitter.com/Z9ew6ccK7R",
+					"expanded_url": "https://twitter.com/antennamusic/status/1567444818988761088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 678,
+							"h": 960,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 678,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1567444812282069000,
+					"id_str": "1567444812282068992",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/FcCuwIkaAAAP6_-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcCuwIkaAAAP6_-.jpg",
+					"url": "https://t.co/Z9ew6ccK7R",
+					"display_url": "pic.twitter.com/Z9ew6ccK7R",
+					"expanded_url": "https://twitter.com/antennamusic/status/1567444818988761088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 678,
+							"h": 960,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 678,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 페퍼톤스 정규 7집 'thousand years’ 2022. 09. 20. 6PM Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40425,
+			"friends_count": 12,
+			"listed_count": 382,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5335,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1662545087",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Notice] #정재형\n\n정재형이 함께하는 JTBC &lt;인생 리셋 재데뷔 쇼 - 스타탄생&gt;이 오늘 저녁 8시 50분 첫 방송됩니다🌟\n\n@le_petit_piano \n#JungJaeHyung\n#JTBC #인생리셋재데뷔쇼 #스타탄생 https://t.co/Z9ew6ccK7R"
+	},
+	{
+		"created_at": "Wed Sep 07 09:29:42 +0000 2022",
+		"id": 1567441124293509000,
+		"id_str": "1567444992976687105",
+		"full_text": "KANGTA 강타 The 4th Album 〖Eyes On You〗 \n\nListen now on your favorite platform\n➫https://t.co/raP5IyAnNx\n\n#KANGTA #강타 \n#EyesOnYou",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KANGTA",
+					"indices": [
+						103,
+						110
+					]
+				},
+				{
+					"text": "강타",
+					"indices": [
+						111,
+						114
+					]
+				},
+				{
+					"text": "EyesOnYou",
+					"indices": [
+						116,
+						126
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/raP5IyAnNx",
+					"expanded_url": "https://kangta.lnk.to/EyesOnYou",
+					"display_url": "kangta.lnk.to/EyesOnYou",
+					"indices": [
+						78,
+						101
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11149243,
+			"friends_count": 55,
+			"listed_count": 12582,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12824,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 108,
+		"favorite_count": 751,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "KANGTA 강타 The 4th Album 〖Eyes On You〗 \n\nListen now on your favorite platform\n➫https://t.co/raP5IyAnNx\n\n#KANGTA #강타 \n#EyesOnYou"
+	},
+	{
+		"created_at": "Wed Sep 07 09:29:40 +0000 2022",
+		"id": 1567440619630637000,
+		"id_str": "1567444983728185344",
+		"full_text": "💿NEW MUSIC TODAY💿\n\"ABOUT (어바웃), 히모 - 화상 (Feat. 휘영 (SF9))\"을 지금 바로 음원 사이트에서 만나보세요!\n\n▶https://t.co/n9Y5wBVUDC\n\n#warnermusic #warnerkpop #KPOP #어바웃 #ABOUT #히모 #Hemo #휘영 #SF9 #화상 @sf9official https://t.co/A3Tqk1591n",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "warnermusic",
+					"indices": [
+						108,
+						120
+					]
+				},
+				{
+					"text": "warnerkpop",
+					"indices": [
+						121,
+						132
+					]
+				},
+				{
+					"text": "KPOP",
+					"indices": [
+						133,
+						138
+					]
+				},
+				{
+					"text": "어바웃",
+					"indices": [
+						139,
+						143
+					]
+				},
+				{
+					"text": "ABOUT",
+					"indices": [
+						144,
+						150
+					]
+				},
+				{
+					"text": "히모",
+					"indices": [
+						151,
+						154
+					]
+				},
+				{
+					"text": "Hemo",
+					"indices": [
+						155,
+						160
+					]
+				},
+				{
+					"text": "휘영",
+					"indices": [
+						161,
+						164
+					]
+				},
+				{
+					"text": "SF9",
+					"indices": [
+						165,
+						169
+					]
+				},
+				{
+					"text": "화상",
+					"indices": [
+						170,
+						173
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SF9official",
+					"name": "SF9official",
+					"id": 765763153728835600,
+					"id_str": "765763153728835584",
+					"indices": [
+						174,
+						186
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/n9Y5wBVUDC",
+					"expanded_url": "http://youtu.be/HL1GwL60LCs",
+					"display_url": "youtu.be/HL1GwL60LCs",
+					"indices": [
+						83,
+						106
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1567440586462081000,
+					"id_str": "1567440586462081024",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1567440586462081024/pu/img/UsytrnnbU3vPC0Xh.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1567440586462081024/pu/img/UsytrnnbU3vPC0Xh.jpg",
+					"url": "https://t.co/A3Tqk1591n",
+					"display_url": "pic.twitter.com/A3Tqk1591n",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1567440619630637060/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1567440586462081000,
+					"id_str": "1567440586462081024",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1567440586462081024/pu/img/UsytrnnbU3vPC0Xh.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1567440586462081024/pu/img/UsytrnnbU3vPC0Xh.jpg",
+					"url": "https://t.co/A3Tqk1591n",
+					"display_url": "pic.twitter.com/A3Tqk1591n",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1567440619630637060/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 44969,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1567440586462081024/pu/vid/320x400/R_ec2qa-_a1_R_6K.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1567440586462081024/pu/pl/vfHpDT5IX2dHm9Wt.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1567440586462081024/pu/vid/480x600/dx82bq50cLbry_Ri.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1567440586462081024/pu/vid/720x900/rziA42uknGvjjXAL.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 90042,
+			"friends_count": 492,
+			"listed_count": 218,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1579,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11955,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1636703401",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 27,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💿NEW MUSIC TODAY💿\n\"ABOUT (어바웃), 히모 - 화상 (Feat. 휘영 (SF9))\"을 지금 바로 음원 사이트에서 만나보세요!\n\n▶https://t.co/n9Y5wBVUDC\n\n#warnermusic #warnerkpop #KPOP #어바웃 #ABOUT #히모 #Hemo #휘영 #SF9 #화상 @sf9official https://t.co/A3Tqk1591n"
+	},
+	{
+		"created_at": "Wed Sep 07 09:29:38 +0000 2022",
+		"id": 1567440159104286700,
+		"id_str": "1567444974370709505",
+		"full_text": "[인터뷰] 'Eyes On You', 정규 4집으로 돌아온 강타\n \nhttps://t.co/T33EjSjrvF\n \n#KANGTA #강타\n#EyesOnYou https://t.co/FVpFtnP7YF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KANGTA",
+					"indices": [
+						64,
+						71
+					]
+				},
+				{
+					"text": "강타",
+					"indices": [
+						72,
+						75
+					]
+				},
+				{
+					"text": "EyesOnYou",
+					"indices": [
+						76,
+						86
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/T33EjSjrvF",
+					"expanded_url": "https://naver.me/GWrhP4dk",
+					"display_url": "naver.me/GWrhP4dk",
+					"indices": [
+						38,
+						61
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1567415263901159400,
+					"id_str": "1567415263901159427",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/FcCT4MRakAMPznn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcCT4MRakAMPznn.jpg",
+					"url": "https://t.co/FVpFtnP7YF",
+					"display_url": "pic.twitter.com/FVpFtnP7YF",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1567440159104286722/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1567415263901159400,
+					"id_str": "1567415263901159427",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/FcCT4MRakAMPznn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcCT4MRakAMPznn.jpg",
+					"url": "https://t.co/FVpFtnP7YF",
+					"display_url": "pic.twitter.com/FVpFtnP7YF",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1567440159104286722/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11149243,
+			"friends_count": 55,
+			"listed_count": 12582,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12824,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 98,
+		"favorite_count": 1015,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[인터뷰] 'Eyes On You', 정규 4집으로 돌아온 강타\n \nhttps://t.co/T33EjSjrvF\n \n#KANGTA #강타\n#EyesOnYou https://t.co/FVpFtnP7YF"
+	},
+	{
+		"created_at": "Wed Sep 07 09:29:32 +0000 2022",
+		"id": 1567438703207022600,
+		"id_str": "1567444948395462658",
+		"full_text": "KANGTA 강타 The 4th Album 〖Eyes On You〗 \n\nMelon➫ https://t.co/ehsgsE4OkM\nFLO➫ https://t.co/Fws2njLHju\ngenie➫https://t.co/I4BQFgWHya\nBugs➫ https://t.co/eZS8TWJWNX\nNAVER VIBE➫ https://t.co/xDJ6nGCuMK \n\n#KANGTA #강타 \n#EyesOnYou",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			221
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KANGTA",
+					"indices": [
+						198,
+						205
+					]
+				},
+				{
+					"text": "강타",
+					"indices": [
+						206,
+						209
+					]
+				},
+				{
+					"text": "EyesOnYou",
+					"indices": [
+						211,
+						221
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ehsgsE4OkM",
+					"expanded_url": "http://kko.to/Z6MCoimKf",
+					"display_url": "kko.to/Z6MCoimKf",
+					"indices": [
+						47,
+						70
+					]
+				},
+				{
+					"url": "https://t.co/Fws2njLHju",
+					"expanded_url": "http://flomuz.io/s/a.BRE0y",
+					"display_url": "flomuz.io/s/a.BRE0y",
+					"indices": [
+						76,
+						99
+					]
+				},
+				{
+					"url": "https://t.co/I4BQFgWHya",
+					"expanded_url": "http://www.genie.co.kr/ZTYEL9",
+					"display_url": "genie.co.kr/ZTYEL9",
+					"indices": [
+						106,
+						129
+					]
+				},
+				{
+					"url": "https://t.co/eZS8TWJWNX",
+					"expanded_url": "https://music.bugs.co.kr/album/20491605",
+					"display_url": "music.bugs.co.kr/album/20491605",
+					"indices": [
+						136,
+						159
+					]
+				},
+				{
+					"url": "https://t.co/xDJ6nGCuMK",
+					"expanded_url": "https://naver.me/GA6D3GcN",
+					"display_url": "naver.me/GA6D3GcN",
+					"indices": [
+						172,
+						195
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11149243,
+			"friends_count": 55,
+			"listed_count": 12582,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12824,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 255,
+		"favorite_count": 920,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "KANGTA 강타 The 4th Album 〖Eyes On You〗 \n\nMelon➫ https://t.co/ehsgsE4OkM\nFLO➫ https://t.co/Fws2njLHju\ngenie➫https://t.co/I4BQFgWHya\nBugs➫ https://t.co/eZS8TWJWNX\nNAVER VIBE➫ https://t.co/xDJ6nGCuMK \n\n#KANGTA #강타 \n#EyesOnYou"
+	},
+	{
 		"created_at": "Wed Sep 07 09:13:17 +0000 2022",
 		"id": 1567440860647936000,
 		"id_str": "1567440860647936001",
