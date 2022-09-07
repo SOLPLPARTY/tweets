@@ -1,6 +1,1397 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Wed Sep 07 11:11:31 +0000 2022",
+		"id": 1567449970848182300,
+		"id_str": "1567470615434592256",
+		"full_text": "태풍이 지나가고 뜻하지 않은 피해가 많았네요 사전에 막았더라면 그리고 그때 잘 총력대응했더라면 하는...이번주 클럽빵은 토일은 추석으로 쉽니다 추석이라니.. 추석 넉넉하게 보내세요~  #느린 #박연두 #제이벨 #스크린스 #콘트라젤리 #솔루션스 #덕 #공기별 #민광진 #민수홍 #클럽빵 https://t.co/Bsf3zPRQaU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "느린",
+					"indices": [
+						103,
+						106
+					]
+				},
+				{
+					"text": "박연두",
+					"indices": [
+						107,
+						111
+					]
+				},
+				{
+					"text": "제이벨",
+					"indices": [
+						112,
+						116
+					]
+				},
+				{
+					"text": "스크린스",
+					"indices": [
+						117,
+						122
+					]
+				},
+				{
+					"text": "콘트라젤리",
+					"indices": [
+						123,
+						129
+					]
+				},
+				{
+					"text": "솔루션스",
+					"indices": [
+						130,
+						135
+					]
+				},
+				{
+					"text": "덕",
+					"indices": [
+						136,
+						138
+					]
+				},
+				{
+					"text": "공기별",
+					"indices": [
+						139,
+						143
+					]
+				},
+				{
+					"text": "민광진",
+					"indices": [
+						144,
+						148
+					]
+				},
+				{
+					"text": "민수홍",
+					"indices": [
+						149,
+						153
+					]
+				},
+				{
+					"text": "클럽빵",
+					"indices": [
+						154,
+						158
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1567449965068447700,
+					"id_str": "1567449965068447749",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/FcCzcEMacAU0k2F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcCzcEMacAU0k2F.jpg",
+					"url": "https://t.co/Bsf3zPRQaU",
+					"display_url": "pic.twitter.com/Bsf3zPRQaU",
+					"expanded_url": "https://twitter.com/club_bbang/status/1567449970848182273/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1567449965068447700,
+					"id_str": "1567449965068447749",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/FcCzcEMacAU0k2F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcCzcEMacAU0k2F.jpg",
+					"url": "https://t.co/Bsf3zPRQaU",
+					"display_url": "pic.twitter.com/Bsf3zPRQaU",
+					"expanded_url": "https://twitter.com/club_bbang/status/1567449970848182273/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1567449964950995000,
+					"id_str": "1567449964950994944",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/FcCzcDwaQAAyJYo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcCzcDwaQAAyJYo.jpg",
+					"url": "https://t.co/Bsf3zPRQaU",
+					"display_url": "pic.twitter.com/Bsf3zPRQaU",
+					"expanded_url": "https://twitter.com/club_bbang/status/1567449970848182273/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1387140522,
+			"id_str": "1387140522",
+			"name": "클럽 빵",
+			"screen_name": "club_bbang",
+			"location": "서울 마포 서교동 327-18 지하",
+			"description": "모던록 라이브클럽 빵, 공연일정을 알려드려요! 문의 010-8910-1089, cafebbang@hanmail.net",
+			"url": "https://t.co/ZROqsiLHaK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZROqsiLHaK",
+							"expanded_url": "http://cafe.daum.net/cafebbang",
+							"display_url": "cafe.daum.net/cafebbang",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2533,
+			"friends_count": 904,
+			"listed_count": 34,
+			"created_at": "Sun Apr 28 14:57:43 +0000 2013",
+			"favourites_count": 88,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1900,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3617429436/49aa1ea87a3bdf4e12ef8ab826e7b229_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3617429436/49aa1ea87a3bdf4e12ef8ab826e7b229_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1387140522/1367815826",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "태풍이 지나가고 뜻하지 않은 피해가 많았네요 사전에 막았더라면 그리고 그때 잘 총력대응했더라면 하는...이번주 클럽빵은 토일은 추석으로 쉽니다 추석이라니.. 추석 넉넉하게 보내세요~  #느린 #박연두 #제이벨 #스크린스 #콘트라젤리 #솔루션스 #덕 #공기별 #민광진 #민수홍 #클럽빵 https://t.co/Bsf3zPRQaU"
+	},
+	{
+		"created_at": "Wed Sep 07 11:11:25 +0000 2022",
+		"id": 1567445473073725400,
+		"id_str": "1567470589731799040",
+		"full_text": "🎸70년대로의 타임루프, 센세이션을 만드는 콩코드[Concord]\n\nhttps://t.co/JZcooZt4mu\n———————\n* 티켓오픈일 : 2022년 9월 13일(화) 오후 7시\n* 공연일 : 2022년 10월 10일(월) 오후 6시\n———————\n1. 예매 39,000원\n\n#프리즘홀 #prismhall #프리즘브레이크 #조선싸이키델릭편 #서울전자음악단 #콩코드",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			205
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "프리즘홀",
+					"indices": [
+						156,
+						161
+					]
+				},
+				{
+					"text": "prismhall",
+					"indices": [
+						162,
+						172
+					]
+				},
+				{
+					"text": "프리즘브레이크",
+					"indices": [
+						173,
+						181
+					]
+				},
+				{
+					"text": "조선싸이키델릭편",
+					"indices": [
+						182,
+						191
+					]
+				},
+				{
+					"text": "서울전자음악단",
+					"indices": [
+						192,
+						200
+					]
+				},
+				{
+					"text": "콩코드",
+					"indices": [
+						201,
+						205
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JZcooZt4mu",
+					"expanded_url": "https://ticket.melon.com/csoon/detail.htm?csoonId=6459",
+					"display_url": "ticket.melon.com/csoon/detail.h…",
+					"indices": [
+						38,
+						61
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1567445471576342500,
+		"in_reply_to_status_id_str": "1567445471576342528",
+		"in_reply_to_user_id": 491231175,
+		"in_reply_to_user_id_str": "491231175",
+		"in_reply_to_screen_name": "prismhall",
+		"user": {
+			"id": 491231175,
+			"id_str": "491231175",
+			"name": "PrismHall",
+			"screen_name": "prismhall",
+			"location": "Mapo Seokyo-Dong",
+			"description": "최상급 무대장비와 시설. 엄청난 높이의 천고와 광활한 객석. 각종 파티,힙합,댄스,밴드 등 all_round concert, 실내페스티벌 등 모든 게 가능한 공연장입니다!",
+			"url": "https://t.co/VTKFWeLxvh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VTKFWeLxvh",
+							"expanded_url": "http://www.prismhall.com",
+							"display_url": "prismhall.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2039,
+			"friends_count": 1105,
+			"listed_count": 28,
+			"created_at": "Mon Feb 13 12:03:08 +0000 2012",
+			"favourites_count": 75,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2142,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/942698829089869824/bkVw2sYC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/942698829089869824/bkVw2sYC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/491231175/1513591891",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "1104338421d4e001",
+			"url": "https://api.twitter.com/1.1/geo/id/1104338421d4e001.json",
+			"place_type": "poi",
+			"name": "프리즘홀",
+			"full_name": "프리즘홀",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.917463,
+							37.551686
+						],
+						[
+							126.917463,
+							37.551686
+						],
+						[
+							126.917463,
+							37.551686
+						],
+						[
+							126.917463,
+							37.551686
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🎸70년대로의 타임루프, 센세이션을 만드는 콩코드[Concord]\n\nhttps://t.co/JZcooZt4mu\n———————\n* 티켓오픈일 : 2022년 9월 13일(화) 오후 7시\n* 공연일 : 2022년 10월 10일(월) 오후 6시\n———————\n1. 예매 39,000원\n\n#프리즘홀 #prismhall #프리즘브레이크 #조선싸이키델릭편 #서울전자음악단 #콩코드"
+	},
+	{
+		"created_at": "Wed Sep 07 11:11:17 +0000 2022",
+		"id": 1567445471576342500,
+		"id_str": "1567470555674165249",
+		"full_text": "[티켓오픈공지]\nPRISM BREAK vol.14 서울전자음악단x콩코드\n\n\"무경계 음악향유 프로젝트, 취향을 갖지 말자!\"\n신박한 큐레이션 &lt;프리즘 브레이크&gt;\n열네번째 초초초초초특급 스페셜\n[조선사이키델릭특집]\n\n완벽 몰입 가능한 음악 장인들의 만남.\n🎸레전드, 서울전자음악단 [Seoul Electric Band]",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 491231175,
+			"id_str": "491231175",
+			"name": "PrismHall",
+			"screen_name": "prismhall",
+			"location": "Mapo Seokyo-Dong",
+			"description": "최상급 무대장비와 시설. 엄청난 높이의 천고와 광활한 객석. 각종 파티,힙합,댄스,밴드 등 all_round concert, 실내페스티벌 등 모든 게 가능한 공연장입니다!",
+			"url": "https://t.co/VTKFWeLxvh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VTKFWeLxvh",
+							"expanded_url": "http://www.prismhall.com",
+							"display_url": "prismhall.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2039,
+			"friends_count": 1105,
+			"listed_count": 28,
+			"created_at": "Mon Feb 13 12:03:08 +0000 2012",
+			"favourites_count": 75,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2142,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/942698829089869824/bkVw2sYC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/942698829089869824/bkVw2sYC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/491231175/1513591891",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "1104338421d4e001",
+			"url": "https://api.twitter.com/1.1/geo/id/1104338421d4e001.json",
+			"place_type": "poi",
+			"name": "프리즘홀",
+			"full_name": "프리즘홀",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.917463,
+							37.551686
+						],
+						[
+							126.917463,
+							37.551686
+						],
+						[
+							126.917463,
+							37.551686
+						],
+						[
+							126.917463,
+							37.551686
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[티켓오픈공지]\nPRISM BREAK vol.14 서울전자음악단x콩코드\n\n\"무경계 음악향유 프로젝트, 취향을 갖지 말자!\"\n신박한 큐레이션 &lt;프리즘 브레이크&gt;\n열네번째 초초초초초특급 스페셜\n[조선사이키델릭특집]\n\n완벽 몰입 가능한 음악 장인들의 만남.\n🎸레전드, 서울전자음악단 [Seoul Electric Band]"
+	},
+	{
+		"created_at": "Wed Sep 07 10:29:42 +0000 2022",
+		"id": 1567458667112562700,
+		"id_str": "1567460093570031620",
+		"full_text": "[#정진운] 영화 '오! 마이 고스트' 언론 배급 시사회 완료✔️\n\n오늘은 '태민 FD' 말고 '배우 정진운'으로 변신📸\n다음 주 목요일, 영화관에서 만나기로 🤙\n\n#Jinwoon #영화 #오마이고스트 #태민 https://t.co/mCfjD8qNVa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "정진운",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "Jinwoon",
+					"indices": [
+						92,
+						100
+					]
+				},
+				{
+					"text": "영화",
+					"indices": [
+						101,
+						104
+					]
+				},
+				{
+					"text": "오마이고스트",
+					"indices": [
+						105,
+						112
+					]
+				},
+				{
+					"text": "태민",
+					"indices": [
+						113,
+						116
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1567457984523141000,
+					"id_str": "1567457984523141121",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/FcC6u2_aAAEMbgm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcC6u2_aAAEMbgm.jpg",
+					"url": "https://t.co/mCfjD8qNVa",
+					"display_url": "pic.twitter.com/mCfjD8qNVa",
+					"expanded_url": "https://twitter.com/themysticstory/status/1567458667112562688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1639,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1567457984523141000,
+					"id_str": "1567457984523141121",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/FcC6u2_aAAEMbgm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcC6u2_aAAEMbgm.jpg",
+					"url": "https://t.co/mCfjD8qNVa",
+					"display_url": "pic.twitter.com/mCfjD8qNVa",
+					"expanded_url": "https://twitter.com/themysticstory/status/1567458667112562688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1639,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/pgQyM4fB27",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pgQyM4fB27",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37333,
+			"friends_count": 14,
+			"listed_count": 304,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7209,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1661267008",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#정진운] 영화 '오! 마이 고스트' 언론 배급 시사회 완료✔️\n\n오늘은 '태민 FD' 말고 '배우 정진운'으로 변신📸\n다음 주 목요일, 영화관에서 만나기로 🤙\n\n#Jinwoon #영화 #오마이고스트 #태민 https://t.co/mCfjD8qNVa"
+	},
+	{
+		"created_at": "Wed Sep 07 10:29:33 +0000 2022",
+		"id": 1567452629374218200,
+		"id_str": "1567460055217225729",
+		"full_text": "https://t.co/u2sZpjAlKd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1567442338938757000,
+					"id_str": "1567442338938757125",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FcCsgKpaIAUi9n8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcCsgKpaIAUi9n8.jpg",
+					"url": "https://t.co/u2sZpjAlKd",
+					"display_url": "pic.twitter.com/u2sZpjAlKd",
+					"expanded_url": "https://twitter.com/antennamusic/status/1567452629374218240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1567442338938757000,
+					"id_str": "1567442338938757125",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FcCsgKpaIAUi9n8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcCsgKpaIAUi9n8.jpg",
+					"url": "https://t.co/u2sZpjAlKd",
+					"display_url": "pic.twitter.com/u2sZpjAlKd",
+					"expanded_url": "https://twitter.com/antennamusic/status/1567452629374218240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1567442339307876400,
+					"id_str": "1567442339307876353",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FcCsgMBacAETmmj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcCsgMBacAETmmj.jpg",
+					"url": "https://t.co/u2sZpjAlKd",
+					"display_url": "pic.twitter.com/u2sZpjAlKd",
+					"expanded_url": "https://twitter.com/antennamusic/status/1567452629374218240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1567442339450454000,
+					"id_str": "1567442339450454017",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FcCsgMjaAAElf38.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcCsgMjaAAElf38.jpg",
+					"url": "https://t.co/u2sZpjAlKd",
+					"display_url": "pic.twitter.com/u2sZpjAlKd",
+					"expanded_url": "https://twitter.com/antennamusic/status/1567452629374218240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1567452618934583300,
+		"in_reply_to_status_id_str": "1567452618934583298",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 페퍼톤스 정규 7집 'thousand years’ 2022. 09. 20. 6PM Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40423,
+			"friends_count": 12,
+			"listed_count": 382,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5335,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1662545087",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 180,
+		"favorite_count": 150,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zxx",
+		"text": "https://t.co/u2sZpjAlKd"
+	},
+	{
+		"created_at": "Wed Sep 07 10:29:31 +0000 2022",
+		"id": 1567452618934583300,
+		"id_str": "1567460046296043522",
+		"full_text": "[#Teaser] #페퍼톤스\n\n페퍼톤스 정규 7집 'thousand years'\nPEPPERTONES 7th Full Album 'thousand years'\n\n🏔 Concept Photo\n\n2022. 09. 20. 6PM Release\n\n@pptnzexpress @pptnznoshel\n#PEPPERTONES\n#신재평 #이장원\n#ShinJaePyung #LeeJangWon\n#thousandyears\n#20220920_6PM https://t.co/dtsuhNpxUa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			238
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Teaser",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "페퍼톤스",
+					"indices": [
+						10,
+						15
+					]
+				},
+				{
+					"text": "PEPPERTONES",
+					"indices": [
+						161,
+						173
+					]
+				},
+				{
+					"text": "신재평",
+					"indices": [
+						174,
+						178
+					]
+				},
+				{
+					"text": "이장원",
+					"indices": [
+						179,
+						183
+					]
+				},
+				{
+					"text": "ShinJaePyung",
+					"indices": [
+						184,
+						197
+					]
+				},
+				{
+					"text": "LeeJangWon",
+					"indices": [
+						198,
+						209
+					]
+				},
+				{
+					"text": "thousandyears",
+					"indices": [
+						210,
+						224
+					]
+				},
+				{
+					"text": "20220920_6PM",
+					"indices": [
+						225,
+						238
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pptnzexpress",
+					"name": "페퍼톤스 peppertones",
+					"id": 191952879,
+					"id_str": "191952879",
+					"indices": [
+						134,
+						147
+					]
+				},
+				{
+					"screen_name": "pptnznoshel",
+					"name": "이장원 (Edward J Lee)",
+					"id": 192668164,
+					"id_str": "192668164",
+					"indices": [
+						148,
+						160
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1567442304197361700,
+					"id_str": "1567442304197361664",
+					"indices": [
+						239,
+						262
+					],
+					"media_url": "http://pbs.twimg.com/media/FcCseJOagAAIzM5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcCseJOagAAIzM5.jpg",
+					"url": "https://t.co/dtsuhNpxUa",
+					"display_url": "pic.twitter.com/dtsuhNpxUa",
+					"expanded_url": "https://twitter.com/antennamusic/status/1567452618934583298/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 544,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1350,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1567442304197361700,
+					"id_str": "1567442304197361664",
+					"indices": [
+						239,
+						262
+					],
+					"media_url": "http://pbs.twimg.com/media/FcCseJOagAAIzM5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcCseJOagAAIzM5.jpg",
+					"url": "https://t.co/dtsuhNpxUa",
+					"display_url": "pic.twitter.com/dtsuhNpxUa",
+					"expanded_url": "https://twitter.com/antennamusic/status/1567452618934583298/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 544,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1350,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1567442304516128800,
+					"id_str": "1567442304516128771",
+					"indices": [
+						239,
+						262
+					],
+					"media_url": "http://pbs.twimg.com/media/FcCseKaagAMxY8l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcCseKaagAMxY8l.jpg",
+					"url": "https://t.co/dtsuhNpxUa",
+					"display_url": "pic.twitter.com/dtsuhNpxUa",
+					"expanded_url": "https://twitter.com/antennamusic/status/1567452618934583298/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 544,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1350,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1567442304650346500,
+					"id_str": "1567442304650346496",
+					"indices": [
+						239,
+						262
+					],
+					"media_url": "http://pbs.twimg.com/media/FcCseK6agAA5oCV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcCseK6agAA5oCV.jpg",
+					"url": "https://t.co/dtsuhNpxUa",
+					"display_url": "pic.twitter.com/dtsuhNpxUa",
+					"expanded_url": "https://twitter.com/antennamusic/status/1567452618934583298/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 544,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1350,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 페퍼톤스 정규 7집 'thousand years’ 2022. 09. 20. 6PM Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40423,
+			"friends_count": 12,
+			"listed_count": 382,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5335,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1662545087",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 258,
+		"favorite_count": 189,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[#Teaser] #페퍼톤스\n\n페퍼톤스 정규 7집 'thousand years'\nPEPPERTONES 7th Full Album 'thousand years'\n\n🏔 Concept Photo\n\n2022. 09. 20. 6PM Release\n\n@pptnzexpress @pptnznoshel\n#PEPPERTONES\n#신재평 #이장원\n#ShinJaePyung #LeeJangWon\n#thousandyears\n#20220920_6PM https://t.co/dtsuhNpxUa"
+	},
+	{
 		"created_at": "Wed Sep 07 10:10:04 +0000 2022",
 		"id": 1567455152814305300,
 		"id_str": "1567455152814305285",
