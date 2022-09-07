@@ -1,6 +1,1189 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Wed Sep 07 03:58:23 +0000 2022",
+		"id": 1567347078011166700,
+		"id_str": "1567361612784320512",
+		"full_text": "【티켓 안내】\nKCON 2022 JAPAN 오피셜 2차 선행 접수 시작!\nSHOW 티켓은 피아회원이라면 누구나, MEET&amp;GREET 티켓은 Mnet Plus Special Package 가입자 한정으로 응모 가능합니다.\n\n🗓접수기간 : ~9/13(화) 23:59까지 (JST)\n🔗https://t.co/cOMSNpa5zj\n\n#KCON #KCONJAPAN #KCON2022JAPAN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			216
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						185,
+						190
+					]
+				},
+				{
+					"text": "KCONJAPAN",
+					"indices": [
+						191,
+						201
+					]
+				},
+				{
+					"text": "KCON2022JAPAN",
+					"indices": [
+						202,
+						216
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cOMSNpa5zj",
+					"expanded_url": "http://kconjapan.com/ticket/",
+					"display_url": "kconjapan.com/ticket/",
+					"indices": [
+						160,
+						183
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1567347074135634000,
+		"in_reply_to_status_id_str": "1567347074135633922",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER\n📍 KCON 2022 JAPAN 10/14 ~ 10/16(JST)",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 460938,
+			"friends_count": 76,
+			"listed_count": 1126,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 138,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12946,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1562616645817839617/lfE26AYF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1562616645817839617/lfE26AYF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1661845613",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 25,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "【티켓 안내】\nKCON 2022 JAPAN 오피셜 2차 선행 접수 시작!\nSHOW 티켓은 피아회원이라면 누구나, MEET&amp;GREET 티켓은 Mnet Plus Special Package 가입자 한정으로 응모 가능합니다.\n\n🗓접수기간 : ~9/13(화) 23:59까지 (JST)\n🔗https://t.co/cOMSNpa5zj\n\n#KCON #KCONJAPAN #KCON2022JAPAN"
+	},
+	{
+		"created_at": "Wed Sep 07 03:58:15 +0000 2022",
+		"id": 1567347074135634000,
+		"id_str": "1567361578550403073",
+		"full_text": "【Ticket Info】\nKCON 2022 JAPAN 2nd Official Pre-sale START!\nSHOW ticket opens to all PIA users; MEET&amp;GREET ticket limits to Mnet Plus Special Package holders.\n\n🗓Application Period : ~9/13(TUE) 23:59 (JST)\n🔗https://t.co/cOMSNpa5zj\n\n#KCON #KCONJAPAN #KCON2022JAPAN https://t.co/uiKWKOwDsW https://t.co/S3rI78k6PP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			289
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						234,
+						239
+					]
+				},
+				{
+					"text": "KCONJAPAN",
+					"indices": [
+						240,
+						250
+					]
+				},
+				{
+					"text": "KCON2022JAPAN",
+					"indices": [
+						251,
+						265
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cOMSNpa5zj",
+					"expanded_url": "http://kconjapan.com/ticket/",
+					"display_url": "kconjapan.com/ticket/",
+					"indices": [
+						209,
+						232
+					]
+				},
+				{
+					"url": "https://t.co/uiKWKOwDsW",
+					"expanded_url": "https://twitter.com/kconjapan/status/1567346923916361728",
+					"display_url": "twitter.com/kconjapan/stat…",
+					"indices": [
+						266,
+						289
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1567347009434304500,
+					"id_str": "1567347009434304513",
+					"indices": [
+						290,
+						313
+					],
+					"media_url": "http://pbs.twimg.com/media/FcBVzQkaQAEi_Lw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcBVzQkaQAEi_Lw.jpg",
+					"url": "https://t.co/S3rI78k6PP",
+					"display_url": "pic.twitter.com/S3rI78k6PP",
+					"expanded_url": "https://twitter.com/KCON_official/status/1567347074135633922/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1567347009434304500,
+					"id_str": "1567347009434304513",
+					"indices": [
+						290,
+						313
+					],
+					"media_url": "http://pbs.twimg.com/media/FcBVzQkaQAEi_Lw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcBVzQkaQAEi_Lw.jpg",
+					"url": "https://t.co/S3rI78k6PP",
+					"display_url": "pic.twitter.com/S3rI78k6PP",
+					"expanded_url": "https://twitter.com/KCON_official/status/1567347074135633922/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER\n📍 KCON 2022 JAPAN 10/14 ~ 10/16(JST)",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 460938,
+			"friends_count": 76,
+			"listed_count": 1126,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 138,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12946,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1562616645817839617/lfE26AYF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1562616645817839617/lfE26AYF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1661845613",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1567346923916361700,
+		"quoted_status_id_str": "1567346923916361728",
+		"quoted_status_permalink": {
+			"url": "https://t.co/uiKWKOwDsW",
+			"expanded": "https://twitter.com/kconjapan/status/1567346923916361728",
+			"display": "twitter.com/kconjapan/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Sep 07 03:00:01 +0000 2022",
+			"id": 1567346923916361700,
+			"id_str": "1567346923916361728",
+			"full_text": "【チケット案内】\nKCON 2022 JAPANのオフィシャル2次先行受付スタート！\n✔️SHOWチケットはぴあの会員であればどなたでも\n✔️MEET&amp;GREETチケットはMnet Plus Special Package加入者限定でご応募できます。\n\n🗓受付期間: ~9/13(火)23:59まで\n🔗https://t.co/ySpx5nskSr\n\n#KCON #KCONJAPAN #KCON2022JAPAN https://t.co/KgC6mlpzjb",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				211
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "KCON",
+						"indices": [
+							180,
+							185
+						]
+					},
+					{
+						"text": "KCONJAPAN",
+						"indices": [
+							186,
+							196
+						]
+					},
+					{
+						"text": "KCON2022JAPAN",
+						"indices": [
+							197,
+							211
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ySpx5nskSr",
+						"expanded_url": "http://kconjapan.com/ticket/",
+						"display_url": "kconjapan.com/ticket/",
+						"indices": [
+							155,
+							178
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1567324225006088200,
+						"id_str": "1567324225006088192",
+						"indices": [
+							212,
+							235
+						],
+						"media_url": "http://pbs.twimg.com/media/FcBBFB9aMAAVyj-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FcBBFB9aMAAVyj-.jpg",
+						"url": "https://t.co/KgC6mlpzjb",
+						"display_url": "pic.twitter.com/KgC6mlpzjb",
+						"expanded_url": "https://twitter.com/kconjapan/status/1567346923916361728/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1567324225006088200,
+						"id_str": "1567324225006088192",
+						"indices": [
+							212,
+							235
+						],
+						"media_url": "http://pbs.twimg.com/media/FcBBFB9aMAAVyj-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FcBBFB9aMAAVyj-.jpg",
+						"url": "https://t.co/KgC6mlpzjb",
+						"display_url": "pic.twitter.com/KgC6mlpzjb",
+						"expanded_url": "https://twitter.com/kconjapan/status/1567346923916361728/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3017029196,
+				"id_str": "3017029196",
+				"name": "KCON Japan",
+				"screen_name": "kconjapan",
+				"location": "",
+				"description": "世界最大級のK-Cultureフェスティバル\n『KCON JAPAN』の公式Twitterです！\n📍10/14（金） ~ 10/16(日）/ 東京・有明アリーナ",
+				"url": "https://t.co/sCRhaGCzOM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/sCRhaGCzOM",
+								"expanded_url": "http://kconjapan.com",
+								"display_url": "kconjapan.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 240959,
+				"friends_count": 157,
+				"listed_count": 477,
+				"created_at": "Thu Feb 12 06:02:55 +0000 2015",
+				"favourites_count": 166,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 6695,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5ABB5",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1554285876041367553/Z3_Jgigb_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1554285876041367553/Z3_Jgigb_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3017029196/1661904701",
+				"profile_link_color": "F5ABB5",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 409,
+			"favorite_count": 1564,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"retweet_count": 34,
+		"favorite_count": 107,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "【Ticket Info】\nKCON 2022 JAPAN 2nd Official Pre-sale START!\nSHOW ticket opens to all PIA users; MEET&amp;GREET ticket limits to Mnet Plus Special Package holders.\n\n🗓Application Period : ~9/13(TUE) 23:59 (JST)\n🔗https://t.co/cOMSNpa5zj\n\n#KCON #KCONJAPAN #KCON2022JAPAN https://t.co/uiKWKOwDsW https://t.co/S3rI78k6PP"
+	},
+	{
+		"created_at": "Wed Sep 07 03:29:38 +0000 2022",
+		"id": 1567351878840905700,
+		"id_str": "1567354376422932480",
+		"full_text": "[#NEWS] 조정치, K직장인 변신…‘가우스전자’ 출연 확정 [공식]\n\n▶️https://t.co/6AxonC2NNr\n\n#조정치 #ChoJungchi #ollehtv #seezn #ENA #가우스전자",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NEWS",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "조정치",
+					"indices": [
+						68,
+						72
+					]
+				},
+				{
+					"text": "ChoJungchi",
+					"indices": [
+						73,
+						84
+					]
+				},
+				{
+					"text": "ollehtv",
+					"indices": [
+						85,
+						93
+					]
+				},
+				{
+					"text": "seezn",
+					"indices": [
+						94,
+						100
+					]
+				},
+				{
+					"text": "ENA",
+					"indices": [
+						101,
+						105
+					]
+				},
+				{
+					"text": "가우스전자",
+					"indices": [
+						106,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6AxonC2NNr",
+					"expanded_url": "https://naver.me/xr6L4x4P",
+					"display_url": "naver.me/xr6L4x4P",
+					"indices": [
+						43,
+						66
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/pgQyM4fB27",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pgQyM4fB27",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37331,
+			"friends_count": 14,
+			"listed_count": 304,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7206,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1661267008",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#NEWS] 조정치, K직장인 변신…‘가우스전자’ 출연 확정 [공식]\n\n▶️https://t.co/6AxonC2NNr\n\n#조정치 #ChoJungchi #ollehtv #seezn #ENA #가우스전자"
+	},
+	{
+		"created_at": "Wed Sep 07 03:29:29 +0000 2022",
+		"id": 1567347611472101400,
+		"id_str": "1567354342285402114",
+		"full_text": "The teaser poster for KBS 2TV's new Wed-Thurs drama #진검승부 is here! The show premieres on 10/5 (Wed) at 9:50PM!\n#DOHKYUNGSOO perfectly transforms into an eccentric, unconventional prosecutor #진정, hyping up for a refreshing &amp; exhilarating catharsis! \n\n#도경수\n#디오 #DO(D.O.) https://t.co/ixTPPn9EGY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "진검승부",
+					"indices": [
+						52,
+						57
+					]
+				},
+				{
+					"text": "DOHKYUNGSOO",
+					"indices": [
+						111,
+						123
+					]
+				},
+				{
+					"text": "진정",
+					"indices": [
+						190,
+						193
+					]
+				},
+				{
+					"text": "도경수",
+					"indices": [
+						254,
+						258
+					]
+				},
+				{
+					"text": "디오",
+					"indices": [
+						259,
+						262
+					]
+				},
+				{
+					"text": "DO",
+					"indices": [
+						263,
+						266
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1567347602223673300,
+					"id_str": "1567347602223673345",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/FcBWVw4aMAE7kwa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcBWVw4aMAE7kwa.jpg",
+					"url": "https://t.co/ixTPPn9EGY",
+					"display_url": "pic.twitter.com/ixTPPn9EGY",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1567347611472101376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 847,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1446,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1567347602223673300,
+					"id_str": "1567347602223673345",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/FcBWVw4aMAE7kwa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcBWVw4aMAE7kwa.jpg",
+					"url": "https://t.co/ixTPPn9EGY",
+					"display_url": "pic.twitter.com/ixTPPn9EGY",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1567347611472101376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 847,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1446,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11148297,
+			"friends_count": 55,
+			"listed_count": 12584,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12818,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8582,
+		"favorite_count": 15435,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The teaser poster for KBS 2TV's new Wed-Thurs drama #진검승부 is here! The show premieres on 10/5 (Wed) at 9:50PM!\n#DOHKYUNGSOO perfectly transforms into an eccentric, unconventional prosecutor #진정, hyping up for a refreshing &amp; exhilarating catharsis! \n\n#도경수\n#디오 #DO(D.O.) https://t.co/ixTPPn9EGY"
+	},
+	{
+		"created_at": "Wed Sep 07 03:29:27 +0000 2022",
+		"id": 1567346902710222800,
+		"id_str": "1567354333007675395",
+		"full_text": "[김우주]\n2022년 10월 23일 일요일 6PM!\n합정 드림홀에서 아티스트 김우주가 공연을 합니다!\n'Somewhere Live SHOW at Dream Hall' 에서\n김우주와 다양한 아티스트의 공연을 감상해보세요!\n\n예매 링크 : https://t.co/KowYEtnRxY\n#김우주 #music #indie #공연소식 https://t.co/4Atn370E3h",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "김우주",
+					"indices": [
+						156,
+						160
+					]
+				},
+				{
+					"text": "music",
+					"indices": [
+						161,
+						167
+					]
+				},
+				{
+					"text": "indie",
+					"indices": [
+						168,
+						174
+					]
+				},
+				{
+					"text": "공연소식",
+					"indices": [
+						175,
+						180
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KowYEtnRxY",
+					"expanded_url": "https://bit.ly/3ARAPXP",
+					"display_url": "bit.ly/3ARAPXP",
+					"indices": [
+						132,
+						155
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1567343774476697600,
+					"id_str": "1567343774476697603",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/FcBS29aagAMJcI6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcBS29aagAMJcI6.jpg",
+					"url": "https://t.co/4Atn370E3h",
+					"display_url": "pic.twitter.com/4Atn370E3h",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1567346902710222849/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1017,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1567343774476697600,
+					"id_str": "1567343774476697603",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/FcBS29aagAMJcI6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcBS29aagAMJcI6.jpg",
+					"url": "https://t.co/4Atn370E3h",
+					"display_url": "pic.twitter.com/4Atn370E3h",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1567346902710222849/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1017,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1567343774464114700,
+					"id_str": "1567343774464114690",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/FcBS29XagAIqrEW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcBS29XagAIqrEW.jpg",
+					"url": "https://t.co/4Atn370E3h",
+					"display_url": "pic.twitter.com/4Atn370E3h",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1567346902710222849/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1017,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 743014855653752800,
+			"id_str": "743014855653752833",
+			"name": "문화인",
+			"screen_name": "munhwainkr",
+			"location": "",
+			"description": "🎧뮤직레이블 문화인의 공식트위터입니다. 윤현상/유라/로지/김우주/나히/허회경/에버루아/",
+			"url": "https://t.co/EWOG41vu9R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EWOG41vu9R",
+							"expanded_url": "http://www.munhwain.kr",
+							"display_url": "munhwain.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 941,
+			"friends_count": 8,
+			"listed_count": 19,
+			"created_at": "Wed Jun 15 09:38:40 +0000 2016",
+			"favourites_count": 88,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1045,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1527524077572788226/HAmj0Af__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1527524077572788226/HAmj0Af__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/743014855653752833/1653271322",
+			"profile_link_color": "199B2B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[김우주]\n2022년 10월 23일 일요일 6PM!\n합정 드림홀에서 아티스트 김우주가 공연을 합니다!\n'Somewhere Live SHOW at Dream Hall' 에서\n김우주와 다양한 아티스트의 공연을 감상해보세요!\n\n예매 링크 : https://t.co/KowYEtnRxY\n#김우주 #music #indie #공연소식 https://t.co/4Atn370E3h"
+	},
+	{
 		"created_at": "Wed Sep 07 03:10:10 +0000 2022",
 		"id": 1567349477920641000,
 		"id_str": "1567349477920641026",
