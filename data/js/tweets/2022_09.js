@@ -1,6 +1,280 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Wed Sep 07 13:29:31 +0000 2022",
+		"id": 1567499889759899600,
+		"id_str": "1567505344007475200",
+		"full_text": "[#Notice] #신재평\n\n페퍼톤스 신재평이 10월 3일 (월) 밤 10시에 첫 방송되는 SBS 월화드라마 &lt;치얼업&gt;의 음악감독으로 함께 합니다. 드라마 음악감독 첫 데뷔작에 많은 관심 부탁드립니다.\n\n@pptnzexpress \n#ShinJaePyung\n#페퍼톤스 #PEPPERTONES\n#SBS #치얼업 #OST https://t.co/3e8VTVwaF1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Notice",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "신재평",
+					"indices": [
+						10,
+						14
+					]
+				},
+				{
+					"text": "ShinJaePyung",
+					"indices": [
+						135,
+						148
+					]
+				},
+				{
+					"text": "페퍼톤스",
+					"indices": [
+						149,
+						154
+					]
+				},
+				{
+					"text": "PEPPERTONES",
+					"indices": [
+						155,
+						167
+					]
+				},
+				{
+					"text": "SBS",
+					"indices": [
+						168,
+						172
+					]
+				},
+				{
+					"text": "치얼업",
+					"indices": [
+						173,
+						177
+					]
+				},
+				{
+					"text": "OST",
+					"indices": [
+						178,
+						182
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pptnzexpress",
+					"name": "페퍼톤스 peppertones",
+					"id": 191952879,
+					"id_str": "191952879",
+					"indices": [
+						120,
+						133
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1567499697413324800,
+					"id_str": "1567499697413324801",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1567499697413324801/pu/img/scEOccwfu0MYu3Im.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1567499697413324801/pu/img/scEOccwfu0MYu3Im.jpg",
+					"url": "https://t.co/3e8VTVwaF1",
+					"display_url": "pic.twitter.com/3e8VTVwaF1",
+					"expanded_url": "https://twitter.com/antennamusic/status/1567499889759899656/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1567499697413324800,
+					"id_str": "1567499697413324801",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1567499697413324801/pu/img/scEOccwfu0MYu3Im.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1567499697413324801/pu/img/scEOccwfu0MYu3Im.jpg",
+					"url": "https://t.co/3e8VTVwaF1",
+					"display_url": "pic.twitter.com/3e8VTVwaF1",
+					"expanded_url": "https://twitter.com/antennamusic/status/1567499889759899656/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 21015,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1567499697413324801/pu/vid/640x360/CZ-7e_ZZ7ILCjOgR.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1567499697413324801/pu/vid/1280x720/amtEdk67A_97O9-p.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1567499697413324801/pu/vid/480x270/jR_dua6b0h4BFhIV.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1567499697413324801/pu/pl/ZfvO6TBnRdmsBal7.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 페퍼톤스 정규 7집 'thousand years’ 2022. 09. 20. 6PM Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40432,
+			"friends_count": 12,
+			"listed_count": 382,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5337,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1662545087",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 157,
+		"favorite_count": 139,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Notice] #신재평\n\n페퍼톤스 신재평이 10월 3일 (월) 밤 10시에 첫 방송되는 SBS 월화드라마 &lt;치얼업&gt;의 음악감독으로 함께 합니다. 드라마 음악감독 첫 데뷔작에 많은 관심 부탁드립니다.\n\n@pptnzexpress \n#ShinJaePyung\n#페퍼톤스 #PEPPERTONES\n#SBS #치얼업 #OST https://t.co/3e8VTVwaF1"
+	},
+	{
 		"created_at": "Wed Sep 07 12:29:43 +0000 2022",
 		"id": 1567476243305738200,
 		"id_str": "1567490296136536070",
