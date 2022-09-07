@@ -1,6 +1,921 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Wed Sep 07 09:13:17 +0000 2022",
+		"id": 1567440860647936000,
+		"id_str": "1567440860647936001",
+		"full_text": "#워너뮤직코리아 #Warner_Music_Korea\nABOUT, 히모 - 화상 (Feat. 휘영 (SF9)) [Lyric Video]\nhttps://t.co/Na3lRvZBl9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "워너뮤직코리아",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Warner_Music_Korea",
+					"indices": [
+						9,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Na3lRvZBl9",
+					"expanded_url": "https://youtu.be/HL1GwL60LCs",
+					"display_url": "youtu.be/HL1GwL60LCs",
+					"indices": [
+						75,
+						98
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 254,
+			"friends_count": 461,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 235,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 87832,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#워너뮤직코리아 #Warner_Music_Korea\nABOUT, 히모 - 화상 (Feat. 휘영 (SF9)) [Lyric Video]\nhttps://t.co/Na3lRvZBl9"
+	},
+	{
+		"created_at": "Wed Sep 07 09:11:16 +0000 2022",
+		"id": 1567440352994558000,
+		"id_str": "1567440352994557953",
+		"full_text": "#SMTOWN\nKANGTA 강타 'Eyes On You (야경)' MV\nhttps://t.co/pR5mUlqVgc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pR5mUlqVgc",
+					"expanded_url": "https://youtu.be/AHCCg-bSkBI",
+					"display_url": "youtu.be/AHCCg-bSkBI",
+					"indices": [
+						40,
+						63
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 254,
+			"friends_count": 461,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 235,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 87832,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN\nKANGTA 강타 'Eyes On You (야경)' MV\nhttps://t.co/pR5mUlqVgc"
+	},
+	{
+		"created_at": "Wed Sep 07 08:29:44 +0000 2022",
+		"id": 1567428618590244900,
+		"id_str": "1567429903087288320",
+		"full_text": "🏟온스테이지 2.0 김새녘🏟\n⠀\n네이버 NOW를 통해 온스테이지 2.0 김새녘 편이 세로 버전으로 선공개됐습니다. 내일 오전 11시 온스테이지 유튜브 채널에서 본편이 공개됩니다. \n⠀\n| 본편 | 9월 8일 (목) 11:00\n온스테이지 YouTube Channel\n\nhttps://t.co/Nlrm6Y33jk https://t.co/a69WAmQ9sU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Nlrm6Y33jk",
+					"expanded_url": "https://naver.me/FFn1UGXF",
+					"display_url": "naver.me/FFn1UGXF",
+					"indices": [
+						149,
+						172
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1567428611057270800,
+					"id_str": "1567428611057270785",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/FcCgBGTaQAE4P4M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcCgBGTaQAE4P4M.jpg",
+					"url": "https://t.co/a69WAmQ9sU",
+					"display_url": "pic.twitter.com/a69WAmQ9sU",
+					"expanded_url": "https://twitter.com/YOUNGGIFTEDWACK/status/1567428618590244864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 596,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 338,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1017,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1567428611057270800,
+					"id_str": "1567428611057270785",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/FcCgBGTaQAE4P4M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcCgBGTaQAE4P4M.jpg",
+					"url": "https://t.co/a69WAmQ9sU",
+					"display_url": "pic.twitter.com/a69WAmQ9sU",
+					"expanded_url": "https://twitter.com/YOUNGGIFTEDWACK/status/1567428618590244864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 596,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 338,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1017,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 602961088,
+			"id_str": "602961088",
+			"name": "영기획YOUNG,GIFTED&WACK",
+			"screen_name": "YOUNGGIFTEDWACK",
+			"location": "contact@younggiftedwack.com",
+			"description": "영기획 또는 영기프티드앤왝YOUNG,GIFTED&WACK이라 부릅니다. 👁✨🔥🌈🌊🍬한 음악가의 음반을 발매하고 함께 일합니다. 한국 유일의 일렉트로닉 음악 페어 ⚡️암페어Amfair⚡️를 주최하기도 했네요.",
+			"url": "https://t.co/GrmXeBFIAu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GrmXeBFIAu",
+							"expanded_url": "http://youtube.com/younggiftedwack",
+							"display_url": "youtube.com/younggiftedwack",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3490,
+			"friends_count": 1184,
+			"listed_count": 51,
+			"created_at": "Fri Jun 08 18:17:47 +0000 2012",
+			"favourites_count": 636,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11114,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/711579321974927362/OySoIaFL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/711579321974927362/OySoIaFL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/602961088/1570678223",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🏟온스테이지 2.0 김새녘🏟\n⠀\n네이버 NOW를 통해 온스테이지 2.0 김새녘 편이 세로 버전으로 선공개됐습니다. 내일 오전 11시 온스테이지 유튜브 채널에서 본편이 공개됩니다. \n⠀\n| 본편 | 9월 8일 (목) 11:00\n온스테이지 YouTube Channel\n\nhttps://t.co/Nlrm6Y33jk https://t.co/a69WAmQ9sU"
+	},
+	{
+		"created_at": "Wed Sep 07 08:29:35 +0000 2022",
+		"id": 1567425090350104600,
+		"id_str": "1567429864822640644",
+		"full_text": "* 본 공연은 무료 공연으로, 9월 8일 목요일 오후 2시부터 사전 예매가 가능합니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1567425022796640300,
+		"in_reply_to_status_id_str": "1567425022796640256",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 your summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 슬릭, 아마도이자람밴드, 우주왕복선싸이드미러, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2291,
+			"friends_count": 20,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 635,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6529,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "* 본 공연은 무료 공연으로, 9월 8일 목요일 오후 2시부터 사전 예매가 가능합니다."
+	},
+	{
+		"created_at": "Wed Sep 07 08:29:31 +0000 2022",
+		"id": 1567425022796640300,
+		"id_str": "1567429847512645632",
+		"full_text": "김사월과 이랑이 수원화성 동장대에서 공연을 합니다!\n\n&lt;풍경이 부르는 노래&gt; ‘제2장 동장대의 노래’\n#김사월\n일시 : 9월 24일 저녁 7시\n장소 : 수원화성 동장대\n예매 링크 : https://t.co/qfhenDwyFC\n\n#이랑\n일시 : 9월 25일 저녁 7시 \n장소 : 수원화성 동장대\n예매 링크 : https://t.co/wxbLee8YwD https://t.co/QzEVN8fvuD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "김사월",
+					"indices": [
+						63,
+						67
+					]
+				},
+				{
+					"text": "이랑",
+					"indices": [
+						133,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qfhenDwyFC",
+					"expanded_url": "http://bit.ly/3RmEiVx",
+					"display_url": "bit.ly/3RmEiVx",
+					"indices": [
+						108,
+						131
+					]
+				},
+				{
+					"url": "https://t.co/wxbLee8YwD",
+					"expanded_url": "http://bit.ly/3TJ6aom",
+					"display_url": "bit.ly/3TJ6aom",
+					"indices": [
+						178,
+						201
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1567425012910665700,
+					"id_str": "1567425012910665730",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/FcCcvqKaMAIRbTl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcCcvqKaMAIRbTl.jpg",
+					"url": "https://t.co/QzEVN8fvuD",
+					"display_url": "pic.twitter.com/QzEVN8fvuD",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1567425022796640256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1567425012910665700,
+					"id_str": "1567425012910665730",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/FcCcvqKaMAIRbTl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcCcvqKaMAIRbTl.jpg",
+					"url": "https://t.co/QzEVN8fvuD",
+					"display_url": "pic.twitter.com/QzEVN8fvuD",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1567425022796640256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 your summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 슬릭, 아마도이자람밴드, 우주왕복선싸이드미러, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2291,
+			"friends_count": 20,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 635,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6529,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "김사월과 이랑이 수원화성 동장대에서 공연을 합니다!\n\n&lt;풍경이 부르는 노래&gt; ‘제2장 동장대의 노래’\n#김사월\n일시 : 9월 24일 저녁 7시\n장소 : 수원화성 동장대\n예매 링크 : https://t.co/qfhenDwyFC\n\n#이랑\n일시 : 9월 25일 저녁 7시 \n장소 : 수원화성 동장대\n예매 링크 : https://t.co/wxbLee8YwD https://t.co/QzEVN8fvuD"
+	},
+	{
+		"created_at": "Wed Sep 07 08:29:28 +0000 2022",
+		"id": 1567423514331979800,
+		"id_str": "1567429834434912256",
+		"full_text": "[#NEWS] '오! 마이 고스트' 정진운 \"새 장르 언제나 열려있어\"[Oh!쎈 현장]\n\n▶️https://t.co/ROfnPks1Nv\n\n#정진운 #Jinwoon #영화 #오마이고스트 #태민",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NEWS",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "정진운",
+					"indices": [
+						77,
+						81
+					]
+				},
+				{
+					"text": "Jinwoon",
+					"indices": [
+						82,
+						90
+					]
+				},
+				{
+					"text": "영화",
+					"indices": [
+						91,
+						94
+					]
+				},
+				{
+					"text": "오마이고스트",
+					"indices": [
+						95,
+						102
+					]
+				},
+				{
+					"text": "태민",
+					"indices": [
+						103,
+						106
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ROfnPks1Nv",
+					"expanded_url": "https://naver.me/xkqHbWyU",
+					"display_url": "naver.me/xkqHbWyU",
+					"indices": [
+						52,
+						75
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/pgQyM4fB27",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pgQyM4fB27",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37328,
+			"friends_count": 14,
+			"listed_count": 304,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7208,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1661267008",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#NEWS] '오! 마이 고스트' 정진운 \"새 장르 언제나 열려있어\"[Oh!쎈 현장]\n\n▶️https://t.co/ROfnPks1Nv\n\n#정진운 #Jinwoon #영화 #오마이고스트 #태민"
+	},
+	{
 		"created_at": "Wed Sep 07 08:11:28 +0000 2022",
 		"id": 1567419631174041600,
 		"id_str": "1567425304037101568",
