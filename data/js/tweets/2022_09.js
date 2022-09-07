@@ -1,6 +1,797 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Wed Sep 07 05:11:34 +0000 2022",
+		"id": 1567367071432069000,
+		"id_str": "1567380030648459265",
+		"full_text": "👇예매 바로가기👇\nhttps://t.co/SONTNr2RMT\n\n1. 예매 : 35,000원\n2. 본공연은 스탠딩 공연으로 진행됩니다.\n\n✅ 연휴로 인해 멜론티켓 예매가 내일 마감됩니다. 이후에는 현매로 오셔야하니, 빠른 예매 부탁드려요🙏\n\n#프리즘홀 #prismhall #분리수거 #안코드 #타이미 #스프링스 #팻두 #윈섬",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "프리즘홀",
+					"indices": [
+						134,
+						139
+					]
+				},
+				{
+					"text": "prismhall",
+					"indices": [
+						140,
+						150
+					]
+				},
+				{
+					"text": "분리수거",
+					"indices": [
+						151,
+						156
+					]
+				},
+				{
+					"text": "안코드",
+					"indices": [
+						157,
+						161
+					]
+				},
+				{
+					"text": "타이미",
+					"indices": [
+						162,
+						166
+					]
+				},
+				{
+					"text": "스프링스",
+					"indices": [
+						167,
+						172
+					]
+				},
+				{
+					"text": "팻두",
+					"indices": [
+						173,
+						176
+					]
+				},
+				{
+					"text": "윈섬",
+					"indices": [
+						177,
+						180
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SONTNr2RMT",
+					"expanded_url": "https://ticket.melon.com/performance/index.htm?prodId=207254",
+					"display_url": "ticket.melon.com/performance/in…",
+					"indices": [
+						10,
+						33
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1567367069724987400,
+		"in_reply_to_status_id_str": "1567367069724987393",
+		"in_reply_to_user_id": 491231175,
+		"in_reply_to_user_id_str": "491231175",
+		"in_reply_to_screen_name": "prismhall",
+		"user": {
+			"id": 491231175,
+			"id_str": "491231175",
+			"name": "PrismHall",
+			"screen_name": "prismhall",
+			"location": "Mapo Seokyo-Dong",
+			"description": "최상급 무대장비와 시설. 엄청난 높이의 천고와 광활한 객석. 각종 파티,힙합,댄스,밴드 등 all_round concert, 실내페스티벌 등 모든 게 가능한 공연장입니다!",
+			"url": "https://t.co/VTKFWeLxvh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VTKFWeLxvh",
+							"expanded_url": "http://www.prismhall.com",
+							"display_url": "prismhall.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2039,
+			"friends_count": 1105,
+			"listed_count": 28,
+			"created_at": "Mon Feb 13 12:03:08 +0000 2012",
+			"favourites_count": 75,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2138,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/942698829089869824/bkVw2sYC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/942698829089869824/bkVw2sYC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/491231175/1513591891",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "1104338421d4e001",
+			"url": "https://api.twitter.com/1.1/geo/id/1104338421d4e001.json",
+			"place_type": "poi",
+			"name": "프리즘홀",
+			"full_name": "프리즘홀",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.917463,
+							37.551686
+						],
+						[
+							126.917463,
+							37.551686
+						],
+						[
+							126.917463,
+							37.551686
+						],
+						[
+							126.917463,
+							37.551686
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "👇예매 바로가기👇\nhttps://t.co/SONTNr2RMT\n\n1. 예매 : 35,000원\n2. 본공연은 스탠딩 공연으로 진행됩니다.\n\n✅ 연휴로 인해 멜론티켓 예매가 내일 마감됩니다. 이후에는 현매로 오셔야하니, 빠른 예매 부탁드려요🙏\n\n#프리즘홀 #prismhall #분리수거 #안코드 #타이미 #스프링스 #팻두 #윈섬"
+	},
+	{
+		"created_at": "Wed Sep 07 05:11:25 +0000 2022",
+		"id": 1567367069724987400,
+		"id_str": "1567379992450932736",
+		"full_text": "실로 오랜만에 야심차게 준비한 합동 쇼케이스 파티를 즐겨 주세요🔥🔥\n\n행복한 무대는 저희가 책임집니다!\n\n소-리-질-러‼️‼️‼️\n\n- 타이틀 : REFRESH 2022\n- 일시 : 2022년 9월 12일 월요일 저녁 7시 (입장 : 6시30분)\n- 장소 : 프리즘홀(양화로 12길 6)\n- 문의 : 070-8150-2979",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1567367066713469000,
+		"in_reply_to_status_id_str": "1567367066713468929",
+		"in_reply_to_user_id": 491231175,
+		"in_reply_to_user_id_str": "491231175",
+		"in_reply_to_screen_name": "prismhall",
+		"user": {
+			"id": 491231175,
+			"id_str": "491231175",
+			"name": "PrismHall",
+			"screen_name": "prismhall",
+			"location": "Mapo Seokyo-Dong",
+			"description": "최상급 무대장비와 시설. 엄청난 높이의 천고와 광활한 객석. 각종 파티,힙합,댄스,밴드 등 all_round concert, 실내페스티벌 등 모든 게 가능한 공연장입니다!",
+			"url": "https://t.co/VTKFWeLxvh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VTKFWeLxvh",
+							"expanded_url": "http://www.prismhall.com",
+							"display_url": "prismhall.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2039,
+			"friends_count": 1105,
+			"listed_count": 28,
+			"created_at": "Mon Feb 13 12:03:08 +0000 2012",
+			"favourites_count": 75,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2138,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/942698829089869824/bkVw2sYC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/942698829089869824/bkVw2sYC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/491231175/1513591891",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "1104338421d4e001",
+			"url": "https://api.twitter.com/1.1/geo/id/1104338421d4e001.json",
+			"place_type": "poi",
+			"name": "프리즘홀",
+			"full_name": "프리즘홀",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.917463,
+							37.551686
+						],
+						[
+							126.917463,
+							37.551686
+						],
+						[
+							126.917463,
+							37.551686
+						],
+						[
+							126.917463,
+							37.551686
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "실로 오랜만에 야심차게 준비한 합동 쇼케이스 파티를 즐겨 주세요🔥🔥\n\n행복한 무대는 저희가 책임집니다!\n\n소-리-질-러‼️‼️‼️\n\n- 타이틀 : REFRESH 2022\n- 일시 : 2022년 9월 12일 월요일 저녁 7시 (입장 : 6시30분)\n- 장소 : 프리즘홀(양화로 12길 6)\n- 문의 : 070-8150-2979"
+	},
+	{
+		"created_at": "Wed Sep 07 05:11:17 +0000 2022",
+		"id": 1567367066713469000,
+		"id_str": "1567379958409973760",
+		"full_text": "🔥추석의 마지막날🔥\n2022년 새로운 시작! [REFRESH 2022]\n\n새로운 모습으로 나아가는 친구들의 합종 쇼케이스 파티!\n여러분의 행복을 우리가 책임집니다!\n\n많은 변화를 맞은 아티스트들이 새로운 출발선에 앞서,\n새로운 다짐과 변화된 사운드를 선보이고자 합니다. https://t.co/v4LeGaJTVa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1567367055653105700,
+					"id_str": "1567367055653105667",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/FcBoCGjacAMWfe6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcBoCGjacAMWfe6.jpg",
+					"url": "https://t.co/v4LeGaJTVa",
+					"display_url": "pic.twitter.com/v4LeGaJTVa",
+					"expanded_url": "https://twitter.com/prismhall/status/1567367066713468929/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1567367055653105700,
+					"id_str": "1567367055653105667",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/FcBoCGjacAMWfe6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcBoCGjacAMWfe6.jpg",
+					"url": "https://t.co/v4LeGaJTVa",
+					"display_url": "pic.twitter.com/v4LeGaJTVa",
+					"expanded_url": "https://twitter.com/prismhall/status/1567367066713468929/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 491231175,
+			"id_str": "491231175",
+			"name": "PrismHall",
+			"screen_name": "prismhall",
+			"location": "Mapo Seokyo-Dong",
+			"description": "최상급 무대장비와 시설. 엄청난 높이의 천고와 광활한 객석. 각종 파티,힙합,댄스,밴드 등 all_round concert, 실내페스티벌 등 모든 게 가능한 공연장입니다!",
+			"url": "https://t.co/VTKFWeLxvh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VTKFWeLxvh",
+							"expanded_url": "http://www.prismhall.com",
+							"display_url": "prismhall.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2039,
+			"friends_count": 1105,
+			"listed_count": 28,
+			"created_at": "Mon Feb 13 12:03:08 +0000 2012",
+			"favourites_count": 75,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2138,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/942698829089869824/bkVw2sYC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/942698829089869824/bkVw2sYC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/491231175/1513591891",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "1104338421d4e001",
+			"url": "https://api.twitter.com/1.1/geo/id/1104338421d4e001.json",
+			"place_type": "poi",
+			"name": "프리즘홀",
+			"full_name": "프리즘홀",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.917463,
+							37.551686
+						],
+						[
+							126.917463,
+							37.551686
+						],
+						[
+							126.917463,
+							37.551686
+						],
+						[
+							126.917463,
+							37.551686
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🔥추석의 마지막날🔥\n2022년 새로운 시작! [REFRESH 2022]\n\n새로운 모습으로 나아가는 친구들의 합종 쇼케이스 파티!\n여러분의 행복을 우리가 책임집니다!\n\n많은 변화를 맞은 아티스트들이 새로운 출발선에 앞서,\n새로운 다짐과 변화된 사운드를 선보이고자 합니다. https://t.co/v4LeGaJTVa"
+	},
+	{
+		"created_at": "Wed Sep 07 04:29:32 +0000 2022",
+		"id": 1567367758203211800,
+		"id_str": "1567369452227813382",
+		"full_text": "[솔루션스 | 클럽 투어 공연 안내]\n\n2022 THE SOLUTIONS CLUB TOUR : NAIVE\n\n📌 09.18 (Sun) : Bender\n🔗 https://t.co/JWY9vhegCa\n\n자세한 사항은 상단 링크에서 확인하실 수 있습니다.\n\n#NAIVE #2022THESOLUTIONSCLUBTOUR\n#THESOLUTIONS #솔루션스\n#클럽투어 https://t.co/EXTBYcFHa6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NAIVE",
+					"indices": [
+						140,
+						146
+					]
+				},
+				{
+					"text": "2022THESOLUTIONSCLUBTOUR",
+					"indices": [
+						147,
+						172
+					]
+				},
+				{
+					"text": "THESOLUTIONS",
+					"indices": [
+						173,
+						186
+					]
+				},
+				{
+					"text": "솔루션스",
+					"indices": [
+						187,
+						192
+					]
+				},
+				{
+					"text": "클럽투어",
+					"indices": [
+						193,
+						198
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JWY9vhegCa",
+					"expanded_url": "https://bit.ly/3cP0atJ",
+					"display_url": "bit.ly/3cP0atJ",
+					"indices": [
+						85,
+						108
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1567367702947459000,
+					"id_str": "1567367702947459074",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/FcBonx6acAItIGa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcBonx6acAItIGa.jpg",
+					"url": "https://t.co/EXTBYcFHa6",
+					"display_url": "pic.twitter.com/EXTBYcFHa6",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1567367758203211777/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1567367702947459000,
+					"id_str": "1567367702947459074",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/FcBonx6acAItIGa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcBonx6acAItIGa.jpg",
+					"url": "https://t.co/EXTBYcFHa6",
+					"display_url": "pic.twitter.com/EXTBYcFHa6",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1567367758203211777/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1567367703069073400,
+					"id_str": "1567367703069073408",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/FcBonyXaIAAIM10.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcBonyXaIAAIM10.jpg",
+					"url": "https://t.co/EXTBYcFHa6",
+					"display_url": "pic.twitter.com/EXTBYcFHa6",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1567367758203211777/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "구만(9.10000), 노리플라이, 데이브레이크, Lacuna(라쿠나), SURL(설), 소란, 솔루션스, 쏜애플, OurR(아월)",
+			"url": "https://t.co/BIvBmbtJjn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BIvBmbtJjn",
+							"expanded_url": "https://mpmgmusic.com/",
+							"display_url": "mpmgmusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12908,
+			"friends_count": 1901,
+			"listed_count": 251,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 211,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13565,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1626843310",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[솔루션스 | 클럽 투어 공연 안내]\n\n2022 THE SOLUTIONS CLUB TOUR : NAIVE\n\n📌 09.18 (Sun) : Bender\n🔗 https://t.co/JWY9vhegCa\n\n자세한 사항은 상단 링크에서 확인하실 수 있습니다.\n\n#NAIVE #2022THESOLUTIONSCLUBTOUR\n#THESOLUTIONS #솔루션스\n#클럽투어 https://t.co/EXTBYcFHa6"
+	},
+	{
 		"created_at": "Wed Sep 07 03:58:23 +0000 2022",
 		"id": 1567347078011166700,
 		"id_str": "1567361612784320512",
