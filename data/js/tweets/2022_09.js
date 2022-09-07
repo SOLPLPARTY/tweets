@@ -1,6 +1,216 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Wed Sep 07 17:29:25 +0000 2022",
+		"id": 1567552458972614700,
+		"id_str": "1567565715846070280",
+		"full_text": "감사히 잘먹었습니다^^\n#김재환 님 조공 인증\n\n#좋은경험하게해주셔서감사합니다 \n#mnet #GSI #그레이트서울인베이전 https://t.co/OUNOkAkRFz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "김재환",
+					"indices": [
+						13,
+						17
+					]
+				},
+				{
+					"text": "좋은경험하게해주셔서감사합니다",
+					"indices": [
+						27,
+						43
+					]
+				},
+				{
+					"text": "mnet",
+					"indices": [
+						45,
+						50
+					]
+				},
+				{
+					"text": "GSI",
+					"indices": [
+						51,
+						55
+					]
+				},
+				{
+					"text": "그레이트서울인베이전",
+					"indices": [
+						56,
+						67
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1567552453050257400,
+					"id_str": "1567552453050257415",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/FcEQppraUAcjgho.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcEQppraUAcjgho.jpg",
+					"url": "https://t.co/OUNOkAkRFz",
+					"display_url": "pic.twitter.com/OUNOkAkRFz",
+					"expanded_url": "https://twitter.com/messenger_yoon/status/1567552458972614658/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 672,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1186,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1567552453050257400,
+					"id_str": "1567552453050257415",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/FcEQppraUAcjgho.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcEQppraUAcjgho.jpg",
+					"url": "https://t.co/OUNOkAkRFz",
+					"display_url": "pic.twitter.com/OUNOkAkRFz",
+					"expanded_url": "https://twitter.com/messenger_yoon/status/1567552458972614658/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 672,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1186,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 150566482,
+			"id_str": "150566482",
+			"name": "메신져윤(Messenger_Yoon)",
+			"screen_name": "messenger_yoon",
+			"location": "대한민국",
+			"description": "CEO/ 정준일, 낭만유랑악단, 나인(Nine9), 디어클라우드, 권영찬, 위아영(WeAreYoung)/ mymusicent@naver.com",
+			"url": "https://t.co/hvpc0ZvCMw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hvpc0ZvCMw",
+							"expanded_url": "https://youtube.com/channel/UCVCr77USl1_3GTbOhqUMACQ",
+							"display_url": "youtube.com/channel/UCVCr7…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2561,
+			"friends_count": 316,
+			"listed_count": 0,
+			"created_at": "Tue Jun 01 07:29:53 +0000 2010",
+			"favourites_count": 22921,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5853,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1504319027790852100/f3alenoq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1504319027790852100/f3alenoq_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "감사히 잘먹었습니다^^\n#김재환 님 조공 인증\n\n#좋은경험하게해주셔서감사합니다 \n#mnet #GSI #그레이트서울인베이전 https://t.co/OUNOkAkRFz"
+	},
+	{
 		"created_at": "Wed Sep 07 16:29:25 +0000 2022",
 		"id": 1567527987855196200,
 		"id_str": "1567550618323099654",
