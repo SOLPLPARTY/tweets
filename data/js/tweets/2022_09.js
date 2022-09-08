@@ -1,6 +1,1202 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Thu Sep 08 10:15:43 +0000 2022",
+		"id": 1567818961479401500,
+		"id_str": "1567818961479401475",
+		"full_text": "#딩고뮤직 #dingo_music\n[이슬라이브2] 세븐틴(SEVENTEEN) - CHEERS, _WORLD, 돌고 돌아, 우리의 새벽은 낮보다 뜨겁다, 떠내려가, 아주 NICE | 딩고뮤직 | Dingo Music\nhttps://t.co/6GTjfsjThj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "딩고뮤직",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "dingo_music",
+					"indices": [
+						6,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6GTjfsjThj",
+					"expanded_url": "https://youtu.be/WK46xeTxMmU",
+					"display_url": "youtu.be/WK46xeTxMmU",
+					"indices": [
+						120,
+						143
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 254,
+			"friends_count": 461,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 235,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 87904,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#딩고뮤직 #dingo_music\n[이슬라이브2] 세븐틴(SEVENTEEN) - CHEERS, _WORLD, 돌고 돌아, 우리의 새벽은 낮보다 뜨겁다, 떠내려가, 아주 NICE | 딩고뮤직 | Dingo Music\nhttps://t.co/6GTjfsjThj"
+	},
+	{
+		"created_at": "Thu Sep 08 09:29:47 +0000 2022",
+		"id": 1567801254314938400,
+		"id_str": "1567807402015088647",
+		"full_text": "[#MV]\nYLN Foreign (이정운)의 FAST CAR 뮤직비디오를 지금 바로 만나보세요!\n \n🎵https://t.co/wvvc0UmsS4\n🔗https://t.co/BDKcQL6oMd\n⠀⠀\n#warnermusic #warnerkpop #KPOP #YLNForeign #이정운 #FASTCAR #UNCUTPOINT #언컷포인트 @yxnlove @uncutpoint https://t.co/grxdKtgHNE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			205
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MV",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "warnermusic",
+					"indices": [
+						109,
+						121
+					]
+				},
+				{
+					"text": "warnerkpop",
+					"indices": [
+						122,
+						133
+					]
+				},
+				{
+					"text": "KPOP",
+					"indices": [
+						134,
+						139
+					]
+				},
+				{
+					"text": "YLNForeign",
+					"indices": [
+						140,
+						151
+					]
+				},
+				{
+					"text": "이정운",
+					"indices": [
+						152,
+						156
+					]
+				},
+				{
+					"text": "FASTCAR",
+					"indices": [
+						157,
+						165
+					]
+				},
+				{
+					"text": "UNCUTPOINT",
+					"indices": [
+						166,
+						177
+					]
+				},
+				{
+					"text": "언컷포인트",
+					"indices": [
+						178,
+						184
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "yxnlove",
+					"name": "YLN Foreign",
+					"id": 1317476038083891200,
+					"id_str": "1317476038083891205",
+					"indices": [
+						185,
+						193
+					]
+				},
+				{
+					"screen_name": "uncutpoint",
+					"name": "UNCUTPOINT",
+					"id": 1357234988559732700,
+					"id_str": "1357234988559732737",
+					"indices": [
+						194,
+						205
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/wvvc0UmsS4",
+					"expanded_url": "http://WMK.lnk.to/10g61U",
+					"display_url": "WMK.lnk.to/10g61U",
+					"indices": [
+						57,
+						80
+					]
+				},
+				{
+					"url": "https://t.co/BDKcQL6oMd",
+					"expanded_url": "http://youtu.be/0qcQr-ItI_w",
+					"display_url": "youtu.be/0qcQr-ItI_w",
+					"indices": [
+						82,
+						105
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1567801183481503700,
+					"id_str": "1567801183481503746",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1567801183481503746/pu/img/JK5sCexvCrd7mYVM.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1567801183481503746/pu/img/JK5sCexvCrd7mYVM.jpg",
+					"url": "https://t.co/grxdKtgHNE",
+					"display_url": "pic.twitter.com/grxdKtgHNE",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1567801254314938369/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1567801183481503700,
+					"id_str": "1567801183481503746",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1567801183481503746/pu/img/JK5sCexvCrd7mYVM.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1567801183481503746/pu/img/JK5sCexvCrd7mYVM.jpg",
+					"url": "https://t.co/grxdKtgHNE",
+					"display_url": "pic.twitter.com/grxdKtgHNE",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1567801254314938369/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 42167,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1567801183481503746/pu/vid/320x400/deOnA6GfbHMwWLWO.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1567801183481503746/pu/vid/480x600/-DGRvsGYYT_vIkKi.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1567801183481503746/pu/vid/720x900/7mJYHlLWItmhJWC2.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1567801183481503746/pu/pl/L0YI5DX4VNXW4gBc.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 90061,
+			"friends_count": 492,
+			"listed_count": 218,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1579,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11959,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1636703401",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#MV]\nYLN Foreign (이정운)의 FAST CAR 뮤직비디오를 지금 바로 만나보세요!\n \n🎵https://t.co/wvvc0UmsS4\n🔗https://t.co/BDKcQL6oMd\n⠀⠀\n#warnermusic #warnerkpop #KPOP #YLNForeign #이정운 #FASTCAR #UNCUTPOINT #언컷포인트 @yxnlove @uncutpoint https://t.co/grxdKtgHNE"
+	},
+	{
+		"created_at": "Thu Sep 08 09:29:40 +0000 2022",
+		"id": 1567801056062742500,
+		"id_str": "1567807372210364417",
+		"full_text": "[SHOWME DAY Line-Up] \n\nJ.E.B\nMINIMONSTER\nIMLAY\nGINJO\nWill Not Fear \nAnton Borin\nDJ WOW \nDemicat \nDJ co. kr \nMar Vista\nDJ TEZZ\nBRLLNT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1567799907540521000,
+		"in_reply_to_status_id_str": "1567799907540520961",
+		"in_reply_to_user_id": 884378714,
+		"in_reply_to_user_id_str": "884378714",
+		"in_reply_to_screen_name": "SMTOWNGLOBAL",
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11152300,
+			"friends_count": 55,
+			"listed_count": 12586,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2027,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12837,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 230,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "[SHOWME DAY Line-Up] \n\nJ.E.B\nMINIMONSTER\nIMLAY\nGINJO\nWill Not Fear \nAnton Borin\nDJ WOW \nDemicat \nDJ co. kr \nMar Vista\nDJ TEZZ\nBRLLNT"
+	},
+	{
+		"created_at": "Thu Sep 08 09:29:34 +0000 2022",
+		"id": 1567800715149721600,
+		"id_str": "1567807346537005059",
+		"full_text": "[CAST]\n나상현씨밴드(Band Nah)\nW24\nD82\nSURL\n오월오일(OWALLOIL)\n유다빈밴드(Yudabinband)\n터치드(Touched)\n헤이맨(HeyMen)\n\n📺 Mnet &lt;#그레이트서울인베이전&gt;\n매주 수요일 밤 9시 40분\n#그레이트서울인베이전전국투어콘서트 #전국투어콘서트 #밴드서바이벌  #GreatSeoulInvasion #GSI https://t.co/NgmUgg4Eif",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "그레이트서울인베이전",
+					"indices": [
+						108,
+						119
+					]
+				},
+				{
+					"text": "그레이트서울인베이전전국투어콘서트",
+					"indices": [
+						140,
+						158
+					]
+				},
+				{
+					"text": "전국투어콘서트",
+					"indices": [
+						159,
+						167
+					]
+				},
+				{
+					"text": "밴드서바이벌",
+					"indices": [
+						168,
+						175
+					]
+				},
+				{
+					"text": "GreatSeoulInvasion",
+					"indices": [
+						177,
+						196
+					]
+				},
+				{
+					"text": "GSI",
+					"indices": [
+						197,
+						201
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1567800292477137000,
+					"id_str": "1567800292477136898",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/FcHyDzfacAI-o6Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcHyDzfacAI-o6Q.jpg",
+					"url": "https://t.co/NgmUgg4Eif",
+					"display_url": "pic.twitter.com/NgmUgg4Eif",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1567800715149721601/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1567800292477137000,
+					"id_str": "1567800292477136898",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/FcHyDzfacAI-o6Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcHyDzfacAI-o6Q.jpg",
+					"url": "https://t.co/NgmUgg4Eif",
+					"display_url": "pic.twitter.com/NgmUgg4Eif",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1567800715149721601/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1567800292594561000,
+					"id_str": "1567800292594561030",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/FcHyDz7aMAY522_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcHyDz7aMAY522_.jpg",
+					"url": "https://t.co/NgmUgg4Eif",
+					"display_url": "pic.twitter.com/NgmUgg4Eif",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1567800715149721601/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1567800200445726700,
+		"in_reply_to_status_id_str": "1567800200445726720",
+		"in_reply_to_user_id": 63414926,
+		"in_reply_to_user_id_str": "63414926",
+		"in_reply_to_screen_name": "HappyRobotKR",
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "구만(9.10000), 노리플라이, 데이브레이크, Lacuna(라쿠나), SURL(설), 소란, 솔루션스, 쏜애플, OurR(아월)",
+			"url": "https://t.co/BIvBmbtJjn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BIvBmbtJjn",
+							"expanded_url": "https://mpmgmusic.com/",
+							"display_url": "mpmgmusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12907,
+			"friends_count": 1901,
+			"listed_count": 251,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 211,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13572,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1626843310",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[CAST]\n나상현씨밴드(Band Nah)\nW24\nD82\nSURL\n오월오일(OWALLOIL)\n유다빈밴드(Yudabinband)\n터치드(Touched)\n헤이맨(HeyMen)\n\n📺 Mnet &lt;#그레이트서울인베이전&gt;\n매주 수요일 밤 9시 40분\n#그레이트서울인베이전전국투어콘서트 #전국투어콘서트 #밴드서바이벌  #GreatSeoulInvasion #GSI https://t.co/NgmUgg4Eif"
+	},
+	{
+		"created_at": "Thu Sep 08 09:29:32 +0000 2022",
+		"id": 1567800705016287200,
+		"id_str": "1567807337661964290",
+		"full_text": "✔️ brb. Live in Seoul\n\n일시 : 2022년 10월 16일 일요일 6PM\n장소 : CJ 아지트 광흥창\n가격 : 44,000 원\n예매링크 : https://t.co/azAOj9RIhq https://t.co/nexf7Q9WRE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/azAOj9RIhq",
+					"expanded_url": "https://booking.naver.com/booking/12/bizes/758029",
+					"display_url": "booking.naver.com/booking/12/biz…",
+					"indices": [
+						87,
+						110
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1567791289189691400,
+					"id_str": "1567791289189691394",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/FcHp3voacAIckqX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcHp3voacAIckqX.jpg",
+					"url": "https://t.co/nexf7Q9WRE",
+					"display_url": "pic.twitter.com/nexf7Q9WRE",
+					"expanded_url": "https://twitter.com/HIGHJINKXX/status/1567800705016287235/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1567791289189691400,
+					"id_str": "1567791289189691394",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/FcHp3voacAIckqX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcHp3voacAIckqX.jpg",
+					"url": "https://t.co/nexf7Q9WRE",
+					"display_url": "pic.twitter.com/nexf7Q9WRE",
+					"expanded_url": "https://twitter.com/HIGHJINKXX/status/1567800705016287235/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1567800695264526300,
+		"in_reply_to_status_id_str": "1567800695264526336",
+		"in_reply_to_user_id": 985865748638650400,
+		"in_reply_to_user_id_str": "985865748638650368",
+		"in_reply_to_screen_name": "HIGHJINKXX",
+		"user": {
+			"id": 985865748638650400,
+			"id_str": "985865748638650368",
+			"name": "HIGHJINKX 하이징크스",
+			"screen_name": "HIGHJINKXX",
+			"location": "대한민국 서울",
+			"description": "https://t.co/UEZd1A0tMQ https://t.co/bYHM3gN9tB",
+			"url": "https://t.co/jgdOjxGxJL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jgdOjxGxJL",
+							"expanded_url": "https://www.highjinkxmm.com",
+							"display_url": "highjinkxmm.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UEZd1A0tMQ",
+							"expanded_url": "http://highjinkx.com",
+							"display_url": "highjinkx.com",
+							"indices": [
+								0,
+								23
+							]
+						},
+						{
+							"url": "https://t.co/bYHM3gN9tB",
+							"expanded_url": "http://highjinkxmm.com",
+							"display_url": "highjinkxmm.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 657,
+			"friends_count": 30,
+			"listed_count": 5,
+			"created_at": "Mon Apr 16 13:01:25 +0000 2018",
+			"favourites_count": 376,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 824,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/986167678246125568/PTUKZtMn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/986167678246125568/PTUKZtMn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/985865748638650368/1575347637",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "✔️ brb. Live in Seoul\n\n일시 : 2022년 10월 16일 일요일 6PM\n장소 : CJ 아지트 광흥창\n가격 : 44,000 원\n예매링크 : https://t.co/azAOj9RIhq https://t.co/nexf7Q9WRE"
+	},
+	{
+		"created_at": "Thu Sep 08 09:29:27 +0000 2022",
+		"id": 1567800695264526300,
+		"id_str": "1567807316199723009",
+		"full_text": "✔️ brb. Live in Busan\n\n일시 : 2022년 10월 14일 금요일 8PM\n장소 : 오방가르드\n가격 : 44,000 원\n예매링크 : https://t.co/7UYJ0kR2wM https://t.co/jrC3cZBgxS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7UYJ0kR2wM",
+					"expanded_url": "https://booking.naver.com/booking/12/bizes/758253",
+					"display_url": "booking.naver.com/booking/12/biz…",
+					"indices": [
+						82,
+						105
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1567790969562726400,
+					"id_str": "1567790969562726400",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/FcHplI7aAAA1vJB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcHplI7aAAA1vJB.jpg",
+					"url": "https://t.co/jrC3cZBgxS",
+					"display_url": "pic.twitter.com/jrC3cZBgxS",
+					"expanded_url": "https://twitter.com/HIGHJINKXX/status/1567800695264526336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1567790969562726400,
+					"id_str": "1567790969562726400",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/FcHplI7aAAA1vJB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcHplI7aAAA1vJB.jpg",
+					"url": "https://t.co/jrC3cZBgxS",
+					"display_url": "pic.twitter.com/jrC3cZBgxS",
+					"expanded_url": "https://twitter.com/HIGHJINKXX/status/1567800695264526336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1567800685504385000,
+		"in_reply_to_status_id_str": "1567800685504385035",
+		"in_reply_to_user_id": 985865748638650400,
+		"in_reply_to_user_id_str": "985865748638650368",
+		"in_reply_to_screen_name": "HIGHJINKXX",
+		"user": {
+			"id": 985865748638650400,
+			"id_str": "985865748638650368",
+			"name": "HIGHJINKX 하이징크스",
+			"screen_name": "HIGHJINKXX",
+			"location": "대한민국 서울",
+			"description": "https://t.co/UEZd1A0tMQ https://t.co/bYHM3gN9tB",
+			"url": "https://t.co/jgdOjxGxJL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jgdOjxGxJL",
+							"expanded_url": "https://www.highjinkxmm.com",
+							"display_url": "highjinkxmm.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UEZd1A0tMQ",
+							"expanded_url": "http://highjinkx.com",
+							"display_url": "highjinkx.com",
+							"indices": [
+								0,
+								23
+							]
+						},
+						{
+							"url": "https://t.co/bYHM3gN9tB",
+							"expanded_url": "http://highjinkxmm.com",
+							"display_url": "highjinkxmm.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 657,
+			"friends_count": 30,
+			"listed_count": 5,
+			"created_at": "Mon Apr 16 13:01:25 +0000 2018",
+			"favourites_count": 376,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 824,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/986167678246125568/PTUKZtMn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/986167678246125568/PTUKZtMn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/985865748638650368/1575347637",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "✔️ brb. Live in Busan\n\n일시 : 2022년 10월 14일 금요일 8PM\n장소 : 오방가르드\n가격 : 44,000 원\n예매링크 : https://t.co/7UYJ0kR2wM https://t.co/jrC3cZBgxS"
+	},
+	{
 		"created_at": "Thu Sep 08 09:15:53 +0000 2022",
 		"id": 1567803904351666200,
 		"id_str": "1567803904351666187",
