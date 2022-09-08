@@ -1,6 +1,1135 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Thu Sep 08 06:11:17 +0000 2022",
+		"id": 1567750315969233000,
+		"id_str": "1567757445006589952",
+		"full_text": "✔추석 연휴 공간별 운영시간 안내\n⠀\n9월 9일부터 12일까지, 공간별 운영시간 공지!\n상상마당 방문 전에 꼭 확인해주세요!\n⠀\n이번 연휴도 상상마당과 함께-👀♥ https://t.co/L1EltNBxO8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1567750256582086700,
+					"id_str": "1567750256582086656",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/FcHEjVQaUAAl99U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcHEjVQaUAAl99U.jpg",
+					"url": "https://t.co/L1EltNBxO8",
+					"display_url": "pic.twitter.com/L1EltNBxO8",
+					"expanded_url": "https://twitter.com/SSmadang/status/1567750315969232897/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1567750256582086700,
+					"id_str": "1567750256582086656",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/FcHEjVQaUAAl99U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcHEjVQaUAAl99U.jpg",
+					"url": "https://t.co/L1EltNBxO8",
+					"display_url": "pic.twitter.com/L1EltNBxO8",
+					"expanded_url": "https://twitter.com/SSmadang/status/1567750315969232897/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1567750308201382000,
+					"id_str": "1567750308201381888",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/FcHEmVjaQAAbANg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcHEmVjaQAAbANg.jpg",
+					"url": "https://t.co/L1EltNBxO8",
+					"display_url": "pic.twitter.com/L1EltNBxO8",
+					"expanded_url": "https://twitter.com/SSmadang/status/1567750315969232897/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 619,
+							"h": 1100,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 619,
+							"h": 1100,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110358280,
+			"id_str": "110358280",
+			"name": "KT&G 상상마당",
+			"screen_name": "SSmadang",
+			"location": "서울 홍대 (Hongdae, Seoul)",
+			"description": "[복합문화공간] #상상마당 영화ㅣ공연ㅣ디자인ㅣ전시ㅣ교육ㅣ카페",
+			"url": "https://t.co/dQStXHIksz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dQStXHIksz",
+							"expanded_url": "http://sangsangmadang.com",
+							"display_url": "sangsangmadang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17478,
+			"friends_count": 1833,
+			"listed_count": 286,
+			"created_at": "Mon Feb 01 07:45:21 +0000 2010",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9091,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1565171981581893632/v5xwQVrn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1565171981581893632/v5xwQVrn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110358280/1661994351",
+			"profile_link_color": "242D8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "595959",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "✔추석 연휴 공간별 운영시간 안내\n⠀\n9월 9일부터 12일까지, 공간별 운영시간 공지!\n상상마당 방문 전에 꼭 확인해주세요!\n⠀\n이번 연휴도 상상마당과 함께-👀♥ https://t.co/L1EltNBxO8"
+	},
+	{
+		"created_at": "Thu Sep 08 05:58:45 +0000 2022",
+		"id": 1567750363566190600,
+		"id_str": "1567754293779861504",
+		"full_text": "#부산국제록페스티벌 #부산록페 #부산락페 #부락 #록페스티벌 #페스티벌 #부산축제 #락페 #BusanRockFestival #BusanInternationalRockFestival #BusanRock #BuRock #BIRF #Festival #Busan",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "부산국제록페스티벌",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "부산록페",
+					"indices": [
+						11,
+						16
+					]
+				},
+				{
+					"text": "부산락페",
+					"indices": [
+						17,
+						22
+					]
+				},
+				{
+					"text": "부락",
+					"indices": [
+						23,
+						26
+					]
+				},
+				{
+					"text": "록페스티벌",
+					"indices": [
+						27,
+						33
+					]
+				},
+				{
+					"text": "페스티벌",
+					"indices": [
+						34,
+						39
+					]
+				},
+				{
+					"text": "부산축제",
+					"indices": [
+						40,
+						45
+					]
+				},
+				{
+					"text": "락페",
+					"indices": [
+						46,
+						49
+					]
+				},
+				{
+					"text": "BusanRockFestival",
+					"indices": [
+						50,
+						68
+					]
+				},
+				{
+					"text": "BusanInternationalRockFestival",
+					"indices": [
+						69,
+						100
+					]
+				},
+				{
+					"text": "BusanRock",
+					"indices": [
+						101,
+						111
+					]
+				},
+				{
+					"text": "BuRock",
+					"indices": [
+						112,
+						119
+					]
+				},
+				{
+					"text": "BIRF",
+					"indices": [
+						120,
+						125
+					]
+				},
+				{
+					"text": "Festival",
+					"indices": [
+						126,
+						135
+					]
+				},
+				{
+					"text": "Busan",
+					"indices": [
+						136,
+						142
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1567750361615843300,
+		"in_reply_to_status_id_str": "1567750361615843328",
+		"in_reply_to_user_id": 3116631529,
+		"in_reply_to_user_id_str": "3116631529",
+		"in_reply_to_screen_name": "busan_rock",
+		"user": {
+			"id": 3116631529,
+			"id_str": "3116631529",
+			"name": "BusanRockFest Official",
+			"screen_name": "busan_rock",
+			"location": "",
+			"description": "라인업 관련 글은 따로 답글을 드리지 않습니다. 양해 부탁드립니다.",
+			"url": "https://t.co/amJVO1H58j",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/amJVO1H58j",
+							"expanded_url": "https://busanrockfestival.com/",
+							"display_url": "busanrockfestival.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2106,
+			"friends_count": 0,
+			"listed_count": 6,
+			"created_at": "Mon Mar 30 07:04:06 +0000 2015",
+			"favourites_count": 16,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 587,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227400250001780736/hUySDDes_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227400250001780736/hUySDDes_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3116631529/1658801341",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "qht",
+		"text": "#부산국제록페스티벌 #부산록페 #부산락페 #부락 #록페스티벌 #페스티벌 #부산축제 #락페 #BusanRockFestival #BusanInternationalRockFestival #BusanRock #BuRock #BIRF #Festival #Busan"
+	},
+	{
+		"created_at": "Thu Sep 08 05:58:38 +0000 2022",
+		"id": 1567750361615843300,
+		"id_str": "1567754263882768384",
+		"full_text": "■ 2022 Busan International Rock Festival\n- Date: 2022. 10. 1 (Sat) ~ 2 (Sun), 2 days\n- Venue: Samnak Ecological Park\n- Ticket: 1 day pass 88,000 won / 2 day pass 132,000 won\n- Reservation site: YES24 Ticket ( Profile link)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			222
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1567750359791317000,
+		"in_reply_to_status_id_str": "1567750359791316995",
+		"in_reply_to_user_id": 3116631529,
+		"in_reply_to_user_id_str": "3116631529",
+		"in_reply_to_screen_name": "busan_rock",
+		"user": {
+			"id": 3116631529,
+			"id_str": "3116631529",
+			"name": "BusanRockFest Official",
+			"screen_name": "busan_rock",
+			"location": "",
+			"description": "라인업 관련 글은 따로 답글을 드리지 않습니다. 양해 부탁드립니다.",
+			"url": "https://t.co/amJVO1H58j",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/amJVO1H58j",
+							"expanded_url": "https://busanrockfestival.com/",
+							"display_url": "busanrockfestival.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2106,
+			"friends_count": 0,
+			"listed_count": 6,
+			"created_at": "Mon Mar 30 07:04:06 +0000 2015",
+			"favourites_count": 16,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 587,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227400250001780736/hUySDDes_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227400250001780736/hUySDDes_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3116631529/1658801341",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "■ 2022 Busan International Rock Festival\n- Date: 2022. 10. 1 (Sat) ~ 2 (Sun), 2 days\n- Venue: Samnak Ecological Park\n- Ticket: 1 day pass 88,000 won / 2 day pass 132,000 won\n- Reservation site: YES24 Ticket ( Profile link)"
+	},
+	{
+		"created_at": "Thu Sep 08 05:58:33 +0000 2022",
+		"id": 1567750359791317000,
+		"id_str": "1567754242395357185",
+		"full_text": "- Benefit : 2023 Busan International Rock Festival ticket (2days ticket per person) / Volunteer hours / lunch &amp; dinner &amp; transportation expenses / T-shirts &amp; towel etc.\n- Inquiries : Busan Culture &amp; Tourism Festival Organizing Committee, Team 3 (051-713-5046)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1567750357987754000,
+		"in_reply_to_status_id_str": "1567750357987753987",
+		"in_reply_to_user_id": 3116631529,
+		"in_reply_to_user_id_str": "3116631529",
+		"in_reply_to_screen_name": "busan_rock",
+		"user": {
+			"id": 3116631529,
+			"id_str": "3116631529",
+			"name": "BusanRockFest Official",
+			"screen_name": "busan_rock",
+			"location": "",
+			"description": "라인업 관련 글은 따로 답글을 드리지 않습니다. 양해 부탁드립니다.",
+			"url": "https://t.co/amJVO1H58j",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/amJVO1H58j",
+							"expanded_url": "https://busanrockfestival.com/",
+							"display_url": "busanrockfestival.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2106,
+			"friends_count": 0,
+			"listed_count": 6,
+			"created_at": "Mon Mar 30 07:04:06 +0000 2015",
+			"favourites_count": 16,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 587,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227400250001780736/hUySDDes_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227400250001780736/hUySDDes_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3116631529/1658801341",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "- Benefit : 2023 Busan International Rock Festival ticket (2days ticket per person) / Volunteer hours / lunch &amp; dinner &amp; transportation expenses / T-shirts &amp; towel etc.\n- Inquiries : Busan Culture &amp; Tourism Festival Organizing Committee, Team 3 (051-713-5046)"
+	},
+	{
+		"created_at": "Thu Sep 08 05:58:27 +0000 2022",
+		"id": 1567750357987754000,
+		"id_str": "1567754216759824385",
+		"full_text": "🔥2022 Busan International Rock Festival - Volunteer Recruiting!🔥\n\n■ \"BuRock Friends\" Recruiting Information\n- Period : 2022. 9. 9.(Fri) ~ 9.22.(Thus)\n- Subject : Anyone over the age of 18\n- How to apply : Website (https://t.co/Fqm0QDcu66)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			238
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Fqm0QDcu66",
+					"expanded_url": "http://www.bfo.or.kr",
+					"display_url": "bfo.or.kr",
+					"indices": [
+						214,
+						237
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1567750356159066000,
+		"in_reply_to_status_id_str": "1567750356159066112",
+		"in_reply_to_user_id": 3116631529,
+		"in_reply_to_user_id_str": "3116631529",
+		"in_reply_to_screen_name": "busan_rock",
+		"user": {
+			"id": 3116631529,
+			"id_str": "3116631529",
+			"name": "BusanRockFest Official",
+			"screen_name": "busan_rock",
+			"location": "",
+			"description": "라인업 관련 글은 따로 답글을 드리지 않습니다. 양해 부탁드립니다.",
+			"url": "https://t.co/amJVO1H58j",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/amJVO1H58j",
+							"expanded_url": "https://busanrockfestival.com/",
+							"display_url": "busanrockfestival.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2106,
+			"friends_count": 0,
+			"listed_count": 6,
+			"created_at": "Mon Mar 30 07:04:06 +0000 2015",
+			"favourites_count": 16,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 587,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227400250001780736/hUySDDes_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227400250001780736/hUySDDes_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3116631529/1658801341",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🔥2022 Busan International Rock Festival - Volunteer Recruiting!🔥\n\n■ \"BuRock Friends\" Recruiting Information\n- Period : 2022. 9. 9.(Fri) ~ 9.22.(Thus)\n- Subject : Anyone over the age of 18\n- How to apply : Website (https://t.co/Fqm0QDcu66)"
+	},
+	{
+		"created_at": "Thu Sep 08 05:58:22 +0000 2022",
+		"id": 1567750356159066000,
+		"id_str": "1567754195305897996",
+		"full_text": "■ 2022 부산국제록페스티벌\n- 일시 : 2022. 10. 1(Sat) ~ 2(Sun), 2일간\n- 장소 : 삼락생태공원\n- 티켓 : 1일권 88,000원 / 2일권 132,000원\n- 예매처 : YES24티켓 (▶ 프로필 링크)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1567750354422624300,
+		"in_reply_to_status_id_str": "1567750354422624259",
+		"in_reply_to_user_id": 3116631529,
+		"in_reply_to_user_id_str": "3116631529",
+		"in_reply_to_screen_name": "busan_rock",
+		"user": {
+			"id": 3116631529,
+			"id_str": "3116631529",
+			"name": "BusanRockFest Official",
+			"screen_name": "busan_rock",
+			"location": "",
+			"description": "라인업 관련 글은 따로 답글을 드리지 않습니다. 양해 부탁드립니다.",
+			"url": "https://t.co/amJVO1H58j",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/amJVO1H58j",
+							"expanded_url": "https://busanrockfestival.com/",
+							"display_url": "busanrockfestival.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2106,
+			"friends_count": 0,
+			"listed_count": 6,
+			"created_at": "Mon Mar 30 07:04:06 +0000 2015",
+			"favourites_count": 16,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 587,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227400250001780736/hUySDDes_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227400250001780736/hUySDDes_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3116631529/1658801341",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "■ 2022 부산국제록페스티벌\n- 일시 : 2022. 10. 1(Sat) ~ 2(Sun), 2일간\n- 장소 : 삼락생태공원\n- 티켓 : 1일권 88,000원 / 2일권 132,000원\n- 예매처 : YES24티켓 (▶ 프로필 링크)"
+	},
+	{
+		"created_at": "Thu Sep 08 05:58:15 +0000 2022",
+		"id": 1567750354422624300,
+		"id_str": "1567754165467713543",
+		"full_text": "- 참여혜택 : 2023 부산국제록페스티벌 초대권(양일권 1인 1매) / 자원봉사 활동시간 / 식사 및 소정의 교통비 / 티셔츠 및 타올 등\n- 문의사항 : 부산문화관광축제조직위원회 기획3팀 (051-713-5046)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1567750352354840600,
+		"in_reply_to_status_id_str": "1567750352354840576",
+		"in_reply_to_user_id": 3116631529,
+		"in_reply_to_user_id_str": "3116631529",
+		"in_reply_to_screen_name": "busan_rock",
+		"user": {
+			"id": 3116631529,
+			"id_str": "3116631529",
+			"name": "BusanRockFest Official",
+			"screen_name": "busan_rock",
+			"location": "",
+			"description": "라인업 관련 글은 따로 답글을 드리지 않습니다. 양해 부탁드립니다.",
+			"url": "https://t.co/amJVO1H58j",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/amJVO1H58j",
+							"expanded_url": "https://busanrockfestival.com/",
+							"display_url": "busanrockfestival.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2106,
+			"friends_count": 0,
+			"listed_count": 6,
+			"created_at": "Mon Mar 30 07:04:06 +0000 2015",
+			"favourites_count": 16,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 587,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227400250001780736/hUySDDes_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227400250001780736/hUySDDes_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3116631529/1658801341",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "- 참여혜택 : 2023 부산국제록페스티벌 초대권(양일권 1인 1매) / 자원봉사 활동시간 / 식사 및 소정의 교통비 / 티셔츠 및 타올 등\n- 문의사항 : 부산문화관광축제조직위원회 기획3팀 (051-713-5046)"
+	},
+	{
+		"created_at": "Thu Sep 08 05:29:34 +0000 2022",
+		"id": 1567738006966255600,
+		"id_str": "1567746949327032321",
+		"full_text": "[#정진운] SBS 파워FM '박하선의 씨네타운' 완료✔️\n\n정진운의 추천곡부터 '오! 마이 고스트' 비하인드까지\n모두 들어볼 수 있었던 시간😊\n🌕행복한 추석 보내시고, \n다음 주엔 영화관에서 만나요!\n\n#Jinwoon #영화 #오마이고스트 #태민 #SBS파워FM #박하선의씨네타운 https://t.co/WZj78qYDVf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "정진운",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "Jinwoon",
+					"indices": [
+						114,
+						122
+					]
+				},
+				{
+					"text": "영화",
+					"indices": [
+						123,
+						126
+					]
+				},
+				{
+					"text": "오마이고스트",
+					"indices": [
+						127,
+						134
+					]
+				},
+				{
+					"text": "태민",
+					"indices": [
+						135,
+						138
+					]
+				},
+				{
+					"text": "SBS파워FM",
+					"indices": [
+						139,
+						147
+					]
+				},
+				{
+					"text": "박하선의씨네타운",
+					"indices": [
+						148,
+						157
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1567724410156773400,
+					"id_str": "1567724410156773376",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/FcGtC30acAAefOz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcGtC30acAAefOz.jpg",
+					"url": "https://t.co/WZj78qYDVf",
+					"display_url": "pic.twitter.com/WZj78qYDVf",
+					"expanded_url": "https://twitter.com/themysticstory/status/1567738006966255616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1567724410156773400,
+					"id_str": "1567724410156773376",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/FcGtC30acAAefOz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcGtC30acAAefOz.jpg",
+					"url": "https://t.co/WZj78qYDVf",
+					"display_url": "pic.twitter.com/WZj78qYDVf",
+					"expanded_url": "https://twitter.com/themysticstory/status/1567738006966255616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/pgQyM4fB27",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pgQyM4fB27",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37344,
+			"friends_count": 14,
+			"listed_count": 304,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7212,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1661267008",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#정진운] SBS 파워FM '박하선의 씨네타운' 완료✔️\n\n정진운의 추천곡부터 '오! 마이 고스트' 비하인드까지\n모두 들어볼 수 있었던 시간😊\n🌕행복한 추석 보내시고, \n다음 주엔 영화관에서 만나요!\n\n#Jinwoon #영화 #오마이고스트 #태민 #SBS파워FM #박하선의씨네타운 https://t.co/WZj78qYDVf"
+	},
+	{
 		"created_at": "Thu Sep 08 04:58:15 +0000 2022",
 		"id": 1567724416532095000,
 		"id_str": "1567739065885237249",
