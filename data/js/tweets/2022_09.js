@@ -1,6 +1,422 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Fri Sep 09 11:11:17 +0000 2022",
+		"id": 1568175725924216800,
+		"id_str": "1568195330788802560",
+		"full_text": "추석연휴때도 클럽FF 은 달립니다.  \n\n공연이 고프신분들은 언제든지 이번주 금토일 공연 놀러오세요.~ https://t.co/HeHpfVIM4S",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1568175717825015800,
+					"id_str": "1568175717825015809",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/FcNHgb5acAEa3d6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcNHgb5acAEa3d6.jpg",
+					"url": "https://t.co/HeHpfVIM4S",
+					"display_url": "pic.twitter.com/HeHpfVIM4S",
+					"expanded_url": "https://twitter.com/clubFF_/status/1568175725924216833/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1791,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 965,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 547,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1568175717825015800,
+					"id_str": "1568175717825015809",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/FcNHgb5acAEa3d6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcNHgb5acAEa3d6.jpg",
+					"url": "https://t.co/HeHpfVIM4S",
+					"display_url": "pic.twitter.com/HeHpfVIM4S",
+					"expanded_url": "https://twitter.com/clubFF_/status/1568175725924216833/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1791,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 965,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 547,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1568175717904711700,
+					"id_str": "1568175717904711685",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/FcNHgcMagAUdH1S.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcNHgcMagAUdH1S.jpg",
+					"url": "https://t.co/HeHpfVIM4S",
+					"display_url": "pic.twitter.com/HeHpfVIM4S",
+					"expanded_url": "https://twitter.com/clubFF_/status/1568175725924216833/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 965,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1791,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 547,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 455224965,
+			"id_str": "455224965",
+			"name": "클럽에프에프",
+			"screen_name": "clubFF_",
+			"location": "서울 마포구 서교동 407-8 지하1층",
+			"description": "홍대 최고의 NO.1 Indie experience 라이브 & 댄스클럽 에프에프입니다!! 엪엪의 대관 및 오디션 문의(프로필,음원,연락처 필수)는  010-9025-3407 과 ianbrown@naver.com 으로 .",
+			"url": "https://t.co/dmU2vJP8pS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dmU2vJP8pS",
+							"expanded_url": "http://clubff.modoo.at",
+							"display_url": "clubff.modoo.at",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6114,
+			"friends_count": 8,
+			"listed_count": 75,
+			"created_at": "Wed Jan 04 21:41:48 +0000 2012",
+			"favourites_count": 564,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3859,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "추석연휴때도 클럽FF 은 달립니다.  \n\n공연이 고프신분들은 언제든지 이번주 금토일 공연 놀러오세요.~ https://t.co/HeHpfVIM4S"
+	},
+	{
+		"created_at": "Fri Sep 09 10:58:15 +0000 2022",
+		"id": 1568177519873892400,
+		"id_str": "1568192051614720000",
+		"full_text": "📢 KCON 2022 LA BACKSTAGE BEHIND 🎪 💙OPEN💚\n\n👀🔗 https://t.co/ZhKvuLWnIw\n\n✔️Provided to YouTube KCON official ALL ACCESS and above Membership\n✔️유튜브 KCON official 채널 KCON ALL ACCESS 이상 멤버십 한정\n✔️YouTube KCON officialのKCON ALL ACCESS以上メンバーシップ限定\n\n#KCON2022LA https://t.co/tzgVRrtPjC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			250
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON2022LA",
+					"indices": [
+						239,
+						250
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZhKvuLWnIw",
+					"expanded_url": "https://bit.ly/KCON2022LA_BACKSTAGEBEHIND",
+					"display_url": "bit.ly/KCON2022LA_BAC…",
+					"indices": [
+						45,
+						68
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1567747765136138200,
+					"id_str": "1567747765136138240",
+					"indices": [
+						251,
+						274
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FcHCST5aIAAaAwh.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FcHCST5aIAAaAwh.jpg",
+					"url": "https://t.co/tzgVRrtPjC",
+					"display_url": "pic.twitter.com/tzgVRrtPjC",
+					"expanded_url": "https://twitter.com/KCON_official/status/1568177519873892353/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1567747765136138200,
+					"id_str": "1567747765136138240",
+					"indices": [
+						251,
+						274
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FcHCST5aIAAaAwh.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FcHCST5aIAAaAwh.jpg",
+					"url": "https://t.co/tzgVRrtPjC",
+					"display_url": "pic.twitter.com/tzgVRrtPjC",
+					"expanded_url": "https://twitter.com/KCON_official/status/1568177519873892353/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FcHCST5aIAAaAwh.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER 📍 KCON 2022 SAUDI ARABIA 9/30 ~ 10/1 📍KCON 2022 JAPAN 10/14 ~ 10/16(JST)",
+			"url": "https://t.co/IDnJhWoZ59",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWoZ59",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 462299,
+			"friends_count": 76,
+			"listed_count": 1130,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 138,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12956,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1567787455188987905/sAYoOtFz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1567787455188987905/sAYoOtFz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1662638939",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 232,
+		"favorite_count": 532,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "📢 KCON 2022 LA BACKSTAGE BEHIND 🎪 💙OPEN💚\n\n👀🔗 https://t.co/ZhKvuLWnIw\n\n✔️Provided to YouTube KCON official ALL ACCESS and above Membership\n✔️유튜브 KCON official 채널 KCON ALL ACCESS 이상 멤버십 한정\n✔️YouTube KCON officialのKCON ALL ACCESS以上メンバーシップ限定\n\n#KCON2022LA https://t.co/tzgVRrtPjC"
+	},
+	{
 		"created_at": "Fri Sep 09 10:11:22 +0000 2022",
 		"id": 1568180255692849200,
 		"id_str": "1568180255692849152",
