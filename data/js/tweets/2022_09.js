@@ -1,6 +1,954 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Fri Sep 09 10:11:22 +0000 2022",
+		"id": 1568180255692849200,
+		"id_str": "1568180255692849152",
+		"full_text": "#딩고뮤직 #dingo_music\n외롭고 지칠 때 듣는 노래 #Shorts | 9월 13일 오후 7시 본편 공개!\nhttps://t.co/ndGJsIPJ8M",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "딩고뮤직",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "dingo_music",
+					"indices": [
+						6,
+						18
+					]
+				},
+				{
+					"text": "Shorts",
+					"indices": [
+						34,
+						41
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ndGJsIPJ8M",
+					"expanded_url": "https://youtu.be/WuaVQmOhtmo",
+					"display_url": "youtu.be/WuaVQmOhtmo",
+					"indices": [
+						64,
+						87
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 254,
+			"friends_count": 461,
+			"listed_count": 0,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 235,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 87936,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#딩고뮤직 #dingo_music\n외롭고 지칠 때 듣는 노래 #Shorts | 9월 13일 오후 7시 본편 공개!\nhttps://t.co/ndGJsIPJ8M"
+	},
+	{
+		"created_at": "Fri Sep 09 09:58:42 +0000 2022",
+		"id": 1568168051903971300,
+		"id_str": "1568177067467882497",
+		"full_text": "#부산국제록페스티벌 #부산록페 #부산락페 #부락 #록페스티벌 #페스티벌 #부산축제 #락페 #BusanRockFestival #BusanInternationalRockFestival #BusanRock #BuRock #BIRF #Festival #Busan",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "부산국제록페스티벌",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "부산록페",
+					"indices": [
+						11,
+						16
+					]
+				},
+				{
+					"text": "부산락페",
+					"indices": [
+						17,
+						22
+					]
+				},
+				{
+					"text": "부락",
+					"indices": [
+						23,
+						26
+					]
+				},
+				{
+					"text": "록페스티벌",
+					"indices": [
+						27,
+						33
+					]
+				},
+				{
+					"text": "페스티벌",
+					"indices": [
+						34,
+						39
+					]
+				},
+				{
+					"text": "부산축제",
+					"indices": [
+						40,
+						45
+					]
+				},
+				{
+					"text": "락페",
+					"indices": [
+						46,
+						49
+					]
+				},
+				{
+					"text": "BusanRockFestival",
+					"indices": [
+						50,
+						68
+					]
+				},
+				{
+					"text": "BusanInternationalRockFestival",
+					"indices": [
+						69,
+						100
+					]
+				},
+				{
+					"text": "BusanRock",
+					"indices": [
+						101,
+						111
+					]
+				},
+				{
+					"text": "BuRock",
+					"indices": [
+						112,
+						119
+					]
+				},
+				{
+					"text": "BIRF",
+					"indices": [
+						120,
+						125
+					]
+				},
+				{
+					"text": "Festival",
+					"indices": [
+						126,
+						135
+					]
+				},
+				{
+					"text": "Busan",
+					"indices": [
+						136,
+						142
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1568168049366413300,
+		"in_reply_to_status_id_str": "1568168049366413312",
+		"in_reply_to_user_id": 3116631529,
+		"in_reply_to_user_id_str": "3116631529",
+		"in_reply_to_screen_name": "busan_rock",
+		"user": {
+			"id": 3116631529,
+			"id_str": "3116631529",
+			"name": "BusanRockFest Official",
+			"screen_name": "busan_rock",
+			"location": "",
+			"description": "라인업 관련 글은 따로 답글을 드리지 않습니다. 양해 부탁드립니다.",
+			"url": "https://t.co/amJVO1H58j",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/amJVO1H58j",
+							"expanded_url": "https://busanrockfestival.com/",
+							"display_url": "busanrockfestival.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2125,
+			"friends_count": 0,
+			"listed_count": 6,
+			"created_at": "Mon Mar 30 07:04:06 +0000 2015",
+			"favourites_count": 16,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 595,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227400250001780736/hUySDDes_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227400250001780736/hUySDDes_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3116631529/1658801341",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "qht",
+		"text": "#부산국제록페스티벌 #부산록페 #부산락페 #부락 #록페스티벌 #페스티벌 #부산축제 #락페 #BusanRockFestival #BusanInternationalRockFestival #BusanRock #BuRock #BIRF #Festival #Busan"
+	},
+	{
+		"created_at": "Fri Sep 09 09:58:39 +0000 2022",
+		"id": 1568168049366413300,
+		"id_str": "1568177054369071105",
+		"full_text": "■ 2022 Busan International Rock Festival\n- Date: 2022. 10. 1 (Sat) ~ 2 (Sun), 2 days\n- Venue: Samnak Ecological Park\n- Ticket: 1 day pass 88,000 won / 2 day pass 132,000 won\n- Reservation site: YES24 Ticket (▶ Profile link)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			223
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1568168045616705500,
+		"in_reply_to_status_id_str": "1568168045616705537",
+		"in_reply_to_user_id": 3116631529,
+		"in_reply_to_user_id_str": "3116631529",
+		"in_reply_to_screen_name": "busan_rock",
+		"user": {
+			"id": 3116631529,
+			"id_str": "3116631529",
+			"name": "BusanRockFest Official",
+			"screen_name": "busan_rock",
+			"location": "",
+			"description": "라인업 관련 글은 따로 답글을 드리지 않습니다. 양해 부탁드립니다.",
+			"url": "https://t.co/amJVO1H58j",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/amJVO1H58j",
+							"expanded_url": "https://busanrockfestival.com/",
+							"display_url": "busanrockfestival.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2125,
+			"friends_count": 0,
+			"listed_count": 6,
+			"created_at": "Mon Mar 30 07:04:06 +0000 2015",
+			"favourites_count": 16,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 595,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227400250001780736/hUySDDes_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227400250001780736/hUySDDes_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3116631529/1658801341",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "■ 2022 Busan International Rock Festival\n- Date: 2022. 10. 1 (Sat) ~ 2 (Sun), 2 days\n- Venue: Samnak Ecological Park\n- Ticket: 1 day pass 88,000 won / 2 day pass 132,000 won\n- Reservation site: YES24 Ticket (▶ Profile link)"
+	},
+	{
+		"created_at": "Fri Sep 09 09:58:31 +0000 2022",
+		"id": 1568168045616705500,
+		"id_str": "1568177020328099843",
+		"full_text": "Thank you for your support for the 'Busan International Rock Festival - First Step Rock Festival'.\nThank you to all the artists, and we sincerely bless your precious first step.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1568168042500362200,
+		"in_reply_to_status_id_str": "1568168042500362240",
+		"in_reply_to_user_id": 3116631529,
+		"in_reply_to_user_id_str": "3116631529",
+		"in_reply_to_screen_name": "busan_rock",
+		"user": {
+			"id": 3116631529,
+			"id_str": "3116631529",
+			"name": "BusanRockFest Official",
+			"screen_name": "busan_rock",
+			"location": "",
+			"description": "라인업 관련 글은 따로 답글을 드리지 않습니다. 양해 부탁드립니다.",
+			"url": "https://t.co/amJVO1H58j",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/amJVO1H58j",
+							"expanded_url": "https://busanrockfestival.com/",
+							"display_url": "busanrockfestival.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2125,
+			"friends_count": 0,
+			"listed_count": 6,
+			"created_at": "Mon Mar 30 07:04:06 +0000 2015",
+			"favourites_count": 16,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 595,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227400250001780736/hUySDDes_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227400250001780736/hUySDDes_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3116631529/1658801341",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Thank you for your support for the 'Busan International Rock Festival - First Step Rock Festival'.\nThank you to all the artists, and we sincerely bless your precious first step."
+	},
+	{
+		"created_at": "Fri Sep 09 09:58:26 +0000 2022",
+		"id": 1568168042500362200,
+		"id_str": "1568176998769475585",
+		"full_text": "Please enjoy the final competetion of TOP 10 at the rising stage of the 2022 Busan International Rock Festival.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1568168039723733000,
+		"in_reply_to_status_id_str": "1568168039723732994",
+		"in_reply_to_user_id": 3116631529,
+		"in_reply_to_user_id_str": "3116631529",
+		"in_reply_to_screen_name": "busan_rock",
+		"user": {
+			"id": 3116631529,
+			"id_str": "3116631529",
+			"name": "BusanRockFest Official",
+			"screen_name": "busan_rock",
+			"location": "",
+			"description": "라인업 관련 글은 따로 답글을 드리지 않습니다. 양해 부탁드립니다.",
+			"url": "https://t.co/amJVO1H58j",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/amJVO1H58j",
+							"expanded_url": "https://busanrockfestival.com/",
+							"display_url": "busanrockfestival.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2125,
+			"friends_count": 0,
+			"listed_count": 6,
+			"created_at": "Mon Mar 30 07:04:06 +0000 2015",
+			"favourites_count": 16,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 595,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227400250001780736/hUySDDes_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227400250001780736/hUySDDes_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3116631529/1658801341",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Please enjoy the final competetion of TOP 10 at the rising stage of the 2022 Busan International Rock Festival."
+	},
+	{
+		"created_at": "Fri Sep 09 09:58:21 +0000 2022",
+		"id": 1568168039723733000,
+		"id_str": "1568176977273552896",
+		"full_text": "🔥2022 BIRF - First Step Rock Festival!🔥\n\nAnnouncing the 10 teams selected for the TOP 10.\nThe judges included music critic \"Yunha Kim\", \"Yohan Ok (OYHN)\" from Pia and relevant experts participated.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1568168036317933600,
+		"in_reply_to_status_id_str": "1568168036317933568",
+		"in_reply_to_user_id": 3116631529,
+		"in_reply_to_user_id_str": "3116631529",
+		"in_reply_to_screen_name": "busan_rock",
+		"user": {
+			"id": 3116631529,
+			"id_str": "3116631529",
+			"name": "BusanRockFest Official",
+			"screen_name": "busan_rock",
+			"location": "",
+			"description": "라인업 관련 글은 따로 답글을 드리지 않습니다. 양해 부탁드립니다.",
+			"url": "https://t.co/amJVO1H58j",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/amJVO1H58j",
+							"expanded_url": "https://busanrockfestival.com/",
+							"display_url": "busanrockfestival.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2125,
+			"friends_count": 0,
+			"listed_count": 6,
+			"created_at": "Mon Mar 30 07:04:06 +0000 2015",
+			"favourites_count": 16,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 595,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227400250001780736/hUySDDes_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227400250001780736/hUySDDes_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3116631529/1658801341",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "🔥2022 BIRF - First Step Rock Festival!🔥\n\nAnnouncing the 10 teams selected for the TOP 10.\nThe judges included music critic \"Yunha Kim\", \"Yohan Ok (OYHN)\" from Pia and relevant experts participated."
+	},
+	{
+		"created_at": "Fri Sep 09 09:58:15 +0000 2022",
+		"id": 1568168036317933600,
+		"id_str": "1568176951503749128",
+		"full_text": "다시한번 '부산국제록페스티벌-첫걸음 돌잔치'에 지원해주신\n모든 아티스트분들께 감사드리며, 소중한 첫걸음을 진심으로 응원합니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1568168033902014500,
+		"in_reply_to_status_id_str": "1568168033902014464",
+		"in_reply_to_user_id": 3116631529,
+		"in_reply_to_user_id_str": "3116631529",
+		"in_reply_to_screen_name": "busan_rock",
+		"user": {
+			"id": 3116631529,
+			"id_str": "3116631529",
+			"name": "BusanRockFest Official",
+			"screen_name": "busan_rock",
+			"location": "",
+			"description": "라인업 관련 글은 따로 답글을 드리지 않습니다. 양해 부탁드립니다.",
+			"url": "https://t.co/amJVO1H58j",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/amJVO1H58j",
+							"expanded_url": "https://busanrockfestival.com/",
+							"display_url": "busanrockfestival.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2125,
+			"friends_count": 0,
+			"listed_count": 6,
+			"created_at": "Mon Mar 30 07:04:06 +0000 2015",
+			"favourites_count": 16,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 595,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227400250001780736/hUySDDes_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227400250001780736/hUySDDes_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3116631529/1658801341",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "다시한번 '부산국제록페스티벌-첫걸음 돌잔치'에 지원해주신\n모든 아티스트분들께 감사드리며, 소중한 첫걸음을 진심으로 응원합니다."
+	},
+	{
+		"created_at": "Fri Sep 09 09:29:33 +0000 2022",
+		"id": 1568162572133892000,
+		"id_str": "1568169729646264320",
+		"full_text": "Can’t stand the traffic jam on the way home🚘\nHere is your stress relief high-note collection .zip 😎\n\n#ABYSSCOMPANY #Chuseok\n#HappyChuseok_with_ABYSSFAM🌕",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ABYSSCOMPANY",
+					"indices": [
+						101,
+						114
+					]
+				},
+				{
+					"text": "Chuseok",
+					"indices": [
+						115,
+						123
+					]
+				},
+				{
+					"text": "HappyChuseok_with_ABYSSFAM",
+					"indices": [
+						124,
+						151
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1568162302045585400,
+		"in_reply_to_status_id_str": "1568162302045585410",
+		"in_reply_to_user_id": 748379922209583100,
+		"in_reply_to_user_id_str": "748379922209583104",
+		"in_reply_to_screen_name": "ABYSS_COMPANY",
+		"user": {
+			"id": 748379922209583100,
+			"id_str": "748379922209583104",
+			"name": "ABYSS COMPANY",
+			"screen_name": "ABYSS_COMPANY",
+			"location": "",
+			"description": "ABYSS COMPANY Official Twitter",
+			"url": "https://t.co/FXx196IZXh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FXx196IZXh",
+							"expanded_url": "http://abysscompany.com/",
+							"display_url": "abysscompany.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 165098,
+			"friends_count": 9,
+			"listed_count": 277,
+			"created_at": "Thu Jun 30 04:57:32 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 512,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1358610179030306818/g8xwAYsj_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1358610179030306818/g8xwAYsj_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/748379922209583104/1612752885",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 61,
+		"favorite_count": 121,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Can’t stand the traffic jam on the way home🚘\nHere is your stress relief high-note collection .zip 😎\n\n#ABYSSCOMPANY #Chuseok\n#HappyChuseok_with_ABYSSFAM🌕"
+	},
+	{
 		"created_at": "Fri Sep 09 09:11:17 +0000 2022",
 		"id": 1568136969204695000,
 		"id_str": "1568165131707637761",
