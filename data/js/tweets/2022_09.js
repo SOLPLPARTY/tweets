@@ -1,6 +1,510 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Fri Sep 09 07:13:49 +0000 2022",
+		"id": 1568135571696156700,
+		"id_str": "1568135571696156672",
+		"full_text": "#소니뮤직코리아 #Sony_Music_Korea\n#엄마아빠할머니할아버지 온가족 둘러앉아 듣는 #러빙유걸 🤗\nhttps://t.co/0cMYGwVfAC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "소니뮤직코리아",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Sony_Music_Korea",
+					"indices": [
+						9,
+						26
+					]
+				},
+				{
+					"text": "엄마아빠할머니할아버지",
+					"indices": [
+						27,
+						39
+					]
+				},
+				{
+					"text": "러빙유걸",
+					"indices": [
+						52,
+						57
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0cMYGwVfAC",
+					"expanded_url": "https://youtu.be/R06YqIo7jSE",
+					"display_url": "youtu.be/R06YqIo7jSE",
+					"indices": [
+						60,
+						83
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 254,
+			"friends_count": 461,
+			"listed_count": 0,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 235,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 87926,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#소니뮤직코리아 #Sony_Music_Korea\n#엄마아빠할머니할아버지 온가족 둘러앉아 듣는 #러빙유걸 🤗\nhttps://t.co/0cMYGwVfAC"
+	},
+	{
+		"created_at": "Fri Sep 09 06:58:15 +0000 2022",
+		"id": 1568117002312601600,
+		"id_str": "1568131653595271169",
+		"full_text": "📢 KCON 2022 LA SERO CAM 🎥 💙OPEN💚\n\n👀🔗 https://t.co/qN6QxGJQ6d\n\n✔️Provided to YouTube KCON official PREMIUM and above Membership\n✔️유튜브 KCON official 채널 KCON PREMIUM 이상 멤버십 한정\n✔️YouTube KCON officialのKCON PREMIUM以上メンバーシップ限定\n\n#KCON #KCON2022LA https://t.co/N4vAww7KUn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			239
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						222,
+						227
+					]
+				},
+				{
+					"text": "KCON2022LA",
+					"indices": [
+						228,
+						239
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qN6QxGJQ6d",
+					"expanded_url": "https://bit.ly/KCON2022LASEROCAM",
+					"display_url": "bit.ly/KCON2022LASERO…",
+					"indices": [
+						37,
+						60
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1567764535267967000,
+					"id_str": "1567764535267966976",
+					"indices": [
+						240,
+						263
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1567764535267966976/pu/img/mItgg2lxpgyeim85.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1567764535267966976/pu/img/mItgg2lxpgyeim85.jpg",
+					"url": "https://t.co/N4vAww7KUn",
+					"display_url": "pic.twitter.com/N4vAww7KUn",
+					"expanded_url": "https://twitter.com/KCON_official/status/1568117002312601600/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1567764535267967000,
+					"id_str": "1567764535267966976",
+					"indices": [
+						240,
+						263
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1567764535267966976/pu/img/mItgg2lxpgyeim85.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1567764535267966976/pu/img/mItgg2lxpgyeim85.jpg",
+					"url": "https://t.co/N4vAww7KUn",
+					"display_url": "pic.twitter.com/N4vAww7KUn",
+					"expanded_url": "https://twitter.com/KCON_official/status/1568117002312601600/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 8000,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1567764535267966976/pu/vid/720x720/mRqIqVoUEhUIKZil.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1567764535267966976/pu/vid/320x320/HWZbX7R5LARgp6nD.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1567764535267966976/pu/vid/540x540/ABdNwhMlh2Un2DAX.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1567764535267966976/pu/pl/0TTBGjN6jZRMIH6w.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER 📍 KCON 2022 SAUDI ARABIA 9/30 ~ 10/1 📍KCON 2022 JAPAN 10/14 ~ 10/16(JST)",
+			"url": "https://t.co/IDnJhWoZ59",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWoZ59",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 462231,
+			"friends_count": 76,
+			"listed_count": 1128,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 138,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12955,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1567787455188987905/sAYoOtFz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1567787455188987905/sAYoOtFz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1662638939",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 86,
+		"favorite_count": 231,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "📢 KCON 2022 LA SERO CAM 🎥 💙OPEN💚\n\n👀🔗 https://t.co/qN6QxGJQ6d\n\n✔️Provided to YouTube KCON official PREMIUM and above Membership\n✔️유튜브 KCON official 채널 KCON PREMIUM 이상 멤버십 한정\n✔️YouTube KCON officialのKCON PREMIUM以上メンバーシップ限定\n\n#KCON #KCON2022LA https://t.co/N4vAww7KUn"
+	},
+	{
+		"created_at": "Fri Sep 09 06:29:28 +0000 2022",
+		"id": 1568117041357533200,
+		"id_str": "1568124409398845440",
+		"full_text": "Starting your way home❗️\n\nWho is your PICK🥰 for your \nreturn home seatmate!?\n\n#ABYSSCOMPANY #Chuseok\n#HappyChuseok_with_ABYSSFAM🌕",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ABYSSCOMPANY",
+					"indices": [
+						78,
+						91
+					]
+				},
+				{
+					"text": "Chuseok",
+					"indices": [
+						92,
+						100
+					]
+				},
+				{
+					"text": "HappyChuseok_with_ABYSSFAM",
+					"indices": [
+						101,
+						128
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1568116994687107000,
+		"in_reply_to_status_id_str": "1568116994687107072",
+		"in_reply_to_user_id": 748379922209583100,
+		"in_reply_to_user_id_str": "748379922209583104",
+		"in_reply_to_screen_name": "ABYSS_COMPANY",
+		"user": {
+			"id": 748379922209583100,
+			"id_str": "748379922209583104",
+			"name": "ABYSS COMPANY",
+			"screen_name": "ABYSS_COMPANY",
+			"location": "",
+			"description": "ABYSS COMPANY Official Twitter",
+			"url": "https://t.co/FXx196IZXh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FXx196IZXh",
+							"expanded_url": "http://abysscompany.com/",
+							"display_url": "abysscompany.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 165097,
+			"friends_count": 9,
+			"listed_count": 277,
+			"created_at": "Thu Jun 30 04:57:32 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 510,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1358610179030306818/g8xwAYsj_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1358610179030306818/g8xwAYsj_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/748379922209583104/1612752885",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 195,
+		"favorite_count": 199,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Starting your way home❗️\n\nWho is your PICK🥰 for your \nreturn home seatmate!?\n\n#ABYSSCOMPANY #Chuseok\n#HappyChuseok_with_ABYSSFAM🌕"
+	},
+	{
 		"created_at": "Fri Sep 09 05:29:25 +0000 2022",
 		"id": 1568102272135200800,
 		"id_str": "1568109296805711879",
