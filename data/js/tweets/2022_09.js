@@ -1,6 +1,124 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Sat Sep 10 12:29:28 +0000 2022",
+		"id": 1568570213523923000,
+		"id_str": "1568577395300483073",
+		"full_text": "✅ I’m not a robot\nSelect all images that look awkward when you're with your relatives \n\nDid someone capture my expression in real time.. 🙄\n\n👨‍👩‍👧‍👧 : If we make eye contact, we’ll talk about your future\n\n#ABYSSCOMPANY #Chuseok\n#HappyChuseok_with_ABYSSFAM🌕",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			255
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ABYSSCOMPANY",
+					"indices": [
+						204,
+						217
+					]
+				},
+				{
+					"text": "Chuseok",
+					"indices": [
+						218,
+						226
+					]
+				},
+				{
+					"text": "HappyChuseok_with_ABYSSFAM",
+					"indices": [
+						227,
+						254
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1568569995574943700,
+		"in_reply_to_status_id_str": "1568569995574943744",
+		"in_reply_to_user_id": 748379922209583100,
+		"in_reply_to_user_id_str": "748379922209583104",
+		"in_reply_to_screen_name": "ABYSS_COMPANY",
+		"user": {
+			"id": 748379922209583100,
+			"id_str": "748379922209583104",
+			"name": "ABYSS COMPANY",
+			"screen_name": "ABYSS_COMPANY",
+			"location": "",
+			"description": "ABYSS COMPANY Official Twitter",
+			"url": "https://t.co/FXx196IZXh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FXx196IZXh",
+							"expanded_url": "http://abysscompany.com/",
+							"display_url": "abysscompany.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 165215,
+			"friends_count": 9,
+			"listed_count": 277,
+			"created_at": "Thu Jun 30 04:57:32 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 523,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1358610179030306818/g8xwAYsj_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1358610179030306818/g8xwAYsj_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/748379922209583104/1612752885",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 200,
+		"favorite_count": 194,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "✅ I’m not a robot\nSelect all images that look awkward when you're with your relatives \n\nDid someone capture my expression in real time.. 🙄\n\n👨‍👩‍👧‍👧 : If we make eye contact, we’ll talk about your future\n\n#ABYSSCOMPANY #Chuseok\n#HappyChuseok_with_ABYSSFAM🌕"
+	},
+	{
 		"created_at": "Sat Sep 10 12:02:00 +0000 2022",
 		"id": 1568570482815008800,
 		"id_str": "1568570482815008768",
