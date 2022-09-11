@@ -1,6 +1,923 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Sun Sep 11 05:11:17 +0000 2022",
+		"id": 1568825706054045700,
+		"id_str": "1568829509088022529",
+		"full_text": "조직 밖 노동자로서 꼭 맞는 일과 속도를 찾고자 여러가지 ‘일-실험’에 도전한 이야기를 에세이와 4컷 만화로 엮은 연옥 에세이 &lt;지워지는 나를 지키는 일&gt; 이 공상온도 온라인스토어와 오프라인에 모두 입고되었어요! 지금 공상온도 스토어에서 만나보세요!!! https://t.co/vHXjHGUhz8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1568825699695460400,
+					"id_str": "1568825699695460352",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/FcWWqXDaAAA3nxZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcWWqXDaAAA3nxZ.jpg",
+					"url": "https://t.co/vHXjHGUhz8",
+					"display_url": "pic.twitter.com/vHXjHGUhz8",
+					"expanded_url": "https://twitter.com/gongsangondo/status/1568825706054045700/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1568825699695460400,
+					"id_str": "1568825699695460352",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/FcWWqXDaAAA3nxZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcWWqXDaAAA3nxZ.jpg",
+					"url": "https://t.co/vHXjHGUhz8",
+					"display_url": "pic.twitter.com/vHXjHGUhz8",
+					"expanded_url": "https://twitter.com/gongsangondo/status/1568825706054045700/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 720862057243914200,
+			"id_str": "720862057243914240",
+			"name": "공상온도",
+			"screen_name": "gongsangondo",
+			"location": "대한민국 마포구 동교로23길 40",
+			"description": "카페를 기반으로 한 대안공간,갤러리,공연장,아트마켓의 복합문화공간! 서울시 마포구 동교로23길 40 아트마켓 입점,대관 : gongsangondo@gmail.com {ARTIST지원} 아티스트 증명시, 제조음료 30%할인",
+			"url": "https://t.co/GbMQgcSSJ2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GbMQgcSSJ2",
+							"expanded_url": "http://linktr.ee/gongsangondo",
+							"display_url": "linktr.ee/gongsangondo",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 424,
+			"friends_count": 216,
+			"listed_count": 7,
+			"created_at": "Fri Apr 15 06:31:22 +0000 2016",
+			"favourites_count": 1165,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3247,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/720863690283622400/Rh9cF7Fa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/720863690283622400/Rh9cF7Fa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/720862057243914240/1460702295",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "조직 밖 노동자로서 꼭 맞는 일과 속도를 찾고자 여러가지 ‘일-실험’에 도전한 이야기를 에세이와 4컷 만화로 엮은 연옥 에세이 &lt;지워지는 나를 지키는 일&gt; 이 공상온도 온라인스토어와 오프라인에 모두 입고되었어요! 지금 공상온도 스토어에서 만나보세요!!! https://t.co/vHXjHGUhz8"
+	},
+	{
+		"created_at": "Sun Sep 11 04:29:42 +0000 2022",
+		"id": 1568818239723171800,
+		"id_str": "1568819047566909441",
+		"full_text": "#몽돌 #Running #오늘의신곡\n\nhttps://t.co/GP9XQL9v1T https://t.co/iJhaeQ0BHv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "몽돌",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "Running",
+					"indices": [
+						4,
+						12
+					]
+				},
+				{
+					"text": "오늘의신곡",
+					"indices": [
+						13,
+						19
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GP9XQL9v1T",
+					"expanded_url": "https://linktr.ee/newrubymusic",
+					"display_url": "linktr.ee/newrubymusic",
+					"indices": [
+						21,
+						44
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1568817972524843000,
+					"id_str": "1568817972524843008",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1568817972524843008/pu/img/rcgFah9Rj9htjNIN.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1568817972524843008/pu/img/rcgFah9Rj9htjNIN.jpg",
+					"url": "https://t.co/iJhaeQ0BHv",
+					"display_url": "pic.twitter.com/iJhaeQ0BHv",
+					"expanded_url": "https://twitter.com/ruby_records/status/1568818239723171841/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1568817972524843000,
+					"id_str": "1568817972524843008",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1568817972524843008/pu/img/rcgFah9Rj9htjNIN.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1568817972524843008/pu/img/rcgFah9Rj9htjNIN.jpg",
+					"url": "https://t.co/iJhaeQ0BHv",
+					"display_url": "pic.twitter.com/iJhaeQ0BHv",
+					"expanded_url": "https://twitter.com/ruby_records/status/1568818239723171841/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 34534,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1568817972524843008/pu/pl/pIaZtKEM9hzu-RKL.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1568817972524843008/pu/vid/1280x720/s-i1LJo7sQqyruGc.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1568817972524843008/pu/vid/640x360/75zt0A-oHS-yEFaP.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1568817972524843008/pu/vid/480x270/XMK0rvvh3deaKm-r.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110930534,
+			"id_str": "110930534",
+			"name": "Ruby records",
+			"screen_name": "ruby_records",
+			"location": "대한민국 서울",
+			"description": "💎 루비레코드 #루비튜브 Rubytube #인천여관X루비살롱 rubysalon #스마일러브위크엔드 #모트 Motte #레인보우노트 RBN #우예린 yerin",
+			"url": "https://t.co/vLFrhW6ba0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vLFrhW6ba0",
+							"expanded_url": "http://youtube.com/user/rubysalon",
+							"display_url": "youtube.com/user/rubysalon",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7542,
+			"friends_count": 8175,
+			"listed_count": 195,
+			"created_at": "Wed Feb 03 07:13:24 +0000 2010",
+			"favourites_count": 1018,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7737,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1403718575479681030/-FWGVqIS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1403718575479681030/-FWGVqIS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110930534/1623507563",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "1a27537478dd8e38",
+			"url": "https://api.twitter.com/1.1/geo/id/1a27537478dd8e38.json",
+			"place_type": "city",
+			"name": "Barcelona",
+			"full_name": "Barcelona, España",
+			"country_code": "ES",
+			"country": "España",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							2.0524766,
+							41.3170475
+						],
+						[
+							2.2299781,
+							41.3170475
+						],
+						[
+							2.2299781,
+							41.4682658
+						],
+						[
+							2.0524766,
+							41.4682658
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "qme",
+		"text": "#몽돌 #Running #오늘의신곡\n\nhttps://t.co/GP9XQL9v1T https://t.co/iJhaeQ0BHv"
+	},
+	{
+		"created_at": "Sun Sep 11 04:29:35 +0000 2022",
+		"id": 1568814238734368800,
+		"id_str": "1568819017711845376",
+		"full_text": "MV #몽돌 #Running #오늘의신곡\n\nhttps://t.co/qlsv59JXdw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			47
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "몽돌",
+					"indices": [
+						3,
+						6
+					]
+				},
+				{
+					"text": "Running",
+					"indices": [
+						7,
+						15
+					]
+				},
+				{
+					"text": "오늘의신곡",
+					"indices": [
+						16,
+						22
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qlsv59JXdw",
+					"expanded_url": "https://youtu.be/MG3kKRAfY4M",
+					"display_url": "youtu.be/MG3kKRAfY4M",
+					"indices": [
+						24,
+						47
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110930534,
+			"id_str": "110930534",
+			"name": "Ruby records",
+			"screen_name": "ruby_records",
+			"location": "대한민국 서울",
+			"description": "💎 루비레코드 #루비튜브 Rubytube #인천여관X루비살롱 rubysalon #스마일러브위크엔드 #모트 Motte #레인보우노트 RBN #우예린 yerin",
+			"url": "https://t.co/vLFrhW6ba0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vLFrhW6ba0",
+							"expanded_url": "http://youtube.com/user/rubysalon",
+							"display_url": "youtube.com/user/rubysalon",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7542,
+			"friends_count": 8175,
+			"listed_count": 195,
+			"created_at": "Wed Feb 03 07:13:24 +0000 2010",
+			"favourites_count": 1018,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7737,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1403718575479681030/-FWGVqIS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1403718575479681030/-FWGVqIS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110930534/1623507563",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "1a27537478dd8e38",
+			"url": "https://api.twitter.com/1.1/geo/id/1a27537478dd8e38.json",
+			"place_type": "city",
+			"name": "Barcelona",
+			"full_name": "Barcelona, España",
+			"country_code": "ES",
+			"country": "España",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							2.0524766,
+							41.3170475
+						],
+						[
+							2.2299781,
+							41.3170475
+						],
+						[
+							2.2299781,
+							41.4682658
+						],
+						[
+							2.0524766,
+							41.4682658
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "MV #몽돌 #Running #오늘의신곡\n\nhttps://t.co/qlsv59JXdw"
+	},
+	{
+		"created_at": "Sun Sep 11 04:29:33 +0000 2022",
+		"id": 1568813937357131800,
+		"id_str": "1568819008861884417",
+		"full_text": "소리꾼 ‘이자람’이 출연한 &lt;차이나는 K-클라스&gt;를 잘 보셨나요? 본방사수를 하지 못하셨다면, 아래의 링크를 확인해 주세요!\n\n📺 JTBC\nhttps://t.co/wbqmemDVLY\n\n📺 TVING\nhttps://t.co/CD48mpDu5k\n\n#이자람 #차이나는클라스 #차이나는K클라스 #판소리",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이자람",
+					"indices": [
+						142,
+						146
+					]
+				},
+				{
+					"text": "차이나는클라스",
+					"indices": [
+						147,
+						155
+					]
+				},
+				{
+					"text": "차이나는K클라스",
+					"indices": [
+						156,
+						165
+					]
+				},
+				{
+					"text": "판소리",
+					"indices": [
+						166,
+						170
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wbqmemDVLY",
+					"expanded_url": "https://mtv.jtbc.co.kr/replay/pr10010461/pm10041949/ep20177284/view",
+					"display_url": "mtv.jtbc.co.kr/replay/pr10010…",
+					"indices": [
+						84,
+						107
+					]
+				},
+				{
+					"url": "https://t.co/CD48mpDu5k",
+					"expanded_url": "http://www.tving.com/vod/player/E003791788",
+					"display_url": "tving.com/vod/player/E00…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 613235782,
+			"id_str": "613235782",
+			"name": "BLUE BOY",
+			"screen_name": "blueboy_kr",
+			"location": "",
+			"description": "언니네 이발관 / Wouter Hamel / 이자람 판소리 / 한승석&정재일 / [info.blueboy@gmail.com]",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1269,
+			"friends_count": 183,
+			"listed_count": 14,
+			"created_at": "Wed Jun 20 07:48:47 +0000 2012",
+			"favourites_count": 113,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1848,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2341430994/loegdwbpnd5j4vueh8iz_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2341430994/loegdwbpnd5j4vueh8iz_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "소리꾼 ‘이자람’이 출연한 &lt;차이나는 K-클라스&gt;를 잘 보셨나요? 본방사수를 하지 못하셨다면, 아래의 링크를 확인해 주세요!\n\n📺 JTBC\nhttps://t.co/wbqmemDVLY\n\n📺 TVING\nhttps://t.co/CD48mpDu5k\n\n#이자람 #차이나는클라스 #차이나는K클라스 #판소리"
+	},
+	{
+		"created_at": "Sun Sep 11 04:29:29 +0000 2022",
+		"id": 1568813731617841200,
+		"id_str": "1568818991199666176",
+		"full_text": "밴드 #몽돌 #신곡 #Running 발매  #충남음악창작소\n\n🎧 https://t.co/GP9XQL8Xcl\n\nhttps://t.co/36gZ7eUTPI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "몽돌",
+					"indices": [
+						3,
+						6
+					]
+				},
+				{
+					"text": "신곡",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "Running",
+					"indices": [
+						11,
+						19
+					]
+				},
+				{
+					"text": "충남음악창작소",
+					"indices": [
+						24,
+						32
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GP9XQL8Xcl",
+					"expanded_url": "https://linktr.ee/newrubymusic",
+					"display_url": "linktr.ee/newrubymusic",
+					"indices": [
+						36,
+						59
+					]
+				},
+				{
+					"url": "https://t.co/36gZ7eUTPI",
+					"expanded_url": "https://youtu.be/jSOXJ_SyNxM",
+					"display_url": "youtu.be/jSOXJ_SyNxM",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110930534,
+			"id_str": "110930534",
+			"name": "Ruby records",
+			"screen_name": "ruby_records",
+			"location": "대한민국 서울",
+			"description": "💎 루비레코드 #루비튜브 Rubytube #인천여관X루비살롱 rubysalon #스마일러브위크엔드 #모트 Motte #레인보우노트 RBN #우예린 yerin",
+			"url": "https://t.co/vLFrhW6ba0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vLFrhW6ba0",
+							"expanded_url": "http://youtube.com/user/rubysalon",
+							"display_url": "youtube.com/user/rubysalon",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7542,
+			"friends_count": 8175,
+			"listed_count": 195,
+			"created_at": "Wed Feb 03 07:13:24 +0000 2010",
+			"favourites_count": 1018,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7737,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1403718575479681030/-FWGVqIS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1403718575479681030/-FWGVqIS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110930534/1623507563",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "1a27537478dd8e38",
+			"url": "https://api.twitter.com/1.1/geo/id/1a27537478dd8e38.json",
+			"place_type": "city",
+			"name": "Barcelona",
+			"full_name": "Barcelona, España",
+			"country_code": "ES",
+			"country": "España",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							2.0524766,
+							41.3170475
+						],
+						[
+							2.2299781,
+							41.3170475
+						],
+						[
+							2.2299781,
+							41.4682658
+						],
+						[
+							2.0524766,
+							41.4682658
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "밴드 #몽돌 #신곡 #Running 발매  #충남음악창작소\n\n🎧 https://t.co/GP9XQL8Xcl\n\nhttps://t.co/36gZ7eUTPI"
+	},
+	{
 		"created_at": "Sun Sep 11 03:29:25 +0000 2022",
 		"id": 1568803014193848300,
 		"id_str": "1568803874953199619",
