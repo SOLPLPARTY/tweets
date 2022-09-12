@@ -1,6 +1,288 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Mon Sep 12 06:29:30 +0000 2022",
+		"id": 1569205131501252600,
+		"id_str": "1569211582873325569",
+		"full_text": "[#MTS] 미스틱스토리 Monday To Sunday🔔\n\n🔗https://t.co/KgCoBdatwS\n\n#인사이드리릭스 #정진운 #Billlie #정태우 #이찬형 #홍자 #LUCY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MTS",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "인사이드리릭스",
+					"indices": [
+						59,
+						67
+					]
+				},
+				{
+					"text": "정진운",
+					"indices": [
+						68,
+						72
+					]
+				},
+				{
+					"text": "Billlie",
+					"indices": [
+						73,
+						81
+					]
+				},
+				{
+					"text": "정태우",
+					"indices": [
+						82,
+						86
+					]
+				},
+				{
+					"text": "이찬형",
+					"indices": [
+						87,
+						91
+					]
+				},
+				{
+					"text": "홍자",
+					"indices": [
+						92,
+						95
+					]
+				},
+				{
+					"text": "LUCY",
+					"indices": [
+						96,
+						101
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KgCoBdatwS",
+					"expanded_url": "https://bit.ly/3xgMHBQ",
+					"display_url": "bit.ly/3xgMHBQ",
+					"indices": [
+						34,
+						57
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/pgQyM4fB27",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pgQyM4fB27",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37480,
+			"friends_count": 14,
+			"listed_count": 304,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7219,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1661267008",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#MTS] 미스틱스토리 Monday To Sunday🔔\n\n🔗https://t.co/KgCoBdatwS\n\n#인사이드리릭스 #정진운 #Billlie #정태우 #이찬형 #홍자 #LUCY"
+	},
+	{
+		"created_at": "Mon Sep 12 06:29:28 +0000 2022",
+		"id": 1569204211078017000,
+		"id_str": "1569211573939408897",
+		"full_text": "Chuseok Talent Show, what do you prefer❓\nSinging like Kim MinSeok 🆚 Dancing like Sunmi\n\n#ABYSSCOMPANY #Chuseok\n#HappyChuseok_with_ABYSSFAM🌕",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ABYSSCOMPANY",
+					"indices": [
+						88,
+						101
+					]
+				},
+				{
+					"text": "Chuseok",
+					"indices": [
+						102,
+						110
+					]
+				},
+				{
+					"text": "HappyChuseok_with_ABYSSFAM",
+					"indices": [
+						111,
+						138
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1569204166131523600,
+		"in_reply_to_status_id_str": "1569204166131523584",
+		"in_reply_to_user_id": 748379922209583100,
+		"in_reply_to_user_id_str": "748379922209583104",
+		"in_reply_to_screen_name": "ABYSS_COMPANY",
+		"user": {
+			"id": 748379922209583100,
+			"id_str": "748379922209583104",
+			"name": "ABYSS COMPANY",
+			"screen_name": "ABYSS_COMPANY",
+			"location": "",
+			"description": "ABYSS COMPANY Official Twitter",
+			"url": "https://t.co/FXx196IZXh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FXx196IZXh",
+							"expanded_url": "http://abysscompany.com/",
+							"display_url": "abysscompany.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 165293,
+			"friends_count": 9,
+			"listed_count": 277,
+			"created_at": "Thu Jun 30 04:57:32 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 535,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1358610179030306818/g8xwAYsj_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1358610179030306818/g8xwAYsj_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/748379922209583104/1612752885",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 38,
+		"favorite_count": 89,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Chuseok Talent Show, what do you prefer❓\nSinging like Kim MinSeok 🆚 Dancing like Sunmi\n\n#ABYSSCOMPANY #Chuseok\n#HappyChuseok_with_ABYSSFAM🌕"
+	},
+	{
 		"created_at": "Mon Sep 12 05:10:26 +0000 2022",
 		"id": 1569191683627303000,
 		"id_str": "1569191683627302912",
