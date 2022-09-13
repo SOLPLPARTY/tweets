@@ -1,6 +1,662 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Tue Sep 13 07:29:34 +0000 2022",
+		"id": 1569582844539977700,
+		"id_str": "1569589087480201218",
+		"full_text": "2022 jun p &lt;Interlude&gt; 티켓오픈공지\n📢 https://t.co/BRmqjaNIgZ https://t.co/AZMCCCh3qs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BRmqjaNIgZ",
+					"expanded_url": "https://www.instagram.com/p/CicA_mdsHNB/?igshid=YmMyMTA2M2Y=",
+					"display_url": "instagram.com/p/CicA_mdsHNB/…",
+					"indices": [
+						38,
+						61
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1569582839506804700,
+					"id_str": "1569582839506804736",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/FchHRspaIAAepZT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FchHRspaIAAepZT.jpg",
+					"url": "https://t.co/AZMCCCh3qs",
+					"display_url": "pic.twitter.com/AZMCCCh3qs",
+					"expanded_url": "https://twitter.com/monotreemusic/status/1569582844539977729/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1333,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1569582839506804700,
+					"id_str": "1569582839506804736",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/FchHRspaIAAepZT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FchHRspaIAAepZT.jpg",
+					"url": "https://t.co/AZMCCCh3qs",
+					"display_url": "pic.twitter.com/AZMCCCh3qs",
+					"expanded_url": "https://twitter.com/monotreemusic/status/1569582844539977729/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1333,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135173608,
+			"id_str": "135173608",
+			"name": "MonoTree_official",
+			"screen_name": "monotreemusic",
+			"location": "Seoul, Korea",
+			"description": "Global Music Production and Publishing Company. (monotreemusic@gmail.com)",
+			"url": "https://t.co/RrGBgJa7Lc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RrGBgJa7Lc",
+							"expanded_url": "https://www.monotreemusic.com",
+							"display_url": "monotreemusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7416,
+			"friends_count": 0,
+			"listed_count": 53,
+			"created_at": "Tue Apr 20 14:55:42 +0000 2010",
+			"favourites_count": 19,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 394,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BF1238",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135173608/1426630031",
+			"profile_link_color": "BF1238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2022 jun p &lt;Interlude&gt; 티켓오픈공지\n📢 https://t.co/BRmqjaNIgZ https://t.co/AZMCCCh3qs"
+	},
+	{
+		"created_at": "Tue Sep 13 07:29:30 +0000 2022",
+		"id": 1569582430423765000,
+		"id_str": "1569589070203965440",
+		"full_text": "[Live Clip &amp; Lyric Video]\n몽돌 - Running\nMONGDOLL - Running\n\n🎬Running Live Clip 바로보기\nhttps://t.co/CP1J5hM8Q1\n🎬Running Lyric Video 바로보기\nhttps://t.co/GUM58Jjsh4\n\n📀Running 바로듣기\nhttps://t.co/GP9XQL9v1T\n\n#몽돌 #MONGDOLL\n#Running #러닝\n#충남음악창작소\n#ruby_records https://t.co/E9FHL0n4iu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			250
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "몽돌",
+					"indices": [
+						201,
+						204
+					]
+				},
+				{
+					"text": "MONGDOLL",
+					"indices": [
+						205,
+						214
+					]
+				},
+				{
+					"text": "Running",
+					"indices": [
+						215,
+						223
+					]
+				},
+				{
+					"text": "러닝",
+					"indices": [
+						224,
+						227
+					]
+				},
+				{
+					"text": "충남음악창작소",
+					"indices": [
+						228,
+						236
+					]
+				},
+				{
+					"text": "ruby_records",
+					"indices": [
+						237,
+						250
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CP1J5hM8Q1",
+					"expanded_url": "https://bit.ly/3B8ajK5",
+					"display_url": "bit.ly/3B8ajK5",
+					"indices": [
+						87,
+						110
+					]
+				},
+				{
+					"url": "https://t.co/GUM58Jjsh4",
+					"expanded_url": "https://bit.ly/3dcfikT",
+					"display_url": "bit.ly/3dcfikT",
+					"indices": [
+						137,
+						160
+					]
+				},
+				{
+					"url": "https://t.co/GP9XQL9v1T",
+					"expanded_url": "https://linktr.ee/newrubymusic",
+					"display_url": "linktr.ee/newrubymusic",
+					"indices": [
+						176,
+						199
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1569582192799682600,
+					"id_str": "1569582192799682560",
+					"indices": [
+						251,
+						274
+					],
+					"media_url": "http://pbs.twimg.com/media/FchGsDeakAAYjxM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FchGsDeakAAYjxM.jpg",
+					"url": "https://t.co/E9FHL0n4iu",
+					"display_url": "pic.twitter.com/E9FHL0n4iu",
+					"expanded_url": "https://twitter.com/ruby_records/status/1569582430423764995/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1569582192799682600,
+					"id_str": "1569582192799682560",
+					"indices": [
+						251,
+						274
+					],
+					"media_url": "http://pbs.twimg.com/media/FchGsDeakAAYjxM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FchGsDeakAAYjxM.jpg",
+					"url": "https://t.co/E9FHL0n4iu",
+					"display_url": "pic.twitter.com/E9FHL0n4iu",
+					"expanded_url": "https://twitter.com/ruby_records/status/1569582430423764995/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110930534,
+			"id_str": "110930534",
+			"name": "Ruby records",
+			"screen_name": "ruby_records",
+			"location": "대한민국 서울",
+			"description": "💎 루비레코드 #루비튜브 Rubytube #인천여관X루비살롱 rubysalon #스마일러브위크엔드 #모트 Motte #레인보우노트 RBN #우예린 yerin",
+			"url": "https://t.co/vLFrhW6ba0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vLFrhW6ba0",
+							"expanded_url": "http://youtube.com/user/rubysalon",
+							"display_url": "youtube.com/user/rubysalon",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7542,
+			"friends_count": 8173,
+			"listed_count": 195,
+			"created_at": "Wed Feb 03 07:13:24 +0000 2010",
+			"favourites_count": 1019,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7738,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1403718575479681030/-FWGVqIS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1403718575479681030/-FWGVqIS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110930534/1623507563",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Live Clip &amp; Lyric Video]\n몽돌 - Running\nMONGDOLL - Running\n\n🎬Running Live Clip 바로보기\nhttps://t.co/CP1J5hM8Q1\n🎬Running Lyric Video 바로보기\nhttps://t.co/GUM58Jjsh4\n\n📀Running 바로듣기\nhttps://t.co/GP9XQL9v1T\n\n#몽돌 #MONGDOLL\n#Running #러닝\n#충남음악창작소\n#ruby_records https://t.co/E9FHL0n4iu"
+	},
+	{
+		"created_at": "Tue Sep 13 07:29:27 +0000 2022",
+		"id": 1569574810291949600,
+		"id_str": "1569589057113542656",
+		"full_text": "[#정진운] SBS 파워FM '최화정의 파워타임' 완료✔️\n\n보이는 라디오로 만나 더욱 즐거웠던 시간🥰\n이번 주 목요일, 정진운 &amp; '오! 마이 고스트'와 \n함께하는 것 잊지 마세요!\n\n#Jinwoon #영화 #오마이고스트 #태민 #SBS파워FM #최화정의파워타임 https://t.co/rR3MiTPKjg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "정진운",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "Jinwoon",
+					"indices": [
+						108,
+						116
+					]
+				},
+				{
+					"text": "영화",
+					"indices": [
+						117,
+						120
+					]
+				},
+				{
+					"text": "오마이고스트",
+					"indices": [
+						121,
+						128
+					]
+				},
+				{
+					"text": "태민",
+					"indices": [
+						129,
+						132
+					]
+				},
+				{
+					"text": "SBS파워FM",
+					"indices": [
+						133,
+						141
+					]
+				},
+				{
+					"text": "최화정의파워타임",
+					"indices": [
+						142,
+						151
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1569574799319646200,
+					"id_str": "1569574799319646209",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/Fcg_9snaQAEZa73.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fcg_9snaQAEZa73.jpg",
+					"url": "https://t.co/rR3MiTPKjg",
+					"display_url": "pic.twitter.com/rR3MiTPKjg",
+					"expanded_url": "https://twitter.com/themysticstory/status/1569574810291949569/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1569574799319646200,
+					"id_str": "1569574799319646209",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/Fcg_9snaQAEZa73.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fcg_9snaQAEZa73.jpg",
+					"url": "https://t.co/rR3MiTPKjg",
+					"display_url": "pic.twitter.com/rR3MiTPKjg",
+					"expanded_url": "https://twitter.com/themysticstory/status/1569574810291949569/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/pgQyM4fB27",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pgQyM4fB27",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37490,
+			"friends_count": 14,
+			"listed_count": 304,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7221,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1661267008",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#정진운] SBS 파워FM '최화정의 파워타임' 완료✔️\n\n보이는 라디오로 만나 더욱 즐거웠던 시간🥰\n이번 주 목요일, 정진운 &amp; '오! 마이 고스트'와 \n함께하는 것 잊지 마세요!\n\n#Jinwoon #영화 #오마이고스트 #태민 #SBS파워FM #최화정의파워타임 https://t.co/rR3MiTPKjg"
+	},
+	{
 		"created_at": "Tue Sep 13 07:11:19 +0000 2022",
 		"id": 1569578711762063400,
 		"id_str": "1569584493543006209",
