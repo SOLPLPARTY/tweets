@@ -1,6 +1,954 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Tue Sep 13 03:29:43 +0000 2022",
+		"id": 1569525865532498000,
+		"id_str": "1569528724608933889",
+		"full_text": "[Lacuna | TEASER]\n\n2022. 09. 14 (WED) 12PM \nLacuna (라쿠나) Single [I Love You]  Release D-1 \n'I Love You' M/V Final Teaser \n\n언젠가 빛을 보며 떠올린 생각으로부터, \nLacuna(라쿠나) 싱글 [I Love You] \n\n[Track List]\n01. I Love You \n02. Far Away \n\n#라쿠나 #Lacuna \n#ILoveYou https://t.co/MOOonaO7Kg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			243
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "라쿠나",
+					"indices": [
+						220,
+						224
+					]
+				},
+				{
+					"text": "Lacuna",
+					"indices": [
+						225,
+						232
+					]
+				},
+				{
+					"text": "ILoveYou",
+					"indices": [
+						234,
+						243
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1569524125710024700,
+					"id_str": "1569524125710024706",
+					"indices": [
+						244,
+						267
+					],
+					"media_url": "http://pbs.twimg.com/media/FcgTL-8aMAItw4z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcgTL-8aMAItw4z.jpg",
+					"url": "https://t.co/MOOonaO7Kg",
+					"display_url": "pic.twitter.com/MOOonaO7Kg",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1569525865532497920/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1569524125710024700,
+					"id_str": "1569524125710024706",
+					"indices": [
+						244,
+						267
+					],
+					"media_url": "http://pbs.twimg.com/media/FcgTL-8aMAItw4z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcgTL-8aMAItw4z.jpg",
+					"url": "https://t.co/MOOonaO7Kg",
+					"display_url": "pic.twitter.com/MOOonaO7Kg",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1569525865532497920/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 26368,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1569524125710024706/pl/TtnwingZ0QzT7Vtl.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1569524125710024706/vid/640x360/j40Qs0bdspqcxWxQ.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1569524125710024706/vid/1280x720/zy5MofbX6gHNpBdc.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1569524125710024706/vid/480x270/lNOfrjXlOY-RcUT8.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "구만(9.10000), 노리플라이, 데이브레이크, Lacuna(라쿠나), SURL(설), 소란, 솔루션스, 쏜애플, OurR(아월)",
+			"url": "https://t.co/BIvBmbtJjn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BIvBmbtJjn",
+							"expanded_url": "https://mpmgmusic.com/",
+							"display_url": "mpmgmusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12902,
+			"friends_count": 1900,
+			"listed_count": 250,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 211,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13573,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1626843310",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Lacuna | TEASER]\n\n2022. 09. 14 (WED) 12PM \nLacuna (라쿠나) Single [I Love You]  Release D-1 \n'I Love You' M/V Final Teaser \n\n언젠가 빛을 보며 떠올린 생각으로부터, \nLacuna(라쿠나) 싱글 [I Love You] \n\n[Track List]\n01. I Love You \n02. Far Away \n\n#라쿠나 #Lacuna \n#ILoveYou https://t.co/MOOonaO7Kg"
+	},
+	{
+		"created_at": "Tue Sep 13 03:29:36 +0000 2022",
+		"id": 1569525735886573600,
+		"id_str": "1569528698830733314",
+		"full_text": "💿NEW MUSIC TODAY💿\n이짜나언짜나 (EZUZ)의 [EBS]를 지금 바로 음원 사이트에서 만나보세요!\n⠀\n#warnermusic #warnerkpop #KPOP #이짜나언짜나 #EZUZ #가오가육체를지배해 #GAO #EBS https://t.co/CotBfHJjjL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "warnermusic",
+					"indices": [
+						64,
+						76
+					]
+				},
+				{
+					"text": "warnerkpop",
+					"indices": [
+						77,
+						88
+					]
+				},
+				{
+					"text": "KPOP",
+					"indices": [
+						89,
+						94
+					]
+				},
+				{
+					"text": "이짜나언짜나",
+					"indices": [
+						95,
+						102
+					]
+				},
+				{
+					"text": "EZUZ",
+					"indices": [
+						103,
+						108
+					]
+				},
+				{
+					"text": "가오가육체를지배해",
+					"indices": [
+						109,
+						119
+					]
+				},
+				{
+					"text": "GAO",
+					"indices": [
+						120,
+						124
+					]
+				},
+				{
+					"text": "EBS",
+					"indices": [
+						125,
+						129
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1569525383946707000,
+					"id_str": "1569525383946706944",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1569525383946706944/pu/img/h02AZNXyceZPeSNc.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1569525383946706944/pu/img/h02AZNXyceZPeSNc.jpg",
+					"url": "https://t.co/CotBfHJjjL",
+					"display_url": "pic.twitter.com/CotBfHJjjL",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1569525735886573569/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1569525383946707000,
+					"id_str": "1569525383946706944",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1569525383946706944/pu/img/h02AZNXyceZPeSNc.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1569525383946706944/pu/img/h02AZNXyceZPeSNc.jpg",
+					"url": "https://t.co/CotBfHJjjL",
+					"display_url": "pic.twitter.com/CotBfHJjjL",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1569525735886573569/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 37470,
+						"variants": [
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1569525383946706944/pu/vid/480x600/0VMqNbRKPCFvuiZF.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1569525383946706944/pu/pl/ltN2AwSZFZ_gSm8C.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1569525383946706944/pu/vid/720x900/OY7Hbr9xjU8FME_p.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1569525383946706944/pu/vid/320x400/eT7suiWHqtIgEBjM.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 90128,
+			"friends_count": 492,
+			"listed_count": 218,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1579,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11964,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1636703401",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💿NEW MUSIC TODAY💿\n이짜나언짜나 (EZUZ)의 [EBS]를 지금 바로 음원 사이트에서 만나보세요!\n⠀\n#warnermusic #warnerkpop #KPOP #이짜나언짜나 #EZUZ #가오가육체를지배해 #GAO #EBS https://t.co/CotBfHJjjL"
+	},
+	{
+		"created_at": "Tue Sep 13 03:29:33 +0000 2022",
+		"id": 1569525000176271400,
+		"id_str": "1569528685715197952",
+		"full_text": "💿 멜로망스 - My Dream\n⠀\n🎧 https://t.co/dm8A6knRCC\n⠀\n#멜로망스 #MELOMANCE\n#플레이리스트 #playlist #MyDream\n#김민석 #KimMinSeok\n#정동환 #JeongDongHwan\n#멜로망스김민석 #멜로망스정동환\n#어비스컴퍼니 #ABYSSCOMPANY https://t.co/gKlsNxtrin",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "멜로망스",
+					"indices": [
+						48,
+						53
+					]
+				},
+				{
+					"text": "MELOMANCE",
+					"indices": [
+						54,
+						64
+					]
+				},
+				{
+					"text": "플레이리스트",
+					"indices": [
+						65,
+						72
+					]
+				},
+				{
+					"text": "playlist",
+					"indices": [
+						73,
+						82
+					]
+				},
+				{
+					"text": "MyDream",
+					"indices": [
+						83,
+						91
+					]
+				},
+				{
+					"text": "김민석",
+					"indices": [
+						92,
+						96
+					]
+				},
+				{
+					"text": "KimMinSeok",
+					"indices": [
+						97,
+						108
+					]
+				},
+				{
+					"text": "정동환",
+					"indices": [
+						109,
+						113
+					]
+				},
+				{
+					"text": "JeongDongHwan",
+					"indices": [
+						114,
+						128
+					]
+				},
+				{
+					"text": "멜로망스김민석",
+					"indices": [
+						129,
+						137
+					]
+				},
+				{
+					"text": "멜로망스정동환",
+					"indices": [
+						138,
+						146
+					]
+				},
+				{
+					"text": "어비스컴퍼니",
+					"indices": [
+						147,
+						154
+					]
+				},
+				{
+					"text": "ABYSSCOMPANY",
+					"indices": [
+						155,
+						168
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dm8A6knRCC",
+					"expanded_url": "http://kko.to/j3GKn8Xcp",
+					"display_url": "kko.to/j3GKn8Xcp",
+					"indices": [
+						22,
+						45
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1569524096840650800,
+					"id_str": "1569524096840650754",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/FcgR2bKaUAIwyjV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcgR2bKaUAIwyjV.jpg",
+					"url": "https://t.co/gKlsNxtrin",
+					"display_url": "pic.twitter.com/gKlsNxtrin",
+					"expanded_url": "https://twitter.com/ABYSS_COMPANY/status/1569525000176271366/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1569524096840650800,
+					"id_str": "1569524096840650754",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/FcgR2bKaUAIwyjV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcgR2bKaUAIwyjV.jpg",
+					"url": "https://t.co/gKlsNxtrin",
+					"display_url": "pic.twitter.com/gKlsNxtrin",
+					"expanded_url": "https://twitter.com/ABYSS_COMPANY/status/1569525000176271366/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 748379922209583100,
+			"id_str": "748379922209583104",
+			"name": "ABYSS COMPANY",
+			"screen_name": "ABYSS_COMPANY",
+			"location": "",
+			"description": "ABYSS COMPANY Official Twitter",
+			"url": "https://t.co/FXx196IZXh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FXx196IZXh",
+							"expanded_url": "http://abysscompany.com/",
+							"display_url": "abysscompany.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 165407,
+			"friends_count": 9,
+			"listed_count": 277,
+			"created_at": "Thu Jun 30 04:57:32 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 540,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1358610179030306818/g8xwAYsj_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1358610179030306818/g8xwAYsj_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/748379922209583104/1612752885",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 49,
+		"favorite_count": 139,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💿 멜로망스 - My Dream\n⠀\n🎧 https://t.co/dm8A6knRCC\n⠀\n#멜로망스 #MELOMANCE\n#플레이리스트 #playlist #MyDream\n#김민석 #KimMinSeok\n#정동환 #JeongDongHwan\n#멜로망스김민석 #멜로망스정동환\n#어비스컴퍼니 #ABYSSCOMPANY https://t.co/gKlsNxtrin"
+	},
+	{
+		"created_at": "Tue Sep 13 03:29:30 +0000 2022",
+		"id": 1569517586546831400,
+		"id_str": "1569528672603848704",
+		"full_text": "#PARKSOOYOUNG in 'Once Upon a Small Town' shows off endless charms, from lovely visuals to singing! The way she captured different emotions, from excitement, joy, to embarrassment, stood out. The ep. ended with her friend of 27 yrs confessing his crush on her!\n\n#어쩌다전원일기 https://t.co/jzoQym1u1H",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			270
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PARKSOOYOUNG",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"text": "어쩌다전원일기",
+					"indices": [
+						262,
+						270
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1569517576434385000,
+					"id_str": "1569517576434384896",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/media/FcgL64wagAAf0l4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcgL64wagAAf0l4.jpg",
+					"url": "https://t.co/jzoQym1u1H",
+					"display_url": "pic.twitter.com/jzoQym1u1H",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1569517586546831361/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 602,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 341,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1992,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1569517576434385000,
+					"id_str": "1569517576434384896",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/media/FcgL64wagAAf0l4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcgL64wagAAf0l4.jpg",
+					"url": "https://t.co/jzoQym1u1H",
+					"display_url": "pic.twitter.com/jzoQym1u1H",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1569517586546831361/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 602,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 341,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1992,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11168057,
+			"friends_count": 55,
+			"listed_count": 12601,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2027,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12864,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1693,
+		"favorite_count": 5728,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#PARKSOOYOUNG in 'Once Upon a Small Town' shows off endless charms, from lovely visuals to singing! The way she captured different emotions, from excitement, joy, to embarrassment, stood out. The ep. ended with her friend of 27 yrs confessing his crush on her!\n\n#어쩌다전원일기 https://t.co/jzoQym1u1H"
+	},
+	{
 		"created_at": "Tue Sep 13 03:11:20 +0000 2022",
 		"id": 1569524101085302800,
 		"id_str": "1569524101085302786",
