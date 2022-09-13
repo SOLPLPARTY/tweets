@@ -1,6 +1,1185 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Tue Sep 13 07:11:19 +0000 2022",
+		"id": 1569578711762063400,
+		"id_str": "1569584493543006209",
+		"full_text": "방금 사진을 게시했습니다 @공상온도 https://t.co/pffo4IePCQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pffo4IePCQ",
+					"expanded_url": "https://www.instagram.com/p/Cib_nWhuvns/?igshid=YTgzYjQ4ZTY=",
+					"display_url": "instagram.com/p/Cib_nWhuvns/…",
+					"indices": [
+						20,
+						43
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 720862057243914200,
+			"id_str": "720862057243914240",
+			"name": "공상온도",
+			"screen_name": "gongsangondo",
+			"location": "대한민국 마포구 동교로23길 40",
+			"description": "카페를 기반으로 한 대안공간,갤러리,공연장,아트마켓의 복합문화공간! 서울시 마포구 동교로23길 40 아트마켓 입점,대관 : gongsangondo@gmail.com {ARTIST지원} 아티스트 증명시, 제조음료 30%할인",
+			"url": "https://t.co/GbMQgcSSJ2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GbMQgcSSJ2",
+							"expanded_url": "http://linktr.ee/gongsangondo",
+							"display_url": "linktr.ee/gongsangondo",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 425,
+			"friends_count": 217,
+			"listed_count": 7,
+			"created_at": "Fri Apr 15 06:31:22 +0000 2016",
+			"favourites_count": 1165,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3250,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/720863690283622400/Rh9cF7Fa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/720863690283622400/Rh9cF7Fa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/720862057243914240/1460702295",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				37.55764455,
+				126.91971391
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				126.91971391,
+				37.55764455
+			]
+		},
+		"place": {
+			"id": "019fba1c5ac23f79",
+			"url": "https://api.twitter.com/1.1/geo/id/019fba1c5ac23f79.json",
+			"place_type": "city",
+			"name": "마포구",
+			"full_name": "대한민국 마포구",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.855912576725,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.5893965817644
+						],
+						[
+							126.855912576725,
+							37.5893965817644
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "방금 사진을 게시했습니다 @공상온도 https://t.co/pffo4IePCQ"
+	},
+	{
+		"created_at": "Tue Sep 13 06:29:51 +0000 2022",
+		"id": 1569573585106399200,
+		"id_str": "1569574056873136128",
+		"full_text": "[#권혁수] [#대충극장]\n\n공조 2 인터내셔날 권혁수 패러디\n\n👉 https://t.co/0KpzhxGXbq\n\n#광고 #KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #공조2 #패러디",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권혁수",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "대충극장",
+					"indices": [
+						8,
+						13
+					]
+				},
+				{
+					"text": "광고",
+					"indices": [
+						63,
+						66
+					]
+				},
+				{
+					"text": "KwunHyukSoo",
+					"indices": [
+						67,
+						79
+					]
+				},
+				{
+					"text": "휴맵컨텐츠",
+					"indices": [
+						80,
+						86
+					]
+				},
+				{
+					"text": "HUMAPCONTENTS",
+					"indices": [
+						87,
+						101
+					]
+				},
+				{
+					"text": "공조2",
+					"indices": [
+						102,
+						106
+					]
+				},
+				{
+					"text": "패러디",
+					"indices": [
+						107,
+						111
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0KpzhxGXbq",
+					"expanded_url": "https://www.youtube.com/shorts/FpaRoOXEoCA",
+					"display_url": "youtube.com/shorts/FpaRoOX…",
+					"indices": [
+						38,
+						61
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1219506842935513000,
+			"id_str": "1219506842935513088",
+			"name": "휴맵컨텐츠(HUMAP)",
+			"screen_name": "humap_official",
+			"location": "",
+			"description": "휴맵컨텐츠(HUMAP CONTENTS) Official Twitter",
+			"url": "https://t.co/fBZZK3SmX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fBZZK3SmX6",
+							"expanded_url": "http://www.humapcontents.com/",
+							"display_url": "humapcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 384,
+			"friends_count": 2,
+			"listed_count": 2,
+			"created_at": "Tue Jan 21 06:28:27 +0000 2020",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 890,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1219506842935513088/1579755898",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#권혁수] [#대충극장]\n\n공조 2 인터내셔날 권혁수 패러디\n\n👉 https://t.co/0KpzhxGXbq\n\n#광고 #KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #공조2 #패러디"
+	},
+	{
+		"created_at": "Tue Sep 13 06:29:42 +0000 2022",
+		"id": 1569573420941344800,
+		"id_str": "1569574022802804739",
+		"full_text": "[#권혁수] [#대충극장]\n\n현빈, 유해진, 윤아, 다니엘 헤니... \n여기에 이 사람까지 나온다고? 😱\n예고편에서도 볼 수 없었던 배우 최초공개!!\n\n#권혁수감성 에서 시간 순삭 들어갑니다~\n\n👉 https://t.co/AGU4NhI2KR\n\n#광고 #KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #공조2 #패러디",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권혁수",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "대충극장",
+					"indices": [
+						8,
+						13
+					]
+				},
+				{
+					"text": "권혁수감성",
+					"indices": [
+						85,
+						91
+					]
+				},
+				{
+					"text": "광고",
+					"indices": [
+						136,
+						139
+					]
+				},
+				{
+					"text": "KwunHyukSoo",
+					"indices": [
+						140,
+						152
+					]
+				},
+				{
+					"text": "휴맵컨텐츠",
+					"indices": [
+						153,
+						159
+					]
+				},
+				{
+					"text": "HUMAPCONTENTS",
+					"indices": [
+						160,
+						174
+					]
+				},
+				{
+					"text": "공조2",
+					"indices": [
+						175,
+						179
+					]
+				},
+				{
+					"text": "패러디",
+					"indices": [
+						180,
+						184
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AGU4NhI2KR",
+					"expanded_url": "https://youtu.be/QqkaAMBEKDo",
+					"display_url": "youtu.be/QqkaAMBEKDo",
+					"indices": [
+						111,
+						134
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1219506842935513000,
+			"id_str": "1219506842935513088",
+			"name": "휴맵컨텐츠(HUMAP)",
+			"screen_name": "humap_official",
+			"location": "",
+			"description": "휴맵컨텐츠(HUMAP CONTENTS) Official Twitter",
+			"url": "https://t.co/fBZZK3SmX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fBZZK3SmX6",
+							"expanded_url": "http://www.humapcontents.com/",
+							"display_url": "humapcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 384,
+			"friends_count": 2,
+			"listed_count": 2,
+			"created_at": "Tue Jan 21 06:28:27 +0000 2020",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 890,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1219506842935513088/1579755898",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#권혁수] [#대충극장]\n\n현빈, 유해진, 윤아, 다니엘 헤니... \n여기에 이 사람까지 나온다고? 😱\n예고편에서도 볼 수 없었던 배우 최초공개!!\n\n#권혁수감성 에서 시간 순삭 들어갑니다~\n\n👉 https://t.co/AGU4NhI2KR\n\n#광고 #KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #공조2 #패러디"
+	},
+	{
+		"created_at": "Tue Sep 13 06:29:37 +0000 2022",
+		"id": 1569571819300229000,
+		"id_str": "1569574001319477249",
+		"full_text": "[#권혁수] #복학생_학점은A지만사랑은F입니다\n\n권혁수, 주현영 과목 강의실 암호 풀 수 있을까? 🔓ㅣ복학생: 학점은 A지만 사랑은 F입니다ㅣ하이라이트ㅣ #쿠팡플레이 시리즈ㅣ쿠팡 #복학생 #shorts\n\n👉 https://t.co/lotpXCk0cP\n\n#KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #SNL코리아 #CoupangPlay",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권혁수",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "복학생_학점은A지만사랑은F입니다",
+					"indices": [
+						7,
+						25
+					]
+				},
+				{
+					"text": "쿠팡플레이",
+					"indices": [
+						86,
+						92
+					]
+				},
+				{
+					"text": "복학생",
+					"indices": [
+						100,
+						104
+					]
+				},
+				{
+					"text": "shorts",
+					"indices": [
+						105,
+						112
+					]
+				},
+				{
+					"text": "KwunHyukSoo",
+					"indices": [
+						141,
+						153
+					]
+				},
+				{
+					"text": "휴맵컨텐츠",
+					"indices": [
+						154,
+						160
+					]
+				},
+				{
+					"text": "HUMAPCONTENTS",
+					"indices": [
+						161,
+						175
+					]
+				},
+				{
+					"text": "SNL코리아",
+					"indices": [
+						176,
+						183
+					]
+				},
+				{
+					"text": "CoupangPlay",
+					"indices": [
+						184,
+						196
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lotpXCk0cP",
+					"expanded_url": "https://www.youtube.com/shorts/IQe00WUGrYs",
+					"display_url": "youtube.com/shorts/IQe00WU…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1219506842935513000,
+			"id_str": "1219506842935513088",
+			"name": "휴맵컨텐츠(HUMAP)",
+			"screen_name": "humap_official",
+			"location": "",
+			"description": "휴맵컨텐츠(HUMAP CONTENTS) Official Twitter",
+			"url": "https://t.co/fBZZK3SmX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fBZZK3SmX6",
+							"expanded_url": "http://www.humapcontents.com/",
+							"display_url": "humapcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 384,
+			"friends_count": 2,
+			"listed_count": 2,
+			"created_at": "Tue Jan 21 06:28:27 +0000 2020",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 890,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1219506842935513088/1579755898",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#권혁수] #복학생_학점은A지만사랑은F입니다\n\n권혁수, 주현영 과목 강의실 암호 풀 수 있을까? 🔓ㅣ복학생: 학점은 A지만 사랑은 F입니다ㅣ하이라이트ㅣ #쿠팡플레이 시리즈ㅣ쿠팡 #복학생 #shorts\n\n👉 https://t.co/lotpXCk0cP\n\n#KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #SNL코리아 #CoupangPlay"
+	},
+	{
+		"created_at": "Tue Sep 13 06:29:33 +0000 2022",
+		"id": 1569571594770731000,
+		"id_str": "1569573984013893632",
+		"full_text": "[#권혁수] #복학생_학점은A지만사랑은F입니다\n\n지코, 뭐가 문제야 say somethingㅣ복학생: 학점은 A지만 사랑은 F입니다ㅣ하이라이트ㅣ쿠팡플레이 시리즈ㅣ쿠팡 #복학생 #쿠팡플레이 #shorts\n\n👉 https://t.co/kA6a5Lr4TI\n\n#KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #SNL코리아 #CoupangPlay",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권혁수",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "복학생_학점은A지만사랑은F입니다",
+					"indices": [
+						7,
+						25
+					]
+				},
+				{
+					"text": "복학생",
+					"indices": [
+						93,
+						97
+					]
+				},
+				{
+					"text": "쿠팡플레이",
+					"indices": [
+						98,
+						104
+					]
+				},
+				{
+					"text": "shorts",
+					"indices": [
+						105,
+						112
+					]
+				},
+				{
+					"text": "KwunHyukSoo",
+					"indices": [
+						141,
+						153
+					]
+				},
+				{
+					"text": "휴맵컨텐츠",
+					"indices": [
+						154,
+						160
+					]
+				},
+				{
+					"text": "HUMAPCONTENTS",
+					"indices": [
+						161,
+						175
+					]
+				},
+				{
+					"text": "SNL코리아",
+					"indices": [
+						176,
+						183
+					]
+				},
+				{
+					"text": "CoupangPlay",
+					"indices": [
+						184,
+						196
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kA6a5Lr4TI",
+					"expanded_url": "https://www.youtube.com/shorts/h22KSMjOqIs",
+					"display_url": "youtube.com/shorts/h22KSMj…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1219506842935513000,
+			"id_str": "1219506842935513088",
+			"name": "휴맵컨텐츠(HUMAP)",
+			"screen_name": "humap_official",
+			"location": "",
+			"description": "휴맵컨텐츠(HUMAP CONTENTS) Official Twitter",
+			"url": "https://t.co/fBZZK3SmX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fBZZK3SmX6",
+							"expanded_url": "http://www.humapcontents.com/",
+							"display_url": "humapcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 384,
+			"friends_count": 2,
+			"listed_count": 2,
+			"created_at": "Tue Jan 21 06:28:27 +0000 2020",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 890,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1219506842935513088/1579755898",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#권혁수] #복학생_학점은A지만사랑은F입니다\n\n지코, 뭐가 문제야 say somethingㅣ복학생: 학점은 A지만 사랑은 F입니다ㅣ하이라이트ㅣ쿠팡플레이 시리즈ㅣ쿠팡 #복학생 #쿠팡플레이 #shorts\n\n👉 https://t.co/kA6a5Lr4TI\n\n#KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #SNL코리아 #CoupangPlay"
+	},
+	{
+		"created_at": "Tue Sep 13 06:29:30 +0000 2022",
+		"id": 1569571315912441900,
+		"id_str": "1569573970957017090",
+		"full_text": "[📰]보라미유·MJ '통화연결음', 써클차트 벨소리·BGM 차트 정상\n(출처 : 이데일리 | 네이버 TV연예)\n ⠀\nhttps://t.co/m1GuqG7arz\n⠀\n#보라미유 #써니사이드 #통화연결음\n#BORAMIYU #MJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "보라미유",
+					"indices": [
+						91,
+						96
+					]
+				},
+				{
+					"text": "써니사이드",
+					"indices": [
+						97,
+						103
+					]
+				},
+				{
+					"text": "통화연결음",
+					"indices": [
+						104,
+						110
+					]
+				},
+				{
+					"text": "BORAMIYU",
+					"indices": [
+						111,
+						120
+					]
+				},
+				{
+					"text": "MJ",
+					"indices": [
+						121,
+						124
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/m1GuqG7arz",
+					"expanded_url": "https://naver.me/IGGrs81S",
+					"display_url": "naver.me/IGGrs81S",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 265792818,
+			"id_str": "265792818",
+			"name": "쇼파르엔터테인먼트",
+			"screen_name": "shofar_ent",
+			"location": "",
+			"description": "SHOFAR ENTERTAINMENT Official Twitter",
+			"url": "https://t.co/zzQk2ihRbI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zzQk2ihRbI",
+							"expanded_url": "http://shofar-ent.com/",
+							"display_url": "shofar-ent.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7639,
+			"friends_count": 4,
+			"listed_count": 64,
+			"created_at": "Mon Mar 14 04:31:00 +0000 2011",
+			"favourites_count": 52,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4868,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/265792818/1661332345",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[📰]보라미유·MJ '통화연결음', 써클차트 벨소리·BGM 차트 정상\n(출처 : 이데일리 | 네이버 TV연예)\n ⠀\nhttps://t.co/m1GuqG7arz\n⠀\n#보라미유 #써니사이드 #통화연결음\n#BORAMIYU #MJ"
+	},
+	{
+		"created_at": "Tue Sep 13 06:29:25 +0000 2022",
+		"id": 1569570903587188700,
+		"id_str": "1569573949490569216",
+		"full_text": "🌾DawnBUSH🌾\n\n🌾 2022/09/23 FRI 7:30PM\n🌾 김새녘 \n🌾 후하 \n🌾 공상온도 \n🌾 예매 33,000원 / 현매 35,000원\n\nTICKET🎟\n네이버 예약 (비지정 좌석제)\n2022년 09월 13일 오후 7시 티켓오픈💥\n\n예매링크👉 인스타그램 https://t.co/QABZ7fgACY\n\n📟 문의 #튜나레이블 카카오톡플러스친구 https://t.co/Yn0SN9seBx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "튜나레이블",
+					"indices": [
+						178,
+						184
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QABZ7fgACY",
+					"expanded_url": "http://bit.ly/dawnbush",
+					"display_url": "bit.ly/dawnbush",
+					"indices": [
+						148,
+						171
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1569570900261085200,
+					"id_str": "1569570900261085190",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/Fcg8avfaIAYL9hx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fcg8avfaIAYL9hx.jpg",
+					"url": "https://t.co/Yn0SN9seBx",
+					"display_url": "pic.twitter.com/Yn0SN9seBx",
+					"expanded_url": "https://twitter.com/YOUNGGIFTEDWACK/status/1569570903587188736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1201,
+							"h": 1695,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 482,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 850,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1569570900261085200,
+					"id_str": "1569570900261085190",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/Fcg8avfaIAYL9hx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fcg8avfaIAYL9hx.jpg",
+					"url": "https://t.co/Yn0SN9seBx",
+					"display_url": "pic.twitter.com/Yn0SN9seBx",
+					"expanded_url": "https://twitter.com/YOUNGGIFTEDWACK/status/1569570903587188736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1201,
+							"h": 1695,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 482,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 850,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 602961088,
+			"id_str": "602961088",
+			"name": "영기획YOUNG,GIFTED&WACK",
+			"screen_name": "YOUNGGIFTEDWACK",
+			"location": "contact@younggiftedwack.com",
+			"description": "영기획 또는 영기프티드앤왝YOUNG,GIFTED&WACK이라 부릅니다. 👁✨🔥🌈🌊🍬한 음악가의 음반을 발매하고 함께 일합니다. 한국 유일의 일렉트로닉 음악 페어 ⚡️암페어Amfair⚡️를 주최하기도 했네요.",
+			"url": "https://t.co/GrmXeBFIAu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GrmXeBFIAu",
+							"expanded_url": "http://youtube.com/younggiftedwack",
+							"display_url": "youtube.com/younggiftedwack",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3490,
+			"friends_count": 1183,
+			"listed_count": 51,
+			"created_at": "Fri Jun 08 18:17:47 +0000 2012",
+			"favourites_count": 636,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11116,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/711579321974927362/OySoIaFL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/711579321974927362/OySoIaFL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/602961088/1570678223",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🌾DawnBUSH🌾\n\n🌾 2022/09/23 FRI 7:30PM\n🌾 김새녘 \n🌾 후하 \n🌾 공상온도 \n🌾 예매 33,000원 / 현매 35,000원\n\nTICKET🎟\n네이버 예약 (비지정 좌석제)\n2022년 09월 13일 오후 7시 티켓오픈💥\n\n예매링크👉 인스타그램 https://t.co/QABZ7fgACY\n\n📟 문의 #튜나레이블 카카오톡플러스친구 https://t.co/Yn0SN9seBx"
+	},
+	{
 		"created_at": "Tue Sep 13 06:11:24 +0000 2022",
 		"id": 1569556767306293200,
 		"id_str": "1569569414219022338",
