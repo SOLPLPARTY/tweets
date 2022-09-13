@@ -1,6 +1,1033 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Tue Sep 13 11:11:24 +0000 2022",
+		"id": 1569630640919957500,
+		"id_str": "1569644912882208768",
+		"full_text": "👇예매 바로가기👇\nhttps://t.co/ZvmkxO039t\n-----------------------------\n1. 예매 : 39,000원\n2. 본공연은 스탠딩 공연으로 진행됩니다.\n\n#프리즘홀 #prismhall #PRISM_BREAK #서울전자음악단 #콩코드 #멜론티켓 #티켓오픈 #홍대공연 #공연추천",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "프리즘홀",
+					"indices": [
+						105,
+						110
+					]
+				},
+				{
+					"text": "prismhall",
+					"indices": [
+						111,
+						121
+					]
+				},
+				{
+					"text": "PRISM_BREAK",
+					"indices": [
+						122,
+						134
+					]
+				},
+				{
+					"text": "서울전자음악단",
+					"indices": [
+						135,
+						143
+					]
+				},
+				{
+					"text": "콩코드",
+					"indices": [
+						144,
+						148
+					]
+				},
+				{
+					"text": "멜론티켓",
+					"indices": [
+						149,
+						154
+					]
+				},
+				{
+					"text": "티켓오픈",
+					"indices": [
+						155,
+						160
+					]
+				},
+				{
+					"text": "홍대공연",
+					"indices": [
+						161,
+						166
+					]
+				},
+				{
+					"text": "공연추천",
+					"indices": [
+						167,
+						172
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZvmkxO039t",
+					"expanded_url": "https://ticket.melon.com/performance/index.htm?prodId=207293",
+					"display_url": "ticket.melon.com/performance/in…",
+					"indices": [
+						10,
+						33
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1569630637925216300,
+		"in_reply_to_status_id_str": "1569630637925216257",
+		"in_reply_to_user_id": 491231175,
+		"in_reply_to_user_id_str": "491231175",
+		"in_reply_to_screen_name": "prismhall",
+		"user": {
+			"id": 491231175,
+			"id_str": "491231175",
+			"name": "PrismHall",
+			"screen_name": "prismhall",
+			"location": "Mapo Seokyo-Dong",
+			"description": "최상급 무대장비와 시설. 엄청난 높이의 천고와 광활한 객석. 각종 파티,힙합,댄스,밴드 등 all_round concert, 실내페스티벌 등 모든 게 가능한 공연장입니다!",
+			"url": "https://t.co/VTKFWeLxvh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VTKFWeLxvh",
+							"expanded_url": "http://www.prismhall.com",
+							"display_url": "prismhall.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2037,
+			"friends_count": 1105,
+			"listed_count": 28,
+			"created_at": "Mon Feb 13 12:03:08 +0000 2012",
+			"favourites_count": 75,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2147,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/942698829089869824/bkVw2sYC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/942698829089869824/bkVw2sYC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/491231175/1513591891",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "1104338421d4e001",
+			"url": "https://api.twitter.com/1.1/geo/id/1104338421d4e001.json",
+			"place_type": "poi",
+			"name": "프리즘홀",
+			"full_name": "프리즘홀",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.917463,
+							37.551686
+						],
+						[
+							126.917463,
+							37.551686
+						],
+						[
+							126.917463,
+							37.551686
+						],
+						[
+							126.917463,
+							37.551686
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "👇예매 바로가기👇\nhttps://t.co/ZvmkxO039t\n-----------------------------\n1. 예매 : 39,000원\n2. 본공연은 스탠딩 공연으로 진행됩니다.\n\n#프리즘홀 #prismhall #PRISM_BREAK #서울전자음악단 #콩코드 #멜론티켓 #티켓오픈 #홍대공연 #공연추천"
+	},
+	{
+		"created_at": "Tue Sep 13 11:11:19 +0000 2022",
+		"id": 1569630637925216300,
+		"id_str": "1569644891365416961",
+		"full_text": "🎸레전드, 서울전자음악단 [Seoul Electric Band]\n🎸70년대로의 타임루프, 센세이션을 만드는 콩코드[Concord]\n\n- 타이틀 : PRISM BREAK vol.14 서울전자음악단x콩코드\n- 일시 : 2022년 10월 10일 월요일 저녁 6시 (입장 : 5시30분)\n- 장소 : 프리즘홀(양화로 12길 6)\n- 문의 : 070-8150-2979",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1569630633617653800,
+		"in_reply_to_status_id_str": "1569630633617653760",
+		"in_reply_to_user_id": 491231175,
+		"in_reply_to_user_id_str": "491231175",
+		"in_reply_to_screen_name": "prismhall",
+		"user": {
+			"id": 491231175,
+			"id_str": "491231175",
+			"name": "PrismHall",
+			"screen_name": "prismhall",
+			"location": "Mapo Seokyo-Dong",
+			"description": "최상급 무대장비와 시설. 엄청난 높이의 천고와 광활한 객석. 각종 파티,힙합,댄스,밴드 등 all_round concert, 실내페스티벌 등 모든 게 가능한 공연장입니다!",
+			"url": "https://t.co/VTKFWeLxvh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VTKFWeLxvh",
+							"expanded_url": "http://www.prismhall.com",
+							"display_url": "prismhall.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2037,
+			"friends_count": 1105,
+			"listed_count": 28,
+			"created_at": "Mon Feb 13 12:03:08 +0000 2012",
+			"favourites_count": 75,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2147,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/942698829089869824/bkVw2sYC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/942698829089869824/bkVw2sYC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/491231175/1513591891",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "1104338421d4e001",
+			"url": "https://api.twitter.com/1.1/geo/id/1104338421d4e001.json",
+			"place_type": "poi",
+			"name": "프리즘홀",
+			"full_name": "프리즘홀",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.917463,
+							37.551686
+						],
+						[
+							126.917463,
+							37.551686
+						],
+						[
+							126.917463,
+							37.551686
+						],
+						[
+							126.917463,
+							37.551686
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "🎸레전드, 서울전자음악단 [Seoul Electric Band]\n🎸70년대로의 타임루프, 센세이션을 만드는 콩코드[Concord]\n\n- 타이틀 : PRISM BREAK vol.14 서울전자음악단x콩코드\n- 일시 : 2022년 10월 10일 월요일 저녁 6시 (입장 : 5시30분)\n- 장소 : 프리즘홀(양화로 12길 6)\n- 문의 : 070-8150-2979"
+	},
+	{
+		"created_at": "Tue Sep 13 11:11:17 +0000 2022",
+		"id": 1569630633617653800,
+		"id_str": "1569644882427265025",
+		"full_text": "🙌 티켓오픈 🙌\n[PRISM BREAK vol.14 서울전자음악단x콩코드\n\"무경계 음악향유 프로젝트, 취향을 갖지 말자!\"\n신박한 큐레이션 &lt;프리즘 브레이크&gt;\n\n열네번째 초초초초초특급 스페셜\n[조선사이키델릭특집] https://t.co/8WQdgOw4fQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1569630602567258000,
+					"id_str": "1569630602567258117",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/Fchyt36akAUIsyT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fchyt36akAUIsyT.jpg",
+					"url": "https://t.co/8WQdgOw4fQ",
+					"display_url": "pic.twitter.com/8WQdgOw4fQ",
+					"expanded_url": "https://twitter.com/prismhall/status/1569630633617653760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 724,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 724,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1569630602567258000,
+					"id_str": "1569630602567258117",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/Fchyt36akAUIsyT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fchyt36akAUIsyT.jpg",
+					"url": "https://t.co/8WQdgOw4fQ",
+					"display_url": "pic.twitter.com/8WQdgOw4fQ",
+					"expanded_url": "https://twitter.com/prismhall/status/1569630633617653760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 724,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 724,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 491231175,
+			"id_str": "491231175",
+			"name": "PrismHall",
+			"screen_name": "prismhall",
+			"location": "Mapo Seokyo-Dong",
+			"description": "최상급 무대장비와 시설. 엄청난 높이의 천고와 광활한 객석. 각종 파티,힙합,댄스,밴드 등 all_round concert, 실내페스티벌 등 모든 게 가능한 공연장입니다!",
+			"url": "https://t.co/VTKFWeLxvh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VTKFWeLxvh",
+							"expanded_url": "http://www.prismhall.com",
+							"display_url": "prismhall.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2037,
+			"friends_count": 1105,
+			"listed_count": 28,
+			"created_at": "Mon Feb 13 12:03:08 +0000 2012",
+			"favourites_count": 75,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2147,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/942698829089869824/bkVw2sYC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/942698829089869824/bkVw2sYC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/491231175/1513591891",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "1104338421d4e001",
+			"url": "https://api.twitter.com/1.1/geo/id/1104338421d4e001.json",
+			"place_type": "poi",
+			"name": "프리즘홀",
+			"full_name": "프리즘홀",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.917463,
+							37.551686
+						],
+						[
+							126.917463,
+							37.551686
+						],
+						[
+							126.917463,
+							37.551686
+						],
+						[
+							126.917463,
+							37.551686
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🙌 티켓오픈 🙌\n[PRISM BREAK vol.14 서울전자음악단x콩코드\n\"무경계 음악향유 프로젝트, 취향을 갖지 말자!\"\n신박한 큐레이션 &lt;프리즘 브레이크&gt;\n\n열네번째 초초초초초특급 스페셜\n[조선사이키델릭특집] https://t.co/8WQdgOw4fQ"
+	},
+	{
+		"created_at": "Tue Sep 13 10:58:15 +0000 2022",
+		"id": 1569626965321330700,
+		"id_str": "1569641603261685761",
+		"full_text": "[2022 렛츠락페스티벌 타임테이블 공개]\n\n타임테이블 등. 장. 💥\n총 26팀의 멋진 아티스트와 함께 하는 2022 렛츠락페스티벌 ✨\n\n요일별 시간별 아티스트 무대 잘 체크하여 즐겨주세요! 😎\n\n-\n2022 Let's Rock Festival\n2022. 09. 24(토) - 09. 25(일)\n난지한강공원 일대 https://t.co/pP2TcNJiR2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1569626469340676000,
+					"id_str": "1569626469340676098",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/Fchu9ScaAAI1osn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fchu9ScaAAI1osn.jpg",
+					"url": "https://t.co/pP2TcNJiR2",
+					"display_url": "pic.twitter.com/pP2TcNJiR2",
+					"expanded_url": "https://twitter.com/letsrockfe/status/1569626965321330689/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1569626469340676000,
+					"id_str": "1569626469340676098",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/Fchu9ScaAAI1osn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fchu9ScaAAI1osn.jpg",
+					"url": "https://t.co/pP2TcNJiR2",
+					"display_url": "pic.twitter.com/pP2TcNJiR2",
+					"expanded_url": "https://twitter.com/letsrockfe/status/1569626965321330689/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 158300000,
+			"id_str": "158300000",
+			"name": "렛츠락페스티벌",
+			"screen_name": "letsrockfe",
+			"location": "Seoul Korea",
+			"description": "2022.09.24(토) - 2022.09.25(일)\n난지한강공원 일대\n-\n👇🏻티켓 예매 및 이벤트 참여🔗\nhttps://t.co/11CqLzCPD7",
+			"url": "https://t.co/1V3BUiKqLS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1V3BUiKqLS",
+							"expanded_url": "http://www.letsrock.co.kr",
+							"display_url": "letsrock.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/11CqLzCPD7",
+							"expanded_url": "http://linktr.ee/letsrockfe",
+							"display_url": "linktr.ee/letsrockfe",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3930,
+			"friends_count": 138,
+			"listed_count": 44,
+			"created_at": "Tue Jun 22 09:04:04 +0000 2010",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1429,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "89C9FA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551432329939529729/msipUz7J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551432329939529729/msipUz7J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/158300000/1658725267",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 81,
+		"favorite_count": 98,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[2022 렛츠락페스티벌 타임테이블 공개]\n\n타임테이블 등. 장. 💥\n총 26팀의 멋진 아티스트와 함께 하는 2022 렛츠락페스티벌 ✨\n\n요일별 시간별 아티스트 무대 잘 체크하여 즐겨주세요! 😎\n\n-\n2022 Let's Rock Festival\n2022. 09. 24(토) - 09. 25(일)\n난지한강공원 일대 https://t.co/pP2TcNJiR2"
+	},
+	{
+		"created_at": "Tue Sep 13 10:29:30 +0000 2022",
+		"id": 1569627234151047200,
+		"id_str": "1569634368242556929",
+		"full_text": "[#Teaser] #페퍼톤스\n\n페퍼톤스 정규 7집 'thousand years'\nPEPPERTONES 7th Full Album 'thousand years'\n\n🏔 Album Sampler\nhttps://t.co/SECkMk5geD\n\n2022. 09. 20. 6PM Release\n\n@pptnzexpress @pptnznoshel\n#PEPPERTONES\n#신재평 #이장원\n#ShinJaePyung #LeeJangWon\n#thousandyears\n#20220920_6PM https://t.co/cPHUtgyUso",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			262
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Teaser",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "페퍼톤스",
+					"indices": [
+						10,
+						15
+					]
+				},
+				{
+					"text": "PEPPERTONES",
+					"indices": [
+						185,
+						197
+					]
+				},
+				{
+					"text": "신재평",
+					"indices": [
+						198,
+						202
+					]
+				},
+				{
+					"text": "이장원",
+					"indices": [
+						203,
+						207
+					]
+				},
+				{
+					"text": "ShinJaePyung",
+					"indices": [
+						208,
+						221
+					]
+				},
+				{
+					"text": "LeeJangWon",
+					"indices": [
+						222,
+						233
+					]
+				},
+				{
+					"text": "thousandyears",
+					"indices": [
+						234,
+						248
+					]
+				},
+				{
+					"text": "20220920_6PM",
+					"indices": [
+						249,
+						262
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pptnzexpress",
+					"name": "페퍼톤스 peppertones",
+					"id": 191952879,
+					"id_str": "191952879",
+					"indices": [
+						158,
+						171
+					]
+				},
+				{
+					"screen_name": "pptnznoshel",
+					"name": "이장원 (Edward J Lee)",
+					"id": 192668164,
+					"id_str": "192668164",
+					"indices": [
+						172,
+						184
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/SECkMk5geD",
+					"expanded_url": "https://youtu.be/gSTv0-SXEgA",
+					"display_url": "youtu.be/gSTv0-SXEgA",
+					"indices": [
+						106,
+						129
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1569627099316768800,
+					"id_str": "1569627099316768770",
+					"indices": [
+						263,
+						286
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1569627099316768770/pu/img/kJRsPEWOkIWUd2Ur.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1569627099316768770/pu/img/kJRsPEWOkIWUd2Ur.jpg",
+					"url": "https://t.co/cPHUtgyUso",
+					"display_url": "pic.twitter.com/cPHUtgyUso",
+					"expanded_url": "https://twitter.com/antennamusic/status/1569627234151047168/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1569627099316768800,
+					"id_str": "1569627099316768770",
+					"indices": [
+						263,
+						286
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1569627099316768770/pu/img/kJRsPEWOkIWUd2Ur.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1569627099316768770/pu/img/kJRsPEWOkIWUd2Ur.jpg",
+					"url": "https://t.co/cPHUtgyUso",
+					"display_url": "pic.twitter.com/cPHUtgyUso",
+					"expanded_url": "https://twitter.com/antennamusic/status/1569627234151047168/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 91633,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1569627099316768770/pu/vid/480x270/3hoZIAsq1Atg3EUU.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1569627099316768770/pu/pl/7poiSVM3XzZ3QA2N.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1569627099316768770/pu/vid/1280x720/lho_cA8Vo5mUGMBV.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1569627099316768770/pu/vid/640x360/pHzudHnILei5as44.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 페퍼톤스 정규 7집 'thousand years’ 2022. 09. 20. 6PM Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40427,
+			"friends_count": 12,
+			"listed_count": 379,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5341,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1662545087",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 234,
+		"favorite_count": 175,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[#Teaser] #페퍼톤스\n\n페퍼톤스 정규 7집 'thousand years'\nPEPPERTONES 7th Full Album 'thousand years'\n\n🏔 Album Sampler\nhttps://t.co/SECkMk5geD\n\n2022. 09. 20. 6PM Release\n\n@pptnzexpress @pptnznoshel\n#PEPPERTONES\n#신재평 #이장원\n#ShinJaePyung #LeeJangWon\n#thousandyears\n#20220920_6PM https://t.co/cPHUtgyUso"
+	},
+	{
 		"created_at": "Tue Sep 13 10:05:02 +0000 2022",
 		"id": 1569628210257866800,
 		"id_str": "1569628210257866752",
