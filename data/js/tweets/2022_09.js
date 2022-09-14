@@ -1,6 +1,320 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Wed Sep 14 06:11:23 +0000 2022",
+		"id": 1569929152123539500,
+		"id_str": "1569931798725152768",
+		"full_text": "#상상마당 #상상마당기획공연 \n#PAIRPLAY #김마리최정윤 #김마리 #최정윤",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "상상마당",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "상상마당기획공연",
+					"indices": [
+						6,
+						15
+					]
+				},
+				{
+					"text": "PAIRPLAY",
+					"indices": [
+						17,
+						26
+					]
+				},
+				{
+					"text": "김마리최정윤",
+					"indices": [
+						27,
+						34
+					]
+				},
+				{
+					"text": "김마리",
+					"indices": [
+						35,
+						39
+					]
+				},
+				{
+					"text": "최정윤",
+					"indices": [
+						40,
+						44
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1569928978743595000,
+		"in_reply_to_status_id_str": "1569928978743595008",
+		"in_reply_to_user_id": 333941242,
+		"in_reply_to_user_id_str": "333941242",
+		"in_reply_to_screen_name": "ssLiveHall",
+		"user": {
+			"id": 333941242,
+			"id_str": "333941242",
+			"name": "KT&G 상상마당 라이브홀",
+			"screen_name": "ssLiveHall",
+			"location": "37.5509155,126.9210433",
+			"description": "상상마당 지하 2층에 서식중입니다. 라이브홀에서 진행되는 모든 공연에 관한 문의 환영! 홍대 주변 날씨, 맛집 등 온갖 문의 환영!",
+			"url": "https://t.co/laYCcDbsAQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/laYCcDbsAQ",
+							"expanded_url": "http://www.sangsangmadang.com/livehall",
+							"display_url": "sangsangmadang.com/livehall",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5727,
+			"friends_count": 2489,
+			"listed_count": 79,
+			"created_at": "Tue Jul 12 09:59:42 +0000 2011",
+			"favourites_count": 172,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1997,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "D9E1C6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1494206522133745666/F6l-o0LT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1494206522133745666/F6l-o0LT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/333941242/1440833687",
+			"profile_link_color": "ABB8AB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "192638",
+			"profile_text_color": "5F7D7E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "qht",
+		"text": "#상상마당 #상상마당기획공연 \n#PAIRPLAY #김마리최정윤 #김마리 #최정윤"
+	},
+	{
+		"created_at": "Wed Sep 14 06:11:17 +0000 2022",
+		"id": 1569928978743595000,
+		"id_str": "1569931772741455874",
+		"full_text": "[공연안내🤝]\nPAIR PLAY : vol.2 김마리x최정윤\n\n🔔 티켓오픈\n2022.09.19 6PM\n*멜론티켓 단독판매\n\n✅ 공연일시\n2022.10.10(월) 7PM\n\n📍 공연장소\nKT&amp;G 상상마당 홍대 라이브홀\n\n✅ 티켓가격\n전석 55,000원\n(*PAIR 할인 - 2매 구매 시 20%) https://t.co/CLm8mWhqxn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1569928848363647000,
+					"id_str": "1569928848363646978",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/FcmB-EFacAID9V4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcmB-EFacAID9V4.jpg",
+					"url": "https://t.co/CLm8mWhqxn",
+					"display_url": "pic.twitter.com/CLm8mWhqxn",
+					"expanded_url": "https://twitter.com/ssLiveHall/status/1569928978743595008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 612,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1569928848363647000,
+					"id_str": "1569928848363646978",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/FcmB-EFacAID9V4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcmB-EFacAID9V4.jpg",
+					"url": "https://t.co/CLm8mWhqxn",
+					"display_url": "pic.twitter.com/CLm8mWhqxn",
+					"expanded_url": "https://twitter.com/ssLiveHall/status/1569928978743595008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 612,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 333941242,
+			"id_str": "333941242",
+			"name": "KT&G 상상마당 라이브홀",
+			"screen_name": "ssLiveHall",
+			"location": "37.5509155,126.9210433",
+			"description": "상상마당 지하 2층에 서식중입니다. 라이브홀에서 진행되는 모든 공연에 관한 문의 환영! 홍대 주변 날씨, 맛집 등 온갖 문의 환영!",
+			"url": "https://t.co/laYCcDbsAQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/laYCcDbsAQ",
+							"expanded_url": "http://www.sangsangmadang.com/livehall",
+							"display_url": "sangsangmadang.com/livehall",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5727,
+			"friends_count": 2489,
+			"listed_count": 79,
+			"created_at": "Tue Jul 12 09:59:42 +0000 2011",
+			"favourites_count": 172,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1997,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "D9E1C6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1494206522133745666/F6l-o0LT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1494206522133745666/F6l-o0LT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/333941242/1440833687",
+			"profile_link_color": "ABB8AB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "192638",
+			"profile_text_color": "5F7D7E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[공연안내🤝]\nPAIR PLAY : vol.2 김마리x최정윤\n\n🔔 티켓오픈\n2022.09.19 6PM\n*멜론티켓 단독판매\n\n✅ 공연일시\n2022.10.10(월) 7PM\n\n📍 공연장소\nKT&amp;G 상상마당 홍대 라이브홀\n\n✅ 티켓가격\n전석 55,000원\n(*PAIR 할인 - 2매 구매 시 20%) https://t.co/CLm8mWhqxn"
+	},
+	{
 		"created_at": "Wed Sep 14 04:29:25 +0000 2022",
 		"id": 1569892409374572500,
 		"id_str": "1569906137570361344",
