@@ -1,6 +1,2022 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Wed Sep 14 08:11:55 +0000 2022",
+		"id": 1569959584055586800,
+		"id_str": "1569962133886046211",
+		"full_text": "재미공작소 특별전시 [시공간집 5 : 시 놀이공원] 2022.10.3(월)~13(목) 예약 오픈 https://t.co/LDwP4cJfXG https://t.co/VJoCpXTN0m",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LDwP4cJfXG",
+					"expanded_url": "https://m.blog.naver.com/studiozemi/222873327760",
+					"display_url": "m.blog.naver.com/studiozemi/222…",
+					"indices": [
+						54,
+						77
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1569959570197614600,
+					"id_str": "1569959570197614593",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/Fcmd6T1akAETPTw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fcmd6T1akAETPTw.jpg",
+					"url": "https://t.co/VJoCpXTN0m",
+					"display_url": "pic.twitter.com/VJoCpXTN0m",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1569959584055586816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1569959570197614600,
+					"id_str": "1569959570197614593",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/Fcmd6T1akAETPTw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fcmd6T1akAETPTw.jpg",
+					"url": "https://t.co/VJoCpXTN0m",
+					"display_url": "pic.twitter.com/VJoCpXTN0m",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1569959584055586816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1569959570172424200,
+					"id_str": "1569959570172424193",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/Fcmd6TvaMAEqT9P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fcmd6TvaMAEqT9P.jpg",
+					"url": "https://t.co/VJoCpXTN0m",
+					"display_url": "pic.twitter.com/VJoCpXTN0m",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1569959584055586816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 282449618,
+			"id_str": "282449618",
+			"name": "재미공작소",
+			"screen_name": "studio_zemi",
+			"location": "서울시 영등포구 문래동 3가 58-84 1층",
+			"description": "재미공작소는 서울 문래동에 위치한 문화예술공간입니다. (Since 2011) 공연, 문학 행사, 팝업숍, 전시, 창작 워크숍, 출판, 캘린더 갤러리 등 '재미있는 일'을 기획하고 진행합니다. 재미공작소의 일정 및 예약 관련 정보는 아래 홈블로그 링크에서 바로 확인하실 수 있습니다.",
+			"url": "https://t.co/aLQQKEqovK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aLQQKEqovK",
+							"expanded_url": "http://blog.naver.com/studiozemi",
+							"display_url": "blog.naver.com/studiozemi",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8322,
+			"friends_count": 548,
+			"listed_count": 75,
+			"created_at": "Fri Apr 15 07:08:52 +0000 2011",
+			"favourites_count": 2408,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14828,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/282449618/1398647875",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "재미공작소 특별전시 [시공간집 5 : 시 놀이공원] 2022.10.3(월)~13(목) 예약 오픈 https://t.co/LDwP4cJfXG https://t.co/VJoCpXTN0m"
+	},
+	{
+		"created_at": "Wed Sep 14 08:11:47 +0000 2022",
+		"id": 1569951721585283000,
+		"id_str": "1569962097433255936",
+		"full_text": "13. 언플러그드 홍대점 ‘가을향기’ 9월 18일 (일) 7시\n\n➡️https://t.co/4MeH4WqCbo\n씬디 홈페이지를 통해서도\n예매링크로 가실 수 있습니다~\n-\n#씬디 #xindie #xindieticket #금주의공연 #XINDIELivePick #xindie_weekend_live_pick #씬디추천 #week_37 #37주차 https://t.co/DMX2lyChdO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "씬디",
+					"indices": [
+						95,
+						98
+					]
+				},
+				{
+					"text": "xindie",
+					"indices": [
+						99,
+						106
+					]
+				},
+				{
+					"text": "xindieticket",
+					"indices": [
+						107,
+						120
+					]
+				},
+				{
+					"text": "금주의공연",
+					"indices": [
+						121,
+						127
+					]
+				},
+				{
+					"text": "XINDIELivePick",
+					"indices": [
+						128,
+						143
+					]
+				},
+				{
+					"text": "xindie_weekend_live_pick",
+					"indices": [
+						144,
+						169
+					]
+				},
+				{
+					"text": "씬디추천",
+					"indices": [
+						170,
+						175
+					]
+				},
+				{
+					"text": "week_37",
+					"indices": [
+						176,
+						184
+					]
+				},
+				{
+					"text": "37주차",
+					"indices": [
+						185,
+						190
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4MeH4WqCbo",
+					"expanded_url": "https://xindieticket.kr/",
+					"display_url": "xindieticket.kr",
+					"indices": [
+						38,
+						61
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1569951672709058600,
+					"id_str": "1569951672709058560",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/FcmWunZakAAiGEi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcmWunZakAAiGEi.jpg",
+					"url": "https://t.co/DMX2lyChdO",
+					"display_url": "pic.twitter.com/DMX2lyChdO",
+					"expanded_url": "https://twitter.com/xindieticket/status/1569951721585283072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1569951672709058600,
+					"id_str": "1569951672709058560",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/FcmWunZakAAiGEi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcmWunZakAAiGEi.jpg",
+					"url": "https://t.co/DMX2lyChdO",
+					"display_url": "pic.twitter.com/DMX2lyChdO",
+					"expanded_url": "https://twitter.com/xindieticket/status/1569951721585283072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1569951685136756700,
+					"id_str": "1569951685136756738",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/FcmWvVsaMAIG5Qp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcmWvVsaMAIG5Qp.jpg",
+					"url": "https://t.co/DMX2lyChdO",
+					"display_url": "pic.twitter.com/DMX2lyChdO",
+					"expanded_url": "https://twitter.com/xindieticket/status/1569951721585283072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1569951714845016000,
+		"in_reply_to_status_id_str": "1569951714845016064",
+		"in_reply_to_user_id": 1220731080,
+		"in_reply_to_user_id_str": "1220731080",
+		"in_reply_to_screen_name": "xindieticket",
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n(운영시간 : 10-19시, 점심시간: 13~14시)\n☎ 02-322-2218",
+			"url": "https://t.co/LKGRMjBQUY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LKGRMjBQUY",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2710,
+			"friends_count": 2485,
+			"listed_count": 22,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5345,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10219,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "13. 언플러그드 홍대점 ‘가을향기’ 9월 18일 (일) 7시\n\n➡️https://t.co/4MeH4WqCbo\n씬디 홈페이지를 통해서도\n예매링크로 가실 수 있습니다~\n-\n#씬디 #xindie #xindieticket #금주의공연 #XINDIELivePick #xindie_weekend_live_pick #씬디추천 #week_37 #37주차 https://t.co/DMX2lyChdO"
+	},
+	{
+		"created_at": "Wed Sep 14 08:11:44 +0000 2022",
+		"id": 1569951714845016000,
+		"id_str": "1569962088080068608",
+		"full_text": "9월 18일 (일요일)\n\n09. 드림홀 [ Lunar Stage!! ] 9월 18일 (일) 12시 30분\n\n10. 카페 언플러그드 홍대 [ 카페언플러그드 오픈마이크 VOLUME UP! ]  9월 18일 (일) 3시\n\n11. 네스트 나다 [ 오아!데이 ]  9월 18일 (일) 5시\n\n12. Bender 벤더 「ONCE IN A BLUE MOON」  9월 18일 (일) 6시 https://t.co/9QHrjyTdmO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			208
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1569951608209051600,
+					"id_str": "1569951608209051648",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/FcmWq3HakAACQQa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcmWq3HakAACQQa.jpg",
+					"url": "https://t.co/9QHrjyTdmO",
+					"display_url": "pic.twitter.com/9QHrjyTdmO",
+					"expanded_url": "https://twitter.com/xindieticket/status/1569951714845016064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1569951608209051600,
+					"id_str": "1569951608209051648",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/FcmWq3HakAACQQa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcmWq3HakAACQQa.jpg",
+					"url": "https://t.co/9QHrjyTdmO",
+					"display_url": "pic.twitter.com/9QHrjyTdmO",
+					"expanded_url": "https://twitter.com/xindieticket/status/1569951714845016064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1569951622540980200,
+					"id_str": "1569951622540980224",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/FcmWrsgacAAOknT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcmWrsgacAAOknT.jpg",
+					"url": "https://t.co/9QHrjyTdmO",
+					"display_url": "pic.twitter.com/9QHrjyTdmO",
+					"expanded_url": "https://twitter.com/xindieticket/status/1569951714845016064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1569951707647574000,
+		"in_reply_to_status_id_str": "1569951707647574019",
+		"in_reply_to_user_id": 1220731080,
+		"in_reply_to_user_id_str": "1220731080",
+		"in_reply_to_screen_name": "xindieticket",
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n(운영시간 : 10-19시, 점심시간: 13~14시)\n☎ 02-322-2218",
+			"url": "https://t.co/LKGRMjBQUY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LKGRMjBQUY",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2710,
+			"friends_count": 2485,
+			"listed_count": 22,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5345,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10219,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "9월 18일 (일요일)\n\n09. 드림홀 [ Lunar Stage!! ] 9월 18일 (일) 12시 30분\n\n10. 카페 언플러그드 홍대 [ 카페언플러그드 오픈마이크 VOLUME UP! ]  9월 18일 (일) 3시\n\n11. 네스트 나다 [ 오아!데이 ]  9월 18일 (일) 5시\n\n12. Bender 벤더 「ONCE IN A BLUE MOON」  9월 18일 (일) 6시 https://t.co/9QHrjyTdmO"
+	},
+	{
+		"created_at": "Wed Sep 14 08:11:37 +0000 2022",
+		"id": 1569951707647574000,
+		"id_str": "1569962057780396035",
+		"full_text": "9월 17일 (토요일)\n\n05. 언플러그드 홍대점 “Music transcends languages” 9월 17일 (토) 4시\n\n06. Bender 벤더 GUMX “BUST A NUT\" KOREA TOUR 2022 9월 17일 (토) 6시\n\n07. 네스트 나다 \"Beep! Honk! Zoom! 9월 17일 (토) 6시\n\n08. 채널 1969  [𝐃𝐄𝐆𝐄𝐍𝐄𝐑𝐀𝐓𝐈𝐎𝐍] 9월 17일 (토) 8시 https://t.co/72FYsTqJ3v",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			221
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1569951547530039300,
+					"id_str": "1569951547530039296",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/FcmWnVEaUAApt3n.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcmWnVEaUAApt3n.jpg",
+					"url": "https://t.co/72FYsTqJ3v",
+					"display_url": "pic.twitter.com/72FYsTqJ3v",
+					"expanded_url": "https://twitter.com/xindieticket/status/1569951707647574019/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1569951547530039300,
+					"id_str": "1569951547530039296",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/FcmWnVEaUAApt3n.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcmWnVEaUAApt3n.jpg",
+					"url": "https://t.co/72FYsTqJ3v",
+					"display_url": "pic.twitter.com/72FYsTqJ3v",
+					"expanded_url": "https://twitter.com/xindieticket/status/1569951707647574019/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1569951562075877400,
+					"id_str": "1569951562075877382",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/FcmWoLQaMAYFDwS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcmWoLQaMAYFDwS.jpg",
+					"url": "https://t.co/72FYsTqJ3v",
+					"display_url": "pic.twitter.com/72FYsTqJ3v",
+					"expanded_url": "https://twitter.com/xindieticket/status/1569951707647574019/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1569951700311736300,
+		"in_reply_to_status_id_str": "1569951700311736320",
+		"in_reply_to_user_id": 1220731080,
+		"in_reply_to_user_id_str": "1220731080",
+		"in_reply_to_screen_name": "xindieticket",
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n(운영시간 : 10-19시, 점심시간: 13~14시)\n☎ 02-322-2218",
+			"url": "https://t.co/LKGRMjBQUY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LKGRMjBQUY",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2710,
+			"friends_count": 2485,
+			"listed_count": 22,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5345,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10219,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "9월 17일 (토요일)\n\n05. 언플러그드 홍대점 “Music transcends languages” 9월 17일 (토) 4시\n\n06. Bender 벤더 GUMX “BUST A NUT\" KOREA TOUR 2022 9월 17일 (토) 6시\n\n07. 네스트 나다 \"Beep! Honk! Zoom! 9월 17일 (토) 6시\n\n08. 채널 1969  [𝐃𝐄𝐆𝐄𝐍𝐄𝐑𝐀𝐓𝐈𝐎𝐍] 9월 17일 (토) 8시 https://t.co/72FYsTqJ3v"
+	},
+	{
+		"created_at": "Wed Sep 14 08:11:28 +0000 2022",
+		"id": 1569951700311736300,
+		"id_str": "1569962018979053568",
+		"full_text": "9월 16일 (금요일)\n\n01. 네스트 나다 \"U R UNIVERSE\" 9월 16일 (금) 7시 30분\n\n02. 언플러그드 홍대점 [UNPLE UNIVERSE - 행성을 찾아줘#1] 9월 16일 (금) 8시 \n\n03. Bender 벤더 GUMX “BUST A NUT\" KOREA TOUR 2022 9월 16일 (금) 8시\n\n04. 롤링홀 'Mac Night' 9월 16일 (금) 8시 https://t.co/gEH9hdZREx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			214
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1569951371214098400,
+					"id_str": "1569951371214098434",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/FcmWdEPakAIaCWa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcmWdEPakAIaCWa.jpg",
+					"url": "https://t.co/gEH9hdZREx",
+					"display_url": "pic.twitter.com/gEH9hdZREx",
+					"expanded_url": "https://twitter.com/xindieticket/status/1569951700311736320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1569951371214098400,
+					"id_str": "1569951371214098434",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/FcmWdEPakAIaCWa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcmWdEPakAIaCWa.jpg",
+					"url": "https://t.co/gEH9hdZREx",
+					"display_url": "pic.twitter.com/gEH9hdZREx",
+					"expanded_url": "https://twitter.com/xindieticket/status/1569951700311736320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1569951382626795500,
+					"id_str": "1569951382626795520",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/FcmWduwagAAjj-4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcmWduwagAAjj-4.jpg",
+					"url": "https://t.co/gEH9hdZREx",
+					"display_url": "pic.twitter.com/gEH9hdZREx",
+					"expanded_url": "https://twitter.com/xindieticket/status/1569951700311736320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1569951694443937800,
+		"in_reply_to_status_id_str": "1569951694443937799",
+		"in_reply_to_user_id": 1220731080,
+		"in_reply_to_user_id_str": "1220731080",
+		"in_reply_to_screen_name": "xindieticket",
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n(운영시간 : 10-19시, 점심시간: 13~14시)\n☎ 02-322-2218",
+			"url": "https://t.co/LKGRMjBQUY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LKGRMjBQUY",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2710,
+			"friends_count": 2485,
+			"listed_count": 22,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5345,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10219,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "9월 16일 (금요일)\n\n01. 네스트 나다 \"U R UNIVERSE\" 9월 16일 (금) 7시 30분\n\n02. 언플러그드 홍대점 [UNPLE UNIVERSE - 행성을 찾아줘#1] 9월 16일 (금) 8시 \n\n03. Bender 벤더 GUMX “BUST A NUT\" KOREA TOUR 2022 9월 16일 (금) 8시\n\n04. 롤링홀 'Mac Night' 9월 16일 (금) 8시 https://t.co/gEH9hdZREx"
+	},
+	{
+		"created_at": "Wed Sep 14 08:11:19 +0000 2022",
+		"id": 1569951694443937800,
+		"id_str": "1569961980064145416",
+		"full_text": "[XINDIE This Week's Performance]\nWEEK 37 / 22. 09. 16. - 09. 18.\n\n안녕하세요 인디팬 여러분!! 씬디티켓라운지입니다!!!\n모든분들이 추석연휴를 지인분들과 즐겁게 보내셨을거라 믿습니다!!\n이번주 주말에는 지인분들과 많은 아티스트분들이 열심히 준비한\n공연을 즐겨보시는건 어떨까요??! https://t.co/gGNlhdPjIM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1569951327429738500,
+					"id_str": "1569951327429738499",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/FcmWahIaQAMXvY6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcmWahIaQAMXvY6.jpg",
+					"url": "https://t.co/gGNlhdPjIM",
+					"display_url": "pic.twitter.com/gGNlhdPjIM",
+					"expanded_url": "https://twitter.com/xindieticket/status/1569951694443937799/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1569951327429738500,
+					"id_str": "1569951327429738499",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/FcmWahIaQAMXvY6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcmWahIaQAMXvY6.jpg",
+					"url": "https://t.co/gGNlhdPjIM",
+					"display_url": "pic.twitter.com/gGNlhdPjIM",
+					"expanded_url": "https://twitter.com/xindieticket/status/1569951694443937799/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n(운영시간 : 10-19시, 점심시간: 13~14시)\n☎ 02-322-2218",
+			"url": "https://t.co/LKGRMjBQUY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LKGRMjBQUY",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2710,
+			"friends_count": 2485,
+			"listed_count": 22,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5345,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10219,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[XINDIE This Week's Performance]\nWEEK 37 / 22. 09. 16. - 09. 18.\n\n안녕하세요 인디팬 여러분!! 씬디티켓라운지입니다!!!\n모든분들이 추석연휴를 지인분들과 즐겁게 보내셨을거라 믿습니다!!\n이번주 주말에는 지인분들과 많은 아티스트분들이 열심히 준비한\n공연을 즐겨보시는건 어떨까요??! https://t.co/gGNlhdPjIM"
+	},
+	{
+		"created_at": "Wed Sep 14 07:58:15 +0000 2022",
+		"id": 1569944714589409300,
+		"id_str": "1569958692279156736",
+		"full_text": "❤️KCON 2022 JAPAN DAILY LINEUP💙\n\nFind out which artists will be there for KCON-ers!\nDon't miss out on 3rd Official Pre-Sale Tickets🥰\nKCON-ers와 함께 할 다양한 아티스트를 확인해보세요!\n3차 선행 티켓도 놓치지 마세요🥰\n\n🔗https://t.co/cOMSNpa5zj\n\n#KCON #KCONJAPAN #KCON2022JAPAN https://t.co/iIuhGeFy8M",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			243
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						212,
+						217
+					]
+				},
+				{
+					"text": "KCONJAPAN",
+					"indices": [
+						218,
+						228
+					]
+				},
+				{
+					"text": "KCON2022JAPAN",
+					"indices": [
+						229,
+						243
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cOMSNpa5zj",
+					"expanded_url": "http://kconjapan.com/ticket/",
+					"display_url": "kconjapan.com/ticket/",
+					"indices": [
+						187,
+						210
+					]
+				},
+				{
+					"url": "https://t.co/iIuhGeFy8M",
+					"expanded_url": "https://twitter.com/kconjapan/status/1569916529277534209",
+					"display_url": "twitter.com/kconjapan/stat…",
+					"indices": [
+						244,
+						267
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER 📍 KCON 2022 SAUDI ARABIA 9/30 ~ 10/1 📍KCON 2022 JAPAN 10/14 ~ 10/16(JST)",
+			"url": "https://t.co/IDnJhWoZ59",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWoZ59",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 463039,
+			"friends_count": 76,
+			"listed_count": 1129,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 138,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12959,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1567787455188987905/sAYoOtFz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1567787455188987905/sAYoOtFz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1662638939",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1569916529277534200,
+		"quoted_status_id_str": "1569916529277534209",
+		"quoted_status_permalink": {
+			"url": "https://t.co/iIuhGeFy8M",
+			"expanded": "https://twitter.com/kconjapan/status/1569916529277534209",
+			"display": "twitter.com/kconjapan/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Sep 14 05:10:42 +0000 2022",
+			"id": 1569916529277534200,
+			"id_str": "1569916529277534209",
+			"full_text": "❤️KCON 2022 JAPAN DAILY LINEUP💙\n\nKCON-ersと共に時間を過ごす様々なアーティストをご確認ください！\nKCON 2022 JAPANを楽しむための3次先行チケットも見逃さなく🥰\n\n🔗https://t.co/ySpx5nsSHZ\n\n#KCON #KCONJAPAN #KCON2022JAPAN https://t.co/dSAjZ6dA7Z",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				165
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "KCON",
+						"indices": [
+							134,
+							139
+						]
+					},
+					{
+						"text": "KCONJAPAN",
+						"indices": [
+							140,
+							150
+						]
+					},
+					{
+						"text": "KCON2022JAPAN",
+						"indices": [
+							151,
+							165
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ySpx5nsSHZ",
+						"expanded_url": "http://kconjapan.com/ticket/",
+						"display_url": "kconjapan.com/ticket/",
+						"indices": [
+							109,
+							132
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1569916343163699200,
+						"id_str": "1569916343163699203",
+						"indices": [
+							166,
+							189
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1569916343163699203/img/hNsoPGHlwnmKPPin.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1569916343163699203/img/hNsoPGHlwnmKPPin.jpg",
+						"url": "https://t.co/dSAjZ6dA7Z",
+						"display_url": "pic.twitter.com/dSAjZ6dA7Z",
+						"expanded_url": "https://twitter.com/kconjapan/status/1569916529277534209/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1569916343163699200,
+						"id_str": "1569916343163699203",
+						"indices": [
+							166,
+							189
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1569916343163699203/img/hNsoPGHlwnmKPPin.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1569916343163699203/img/hNsoPGHlwnmKPPin.jpg",
+						"url": "https://t.co/dSAjZ6dA7Z",
+						"display_url": "pic.twitter.com/dSAjZ6dA7Z",
+						"expanded_url": "https://twitter.com/kconjapan/status/1569916529277534209/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 84017,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1569916343163699203/vid/1280x720/OjpVLLSLqNS3GcHx.mp4?tag=14"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1569916343163699203/vid/640x360/lWqrw1tVAsvq7ObA.mp4?tag=14"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1569916343163699203/pl/zHDjgc6MAOjs974G.m3u8?tag=14&container=fmp4"
+								},
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1569916343163699203/vid/480x270/I-NkWwo0UF9bGXnc.mp4?tag=14"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3017029196,
+				"id_str": "3017029196",
+				"name": "KCON Japan",
+				"screen_name": "kconjapan",
+				"location": "",
+				"description": "世界最大級のK-Cultureフェスティバル\n『KCON JAPAN』の公式Twitterです！\n📍10/14（金） ~ 10/16(日）/ 東京・有明アリーナ",
+				"url": "https://t.co/sCRhaGCzOM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/sCRhaGCzOM",
+								"expanded_url": "http://kconjapan.com",
+								"display_url": "kconjapan.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 241982,
+				"friends_count": 157,
+				"listed_count": 478,
+				"created_at": "Thu Feb 12 06:02:55 +0000 2015",
+				"favourites_count": 166,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 6698,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5ABB5",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1554285876041367553/Z3_Jgigb_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1554285876041367553/Z3_Jgigb_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3017029196/1662617121",
+				"profile_link_color": "F5ABB5",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 575,
+			"favorite_count": 1769,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"retweet_count": 20,
+		"favorite_count": 103,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "❤️KCON 2022 JAPAN DAILY LINEUP💙\n\nFind out which artists will be there for KCON-ers!\nDon't miss out on 3rd Official Pre-Sale Tickets🥰\nKCON-ers와 함께 할 다양한 아티스트를 확인해보세요!\n3차 선행 티켓도 놓치지 마세요🥰\n\n🔗https://t.co/cOMSNpa5zj\n\n#KCON #KCONJAPAN #KCON2022JAPAN https://t.co/iIuhGeFy8M"
+	},
+	{
+		"created_at": "Wed Sep 14 07:29:36 +0000 2022",
+		"id": 1569949748739842000,
+		"id_str": "1569951485080764417",
+		"full_text": "[#News] #페퍼톤스\n\n페퍼톤스 정규 7집 무드 담은 샘플러 영상 공개\n\n(출처: YTN | 네이버 TV연예)\n\n✔️ https://t.co/NnxhVe9Kjn\n\n@pptnzexpress @pptnznoshel\n#PEPPERTONES\n#신재평 #이장원\n#ShinJaePyung #LeeJangWon\n#thousandyears\n#20220920_6PM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "News",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "페퍼톤스",
+					"indices": [
+						8,
+						13
+					]
+				},
+				{
+					"text": "PEPPERTONES",
+					"indices": [
+						120,
+						132
+					]
+				},
+				{
+					"text": "신재평",
+					"indices": [
+						133,
+						137
+					]
+				},
+				{
+					"text": "이장원",
+					"indices": [
+						138,
+						142
+					]
+				},
+				{
+					"text": "ShinJaePyung",
+					"indices": [
+						143,
+						156
+					]
+				},
+				{
+					"text": "LeeJangWon",
+					"indices": [
+						157,
+						168
+					]
+				},
+				{
+					"text": "thousandyears",
+					"indices": [
+						169,
+						183
+					]
+				},
+				{
+					"text": "20220920_6PM",
+					"indices": [
+						184,
+						197
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pptnzexpress",
+					"name": "페퍼톤스 peppertones",
+					"id": 191952879,
+					"id_str": "191952879",
+					"indices": [
+						93,
+						106
+					]
+				},
+				{
+					"screen_name": "pptnznoshel",
+					"name": "이장원 (Edward J Lee)",
+					"id": 192668164,
+					"id_str": "192668164",
+					"indices": [
+						107,
+						119
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/NnxhVe9Kjn",
+					"expanded_url": "https://naver.me/xfR1V7Wp",
+					"display_url": "naver.me/xfR1V7Wp",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 페퍼톤스 정규 7집 'thousand years’ 2022. 09. 20. 6PM Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40425,
+			"friends_count": 12,
+			"listed_count": 379,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5347,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1662545087",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 28,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#News] #페퍼톤스\n\n페퍼톤스 정규 7집 무드 담은 샘플러 영상 공개\n\n(출처: YTN | 네이버 TV연예)\n\n✔️ https://t.co/NnxhVe9Kjn\n\n@pptnzexpress @pptnznoshel\n#PEPPERTONES\n#신재평 #이장원\n#ShinJaePyung #LeeJangWon\n#thousandyears\n#20220920_6PM"
+	},
+	{
+		"created_at": "Wed Sep 14 07:29:32 +0000 2022",
+		"id": 1569937008973447200,
+		"id_str": "1569951467427045377",
+		"full_text": "* 초청 공연 프로그램에 함께 하며, 박소은의 공연은 오후 8시부터 시작됩니다.\n\n#박소은 #노원청년축제 #경춘선숲길 #초청공연",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "박소은",
+					"indices": [
+						46,
+						50
+					]
+				},
+				{
+					"text": "노원청년축제",
+					"indices": [
+						51,
+						58
+					]
+				},
+				{
+					"text": "경춘선숲길",
+					"indices": [
+						59,
+						65
+					]
+				},
+				{
+					"text": "초청공연",
+					"indices": [
+						66,
+						71
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1569936985300824000,
+		"in_reply_to_status_id_str": "1569936985300824067",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 your summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 슬릭, 아마도이자람밴드, 우주왕복선싸이드미러, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2290,
+			"friends_count": 20,
+			"listed_count": 0,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 636,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6540,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "* 초청 공연 프로그램에 함께 하며, 박소은의 공연은 오후 8시부터 시작됩니다.\n\n#박소은 #노원청년축제 #경춘선숲길 #초청공연"
+	},
+	{
 		"created_at": "Wed Sep 14 06:53:06 +0000 2022",
 		"id": 1569942295910428700,
 		"id_str": "1569942295910428675",
