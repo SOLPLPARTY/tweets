@@ -1,6 +1,332 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Wed Sep 14 00:29:25 +0000 2022",
+		"id": 1569842428928233500,
+		"id_str": "1569845740985270276",
+		"full_text": "일주일 앞으로 다가온 샘 핸쇼 내한 공연✨\n티켓 구매는 아래 링크에서 가능합니다!🎫\n\nhttps://t.co/t3TYVUZw1e https://t.co/w59rQ0TrCY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/t3TYVUZw1e",
+					"expanded_url": "http://ticket.yes24.com/Special/42989",
+					"display_url": "ticket.yes24.com/Special/42989",
+					"indices": [
+						48,
+						71
+					]
+				},
+				{
+					"url": "https://t.co/w59rQ0TrCY",
+					"expanded_url": "https://twitter.com/sammhenshaw/status/1569836512178573317",
+					"display_url": "twitter.com/sammhenshaw/st…",
+					"indices": [
+						72,
+						95
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 985865748638650400,
+			"id_str": "985865748638650368",
+			"name": "HIGHJINKX 하이징크스",
+			"screen_name": "HIGHJINKXX",
+			"location": "대한민국 서울",
+			"description": "https://t.co/UEZd1A0tMQ https://t.co/bYHM3gN9tB",
+			"url": "https://t.co/jgdOjxGxJL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jgdOjxGxJL",
+							"expanded_url": "https://www.highjinkxmm.com",
+							"display_url": "highjinkxmm.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UEZd1A0tMQ",
+							"expanded_url": "http://highjinkx.com",
+							"display_url": "highjinkx.com",
+							"indices": [
+								0,
+								23
+							]
+						},
+						{
+							"url": "https://t.co/bYHM3gN9tB",
+							"expanded_url": "http://highjinkxmm.com",
+							"display_url": "highjinkxmm.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 655,
+			"friends_count": 30,
+			"listed_count": 5,
+			"created_at": "Mon Apr 16 13:01:25 +0000 2018",
+			"favourites_count": 377,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 828,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/986167678246125568/PTUKZtMn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/986167678246125568/PTUKZtMn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/985865748638650368/1575347637",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1569836512178573300,
+		"quoted_status_id_str": "1569836512178573317",
+		"quoted_status_permalink": {
+			"url": "https://t.co/w59rQ0TrCY",
+			"expanded": "https://twitter.com/sammhenshaw/status/1569836512178573317",
+			"display": "twitter.com/sammhenshaw/st…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Sep 13 23:52:45 +0000 2022",
+			"id": 1569836512178573300,
+			"id_str": "1569836512178573317",
+			"full_text": "So those extra Tokyo tickets are all officially gone. We’re sold out sold out now!\nSeoul Korea cop them tickets!!!\n\nhttps://t.co/xHC2SZNkLT https://t.co/swmO54satN",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				139
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/xHC2SZNkLT",
+						"expanded_url": "https://samm.lnk.to/asia_tour",
+						"display_url": "samm.lnk.to/asia_tour",
+						"indices": [
+							116,
+							139
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1569836503953440800,
+						"id_str": "1569836503953440770",
+						"indices": [
+							140,
+							163
+						],
+						"media_url": "http://pbs.twimg.com/media/Fckt-6WWAAIQtpZ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Fckt-6WWAAIQtpZ.jpg",
+						"url": "https://t.co/swmO54satN",
+						"display_url": "pic.twitter.com/swmO54satN",
+						"expanded_url": "https://twitter.com/SammHenshaw/status/1569836512178573317/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 801,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 454,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1618,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1569836503953440800,
+						"id_str": "1569836503953440770",
+						"indices": [
+							140,
+							163
+						],
+						"media_url": "http://pbs.twimg.com/media/Fckt-6WWAAIQtpZ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Fckt-6WWAAIQtpZ.jpg",
+						"url": "https://t.co/swmO54satN",
+						"display_url": "pic.twitter.com/swmO54satN",
+						"expanded_url": "https://twitter.com/SammHenshaw/status/1569836512178573317/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 801,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 454,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1618,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 135199936,
+				"id_str": "135199936",
+				"name": "SAMMSONITE THE SHEATH!",
+				"screen_name": "SammHenshaw",
+				"location": "Probably in bed",
+				"description": "UNTIDY SOUL OUT NOW.",
+				"url": "https://t.co/OveDHZ3Eo0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/OveDHZ3Eo0",
+								"expanded_url": "https://sammhenshaw.ffm.to/untidysoul",
+								"display_url": "sammhenshaw.ffm.to/untidysoul",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 12343,
+				"friends_count": 918,
+				"listed_count": 69,
+				"created_at": "Tue Apr 20 16:26:41 +0000 2010",
+				"favourites_count": 17484,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 33132,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1FAAC2",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1487004279349071872/RpV6S2hw_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1487004279349071872/RpV6S2hw_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/135199936/1643358926",
+				"profile_link_color": "895E02",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "95E8EC",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "일주일 앞으로 다가온 샘 핸쇼 내한 공연✨\n티켓 구매는 아래 링크에서 가능합니다!🎫\n\nhttps://t.co/t3TYVUZw1e https://t.co/w59rQ0TrCY"
+	},
+	{
 		"created_at": "Tue Sep 13 14:11:17 +0000 2022",
 		"id": 1569686129804443600,
 		"id_str": "1569690182647185416",
