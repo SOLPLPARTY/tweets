@@ -1,6 +1,1005 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Wed Sep 14 03:58:19 +0000 2022",
+		"id": 1569884066799063000,
+		"id_str": "1569898312261574657",
+		"full_text": "【티켓 안내】\nKCON 2022 JAPAN 오피셜 3차 선행 접수 시작!\nSHOW와 MEET&amp;GREET 티켓을 얻을 수 있는 마지막 선행입니다.\n\n🗓접수기간: 9/14(수) ~ 9/20(화) 23:59까지 (JST)\n🔗https://t.co/cOMSNpa5zj\n\n#KCON #KCONJAPAN #KCON2022JAPAN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						151,
+						156
+					]
+				},
+				{
+					"text": "KCONJAPAN",
+					"indices": [
+						157,
+						167
+					]
+				},
+				{
+					"text": "KCON2022JAPAN",
+					"indices": [
+						168,
+						182
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cOMSNpa5zj",
+					"expanded_url": "http://kconjapan.com/ticket/",
+					"display_url": "kconjapan.com/ticket/",
+					"indices": [
+						126,
+						149
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1569884062915129300,
+		"in_reply_to_status_id_str": "1569884062915129345",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER 📍 KCON 2022 SAUDI ARABIA 9/30 ~ 10/1 📍KCON 2022 JAPAN 10/14 ~ 10/16(JST)",
+			"url": "https://t.co/IDnJhWoZ59",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWoZ59",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 463026,
+			"friends_count": 76,
+			"listed_count": 1129,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 138,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12958,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1567787455188987905/sAYoOtFz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1567787455188987905/sAYoOtFz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1662638939",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 32,
+		"favorite_count": 86,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "【티켓 안내】\nKCON 2022 JAPAN 오피셜 3차 선행 접수 시작!\nSHOW와 MEET&amp;GREET 티켓을 얻을 수 있는 마지막 선행입니다.\n\n🗓접수기간: 9/14(수) ~ 9/20(화) 23:59까지 (JST)\n🔗https://t.co/cOMSNpa5zj\n\n#KCON #KCONJAPAN #KCON2022JAPAN"
+	},
+	{
+		"created_at": "Wed Sep 14 03:58:15 +0000 2022",
+		"id": 1569884062915129300,
+		"id_str": "1569898294545121281",
+		"full_text": "【Ticket Info】\nKCON 2022 JAPAN 3rd Official Pre-sale START!\nYour last chance to get SHOW and MEET&amp;GREET pre-sale tickets.\n\n🗓Application Period: 9/14(WED) ~ 9/20(TUE) until 23:59 (JST)\n🔗https://t.co/cOMSNpa5zj\n\n#KCON #KCONJAPAN #KCON2022JAPAN https://t.co/ahRDd4Mz0Y https://t.co/BvVXfPG4i5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						213,
+						218
+					]
+				},
+				{
+					"text": "KCONJAPAN",
+					"indices": [
+						219,
+						229
+					]
+				},
+				{
+					"text": "KCON2022JAPAN",
+					"indices": [
+						230,
+						244
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cOMSNpa5zj",
+					"expanded_url": "http://kconjapan.com/ticket/",
+					"display_url": "kconjapan.com/ticket/",
+					"indices": [
+						188,
+						211
+					]
+				},
+				{
+					"url": "https://t.co/ahRDd4Mz0Y",
+					"expanded_url": "https://twitter.com/kconjapan/status/1569883760983740418",
+					"display_url": "twitter.com/kconjapan/stat…",
+					"indices": [
+						245,
+						268
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1569884006661132300,
+					"id_str": "1569884006661132290",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/FclZL7uakAI27lU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FclZL7uakAI27lU.jpg",
+					"url": "https://t.co/BvVXfPG4i5",
+					"display_url": "pic.twitter.com/BvVXfPG4i5",
+					"expanded_url": "https://twitter.com/KCON_official/status/1569884062915129345/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1620,
+							"h": 1620,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1569884006661132300,
+					"id_str": "1569884006661132290",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/FclZL7uakAI27lU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FclZL7uakAI27lU.jpg",
+					"url": "https://t.co/BvVXfPG4i5",
+					"display_url": "pic.twitter.com/BvVXfPG4i5",
+					"expanded_url": "https://twitter.com/KCON_official/status/1569884062915129345/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1620,
+							"h": 1620,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER 📍 KCON 2022 SAUDI ARABIA 9/30 ~ 10/1 📍KCON 2022 JAPAN 10/14 ~ 10/16(JST)",
+			"url": "https://t.co/IDnJhWoZ59",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWoZ59",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 463026,
+			"friends_count": 76,
+			"listed_count": 1129,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 138,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12958,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1567787455188987905/sAYoOtFz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1567787455188987905/sAYoOtFz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1662638939",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1569883760983740400,
+		"quoted_status_id_str": "1569883760983740418",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ahRDd4Mz0Y",
+			"expanded": "https://twitter.com/kconjapan/status/1569883760983740418",
+			"display": "twitter.com/kconjapan/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Sep 14 03:00:30 +0000 2022",
+			"id": 1569883760983740400,
+			"id_str": "1569883760983740418",
+			"full_text": "【チケット案内】\nKCON 2022 JAPANのオフィシャル3次先行受付スタート！\nSHOWとMEET&amp;GREETチケットをゲットできる最後の先行となります。\n\n🗓受付期間: 9/14(水)~9/20(火)23:59まで\n🔗https://t.co/ySpx5nskSr\n\n#KCON #KCONJAPAN #KCON2022JAPAN https://t.co/q04iMr2Upp",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				173
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "KCON",
+						"indices": [
+							142,
+							147
+						]
+					},
+					{
+						"text": "KCONJAPAN",
+						"indices": [
+							148,
+							158
+						]
+					},
+					{
+						"text": "KCON2022JAPAN",
+						"indices": [
+							159,
+							173
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ySpx5nskSr",
+						"expanded_url": "http://kconjapan.com/ticket/",
+						"display_url": "kconjapan.com/ticket/",
+						"indices": [
+							117,
+							140
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1569647791328366600,
+						"id_str": "1569647791328366592",
+						"indices": [
+							174,
+							197
+						],
+						"media_url": "http://pbs.twimg.com/media/FciCWZCakAAWUS-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FciCWZCakAAWUS-.jpg",
+						"url": "https://t.co/q04iMr2Upp",
+						"display_url": "pic.twitter.com/q04iMr2Upp",
+						"expanded_url": "https://twitter.com/kconjapan/status/1569883760983740418/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1620,
+								"h": 1620,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1569647791328366600,
+						"id_str": "1569647791328366592",
+						"indices": [
+							174,
+							197
+						],
+						"media_url": "http://pbs.twimg.com/media/FciCWZCakAAWUS-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FciCWZCakAAWUS-.jpg",
+						"url": "https://t.co/q04iMr2Upp",
+						"display_url": "pic.twitter.com/q04iMr2Upp",
+						"expanded_url": "https://twitter.com/kconjapan/status/1569883760983740418/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1620,
+								"h": 1620,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3017029196,
+				"id_str": "3017029196",
+				"name": "KCON Japan",
+				"screen_name": "kconjapan",
+				"location": "",
+				"description": "世界最大級のK-Cultureフェスティバル\n『KCON JAPAN』の公式Twitterです！\n📍10/14（金） ~ 10/16(日）/ 東京・有明アリーナ",
+				"url": "https://t.co/sCRhaGCzOM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/sCRhaGCzOM",
+								"expanded_url": "http://kconjapan.com",
+								"display_url": "kconjapan.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 241973,
+				"friends_count": 157,
+				"listed_count": 479,
+				"created_at": "Thu Feb 12 06:02:55 +0000 2015",
+				"favourites_count": 166,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 6697,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5ABB5",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1554285876041367553/Z3_Jgigb_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1554285876041367553/Z3_Jgigb_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3017029196/1662617121",
+				"profile_link_color": "F5ABB5",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 376,
+			"favorite_count": 1494,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"retweet_count": 29,
+		"favorite_count": 127,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "【Ticket Info】\nKCON 2022 JAPAN 3rd Official Pre-sale START!\nYour last chance to get SHOW and MEET&amp;GREET pre-sale tickets.\n\n🗓Application Period: 9/14(WED) ~ 9/20(TUE) until 23:59 (JST)\n🔗https://t.co/cOMSNpa5zj\n\n#KCON #KCONJAPAN #KCON2022JAPAN https://t.co/ahRDd4Mz0Y https://t.co/BvVXfPG4i5"
+	},
+	{
+		"created_at": "Wed Sep 14 03:29:40 +0000 2022",
+		"id": 1569883679681572900,
+		"id_str": "1569891101678653440",
+		"full_text": "@pptnzexpress @pptnznoshel\n#PEPPERTONES\n#신재평 #이장원\n#ShinJaePyung #LeeJangWon\n#thousandyears\n#우산 #태풍의눈 #사파리의밤 #coma\n#어디로가는가 #고래 #GIVEUP \n#Umbrella #Eye_of_the_Typhoon \n#Night_at_the_Safari \n#Where_Should_I_Go #Whale\n#20220920_6PM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			227
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PEPPERTONES",
+					"indices": [
+						27,
+						39
+					]
+				},
+				{
+					"text": "신재평",
+					"indices": [
+						40,
+						44
+					]
+				},
+				{
+					"text": "이장원",
+					"indices": [
+						45,
+						49
+					]
+				},
+				{
+					"text": "ShinJaePyung",
+					"indices": [
+						50,
+						63
+					]
+				},
+				{
+					"text": "LeeJangWon",
+					"indices": [
+						64,
+						75
+					]
+				},
+				{
+					"text": "thousandyears",
+					"indices": [
+						76,
+						90
+					]
+				},
+				{
+					"text": "우산",
+					"indices": [
+						91,
+						94
+					]
+				},
+				{
+					"text": "태풍의눈",
+					"indices": [
+						95,
+						100
+					]
+				},
+				{
+					"text": "사파리의밤",
+					"indices": [
+						101,
+						107
+					]
+				},
+				{
+					"text": "coma",
+					"indices": [
+						108,
+						113
+					]
+				},
+				{
+					"text": "어디로가는가",
+					"indices": [
+						114,
+						121
+					]
+				},
+				{
+					"text": "고래",
+					"indices": [
+						122,
+						125
+					]
+				},
+				{
+					"text": "GIVEUP",
+					"indices": [
+						126,
+						133
+					]
+				},
+				{
+					"text": "Umbrella",
+					"indices": [
+						135,
+						144
+					]
+				},
+				{
+					"text": "Eye_of_the_Typhoon",
+					"indices": [
+						145,
+						164
+					]
+				},
+				{
+					"text": "Night_at_the_Safari",
+					"indices": [
+						166,
+						186
+					]
+				},
+				{
+					"text": "Where_Should_I_Go",
+					"indices": [
+						188,
+						206
+					]
+				},
+				{
+					"text": "Whale",
+					"indices": [
+						207,
+						213
+					]
+				},
+				{
+					"text": "20220920_6PM",
+					"indices": [
+						214,
+						227
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pptnzexpress",
+					"name": "페퍼톤스 peppertones",
+					"id": 191952879,
+					"id_str": "191952879",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "pptnznoshel",
+					"name": "이장원 (Edward J Lee)",
+					"id": 192668164,
+					"id_str": "192668164",
+					"indices": [
+						14,
+						26
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1569883674207989800,
+		"in_reply_to_status_id_str": "1569883674207989761",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 페퍼톤스 정규 7집 'thousand years’ 2022. 09. 20. 6PM Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40421,
+			"friends_count": 12,
+			"listed_count": 379,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5343,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1662545087",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "qme",
+		"text": "@pptnzexpress @pptnznoshel\n#PEPPERTONES\n#신재평 #이장원\n#ShinJaePyung #LeeJangWon\n#thousandyears\n#우산 #태풍의눈 #사파리의밤 #coma\n#어디로가는가 #고래 #GIVEUP \n#Umbrella #Eye_of_the_Typhoon \n#Night_at_the_Safari \n#Where_Should_I_Go #Whale\n#20220920_6PM"
+	},
+	{
+		"created_at": "Wed Sep 14 03:29:33 +0000 2022",
+		"id": 1569883674207989800,
+		"id_str": "1569891071219351558",
+		"full_text": "[#Teaser] #페퍼톤스\n\n페퍼톤스 정규 7집 'thousand years'\nPEPPERTONES 7th Full Album 'thousand years'\n\n🏔 Tracklist\n01. 우산\n02. 태풍의 눈\n03. 사파리의 밤\n04. coma\n05. 어디로 가는가\n06. 고래\n07. GIVE UP\n\n2022. 09. 20. 6PM Release https://t.co/KqH5vBXFtq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Teaser",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "페퍼톤스",
+					"indices": [
+						10,
+						15
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1569874450652483600,
+					"id_str": "1569874450652483586",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/FclQfs0aUAI55Hw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FclQfs0aUAI55Hw.jpg",
+					"url": "https://t.co/KqH5vBXFtq",
+					"display_url": "pic.twitter.com/KqH5vBXFtq",
+					"expanded_url": "https://twitter.com/antennamusic/status/1569883674207989761/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1569874450652483600,
+					"id_str": "1569874450652483586",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/FclQfs0aUAI55Hw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FclQfs0aUAI55Hw.jpg",
+					"url": "https://t.co/KqH5vBXFtq",
+					"display_url": "pic.twitter.com/KqH5vBXFtq",
+					"expanded_url": "https://twitter.com/antennamusic/status/1569883674207989761/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 페퍼톤스 정규 7집 'thousand years’ 2022. 09. 20. 6PM Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40421,
+			"friends_count": 12,
+			"listed_count": 379,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5343,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1662545087",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 175,
+		"favorite_count": 130,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Teaser] #페퍼톤스\n\n페퍼톤스 정규 7집 'thousand years'\nPEPPERTONES 7th Full Album 'thousand years'\n\n🏔 Tracklist\n01. 우산\n02. 태풍의 눈\n03. 사파리의 밤\n04. coma\n05. 어디로 가는가\n06. 고래\n07. GIVE UP\n\n2022. 09. 20. 6PM Release https://t.co/KqH5vBXFtq"
+	},
+	{
 		"created_at": "Wed Sep 14 02:29:32 +0000 2022",
 		"id": 1569873667496226800,
 		"id_str": "1569875968449298432",
