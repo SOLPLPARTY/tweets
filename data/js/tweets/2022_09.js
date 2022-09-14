@@ -1,6 +1,531 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Wed Sep 14 16:29:41 +0000 2022",
+		"id": 1570087014372114400,
+		"id_str": "1570087398679142403",
+		"full_text": "발매일 연기에 대해 다시 한 번 사과드리며 통관, 패키징 등 궁금하실 진행 상황에 대해서도 빠르게 공유드릴 수 있도록 하겠습니다. https://t.co/RmC327J0Ab",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1570087010882457600,
+					"id_str": "1570087010882457600",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/FcoR0VYakAAkcFa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcoR0VYakAAkcFa.jpg",
+					"url": "https://t.co/RmC327J0Ab",
+					"display_url": "pic.twitter.com/RmC327J0Ab",
+					"expanded_url": "https://twitter.com/rulooralarecord/status/1570087014372114433/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1570087010882457600,
+					"id_str": "1570087010882457600",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/FcoR0VYakAAkcFa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcoR0VYakAAkcFa.jpg",
+					"url": "https://t.co/RmC327J0Ab",
+					"display_url": "pic.twitter.com/RmC327J0Ab",
+					"expanded_url": "https://twitter.com/rulooralarecord/status/1570087014372114433/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1570086844829962200,
+		"in_reply_to_status_id_str": "1570086844829962240",
+		"in_reply_to_user_id": 1491651207051415600,
+		"in_reply_to_user_id_str": "1491651207051415556",
+		"in_reply_to_screen_name": "rulooralarecord",
+		"user": {
+			"id": 1491651207051415600,
+			"id_str": "1491651207051415556",
+			"name": "한장의 룰루랄라",
+			"screen_name": "rulooralarecord",
+			"location": "",
+			"description": "음악의 결을 붙잡아 마음에 새기는 일",
+			"url": "https://t.co/UlPV4ZIrJA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UlPV4ZIrJA",
+							"expanded_url": "https://linktr.ee/rulooralarecords",
+							"display_url": "linktr.ee/rulooralarecor…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 120,
+			"friends_count": 17,
+			"listed_count": 0,
+			"created_at": "Thu Feb 10 05:52:27 +0000 2022",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 78,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1491651436332994560/QI62onIq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1491651436332994560/QI62onIq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1491651207051415556/1645890901",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "발매일 연기에 대해 다시 한 번 사과드리며 통관, 패키징 등 궁금하실 진행 상황에 대해서도 빠르게 공유드릴 수 있도록 하겠습니다. https://t.co/RmC327J0Ab"
+	},
+	{
+		"created_at": "Wed Sep 14 16:29:38 +0000 2022",
+		"id": 1570086844829962200,
+		"id_str": "1570087385513463809",
+		"full_text": "항공편을 통한 배송과 통관 등에 다소의 시일이 더 소요될 것으로 예상됩니다. 이로 인해 발매일을 10월 13일로 연기하게 되었습니다. \n다만 사전 예약분에 대해서는 국내 도착과 동시에 패키징, 배송 등의 꼼꼼하고 빠른 작업을 통해 변경된 발매일 이전에 받아보실 수 있도록 최선을 다하겠습니다. https://t.co/t07RBxxl7i",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1570086838676889600,
+					"id_str": "1570086838676889600",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/FcoRqT3aIAAyLNJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcoRqT3aIAAyLNJ.jpg",
+					"url": "https://t.co/t07RBxxl7i",
+					"display_url": "pic.twitter.com/t07RBxxl7i",
+					"expanded_url": "https://twitter.com/rulooralarecord/status/1570086844829962240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1570086838676889600,
+					"id_str": "1570086838676889600",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/FcoRqT3aIAAyLNJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcoRqT3aIAAyLNJ.jpg",
+					"url": "https://t.co/t07RBxxl7i",
+					"display_url": "pic.twitter.com/t07RBxxl7i",
+					"expanded_url": "https://twitter.com/rulooralarecord/status/1570086844829962240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1570086413152170000,
+		"in_reply_to_status_id_str": "1570086413152169984",
+		"in_reply_to_user_id": 1491651207051415600,
+		"in_reply_to_user_id_str": "1491651207051415556",
+		"in_reply_to_screen_name": "rulooralarecord",
+		"user": {
+			"id": 1491651207051415600,
+			"id_str": "1491651207051415556",
+			"name": "한장의 룰루랄라",
+			"screen_name": "rulooralarecord",
+			"location": "",
+			"description": "음악의 결을 붙잡아 마음에 새기는 일",
+			"url": "https://t.co/UlPV4ZIrJA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UlPV4ZIrJA",
+							"expanded_url": "https://linktr.ee/rulooralarecords",
+							"display_url": "linktr.ee/rulooralarecor…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 120,
+			"friends_count": 17,
+			"listed_count": 0,
+			"created_at": "Thu Feb 10 05:52:27 +0000 2022",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 78,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1491651436332994560/QI62onIq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1491651436332994560/QI62onIq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1491651207051415556/1645890901",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "항공편을 통한 배송과 통관 등에 다소의 시일이 더 소요될 것으로 예상됩니다. 이로 인해 발매일을 10월 13일로 연기하게 되었습니다. \n다만 사전 예약분에 대해서는 국내 도착과 동시에 패키징, 배송 등의 꼼꼼하고 빠른 작업을 통해 변경된 발매일 이전에 받아보실 수 있도록 최선을 다하겠습니다. https://t.co/t07RBxxl7i"
+	},
+	{
+		"created_at": "Wed Sep 14 16:29:32 +0000 2022",
+		"id": 1570086413152170000,
+		"id_str": "1570087359655411715",
+		"full_text": "예약 시 팬데믹과 전세계적 물류대란 등의 요인으로 인해 발매가 늦어질 가능성에 대해 고지드린바 있으나 예정했던 발매일을 지키지 못 하게 된 점 깊이 사과드립니다. \n현재 커버 등의 국내 제작은 모두 완료되었고 프랑스 현지 공장에서의 LP 생산도 마무리된 상태이지만 https://t.co/FVDivgoRpq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1570086409167577000,
+					"id_str": "1570086409167577089",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/FcoRRT0aIAEdAs0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcoRRT0aIAEdAs0.jpg",
+					"url": "https://t.co/FVDivgoRpq",
+					"display_url": "pic.twitter.com/FVDivgoRpq",
+					"expanded_url": "https://twitter.com/rulooralarecord/status/1570086413152169984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1570086409167577000,
+					"id_str": "1570086409167577089",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/FcoRRT0aIAEdAs0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcoRRT0aIAEdAs0.jpg",
+					"url": "https://t.co/FVDivgoRpq",
+					"display_url": "pic.twitter.com/FVDivgoRpq",
+					"expanded_url": "https://twitter.com/rulooralarecord/status/1570086413152169984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1570086146084053000,
+		"in_reply_to_status_id_str": "1570086146084052992",
+		"in_reply_to_user_id": 1491651207051415600,
+		"in_reply_to_user_id_str": "1491651207051415556",
+		"in_reply_to_screen_name": "rulooralarecord",
+		"user": {
+			"id": 1491651207051415600,
+			"id_str": "1491651207051415556",
+			"name": "한장의 룰루랄라",
+			"screen_name": "rulooralarecord",
+			"location": "",
+			"description": "음악의 결을 붙잡아 마음에 새기는 일",
+			"url": "https://t.co/UlPV4ZIrJA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UlPV4ZIrJA",
+							"expanded_url": "https://linktr.ee/rulooralarecords",
+							"display_url": "linktr.ee/rulooralarecor…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 120,
+			"friends_count": 17,
+			"listed_count": 0,
+			"created_at": "Thu Feb 10 05:52:27 +0000 2022",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 78,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1491651436332994560/QI62onIq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1491651436332994560/QI62onIq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1491651207051415556/1645890901",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "예약 시 팬데믹과 전세계적 물류대란 등의 요인으로 인해 발매가 늦어질 가능성에 대해 고지드린바 있으나 예정했던 발매일을 지키지 못 하게 된 점 깊이 사과드립니다. \n현재 커버 등의 국내 제작은 모두 완료되었고 프랑스 현지 공장에서의 LP 생산도 마무리된 상태이지만 https://t.co/FVDivgoRpq"
+	},
+	{
 		"created_at": "Wed Sep 14 13:29:26 +0000 2022",
 		"id": 1570034640521494500,
 		"id_str": "1570042036014776320",
