@@ -1,6 +1,247 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Wed Sep 14 04:29:25 +0000 2022",
+		"id": 1569892409374572500,
+		"id_str": "1569906137570361344",
+		"full_text": "[Lacuna (라쿠나) | 발매]\n\nLacuna (라쿠나) Single [I Love You] OUT NOW!\n지금 모든 음원 사이트에서 감상하실 수 있습니다.\nTitle Track 'I Love You' M/V link: https://t.co/FeVuafrDKH\n\nTrack List\n1. I Love You\n2. Far Away\n\n#라쿠나 #Lacuna\n#ILoveYou https://t.co/0UJK0y0syx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			211
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "라쿠나",
+					"indices": [
+						189,
+						193
+					]
+				},
+				{
+					"text": "Lacuna",
+					"indices": [
+						194,
+						201
+					]
+				},
+				{
+					"text": "ILoveYou",
+					"indices": [
+						202,
+						211
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FeVuafrDKH",
+					"expanded_url": "https://youtu.be/InRkBXa7K84",
+					"display_url": "youtu.be/InRkBXa7K84",
+					"indices": [
+						126,
+						149
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1569891831751778300,
+					"id_str": "1569891831751778304",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/FclgvtpakAEo8Z8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FclgvtpakAEo8Z8.jpg",
+					"url": "https://t.co/0UJK0y0syx",
+					"display_url": "pic.twitter.com/0UJK0y0syx",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1569892409374572545/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1569891831751778300,
+					"id_str": "1569891831751778304",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/FclgvtpakAEo8Z8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FclgvtpakAEo8Z8.jpg",
+					"url": "https://t.co/0UJK0y0syx",
+					"display_url": "pic.twitter.com/0UJK0y0syx",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1569892409374572545/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 33866,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1569891831751778304/vid/480x270/FMa3eq_hlvCt0JGA.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1569891831751778304/vid/640x360/DEaDTZyq98V0PiVd.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1569891831751778304/vid/1280x720/WIpELuUz6lwgos4l.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1569891831751778304/pl/MqlnVH3l2DifZ7IH.m3u8?tag=14&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "구만(9.10000), 노리플라이, 데이브레이크, Lacuna(라쿠나), SURL(설), 소란, 솔루션스, 쏜애플, OurR(아월)",
+			"url": "https://t.co/BIvBmbtJjn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BIvBmbtJjn",
+							"expanded_url": "https://mpmgmusic.com/",
+							"display_url": "mpmgmusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12903,
+			"friends_count": 1899,
+			"listed_count": 0,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 211,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13574,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1626843310",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Lacuna (라쿠나) | 발매]\n\nLacuna (라쿠나) Single [I Love You] OUT NOW!\n지금 모든 음원 사이트에서 감상하실 수 있습니다.\nTitle Track 'I Love You' M/V link: https://t.co/FeVuafrDKH\n\nTrack List\n1. I Love You\n2. Far Away\n\n#라쿠나 #Lacuna\n#ILoveYou https://t.co/0UJK0y0syx"
+	},
+	{
 		"created_at": "Wed Sep 14 03:58:19 +0000 2022",
 		"id": 1569884066799063000,
 		"id_str": "1569898312261574657",
