@@ -1,6 +1,305 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Thu Sep 15 14:11:17 +0000 2022",
+		"id": 1570366828777439200,
+		"id_str": "1570414956696465408",
+		"full_text": "📢 9/16 공연 현장 안내\n⠀\n&lt;맥거핀 단독 콘서트 ‘Mac Night’&gt;\n· 티켓수령 : 7시 (현장구매 가능)\n· 입장 : 7시 30분 \n· 공연시작 : 8시\n· 출연 : 맥거핀\n⠀\n#롤링홀 #ROLLINGHALL\n#맥거핀 #Macguffin #MGFF #단독콘서트 #MacNight\n#홍대 #공연 #인디 #멜론티켓 https://t.co/G7TaoJ6vCp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "롤링홀",
+					"indices": [
+						111,
+						115
+					]
+				},
+				{
+					"text": "ROLLINGHALL",
+					"indices": [
+						116,
+						128
+					]
+				},
+				{
+					"text": "맥거핀",
+					"indices": [
+						129,
+						133
+					]
+				},
+				{
+					"text": "Macguffin",
+					"indices": [
+						134,
+						144
+					]
+				},
+				{
+					"text": "MGFF",
+					"indices": [
+						145,
+						150
+					]
+				},
+				{
+					"text": "단독콘서트",
+					"indices": [
+						151,
+						157
+					]
+				},
+				{
+					"text": "MacNight",
+					"indices": [
+						158,
+						167
+					]
+				},
+				{
+					"text": "홍대",
+					"indices": [
+						168,
+						171
+					]
+				},
+				{
+					"text": "공연",
+					"indices": [
+						172,
+						175
+					]
+				},
+				{
+					"text": "인디",
+					"indices": [
+						176,
+						179
+					]
+				},
+				{
+					"text": "멜론티켓",
+					"indices": [
+						180,
+						185
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1567054813468426200,
+					"id_str": "1567054813468426240",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/Fb9MDNxaAAA_WWM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fb9MDNxaAAA_WWM.jpg",
+					"url": "https://t.co/G7TaoJ6vCp",
+					"display_url": "pic.twitter.com/G7TaoJ6vCp",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1570366828777439234/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1567054813468426200,
+					"id_str": "1567054813468426240",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/Fb9MDNxaAAA_WWM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fb9MDNxaAAA_WWM.jpg",
+					"url": "https://t.co/G7TaoJ6vCp",
+					"display_url": "pic.twitter.com/G7TaoJ6vCp",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1570366828777439234/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1567054831545909200,
+					"id_str": "1567054831545909248",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/Fb9MERHagAA7dIf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fb9MERHagAA7dIf.jpg",
+					"url": "https://t.co/G7TaoJ6vCp",
+					"display_url": "pic.twitter.com/G7TaoJ6vCp",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1570366828777439234/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1291327050578456600,
+			"id_str": "1291327050578456578",
+			"name": "롤링홀",
+			"screen_name": "rollinghall1995",
+			"location": "서울시 마포구 어울마당로 35 신보빌딩 지하1층",
+			"description": "📍𝙃𝙤𝙣𝙜𝙙𝙖𝙚’𝙨 𝙢𝙪𝙨𝙞𝙘 𝙢𝙚𝙘𝙘𝙖 𝙍𝙊𝙇𝙇𝙄𝙉𝙂𝙃𝘼𝙇𝙇 !🎈\n홍대/합정에 위치한 음악 공연장 롤링홀입니다.\n\n👇🏻👇🏻멜론티켓 롤링홀 기획공연 바로가기👇🏻👇🏻\nhttps://t.co/K14VaQbWBy",
+			"url": "https://t.co/eXKuF483pn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eXKuF483pn",
+							"expanded_url": "http://www.rollinghall.co.kr/default/",
+							"display_url": "rollinghall.co.kr/default/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/K14VaQbWBy",
+							"expanded_url": "http://bit.ly/3C4QrHt",
+							"display_url": "bit.ly/3C4QrHt",
+							"indices": [
+								92,
+								115
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 533,
+			"friends_count": 3,
+			"listed_count": 4,
+			"created_at": "Thu Aug 06 10:56:17 +0000 2020",
+			"favourites_count": 133,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 589,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1291327050578456578/1596712102",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📢 9/16 공연 현장 안내\n⠀\n&lt;맥거핀 단독 콘서트 ‘Mac Night’&gt;\n· 티켓수령 : 7시 (현장구매 가능)\n· 입장 : 7시 30분 \n· 공연시작 : 8시\n· 출연 : 맥거핀\n⠀\n#롤링홀 #ROLLINGHALL\n#맥거핀 #Macguffin #MGFF #단독콘서트 #MacNight\n#홍대 #공연 #인디 #멜론티켓 https://t.co/G7TaoJ6vCp"
+	},
+	{
 		"created_at": "Thu Sep 15 12:58:26 +0000 2022",
 		"id": 1570382031888199700,
 		"id_str": "1570396623922135042",
