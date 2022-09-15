@@ -1,6 +1,1064 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Thu Sep 15 05:11:17 +0000 2022",
+		"id": 1570257979278233600,
+		"id_str": "1570279061834059779",
+		"full_text": "빠르게 품절되었다가 재입고 된 책의 소식입니다! \n또 품절되기 전에 어서 공상온도에서 GET 하세요!\n.\nhttps://t.co/d7i5lM9NRc\n.\nhttps://t.co/XipgX93bH3\nㅡ\n\n#공상온도입고서적 #공상온도 #독립서점 #우울증과홈파티 #김림 #에세이 #오롯이혼자 #김현경 #웜그레이앤블루 #오늘밤만나랑있자 https://t.co/QFHGYLWNK3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "공상온도입고서적",
+					"indices": [
+						112,
+						121
+					]
+				},
+				{
+					"text": "공상온도",
+					"indices": [
+						122,
+						127
+					]
+				},
+				{
+					"text": "독립서점",
+					"indices": [
+						128,
+						133
+					]
+				},
+				{
+					"text": "우울증과홈파티",
+					"indices": [
+						134,
+						142
+					]
+				},
+				{
+					"text": "김림",
+					"indices": [
+						143,
+						146
+					]
+				},
+				{
+					"text": "에세이",
+					"indices": [
+						147,
+						151
+					]
+				},
+				{
+					"text": "오롯이혼자",
+					"indices": [
+						152,
+						158
+					]
+				},
+				{
+					"text": "김현경",
+					"indices": [
+						159,
+						163
+					]
+				},
+				{
+					"text": "웜그레이앤블루",
+					"indices": [
+						164,
+						172
+					]
+				},
+				{
+					"text": "오늘밤만나랑있자",
+					"indices": [
+						173,
+						182
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/d7i5lM9NRc",
+					"expanded_url": "http://www.gongsangondo.com",
+					"display_url": "gongsangondo.com",
+					"indices": [
+						59,
+						82
+					]
+				},
+				{
+					"url": "https://t.co/XipgX93bH3",
+					"expanded_url": "http://smartstore.naver.com/gongsangondo",
+					"display_url": "smartstore.naver.com/gongsangondo",
+					"indices": [
+						85,
+						108
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1570257971124510700,
+					"id_str": "1570257971124510722",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/FcqtTh6aIAILlpE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcqtTh6aIAILlpE.jpg",
+					"url": "https://t.co/QFHGYLWNK3",
+					"display_url": "pic.twitter.com/QFHGYLWNK3",
+					"expanded_url": "https://twitter.com/gongsangondo/status/1570257979278233600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1570257971124510700,
+					"id_str": "1570257971124510722",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/FcqtTh6aIAILlpE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcqtTh6aIAILlpE.jpg",
+					"url": "https://t.co/QFHGYLWNK3",
+					"display_url": "pic.twitter.com/QFHGYLWNK3",
+					"expanded_url": "https://twitter.com/gongsangondo/status/1570257979278233600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1570257971132903400,
+					"id_str": "1570257971132903424",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/FcqtTh8aMAAysIr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcqtTh8aMAAysIr.jpg",
+					"url": "https://t.co/QFHGYLWNK3",
+					"display_url": "pic.twitter.com/QFHGYLWNK3",
+					"expanded_url": "https://twitter.com/gongsangondo/status/1570257979278233600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1570257971099336700,
+					"id_str": "1570257971099336705",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/FcqtTh0aAAE97Nx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcqtTh0aAAE97Nx.jpg",
+					"url": "https://t.co/QFHGYLWNK3",
+					"display_url": "pic.twitter.com/QFHGYLWNK3",
+					"expanded_url": "https://twitter.com/gongsangondo/status/1570257979278233600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1570257971120341000,
+					"id_str": "1570257971120340992",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/FcqtTh5agAAcwtQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcqtTh5agAAcwtQ.jpg",
+					"url": "https://t.co/QFHGYLWNK3",
+					"display_url": "pic.twitter.com/QFHGYLWNK3",
+					"expanded_url": "https://twitter.com/gongsangondo/status/1570257979278233600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 720862057243914200,
+			"id_str": "720862057243914240",
+			"name": "공상온도",
+			"screen_name": "gongsangondo",
+			"location": "대한민국 마포구 동교로23길 40",
+			"description": "카페를 기반으로 한 대안공간,갤러리,공연장,아트마켓의 복합문화공간! 서울시 마포구 동교로23길 40 아트마켓 입점,대관 : gongsangondo@gmail.com {ARTIST지원} 아티스트 증명시, 제조음료 30%할인",
+			"url": "https://t.co/GbMQgcSSJ2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GbMQgcSSJ2",
+							"expanded_url": "http://linktr.ee/gongsangondo",
+							"display_url": "linktr.ee/gongsangondo",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 425,
+			"friends_count": 216,
+			"listed_count": 7,
+			"created_at": "Fri Apr 15 06:31:22 +0000 2016",
+			"favourites_count": 1165,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3251,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/720863690283622400/Rh9cF7Fa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/720863690283622400/Rh9cF7Fa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/720862057243914240/1460702295",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "1469659b6ad47003",
+			"url": "https://api.twitter.com/1.1/geo/id/1469659b6ad47003.json",
+			"place_type": "poi",
+			"name": "공상온도",
+			"full_name": "공상온도",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.91974610090254,
+							37.557641961668054
+						],
+						[
+							126.91974610090254,
+							37.557641961668054
+						],
+						[
+							126.91974610090254,
+							37.557641961668054
+						],
+						[
+							126.91974610090254,
+							37.557641961668054
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "빠르게 품절되었다가 재입고 된 책의 소식입니다! \n또 품절되기 전에 어서 공상온도에서 GET 하세요!\n.\nhttps://t.co/d7i5lM9NRc\n.\nhttps://t.co/XipgX93bH3\nㅡ\n\n#공상온도입고서적 #공상온도 #독립서점 #우울증과홈파티 #김림 #에세이 #오롯이혼자 #김현경 #웜그레이앤블루 #오늘밤만나랑있자 https://t.co/QFHGYLWNK3"
+	},
+	{
+		"created_at": "Thu Sep 15 04:29:48 +0000 2022",
+		"id": 1570266648552288300,
+		"id_str": "1570268623469518850",
+		"full_text": "[SURL | #GSI]\n\nSURL(설)의 '여긴 재미가 없어 (Feat. jerd, Q the trumpet, HAH, 곽진석, 김민수, Lafic)'가 수록된\n#Mnet '그레이트 서울 인베이전'의 여섯 번째 컴필레이션 앨범이 발매되었습니다.\n \n지금 모든 음원사이트에서 감상하실 수 있습니다.\n\n#SURL #설 #발매 #엠넷 #그레이트서울인베이전 https://t.co/urI42oKVnS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GSI",
+					"indices": [
+						8,
+						12
+					]
+				},
+				{
+					"text": "Mnet",
+					"indices": [
+						91,
+						96
+					]
+				},
+				{
+					"text": "SURL",
+					"indices": [
+						168,
+						173
+					]
+				},
+				{
+					"text": "설",
+					"indices": [
+						174,
+						176
+					]
+				},
+				{
+					"text": "발매",
+					"indices": [
+						177,
+						180
+					]
+				},
+				{
+					"text": "엠넷",
+					"indices": [
+						181,
+						184
+					]
+				},
+				{
+					"text": "그레이트서울인베이전",
+					"indices": [
+						185,
+						196
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1570266158292684800,
+					"id_str": "1570266158292684800",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/Fcq0wFfaUAAx7Xg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fcq0wFfaUAAx7Xg.jpg",
+					"url": "https://t.co/urI42oKVnS",
+					"display_url": "pic.twitter.com/urI42oKVnS",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1570266648552288257/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1570266158292684800,
+					"id_str": "1570266158292684800",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/Fcq0wFfaUAAx7Xg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fcq0wFfaUAAx7Xg.jpg",
+					"url": "https://t.co/urI42oKVnS",
+					"display_url": "pic.twitter.com/urI42oKVnS",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1570266648552288257/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "구만(9.10000), 노리플라이, 데이브레이크, Lacuna(라쿠나), SURL(설), 소란, 솔루션스, 쏜애플, OurR(아월)",
+			"url": "https://t.co/BIvBmbtJjn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BIvBmbtJjn",
+							"expanded_url": "https://mpmgmusic.com/",
+							"display_url": "mpmgmusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12904,
+			"friends_count": 1899,
+			"listed_count": 250,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 211,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13575,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1626843310",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[SURL | #GSI]\n\nSURL(설)의 '여긴 재미가 없어 (Feat. jerd, Q the trumpet, HAH, 곽진석, 김민수, Lafic)'가 수록된\n#Mnet '그레이트 서울 인베이전'의 여섯 번째 컴필레이션 앨범이 발매되었습니다.\n \n지금 모든 음원사이트에서 감상하실 수 있습니다.\n\n#SURL #설 #발매 #엠넷 #그레이트서울인베이전 https://t.co/urI42oKVnS"
+	},
+	{
+		"created_at": "Thu Sep 15 04:29:40 +0000 2022",
+		"id": 1570265874501881900,
+		"id_str": "1570268589407469568",
+		"full_text": "brb. 한국투어 예매가 오늘 오후 8시부터 시작됩니다!\n\nhttps://t.co/N8ncq6i70g https://t.co/r5EDc8JQH9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/N8ncq6i70g",
+					"expanded_url": "http://highjinkx.com/brb-korea-tour",
+					"display_url": "highjinkx.com/brb-korea-tour",
+					"indices": [
+						33,
+						56
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1570265771653333000,
+					"id_str": "1570265771653332992",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1570265771653332992/pu/img/ZpFMukapzSd5iK4k.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1570265771653332992/pu/img/ZpFMukapzSd5iK4k.jpg",
+					"url": "https://t.co/r5EDc8JQH9",
+					"display_url": "pic.twitter.com/r5EDc8JQH9",
+					"expanded_url": "https://twitter.com/HIGHJINKXX/status/1570265874501881859/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1570265771653333000,
+					"id_str": "1570265771653332992",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1570265771653332992/pu/img/ZpFMukapzSd5iK4k.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1570265771653332992/pu/img/ZpFMukapzSd5iK4k.jpg",
+					"url": "https://t.co/r5EDc8JQH9",
+					"display_url": "pic.twitter.com/r5EDc8JQH9",
+					"expanded_url": "https://twitter.com/HIGHJINKXX/status/1570265874501881859/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 29988,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1570265771653332992/pu/vid/320x568/TG69KBzy7j2vMZNp.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1570265771653332992/pu/vid/480x852/dSUn8FZ2kUrJRFjw.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1570265771653332992/pu/pl/sLeQtdA5CwqF8gpY.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1570265771653332992/pu/vid/720x1280/TsFPYQGHQd4dTFnr.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 985865748638650400,
+			"id_str": "985865748638650368",
+			"name": "HIGHJINKX 하이징크스",
+			"screen_name": "HIGHJINKXX",
+			"location": "대한민국 서울",
+			"description": "https://t.co/UEZd1A0tMQ https://t.co/bYHM3gN9tB",
+			"url": "https://t.co/jgdOjxGxJL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jgdOjxGxJL",
+							"expanded_url": "https://www.highjinkxmm.com",
+							"display_url": "highjinkxmm.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UEZd1A0tMQ",
+							"expanded_url": "http://highjinkx.com",
+							"display_url": "highjinkx.com",
+							"indices": [
+								0,
+								23
+							]
+						},
+						{
+							"url": "https://t.co/bYHM3gN9tB",
+							"expanded_url": "http://highjinkxmm.com",
+							"display_url": "highjinkxmm.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 655,
+			"friends_count": 30,
+			"listed_count": 5,
+			"created_at": "Mon Apr 16 13:01:25 +0000 2018",
+			"favourites_count": 377,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 830,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/986167678246125568/PTUKZtMn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/986167678246125568/PTUKZtMn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/985865748638650368/1575347637",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "brb. 한국투어 예매가 오늘 오후 8시부터 시작됩니다!\n\nhttps://t.co/N8ncq6i70g https://t.co/r5EDc8JQH9"
+	},
+	{
+		"created_at": "Thu Sep 15 04:29:34 +0000 2022",
+		"id": 1570265073121398800,
+		"id_str": "1570268563742531584",
+		"full_text": "[#News] #페퍼톤스\n\n페퍼톤스, 20일 정규 7집 컴백‥타이틀곡은 '태풍의 눈'\n\n(출처: 스타뉴스 | 네이버 TV연예)\n\n✔️ https://t.co/7g6MhLn0iW\n\n@pptnzexpress @pptnznoshel\n#PEPPERTONES\n#신재평 #이장원\n#ShinJaePyung #LeeJangWon\n#thousandyears\n#20220920_6PM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			204
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "News",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "페퍼톤스",
+					"indices": [
+						8,
+						13
+					]
+				},
+				{
+					"text": "PEPPERTONES",
+					"indices": [
+						127,
+						139
+					]
+				},
+				{
+					"text": "신재평",
+					"indices": [
+						140,
+						144
+					]
+				},
+				{
+					"text": "이장원",
+					"indices": [
+						145,
+						149
+					]
+				},
+				{
+					"text": "ShinJaePyung",
+					"indices": [
+						150,
+						163
+					]
+				},
+				{
+					"text": "LeeJangWon",
+					"indices": [
+						164,
+						175
+					]
+				},
+				{
+					"text": "thousandyears",
+					"indices": [
+						176,
+						190
+					]
+				},
+				{
+					"text": "20220920_6PM",
+					"indices": [
+						191,
+						204
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pptnzexpress",
+					"name": "페퍼톤스 peppertones",
+					"id": 191952879,
+					"id_str": "191952879",
+					"indices": [
+						100,
+						113
+					]
+				},
+				{
+					"screen_name": "pptnznoshel",
+					"name": "이장원 (Edward J Lee)",
+					"id": 192668164,
+					"id_str": "192668164",
+					"indices": [
+						114,
+						126
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/7g6MhLn0iW",
+					"expanded_url": "https://naver.me/5BvPFhYA",
+					"display_url": "naver.me/5BvPFhYA",
+					"indices": [
+						75,
+						98
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 페퍼톤스 정규 7집 'thousand years’ 2022. 09. 20. 6PM Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40424,
+			"friends_count": 12,
+			"listed_count": 379,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5351,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1662545087",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 29,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#News] #페퍼톤스\n\n페퍼톤스, 20일 정규 7집 컴백‥타이틀곡은 '태풍의 눈'\n\n(출처: 스타뉴스 | 네이버 TV연예)\n\n✔️ https://t.co/7g6MhLn0iW\n\n@pptnzexpress @pptnznoshel\n#PEPPERTONES\n#신재평 #이장원\n#ShinJaePyung #LeeJangWon\n#thousandyears\n#20220920_6PM"
+	},
+	{
 		"created_at": "Thu Sep 15 04:02:27 +0000 2022",
 		"id": 1570261740931403800,
 		"id_str": "1570261740931403778",
