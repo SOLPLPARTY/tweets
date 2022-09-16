@@ -1,6 +1,841 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Fri Sep 16 03:29:48 +0000 2022",
+		"id": 1570615701559447600,
+		"id_str": "1570615912960782338",
+		"full_text": "[#정인] [Refresh project] '나의 세상은 너야' 발매✔️\n\n정인이 참여한 프로듀서 조규만의 [Refresh project] '나의 세상은 너야'는 지금 바로 전 음원 사이트에서 확인🎼\n\n▶️https://t.co/vBe93epn5u\n\n#JUNGIN #조규만 #Refresh_project #나의세상은너야 https://t.co/qrEECP1pIa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "정인",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "JUNGIN",
+					"indices": [
+						140,
+						147
+					]
+				},
+				{
+					"text": "조규만",
+					"indices": [
+						148,
+						152
+					]
+				},
+				{
+					"text": "Refresh_project",
+					"indices": [
+						153,
+						169
+					]
+				},
+				{
+					"text": "나의세상은너야",
+					"indices": [
+						170,
+						178
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vBe93epn5u",
+					"expanded_url": "https://youtu.be/bsFDWyabK44",
+					"display_url": "youtu.be/bsFDWyabK44",
+					"indices": [
+						115,
+						138
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1570613329030443000,
+					"id_str": "1570613329030443009",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/FcvwgFRacAE1F1N.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcvwgFRacAE1F1N.jpg",
+					"url": "https://t.co/qrEECP1pIa",
+					"display_url": "pic.twitter.com/qrEECP1pIa",
+					"expanded_url": "https://twitter.com/themysticstory/status/1570615701559447553/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1570613329030443000,
+					"id_str": "1570613329030443009",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/FcvwgFRacAE1F1N.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcvwgFRacAE1F1N.jpg",
+					"url": "https://t.co/qrEECP1pIa",
+					"display_url": "pic.twitter.com/qrEECP1pIa",
+					"expanded_url": "https://twitter.com/themysticstory/status/1570615701559447553/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/pgQyM4fB27",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pgQyM4fB27",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37492,
+			"friends_count": 14,
+			"listed_count": 302,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7229,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1661267008",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#정인] [Refresh project] '나의 세상은 너야' 발매✔️\n\n정인이 참여한 프로듀서 조규만의 [Refresh project] '나의 세상은 너야'는 지금 바로 전 음원 사이트에서 확인🎼\n\n▶️https://t.co/vBe93epn5u\n\n#JUNGIN #조규만 #Refresh_project #나의세상은너야 https://t.co/qrEECP1pIa"
+	},
+	{
+		"created_at": "Fri Sep 16 03:29:43 +0000 2022",
+		"id": 1570614867559850000,
+		"id_str": "1570615891229908992",
+		"full_text": "#찰리푸스 💫I Don't Think That I Like Her💫\n밀당천재 음악천재ㅠㅠ 드디어 정식발매🎉\n🎧음원듣기 https://t.co/o44qbaRev4 https://t.co/KDBFVWfpcL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "찰리푸스",
+					"indices": [
+						0,
+						5
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/o44qbaRev4",
+					"expanded_url": "https://wmk.lnk.to/v6pUgcef",
+					"display_url": "wmk.lnk.to/v6pUgcef",
+					"indices": [
+						66,
+						89
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1570614760810639400,
+					"id_str": "1570614760810639365",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1570614760810639365/pu/img/v5Buh5CO1C3SD2YU.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1570614760810639365/pu/img/v5Buh5CO1C3SD2YU.jpg",
+					"url": "https://t.co/KDBFVWfpcL",
+					"display_url": "pic.twitter.com/KDBFVWfpcL",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1570614867559849986/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1570614760810639400,
+					"id_str": "1570614760810639365",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1570614760810639365/pu/img/v5Buh5CO1C3SD2YU.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1570614760810639365/pu/img/v5Buh5CO1C3SD2YU.jpg",
+					"url": "https://t.co/KDBFVWfpcL",
+					"display_url": "pic.twitter.com/KDBFVWfpcL",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1570614867559849986/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 50794,
+						"variants": [
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1570614760810639365/pu/vid/480x852/SEY2mp5dKYTG-Yqx.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1570614760810639365/pu/pl/wpUpsDSEvzwV-AlD.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1570614760810639365/pu/vid/720x1280/M9OvIg7tkUN0Kg15.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1570614760810639365/pu/vid/320x568/n2sJzSdvN1tXmFiQ.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 90168,
+			"friends_count": 492,
+			"listed_count": 218,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1579,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11977,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1636703401",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#찰리푸스 💫I Don't Think That I Like Her💫\n밀당천재 음악천재ㅠㅠ 드디어 정식발매🎉\n🎧음원듣기 https://t.co/o44qbaRev4 https://t.co/KDBFVWfpcL"
+	},
+	{
+		"created_at": "Fri Sep 16 03:29:34 +0000 2022",
+		"id": 1570612745393021000,
+		"id_str": "1570615852956876801",
+		"full_text": "‘#GoodJob’ KWON YURI captivates the audience with her acting spanning from action, romance, to comedy!\nIn the latest episode, she rushes to save the kidnapped Jung Il-Woo, showing a proactive, independent side of her character!\n\n#권유리 #KWONYURI\n#굿잡\n#소녀시대 #GirlsGeneration https://t.co/vKxGvkwM2M",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			270
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoodJob",
+					"indices": [
+						1,
+						9
+					]
+				},
+				{
+					"text": "권유리",
+					"indices": [
+						229,
+						233
+					]
+				},
+				{
+					"text": "KWONYURI",
+					"indices": [
+						234,
+						243
+					]
+				},
+				{
+					"text": "굿잡",
+					"indices": [
+						244,
+						247
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						248,
+						253
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						254,
+						270
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1570612738417913900,
+					"id_str": "1570612738417913857",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/media/Fcvv9tEacAEi2qO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fcvv9tEacAEi2qO.jpg",
+					"url": "https://t.co/vKxGvkwM2M",
+					"display_url": "pic.twitter.com/vKxGvkwM2M",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1570612745393020928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 244,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 430,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 734,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1570612738417913900,
+					"id_str": "1570612738417913857",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/media/Fcvv9tEacAEi2qO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fcvv9tEacAEi2qO.jpg",
+					"url": "https://t.co/vKxGvkwM2M",
+					"display_url": "pic.twitter.com/vKxGvkwM2M",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1570612745393020928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 244,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 430,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 734,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11176610,
+			"friends_count": 55,
+			"listed_count": 12609,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2027,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12893,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 276,
+		"favorite_count": 1335,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "‘#GoodJob’ KWON YURI captivates the audience with her acting spanning from action, romance, to comedy!\nIn the latest episode, she rushes to save the kidnapped Jung Il-Woo, showing a proactive, independent side of her character!\n\n#권유리 #KWONYURI\n#굿잡\n#소녀시대 #GirlsGeneration https://t.co/vKxGvkwM2M"
+	},
+	{
+		"created_at": "Fri Sep 16 03:29:30 +0000 2022",
+		"id": 1570608932149948400,
+		"id_str": "1570615835676315650",
+		"full_text": "jun p 첫 번째 콘서트 &lt;Interlude&gt;\n📢티켓오픈공지\n⠀\n감성을 연주하는 피아니스트 jun p의 첫 번째 콘서트 Interlude\n⠀\n&lt;티켓오픈&gt;\n⠀\n2022년 9월 16일(금) 오후2시\n⠀\n&lt;예매링크&gt;\n⠀\nhttps://t.co/2jnFx7P6ey https://t.co/MqeOJXk6Ds",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2jnFx7P6ey",
+					"expanded_url": "https://tickets.interpark.com/goods/22012296",
+					"display_url": "tickets.interpark.com/goods/22012296",
+					"indices": [
+						139,
+						162
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1570608926433095700,
+					"id_str": "1570608926433095680",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/Fcvsf0UaMAALhK5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fcvsf0UaMAALhK5.jpg",
+					"url": "https://t.co/MqeOJXk6Ds",
+					"display_url": "pic.twitter.com/MqeOJXk6Ds",
+					"expanded_url": "https://twitter.com/monotreemusic/status/1570608932149948421/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1333,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1570608926433095700,
+					"id_str": "1570608926433095680",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/Fcvsf0UaMAALhK5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fcvsf0UaMAALhK5.jpg",
+					"url": "https://t.co/MqeOJXk6Ds",
+					"display_url": "pic.twitter.com/MqeOJXk6Ds",
+					"expanded_url": "https://twitter.com/monotreemusic/status/1570608932149948421/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1333,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135173608,
+			"id_str": "135173608",
+			"name": "MonoTree_official",
+			"screen_name": "monotreemusic",
+			"location": "Seoul, Korea",
+			"description": "Global Music Production and Publishing Company. (monotreemusic@gmail.com)",
+			"url": "https://t.co/RrGBgJa7Lc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RrGBgJa7Lc",
+							"expanded_url": "https://www.monotreemusic.com",
+							"display_url": "monotreemusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7425,
+			"friends_count": 0,
+			"listed_count": 53,
+			"created_at": "Tue Apr 20 14:55:42 +0000 2010",
+			"favourites_count": 19,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 396,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BF1238",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135173608/1426630031",
+			"profile_link_color": "BF1238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "jun p 첫 번째 콘서트 &lt;Interlude&gt;\n📢티켓오픈공지\n⠀\n감성을 연주하는 피아니스트 jun p의 첫 번째 콘서트 Interlude\n⠀\n&lt;티켓오픈&gt;\n⠀\n2022년 9월 16일(금) 오후2시\n⠀\n&lt;예매링크&gt;\n⠀\nhttps://t.co/2jnFx7P6ey https://t.co/MqeOJXk6Ds"
+	},
+	{
 		"created_at": "Fri Sep 16 03:11:17 +0000 2022",
 		"id": 1570608538744922000,
 		"id_str": "1570611249502883840",
