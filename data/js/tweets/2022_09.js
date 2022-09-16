@@ -1,6 +1,957 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Fri Sep 16 03:11:17 +0000 2022",
+		"id": 1570608538744922000,
+		"id_str": "1570611249502883840",
+		"full_text": "&lt;크리스피 단독 콘서트 [ WE'RE ]&gt;\n· 일시 : 2022년 10월 09일 (일) 오후 7시\n· 장소 : 롤링홀\n· 출연 : 크리스피 (Guest. 베리코이버니)\n· 예매 : 멜론티켓 2022년 09월 22일 (목) 오후 8시 예매오픈\n　\n#롤링홀 #ROLLINGHALL\n#크리스피 #creespy #단독콘서트 #WERE\n#홍대 #공연 #인디 #멜론티켓 https://t.co/lupkxaTpt3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			206
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "롤링홀",
+					"indices": [
+						143,
+						147
+					]
+				},
+				{
+					"text": "ROLLINGHALL",
+					"indices": [
+						148,
+						160
+					]
+				},
+				{
+					"text": "크리스피",
+					"indices": [
+						161,
+						166
+					]
+				},
+				{
+					"text": "creespy",
+					"indices": [
+						167,
+						175
+					]
+				},
+				{
+					"text": "단독콘서트",
+					"indices": [
+						176,
+						182
+					]
+				},
+				{
+					"text": "WERE",
+					"indices": [
+						183,
+						188
+					]
+				},
+				{
+					"text": "홍대",
+					"indices": [
+						189,
+						192
+					]
+				},
+				{
+					"text": "공연",
+					"indices": [
+						193,
+						196
+					]
+				},
+				{
+					"text": "인디",
+					"indices": [
+						197,
+						200
+					]
+				},
+				{
+					"text": "멜론티켓",
+					"indices": [
+						201,
+						206
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1569939640832131000,
+					"id_str": "1569939640832131072",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/media/FcmLyRKagAAU1wg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcmLyRKagAAU1wg.jpg",
+					"url": "https://t.co/lupkxaTpt3",
+					"display_url": "pic.twitter.com/lupkxaTpt3",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1570608538744922112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1569939640832131000,
+					"id_str": "1569939640832131072",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/media/FcmLyRKagAAU1wg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcmLyRKagAAU1wg.jpg",
+					"url": "https://t.co/lupkxaTpt3",
+					"display_url": "pic.twitter.com/lupkxaTpt3",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1570608538744922112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1291327050578456600,
+			"id_str": "1291327050578456578",
+			"name": "롤링홀",
+			"screen_name": "rollinghall1995",
+			"location": "서울시 마포구 어울마당로 35 신보빌딩 지하1층",
+			"description": "📍𝙃𝙤𝙣𝙜𝙙𝙖𝙚’𝙨 𝙢𝙪𝙨𝙞𝙘 𝙢𝙚𝙘𝙘𝙖 𝙍𝙊𝙇𝙇𝙄𝙉𝙂𝙃𝘼𝙇𝙇 !🎈\n홍대/합정에 위치한 음악 공연장 롤링홀입니다.\n\n👇🏻👇🏻멜론티켓 롤링홀 기획공연 바로가기👇🏻👇🏻\nhttps://t.co/K14VaQbWBy",
+			"url": "https://t.co/eXKuF483pn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eXKuF483pn",
+							"expanded_url": "http://www.rollinghall.co.kr/default/",
+							"display_url": "rollinghall.co.kr/default/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/K14VaQbWBy",
+							"expanded_url": "http://bit.ly/3C4QrHt",
+							"display_url": "bit.ly/3C4QrHt",
+							"indices": [
+								92,
+								115
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 531,
+			"friends_count": 3,
+			"listed_count": 4,
+			"created_at": "Thu Aug 06 10:56:17 +0000 2020",
+			"favourites_count": 133,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 590,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1291327050578456578/1596712102",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;크리스피 단독 콘서트 [ WE'RE ]&gt;\n· 일시 : 2022년 10월 09일 (일) 오후 7시\n· 장소 : 롤링홀\n· 출연 : 크리스피 (Guest. 베리코이버니)\n· 예매 : 멜론티켓 2022년 09월 22일 (목) 오후 8시 예매오픈\n　\n#롤링홀 #ROLLINGHALL\n#크리스피 #creespy #단독콘서트 #WERE\n#홍대 #공연 #인디 #멜론티켓 https://t.co/lupkxaTpt3"
+	},
+	{
+		"created_at": "Fri Sep 16 03:07:57 +0000 2022",
+		"id": 1570610410977636400,
+		"id_str": "1570610410977636353",
+		"full_text": "#워너뮤직코리아 #Warner_Music_Korea\nK4 - 폭풍 같은 사랑 [Teaser]\nhttps://t.co/B0FKn00UCJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "워너뮤직코리아",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Warner_Music_Korea",
+					"indices": [
+						9,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/B0FKn00UCJ",
+					"expanded_url": "https://youtu.be/5Uurx6Z9yKQ",
+					"display_url": "youtu.be/5Uurx6Z9yKQ",
+					"indices": [
+						52,
+						75
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 253,
+			"friends_count": 460,
+			"listed_count": 0,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 235,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 88183,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#워너뮤직코리아 #Warner_Music_Korea\nK4 - 폭풍 같은 사랑 [Teaser]\nhttps://t.co/B0FKn00UCJ"
+	},
+	{
+		"created_at": "Fri Sep 16 02:29:38 +0000 2022",
+		"id": 1570599630714589200,
+		"id_str": "1570600771720454144",
+		"full_text": "✨K-Pop X-Overs✨\nAB6IX, Reiley의 \"Moonlight\"이 스포티파이 \"K-Pop X-Overs\" 플레이리스트 커버를 장식하였습니다😎✨\nCheck out \"#AB6IX, #Reiley\" on 'K-Pop X-Overs' #playlist on @SpotifyKR✨\n\n🔗https://t.co/zhFgd89YK9\n\n#warnerkpop #warnermusic #KPOP #Moonlight #라일리 #에이비식스 https://t.co/pa6d7BbpLh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			239
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AB6IX",
+					"indices": [
+						98,
+						104
+					]
+				},
+				{
+					"text": "Reiley",
+					"indices": [
+						106,
+						113
+					]
+				},
+				{
+					"text": "playlist",
+					"indices": [
+						134,
+						143
+					]
+				},
+				{
+					"text": "warnerkpop",
+					"indices": [
+						186,
+						197
+					]
+				},
+				{
+					"text": "warnermusic",
+					"indices": [
+						198,
+						210
+					]
+				},
+				{
+					"text": "KPOP",
+					"indices": [
+						211,
+						216
+					]
+				},
+				{
+					"text": "Moonlight",
+					"indices": [
+						217,
+						227
+					]
+				},
+				{
+					"text": "라일리",
+					"indices": [
+						228,
+						232
+					]
+				},
+				{
+					"text": "에이비식스",
+					"indices": [
+						233,
+						239
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SpotifyKR",
+					"name": "Spotify Korea",
+					"id": 1207908245118963700,
+					"id_str": "1207908245118963712",
+					"indices": [
+						147,
+						157
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/zhFgd89YK9",
+					"expanded_url": "https://open.spotify.com/playlist/37i9dQZF1DX4IDaXtVjL83",
+					"display_url": "open.spotify.com/playlist/37i9d…",
+					"indices": [
+						161,
+						184
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1570599627979882500,
+					"id_str": "1570599627979882496",
+					"indices": [
+						240,
+						263
+					],
+					"media_url": "http://pbs.twimg.com/media/FcvkCk4aAAAKB2i.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcvkCk4aAAAKB2i.jpg",
+					"url": "https://t.co/pa6d7BbpLh",
+					"display_url": "pic.twitter.com/pa6d7BbpLh",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1570599630714589184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1570599627979882500,
+					"id_str": "1570599627979882496",
+					"indices": [
+						240,
+						263
+					],
+					"media_url": "http://pbs.twimg.com/media/FcvkCk4aAAAKB2i.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcvkCk4aAAAKB2i.jpg",
+					"url": "https://t.co/pa6d7BbpLh",
+					"display_url": "pic.twitter.com/pa6d7BbpLh",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1570599630714589184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 90170,
+			"friends_count": 492,
+			"listed_count": 218,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1579,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11976,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1636703401",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 226,
+		"favorite_count": 472,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "✨K-Pop X-Overs✨\nAB6IX, Reiley의 \"Moonlight\"이 스포티파이 \"K-Pop X-Overs\" 플레이리스트 커버를 장식하였습니다😎✨\nCheck out \"#AB6IX, #Reiley\" on 'K-Pop X-Overs' #playlist on @SpotifyKR✨\n\n🔗https://t.co/zhFgd89YK9\n\n#warnerkpop #warnermusic #KPOP #Moonlight #라일리 #에이비식스 https://t.co/pa6d7BbpLh"
+	},
+	{
+		"created_at": "Fri Sep 16 02:29:34 +0000 2022",
+		"id": 1570594153633050600,
+		"id_str": "1570600754104381440",
+		"full_text": "[#민서] 'eyesmagazine' 화보 공개✔️\n\n축구로 하나 된 우리들의 월드컵을 그리며\n민서가 아디다스 X 아이즈매거진과 함께 했습니다!\n더욱 다양한 화보는 아래 링크에서 확인⚽️\n▶️ https://t.co/gjAGXyQT7T\n\n#MINSEO #MNSO #eyesmagazine #아디다스 #골때리는그녀들 #FC발라드림 https://t.co/KkHKZmLx9g",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "민서",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "MINSEO",
+					"indices": [
+						133,
+						140
+					]
+				},
+				{
+					"text": "MNSO",
+					"indices": [
+						141,
+						146
+					]
+				},
+				{
+					"text": "eyesmagazine",
+					"indices": [
+						147,
+						160
+					]
+				},
+				{
+					"text": "아디다스",
+					"indices": [
+						161,
+						166
+					]
+				},
+				{
+					"text": "골때리는그녀들",
+					"indices": [
+						167,
+						175
+					]
+				},
+				{
+					"text": "FC발라드림",
+					"indices": [
+						176,
+						183
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gjAGXyQT7T",
+					"expanded_url": "https://bit.ly/3QIporn",
+					"display_url": "bit.ly/3QIporn",
+					"indices": [
+						108,
+						131
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1570594146578210800,
+					"id_str": "1570594146578210816",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/FcvfDhEaIAAM3Di.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcvfDhEaIAAM3Di.jpg",
+					"url": "https://t.co/KkHKZmLx9g",
+					"display_url": "pic.twitter.com/KkHKZmLx9g",
+					"expanded_url": "https://twitter.com/themysticstory/status/1570594153633050628/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 499,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1502,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 880,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1570594146578210800,
+					"id_str": "1570594146578210816",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/FcvfDhEaIAAM3Di.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcvfDhEaIAAM3Di.jpg",
+					"url": "https://t.co/KkHKZmLx9g",
+					"display_url": "pic.twitter.com/KkHKZmLx9g",
+					"expanded_url": "https://twitter.com/themysticstory/status/1570594153633050628/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 499,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1502,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 880,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1570594146586595300,
+					"id_str": "1570594146586595328",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/FcvfDhGaEAARANt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcvfDhGaEAARANt.jpg",
+					"url": "https://t.co/KkHKZmLx9g",
+					"display_url": "pic.twitter.com/KkHKZmLx9g",
+					"expanded_url": "https://twitter.com/themysticstory/status/1570594153633050628/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 432,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 763,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1302,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1570594146582425600,
+					"id_str": "1570594146582425600",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/FcvfDhFacAAcwXa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcvfDhFacAAcwXa.jpg",
+					"url": "https://t.co/KkHKZmLx9g",
+					"display_url": "pic.twitter.com/KkHKZmLx9g",
+					"expanded_url": "https://twitter.com/themysticstory/status/1570594153633050628/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 764,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 433,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1304,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1570593915904069600,
+		"in_reply_to_status_id_str": "1570593915904069632",
+		"in_reply_to_user_id": 486655058,
+		"in_reply_to_user_id_str": "486655058",
+		"in_reply_to_screen_name": "themysticstory",
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/pgQyM4fB27",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pgQyM4fB27",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37488,
+			"friends_count": 14,
+			"listed_count": 302,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7229,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1661267008",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#민서] 'eyesmagazine' 화보 공개✔️\n\n축구로 하나 된 우리들의 월드컵을 그리며\n민서가 아디다스 X 아이즈매거진과 함께 했습니다!\n더욱 다양한 화보는 아래 링크에서 확인⚽️\n▶️ https://t.co/gjAGXyQT7T\n\n#MINSEO #MNSO #eyesmagazine #아디다스 #골때리는그녀들 #FC발라드림 https://t.co/KkHKZmLx9g"
+	},
+	{
 		"created_at": "Thu Sep 15 17:29:30 +0000 2022",
 		"id": 1570457950854189000,
 		"id_str": "1570464841084575750",
