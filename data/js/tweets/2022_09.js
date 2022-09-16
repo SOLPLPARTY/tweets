@@ -1,6 +1,289 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Fri Sep 16 06:11:17 +0000 2022",
+		"id": 1570653781142147000,
+		"id_str": "1570656548828991488",
+		"full_text": "키커랜드 팝업스토어 OPEN!\n\n특별하고 재밌는 아이템을 찾는다면\n키커랜드 팝업스토어로 놀러오세요!👀💙\n\n구경만 해도 시간 순삭!⏰\n다양한 아이디어 상품이 가득!🎁🛒\n\n-\nKT&amp;G 상상마당 홍대 2층 팝업\n~ 10.3 (MON) 11:00 ~ 21:00 https://t.co/GRvyNcOSMr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1570653707985096700,
+					"id_str": "1570653707985096710",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/FcwVOcmaEAYcfYo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcwVOcmaEAYcfYo.jpg",
+					"url": "https://t.co/GRvyNcOSMr",
+					"display_url": "pic.twitter.com/GRvyNcOSMr",
+					"expanded_url": "https://twitter.com/SSmadang/status/1570653781142147072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 963,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 546,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1128,
+							"h": 1406,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1570653707985096700,
+					"id_str": "1570653707985096710",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/FcwVOcmaEAYcfYo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcwVOcmaEAYcfYo.jpg",
+					"url": "https://t.co/GRvyNcOSMr",
+					"display_url": "pic.twitter.com/GRvyNcOSMr",
+					"expanded_url": "https://twitter.com/SSmadang/status/1570653781142147072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 963,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 546,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1128,
+							"h": 1406,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1570653708010291200,
+					"id_str": "1570653708010291201",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/FcwVOcsagAEq5EH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcwVOcsagAEq5EH.jpg",
+					"url": "https://t.co/GRvyNcOSMr",
+					"display_url": "pic.twitter.com/GRvyNcOSMr",
+					"expanded_url": "https://twitter.com/SSmadang/status/1570653781142147072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 963,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 546,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1128,
+							"h": 1406,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1570653707964153900,
+					"id_str": "1570653707964153857",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/FcwVOchagAE8hlj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcwVOchagAE8hlj.jpg",
+					"url": "https://t.co/GRvyNcOSMr",
+					"display_url": "pic.twitter.com/GRvyNcOSMr",
+					"expanded_url": "https://twitter.com/SSmadang/status/1570653781142147072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1128,
+							"h": 1406,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 963,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 546,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1570653707976740900,
+					"id_str": "1570653707976740869",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/FcwVOckakAUqA-v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcwVOckakAUqA-v.jpg",
+					"url": "https://t.co/GRvyNcOSMr",
+					"display_url": "pic.twitter.com/GRvyNcOSMr",
+					"expanded_url": "https://twitter.com/SSmadang/status/1570653781142147072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 546,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 963,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1128,
+							"h": 1406,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110358280,
+			"id_str": "110358280",
+			"name": "KT&G 상상마당",
+			"screen_name": "SSmadang",
+			"location": "서울 홍대 (Hongdae, Seoul)",
+			"description": "[복합문화공간] #상상마당 영화ㅣ공연ㅣ디자인ㅣ전시ㅣ교육ㅣ카페",
+			"url": "https://t.co/dQStXHIksz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dQStXHIksz",
+							"expanded_url": "http://sangsangmadang.com",
+							"display_url": "sangsangmadang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17471,
+			"friends_count": 1833,
+			"listed_count": 286,
+			"created_at": "Mon Feb 01 07:45:21 +0000 2010",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9094,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1565171981581893632/v5xwQVrn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1565171981581893632/v5xwQVrn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110358280/1661994351",
+			"profile_link_color": "242D8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "595959",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "키커랜드 팝업스토어 OPEN!\n\n특별하고 재밌는 아이템을 찾는다면\n키커랜드 팝업스토어로 놀러오세요!👀💙\n\n구경만 해도 시간 순삭!⏰\n다양한 아이디어 상품이 가득!🎁🛒\n\n-\nKT&amp;G 상상마당 홍대 2층 팝업\n~ 10.3 (MON) 11:00 ~ 21:00 https://t.co/GRvyNcOSMr"
+	},
+	{
 		"created_at": "Fri Sep 16 04:29:25 +0000 2022",
 		"id": 1570616589296472000,
 		"id_str": "1570630915314819072",
