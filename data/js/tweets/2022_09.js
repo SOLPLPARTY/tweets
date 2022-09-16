@@ -1,6 +1,1801 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Fri Sep 16 11:13:14 +0000 2022",
+		"id": 1570732539333193700,
+		"id_str": "1570732539333193729",
+		"full_text": "#민트페이퍼 #MINTPAPER\nMint Paper presents [bright #11] Artist Interview\nhttps://t.co/BwU8Z3Lja6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "민트페이퍼",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "MINTPAPER",
+					"indices": [
+						7,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BwU8Z3Lja6",
+					"expanded_url": "https://youtu.be/9F7aQeLwRC0",
+					"display_url": "youtu.be/9F7aQeLwRC0",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 253,
+			"friends_count": 460,
+			"listed_count": 0,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 235,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 88225,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#민트페이퍼 #MINTPAPER\nMint Paper presents [bright #11] Artist Interview\nhttps://t.co/BwU8Z3Lja6"
+	},
+	{
+		"created_at": "Fri Sep 16 10:58:48 +0000 2022",
+		"id": 1570720775761690600,
+		"id_str": "1570728903722864644",
+		"full_text": "#부산국제록페스티벌 #부산록페 #부산락페 #부락 #록페스티벌 #페스티벌 #부산축제 #락페 #BusanRockFestival #BusanInternationalRockFestival #BusanRock #BuRock #BIRF #Festival #Busan",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "부산국제록페스티벌",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "부산록페",
+					"indices": [
+						11,
+						16
+					]
+				},
+				{
+					"text": "부산락페",
+					"indices": [
+						17,
+						22
+					]
+				},
+				{
+					"text": "부락",
+					"indices": [
+						23,
+						26
+					]
+				},
+				{
+					"text": "록페스티벌",
+					"indices": [
+						27,
+						33
+					]
+				},
+				{
+					"text": "페스티벌",
+					"indices": [
+						34,
+						39
+					]
+				},
+				{
+					"text": "부산축제",
+					"indices": [
+						40,
+						45
+					]
+				},
+				{
+					"text": "락페",
+					"indices": [
+						46,
+						49
+					]
+				},
+				{
+					"text": "BusanRockFestival",
+					"indices": [
+						50,
+						68
+					]
+				},
+				{
+					"text": "BusanInternationalRockFestival",
+					"indices": [
+						69,
+						100
+					]
+				},
+				{
+					"text": "BusanRock",
+					"indices": [
+						101,
+						111
+					]
+				},
+				{
+					"text": "BuRock",
+					"indices": [
+						112,
+						119
+					]
+				},
+				{
+					"text": "BIRF",
+					"indices": [
+						120,
+						125
+					]
+				},
+				{
+					"text": "Festival",
+					"indices": [
+						126,
+						135
+					]
+				},
+				{
+					"text": "Busan",
+					"indices": [
+						136,
+						142
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1570720773949755400,
+		"in_reply_to_status_id_str": "1570720773949755392",
+		"in_reply_to_user_id": 3116631529,
+		"in_reply_to_user_id_str": "3116631529",
+		"in_reply_to_screen_name": "busan_rock",
+		"user": {
+			"id": 3116631529,
+			"id_str": "3116631529",
+			"name": "BusanRockFest Official",
+			"screen_name": "busan_rock",
+			"location": "",
+			"description": "라인업 관련 글은 따로 답글을 드리지 않습니다. 양해 부탁드립니다.",
+			"url": "https://t.co/amJVO1H58j",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/amJVO1H58j",
+							"expanded_url": "https://busanrockfestival.com/",
+							"display_url": "busanrockfestival.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2149,
+			"friends_count": 0,
+			"listed_count": 6,
+			"created_at": "Mon Mar 30 07:04:06 +0000 2015",
+			"favourites_count": 16,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 617,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227400250001780736/hUySDDes_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227400250001780736/hUySDDes_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3116631529/1658801341",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "qht",
+		"text": "#부산국제록페스티벌 #부산록페 #부산락페 #부락 #록페스티벌 #페스티벌 #부산축제 #락페 #BusanRockFestival #BusanInternationalRockFestival #BusanRock #BuRock #BIRF #Festival #Busan"
+	},
+	{
+		"created_at": "Fri Sep 16 10:58:42 +0000 2022",
+		"id": 1570720773949755400,
+		"id_str": "1570728881694593028",
+		"full_text": "■ 2022 Busan International Rock Festival\n- Date: 2022. 10. 1 (Sat) ~ 2 (Sun), 2 days\n- Venue: Samnak Ecological Park\n- Ticket: 1 day pass 88,000 won / 2 day pass 132,000 won\n- Reservation site: YES24 Ticket (▶ Profile link)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			223
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1570720772636946400,
+		"in_reply_to_status_id_str": "1570720772636946433",
+		"in_reply_to_user_id": 3116631529,
+		"in_reply_to_user_id_str": "3116631529",
+		"in_reply_to_screen_name": "busan_rock",
+		"user": {
+			"id": 3116631529,
+			"id_str": "3116631529",
+			"name": "BusanRockFest Official",
+			"screen_name": "busan_rock",
+			"location": "",
+			"description": "라인업 관련 글은 따로 답글을 드리지 않습니다. 양해 부탁드립니다.",
+			"url": "https://t.co/amJVO1H58j",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/amJVO1H58j",
+							"expanded_url": "https://busanrockfestival.com/",
+							"display_url": "busanrockfestival.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2149,
+			"friends_count": 0,
+			"listed_count": 6,
+			"created_at": "Mon Mar 30 07:04:06 +0000 2015",
+			"favourites_count": 16,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 617,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227400250001780736/hUySDDes_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227400250001780736/hUySDDes_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3116631529/1658801341",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "■ 2022 Busan International Rock Festival\n- Date: 2022. 10. 1 (Sat) ~ 2 (Sun), 2 days\n- Venue: Samnak Ecological Park\n- Ticket: 1 day pass 88,000 won / 2 day pass 132,000 won\n- Reservation site: YES24 Ticket (▶ Profile link)"
+	},
+	{
+		"created_at": "Fri Sep 16 10:58:33 +0000 2022",
+		"id": 1570720772636946400,
+		"id_str": "1570728842792148995",
+		"full_text": "5) Drum&amp;Bass, Disco, and various genres of performances\n*Find fun through the Hidden Terrace in Busan International Rock Festival. \n\n■ Daesun Hidden Terrace\n- Operating Time : 12:00 ~ 23:30\n- Performance Time : 14:00 ~ 20:00",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			228
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1570720771298988000,
+		"in_reply_to_status_id_str": "1570720771298988033",
+		"in_reply_to_user_id": 3116631529,
+		"in_reply_to_user_id_str": "3116631529",
+		"in_reply_to_screen_name": "busan_rock",
+		"user": {
+			"id": 3116631529,
+			"id_str": "3116631529",
+			"name": "BusanRockFest Official",
+			"screen_name": "busan_rock",
+			"location": "",
+			"description": "라인업 관련 글은 따로 답글을 드리지 않습니다. 양해 부탁드립니다.",
+			"url": "https://t.co/amJVO1H58j",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/amJVO1H58j",
+							"expanded_url": "https://busanrockfestival.com/",
+							"display_url": "busanrockfestival.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2149,
+			"friends_count": 0,
+			"listed_count": 6,
+			"created_at": "Mon Mar 30 07:04:06 +0000 2015",
+			"favourites_count": 16,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 617,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227400250001780736/hUySDDes_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227400250001780736/hUySDDes_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3116631529/1658801341",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "5) Drum&amp;Bass, Disco, and various genres of performances\n*Find fun through the Hidden Terrace in Busan International Rock Festival. \n\n■ Daesun Hidden Terrace\n- Operating Time : 12:00 ~ 23:30\n- Performance Time : 14:00 ~ 20:00"
+	},
+	{
+		"created_at": "Fri Sep 16 10:58:28 +0000 2022",
+		"id": 1570720771298988000,
+		"id_str": "1570728820763930627",
+		"full_text": "2) Photo zone on the 2nd floor terrace where you can see the Busan International Rock Festival site at a glance\n3) Resting powder room to relax tired body and mind by long performances\n4) Branding zone where you can feel the style of the Daesun",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			244
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1570720769919037400,
+		"in_reply_to_status_id_str": "1570720769919037440",
+		"in_reply_to_user_id": 3116631529,
+		"in_reply_to_user_id_str": "3116631529",
+		"in_reply_to_screen_name": "busan_rock",
+		"user": {
+			"id": 3116631529,
+			"id_str": "3116631529",
+			"name": "BusanRockFest Official",
+			"screen_name": "busan_rock",
+			"location": "",
+			"description": "라인업 관련 글은 따로 답글을 드리지 않습니다. 양해 부탁드립니다.",
+			"url": "https://t.co/amJVO1H58j",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/amJVO1H58j",
+							"expanded_url": "https://busanrockfestival.com/",
+							"display_url": "busanrockfestival.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2149,
+			"friends_count": 0,
+			"listed_count": 6,
+			"created_at": "Mon Mar 30 07:04:06 +0000 2015",
+			"favourites_count": 16,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 617,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227400250001780736/hUySDDes_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227400250001780736/hUySDDes_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3116631529/1658801341",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "2) Photo zone on the 2nd floor terrace where you can see the Busan International Rock Festival site at a glance\n3) Resting powder room to relax tired body and mind by long performances\n4) Branding zone where you can feel the style of the Daesun"
+	},
+	{
+		"created_at": "Fri Sep 16 10:58:24 +0000 2022",
+		"id": 1570720769919037400,
+		"id_str": "1570728806977077249",
+		"full_text": "🔥2022 Busan International Rock Festival X DAESUN🔥\n\n[Daesun Hidden Terrace]\n\n1) A space where you can enjoy chilled Daesun Soju (&amp; cocktail) with 'Pork Soup', a deep taste of Busan",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1570720768354586600,
+		"in_reply_to_status_id_str": "1570720768354586624",
+		"in_reply_to_user_id": 3116631529,
+		"in_reply_to_user_id_str": "3116631529",
+		"in_reply_to_screen_name": "busan_rock",
+		"user": {
+			"id": 3116631529,
+			"id_str": "3116631529",
+			"name": "BusanRockFest Official",
+			"screen_name": "busan_rock",
+			"location": "",
+			"description": "라인업 관련 글은 따로 답글을 드리지 않습니다. 양해 부탁드립니다.",
+			"url": "https://t.co/amJVO1H58j",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/amJVO1H58j",
+							"expanded_url": "https://busanrockfestival.com/",
+							"display_url": "busanrockfestival.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2149,
+			"friends_count": 0,
+			"listed_count": 6,
+			"created_at": "Mon Mar 30 07:04:06 +0000 2015",
+			"favourites_count": 16,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 617,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227400250001780736/hUySDDes_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227400250001780736/hUySDDes_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3116631529/1658801341",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "🔥2022 Busan International Rock Festival X DAESUN🔥\n\n[Daesun Hidden Terrace]\n\n1) A space where you can enjoy chilled Daesun Soju (&amp; cocktail) with 'Pork Soup', a deep taste of Busan"
+	},
+	{
+		"created_at": "Fri Sep 16 10:58:17 +0000 2022",
+		"id": 1570720768354586600,
+		"id_str": "1570728776673157122",
+		"full_text": "■ 2022 부산국제록페스티벌\n- 일시 : 2022. 10. 1(Sat) ~ 2(Sun), 2일간\n- 장소 : 삼락생태공원\n- 티켓 : 1일권 88,000원 / 2일권 132,000원\n- 예매처 : YES24티켓 (▶ 프로필 링크)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1570720766551031800,
+		"in_reply_to_status_id_str": "1570720766551031810",
+		"in_reply_to_user_id": 3116631529,
+		"in_reply_to_user_id_str": "3116631529",
+		"in_reply_to_screen_name": "busan_rock",
+		"user": {
+			"id": 3116631529,
+			"id_str": "3116631529",
+			"name": "BusanRockFest Official",
+			"screen_name": "busan_rock",
+			"location": "",
+			"description": "라인업 관련 글은 따로 답글을 드리지 않습니다. 양해 부탁드립니다.",
+			"url": "https://t.co/amJVO1H58j",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/amJVO1H58j",
+							"expanded_url": "https://busanrockfestival.com/",
+							"display_url": "busanrockfestival.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2149,
+			"friends_count": 0,
+			"listed_count": 6,
+			"created_at": "Mon Mar 30 07:04:06 +0000 2015",
+			"favourites_count": 16,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 617,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227400250001780736/hUySDDes_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227400250001780736/hUySDDes_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3116631529/1658801341",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "■ 2022 부산국제록페스티벌\n- 일시 : 2022. 10. 1(Sat) ~ 2(Sun), 2일간\n- 장소 : 삼락생태공원\n- 티켓 : 1일권 88,000원 / 2일권 132,000원\n- 예매처 : YES24티켓 (▶ 프로필 링크)"
+	},
+	{
+		"created_at": "Fri Sep 16 10:29:53 +0000 2022",
+		"id": 1570716059136848000,
+		"id_str": "1570721628971061248",
+		"full_text": "✨K-Pop x J-Pop✨\n‘#펜타곤 - Feelin' Like(Japanese Version)’가 #TIDAL 'K-Pop x J-Pop' 플레이리스트 커버를 장식하였습니다☺️\nCheck out \"Feelin' Like\" on 'K-Pop x J-Pop' #playlist on @TIDAL✨\n\n🎶https://t.co/WsptknIKgE\n\n#warnerkpop #warnermusic #KPOP #PENTAGON #Feelin_Like @CUBE_PTG https://t.co/c510XaBPjF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			256
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "펜타곤",
+					"indices": [
+						17,
+						21
+					]
+				},
+				{
+					"text": "TIDAL",
+					"indices": [
+						57,
+						63
+					]
+				},
+				{
+					"text": "playlist",
+					"indices": [
+						145,
+						154
+					]
+				},
+				{
+					"text": "warnerkpop",
+					"indices": [
+						193,
+						204
+					]
+				},
+				{
+					"text": "warnermusic",
+					"indices": [
+						205,
+						217
+					]
+				},
+				{
+					"text": "KPOP",
+					"indices": [
+						218,
+						223
+					]
+				},
+				{
+					"text": "PENTAGON",
+					"indices": [
+						224,
+						233
+					]
+				},
+				{
+					"text": "Feelin_Like",
+					"indices": [
+						234,
+						246
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TIDAL",
+					"name": "TIDAL",
+					"id": 2679055230,
+					"id_str": "2679055230",
+					"indices": [
+						158,
+						164
+					]
+				},
+				{
+					"screen_name": "CUBE_PTG",
+					"name": "PENTAGON·펜타곤",
+					"id": 717905524444889100,
+					"id_str": "717905524444889088",
+					"indices": [
+						247,
+						256
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/WsptknIKgE",
+					"expanded_url": "https://tidal.com/browse/playlist/c27c8fc9-0b44-430c-81a2-8e088dbcf07f",
+					"display_url": "tidal.com/browse/playlis…",
+					"indices": [
+						168,
+						191
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1570715639056314400,
+					"id_str": "1570715639056314368",
+					"indices": [
+						257,
+						280
+					],
+					"media_url": "http://pbs.twimg.com/media/FcxNjT0aMAAkpGb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcxNjT0aMAAkpGb.jpg",
+					"url": "https://t.co/c510XaBPjF",
+					"display_url": "pic.twitter.com/c510XaBPjF",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1570716059136847874/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1570715639056314400,
+					"id_str": "1570715639056314368",
+					"indices": [
+						257,
+						280
+					],
+					"media_url": "http://pbs.twimg.com/media/FcxNjT0aMAAkpGb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcxNjT0aMAAkpGb.jpg",
+					"url": "https://t.co/c510XaBPjF",
+					"display_url": "pic.twitter.com/c510XaBPjF",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1570716059136847874/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 90177,
+			"friends_count": 492,
+			"listed_count": 218,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1579,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11982,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1636703401",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 56,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "✨K-Pop x J-Pop✨\n‘#펜타곤 - Feelin' Like(Japanese Version)’가 #TIDAL 'K-Pop x J-Pop' 플레이리스트 커버를 장식하였습니다☺️\nCheck out \"Feelin' Like\" on 'K-Pop x J-Pop' #playlist on @TIDAL✨\n\n🎶https://t.co/WsptknIKgE\n\n#warnerkpop #warnermusic #KPOP #PENTAGON #Feelin_Like @CUBE_PTG https://t.co/c510XaBPjF"
+	},
+	{
+		"created_at": "Fri Sep 16 10:29:49 +0000 2022",
+		"id": 1570715222259945500,
+		"id_str": "1570721611623419905",
+		"full_text": "@pptnzexpress @pptnznoshel\n#PEPPERTONES\n#신재평 #이장원\n#ShinJaePyung #LeeJangWon\n#thousandyears\n#우산 #태풍의눈 #사파리의밤 #coma\n#어디로가는가 #고래 #GIVEUP \n#Umbrella #Eye_of_the_Typhoon \n#Night_at_the_Safari \n#Where_Should_I_Go #Whale\n#20220920_6PM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			227
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PEPPERTONES",
+					"indices": [
+						27,
+						39
+					]
+				},
+				{
+					"text": "신재평",
+					"indices": [
+						40,
+						44
+					]
+				},
+				{
+					"text": "이장원",
+					"indices": [
+						45,
+						49
+					]
+				},
+				{
+					"text": "ShinJaePyung",
+					"indices": [
+						50,
+						63
+					]
+				},
+				{
+					"text": "LeeJangWon",
+					"indices": [
+						64,
+						75
+					]
+				},
+				{
+					"text": "thousandyears",
+					"indices": [
+						76,
+						90
+					]
+				},
+				{
+					"text": "우산",
+					"indices": [
+						91,
+						94
+					]
+				},
+				{
+					"text": "태풍의눈",
+					"indices": [
+						95,
+						100
+					]
+				},
+				{
+					"text": "사파리의밤",
+					"indices": [
+						101,
+						107
+					]
+				},
+				{
+					"text": "coma",
+					"indices": [
+						108,
+						113
+					]
+				},
+				{
+					"text": "어디로가는가",
+					"indices": [
+						114,
+						121
+					]
+				},
+				{
+					"text": "고래",
+					"indices": [
+						122,
+						125
+					]
+				},
+				{
+					"text": "GIVEUP",
+					"indices": [
+						126,
+						133
+					]
+				},
+				{
+					"text": "Umbrella",
+					"indices": [
+						135,
+						144
+					]
+				},
+				{
+					"text": "Eye_of_the_Typhoon",
+					"indices": [
+						145,
+						164
+					]
+				},
+				{
+					"text": "Night_at_the_Safari",
+					"indices": [
+						166,
+						186
+					]
+				},
+				{
+					"text": "Where_Should_I_Go",
+					"indices": [
+						188,
+						206
+					]
+				},
+				{
+					"text": "Whale",
+					"indices": [
+						207,
+						213
+					]
+				},
+				{
+					"text": "20220920_6PM",
+					"indices": [
+						214,
+						227
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pptnzexpress",
+					"name": "페퍼톤스 peppertones",
+					"id": 191952879,
+					"id_str": "191952879",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "pptnznoshel",
+					"name": "이장원 (Edward J Lee)",
+					"id": 192668164,
+					"id_str": "192668164",
+					"indices": [
+						14,
+						26
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1570715216543125500,
+		"in_reply_to_status_id_str": "1570715216543125506",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 페퍼톤스 정규 7집 'thousand years’ 2022. 09. 20. 6PM Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40418,
+			"friends_count": 12,
+			"listed_count": 378,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5356,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1662545087",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "qme",
+		"text": "@pptnzexpress @pptnznoshel\n#PEPPERTONES\n#신재평 #이장원\n#ShinJaePyung #LeeJangWon\n#thousandyears\n#우산 #태풍의눈 #사파리의밤 #coma\n#어디로가는가 #고래 #GIVEUP \n#Umbrella #Eye_of_the_Typhoon \n#Night_at_the_Safari \n#Where_Should_I_Go #Whale\n#20220920_6PM"
+	},
+	{
+		"created_at": "Fri Sep 16 10:29:42 +0000 2022",
+		"id": 1570715216543125500,
+		"id_str": "1570721581701398528",
+		"full_text": "[#Teaser] #페퍼톤스\n\n페퍼톤스 정규 7집 'thousand years'\nPEPPERTONES 7th Full Album 'thousand years'\n\n🏔 Sketch Film\nhttps://t.co/V7Z7qOrrOV\n\n2022. 09. 20. 6PM Release https://t.co/cb8c43c7Oq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Teaser",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "페퍼톤스",
+					"indices": [
+						10,
+						15
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/V7Z7qOrrOV",
+					"expanded_url": "https://youtu.be/_s2e7yEYSwk",
+					"display_url": "youtu.be/_s2e7yEYSwk",
+					"indices": [
+						104,
+						127
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1570714985646674000,
+					"id_str": "1570714985646673922",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1570714985646673922/pu/img/qzFSO0CerG5K2Q4y.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1570714985646673922/pu/img/qzFSO0CerG5K2Q4y.jpg",
+					"url": "https://t.co/cb8c43c7Oq",
+					"display_url": "pic.twitter.com/cb8c43c7Oq",
+					"expanded_url": "https://twitter.com/antennamusic/status/1570715216543125506/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1570714985646674000,
+					"id_str": "1570714985646673922",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1570714985646673922/pu/img/qzFSO0CerG5K2Q4y.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1570714985646673922/pu/img/qzFSO0CerG5K2Q4y.jpg",
+					"url": "https://t.co/cb8c43c7Oq",
+					"display_url": "pic.twitter.com/cb8c43c7Oq",
+					"expanded_url": "https://twitter.com/antennamusic/status/1570715216543125506/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 75945,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1570714985646673922/pu/pl/SOK3qn8wgeaf7_tR.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1570714985646673922/pu/vid/1280x720/hmkdf-weEfRefXCe.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1570714985646673922/pu/vid/640x360/ckgMPs38zWrgL3TJ.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1570714985646673922/pu/vid/480x270/4TWwJ7K_W3U96WJ3.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 페퍼톤스 정규 7집 'thousand years’ 2022. 09. 20. 6PM Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40418,
+			"friends_count": 12,
+			"listed_count": 378,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5356,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1662545087",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 124,
+		"favorite_count": 123,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[#Teaser] #페퍼톤스\n\n페퍼톤스 정규 7집 'thousand years'\nPEPPERTONES 7th Full Album 'thousand years'\n\n🏔 Sketch Film\nhttps://t.co/V7Z7qOrrOV\n\n2022. 09. 20. 6PM Release https://t.co/cb8c43c7Oq"
+	},
+	{
+		"created_at": "Fri Sep 16 10:29:34 +0000 2022",
+		"id": 1570713234000449500,
+		"id_str": "1570721547437973505",
+		"full_text": "✨K-Pop - TIDAL Masters✨\n'JEY - Greeneye'가 #TIDAL 'K-Pop - TIDAL Masters' 플레이리스트 커버를 장식하였습니다😍✨\nCheck out 'Greeneye' on 'K-Pop - TIDAL Masters' #playlist on @TIDAL✨\n\n🎶https://t.co/qlqmJaQkN2\n\n#warnerkpop #warnermusic #KPOP #JEY #Greeneye #Algorithm https://t.co/MXIsxtlRcR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			246
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TIDAL",
+					"indices": [
+						42,
+						48
+					]
+				},
+				{
+					"text": "playlist",
+					"indices": [
+						142,
+						151
+					]
+				},
+				{
+					"text": "warnerkpop",
+					"indices": [
+						190,
+						201
+					]
+				},
+				{
+					"text": "warnermusic",
+					"indices": [
+						202,
+						214
+					]
+				},
+				{
+					"text": "KPOP",
+					"indices": [
+						215,
+						220
+					]
+				},
+				{
+					"text": "JEY",
+					"indices": [
+						221,
+						225
+					]
+				},
+				{
+					"text": "Greeneye",
+					"indices": [
+						226,
+						235
+					]
+				},
+				{
+					"text": "Algorithm",
+					"indices": [
+						236,
+						246
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TIDAL",
+					"name": "TIDAL",
+					"id": 2679055230,
+					"id_str": "2679055230",
+					"indices": [
+						155,
+						161
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/qlqmJaQkN2",
+					"expanded_url": "https://tidal.com/browse/playlist/58b26365-afc9-413c-9437-04b58ec9748f",
+					"display_url": "tidal.com/browse/playlis…",
+					"indices": [
+						165,
+						188
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1570712806248546300,
+					"id_str": "1570712806248546305",
+					"indices": [
+						247,
+						270
+					],
+					"media_url": "http://pbs.twimg.com/media/FcxK-ayaAAE7vVD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcxK-ayaAAE7vVD.jpg",
+					"url": "https://t.co/MXIsxtlRcR",
+					"display_url": "pic.twitter.com/MXIsxtlRcR",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1570713234000449536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1502,
+							"h": 1502,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1570712806248546300,
+					"id_str": "1570712806248546305",
+					"indices": [
+						247,
+						270
+					],
+					"media_url": "http://pbs.twimg.com/media/FcxK-ayaAAE7vVD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcxK-ayaAAE7vVD.jpg",
+					"url": "https://t.co/MXIsxtlRcR",
+					"display_url": "pic.twitter.com/MXIsxtlRcR",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1570713234000449536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1502,
+							"h": 1502,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 90177,
+			"friends_count": 492,
+			"listed_count": 218,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1579,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11982,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1636703401",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "✨K-Pop - TIDAL Masters✨\n'JEY - Greeneye'가 #TIDAL 'K-Pop - TIDAL Masters' 플레이리스트 커버를 장식하였습니다😍✨\nCheck out 'Greeneye' on 'K-Pop - TIDAL Masters' #playlist on @TIDAL✨\n\n🎶https://t.co/qlqmJaQkN2\n\n#warnerkpop #warnermusic #KPOP #JEY #Greeneye #Algorithm https://t.co/MXIsxtlRcR"
+	},
+	{
 		"created_at": "Fri Sep 16 10:15:10 +0000 2022",
 		"id": 1570717923379150800,
 		"id_str": "1570717923379150850",
@@ -1488,7 +3283,7 @@ Grailbird.data.tweets_2022_09 =
 		"created_at": "Fri Sep 16 09:29:33 +0000 2022",
 		"id": 1570699032829120500,
 		"id_str": "1570706444869066754",
-		"full_text": "#Boni #bobae \n\n𝘽𝙤𝙣𝙞 𝙭 𝙗𝙤𝙗𝙖𝙚 \n👁️❤️‍🩹\n관심과 사랑  \n𝘓𝘰𝘷𝘦 &amp; 𝘊𝘢𝘳𝘦\n\n𝟤𝟢𝟤𝟤.𝟢𝟫.𝟤𝟣. 𝟣𝟤𝖯𝖬 (𝖪𝖲𝖳)\n\n#Bonixbobae #관심과사랑 #LovenCare https://t.co/7GVIchAXT0",
+		"full_text": "#Boni #bobae \n\n𝘽𝙤𝙣𝙞 𝙭 𝙗𝙤𝙗𝙖𝙚 \n👁️❤️🩹\n관심과 사랑  \n𝘓𝘰𝘷𝘦 &amp; 𝘊𝘢𝘳𝘦\n\n𝟤𝟢𝟤𝟤.𝟢𝟫.𝟤𝟣. 𝟣𝟤𝖯𝖬 (𝖪𝖲𝖳)\n\n#Bonixbobae #관심과사랑 #LovenCare https://t.co/7GVIchAXT0",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -1728,13 +3523,13 @@ Grailbird.data.tweets_2022_09 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "#Boni #bobae \n\n𝘽𝙤𝙣𝙞 𝙭 𝙗𝙤𝙗𝙖𝙚 \n👁️❤️‍🩹\n관심과 사랑  \n𝘓𝘰𝘷𝘦 &amp; 𝘊𝘢𝘳𝘦\n\n𝟤𝟢𝟤𝟤.𝟢𝟫.𝟤𝟣. 𝟣𝟤𝖯𝖬 (𝖪𝖲𝖳)\n\n#Bonixbobae #관심과사랑 #LovenCare https://t.co/7GVIchAXT0"
+		"text": "#Boni #bobae \n\n𝘽𝙤𝙣𝙞 𝙭 𝙗𝙤𝙗𝙖𝙚 \n👁️❤️🩹\n관심과 사랑  \n𝘓𝘰𝘷𝘦 &amp; 𝘊𝘢𝘳𝘦\n\n𝟤𝟢𝟤𝟤.𝟢𝟫.𝟤𝟣. 𝟣𝟤𝖯𝖬 (𝖪𝖲𝖳)\n\n#Bonixbobae #관심과사랑 #LovenCare https://t.co/7GVIchAXT0"
 	},
 	{
 		"created_at": "Fri Sep 16 09:29:29 +0000 2022",
 		"id": 1570699025791307800,
 		"id_str": "1570706427588534273",
-		"full_text": "#Boni #bobae \n\n𝘽𝙤𝙣𝙞 𝙭 𝙗𝙤𝙗𝙖𝙚 \n👁️❤️‍🩹\n관심과 사랑  \n𝘓𝘰𝘷𝘦 &amp; 𝘊𝘢𝘳𝘦\n\n𝟤𝟢𝟤𝟤.𝟢𝟫.𝟤𝟣. 𝟣𝟤𝖯𝖬 (𝖪𝖲𝖳)\n\n#Bonixbobae #관심과사랑 #LovenCare https://t.co/wp7u3TeZiO",
+		"full_text": "#Boni #bobae \n\n𝘽𝙤𝙣𝙞 𝙭 𝙗𝙤𝙗𝙖𝙚 \n👁️❤️🩹\n관심과 사랑  \n𝘓𝘰𝘷𝘦 &amp; 𝘊𝘢𝘳𝘦\n\n𝟤𝟢𝟤𝟤.𝟢𝟫.𝟤𝟣. 𝟣𝟤𝖯𝖬 (𝖪𝖲𝖳)\n\n#Bonixbobae #관심과사랑 #LovenCare https://t.co/wp7u3TeZiO",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -2010,7 +3805,7 @@ Grailbird.data.tweets_2022_09 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "#Boni #bobae \n\n𝘽𝙤𝙣𝙞 𝙭 𝙗𝙤𝙗𝙖𝙚 \n👁️❤️‍🩹\n관심과 사랑  \n𝘓𝘰𝘷𝘦 &amp; 𝘊𝘢𝘳𝘦\n\n𝟤𝟢𝟤𝟤.𝟢𝟫.𝟤𝟣. 𝟣𝟤𝖯𝖬 (𝖪𝖲𝖳)\n\n#Bonixbobae #관심과사랑 #LovenCare https://t.co/wp7u3TeZiO"
+		"text": "#Boni #bobae \n\n𝘽𝙤𝙣𝙞 𝙭 𝙗𝙤𝙗𝙖𝙚 \n👁️❤️🩹\n관심과 사랑  \n𝘓𝘰𝘷𝘦 &amp; 𝘊𝘢𝘳𝘦\n\n𝟤𝟢𝟤𝟤.𝟢𝟫.𝟤𝟣. 𝟣𝟤𝖯𝖬 (𝖪𝖲𝖳)\n\n#Bonixbobae #관심과사랑 #LovenCare https://t.co/wp7u3TeZiO"
 	},
 	{
 		"created_at": "Fri Sep 16 09:13:07 +0000 2022",
