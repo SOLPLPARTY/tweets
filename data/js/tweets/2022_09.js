@@ -1,6 +1,758 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Fri Sep 16 07:29:39 +0000 2022",
+		"id": 1570674830466510800,
+		"id_str": "1570676271411068929",
+		"full_text": "▫️공연 정보\n- 일시 : 9월 17일 토요일 오후 6시, 18일 일요일 오후 5시\n- 장소 : 세종음악창작소 공연장\n- 티켓 가격 : 66,000원\n- 예매처 : 예스24티켓\n- 예매링크 : https://t.co/2RZSbi1Fd9 https://t.co/mDTAdZTW6v",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2RZSbi1Fd9",
+					"expanded_url": "http://ticket.yes24.com/perf/43336",
+					"display_url": "ticket.yes24.com/perf/43336",
+					"indices": [
+						108,
+						131
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1570674822396678100,
+					"id_str": "1570674822396678144",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/Fcwobd6akAArrWg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fcwobd6akAArrWg.jpg",
+					"url": "https://t.co/mDTAdZTW6v",
+					"display_url": "pic.twitter.com/mDTAdZTW6v",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1570674830466510855/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1570674822396678100,
+					"id_str": "1570674822396678144",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/Fcwobd6akAArrWg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fcwobd6akAArrWg.jpg",
+					"url": "https://t.co/mDTAdZTW6v",
+					"display_url": "pic.twitter.com/mDTAdZTW6v",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1570674830466510855/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1570674822413451300,
+					"id_str": "1570674822413451265",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/Fcwobd-agAE-rbx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fcwobd-agAE-rbx.jpg",
+					"url": "https://t.co/mDTAdZTW6v",
+					"display_url": "pic.twitter.com/mDTAdZTW6v",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1570674830466510855/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1570674822455365600,
+					"id_str": "1570674822455365633",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/FcwobeIaEAEvZcY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcwobeIaEAEvZcY.jpg",
+					"url": "https://t.co/mDTAdZTW6v",
+					"display_url": "pic.twitter.com/mDTAdZTW6v",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1570674830466510855/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1570674709813141500,
+		"in_reply_to_status_id_str": "1570674709813141506",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 your summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 슬릭, 아마도이자람밴드, 우주왕복선싸이드미러, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2288,
+			"friends_count": 20,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 636,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6546,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "▫️공연 정보\n- 일시 : 9월 17일 토요일 오후 6시, 18일 일요일 오후 5시\n- 장소 : 세종음악창작소 공연장\n- 티켓 가격 : 66,000원\n- 예매처 : 예스24티켓\n- 예매링크 : https://t.co/2RZSbi1Fd9 https://t.co/mDTAdZTW6v"
+	},
+	{
+		"created_at": "Fri Sep 16 07:29:30 +0000 2022",
+		"id": 1570674709813141500,
+		"id_str": "1570676233045934082",
+		"full_text": "&lt;SUPERNOVA! 세종 : 너드커넥션 단독 공연&gt; 공연 관람 안내📣\n\n&lt;SUPERNOVA! 세종&gt; 단독 공연 안내 사항을 알려드립니다! 이번 주말 세종음악창작소 공연장에서 만나요‼️\n* 자세한 사항은 이미지를 참고해주세요.\n\n#너드커넥션 #너컨 #단독공연 #수퍼노바 #세종 #투어 https://t.co/ypcV87ElMR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "너드커넥션",
+					"indices": [
+						140,
+						146
+					]
+				},
+				{
+					"text": "너컨",
+					"indices": [
+						147,
+						150
+					]
+				},
+				{
+					"text": "단독공연",
+					"indices": [
+						151,
+						156
+					]
+				},
+				{
+					"text": "수퍼노바",
+					"indices": [
+						157,
+						162
+					]
+				},
+				{
+					"text": "세종",
+					"indices": [
+						163,
+						166
+					]
+				},
+				{
+					"text": "투어",
+					"indices": [
+						167,
+						170
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1570674700828962800,
+					"id_str": "1570674700828962816",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/FcwoUZCacAAa8YN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcwoUZCacAAa8YN.jpg",
+					"url": "https://t.co/ypcV87ElMR",
+					"display_url": "pic.twitter.com/ypcV87ElMR",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1570674709813141506/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1570674700828962800,
+					"id_str": "1570674700828962816",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/FcwoUZCacAAa8YN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcwoUZCacAAa8YN.jpg",
+					"url": "https://t.co/ypcV87ElMR",
+					"display_url": "pic.twitter.com/ypcV87ElMR",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1570674709813141506/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1570674700833136600,
+					"id_str": "1570674700833136640",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/FcwoUZDaIAARObW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcwoUZDaIAARObW.jpg",
+					"url": "https://t.co/ypcV87ElMR",
+					"display_url": "pic.twitter.com/ypcV87ElMR",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1570674709813141506/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1570674700824752000,
+					"id_str": "1570674700824752129",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/FcwoUZBaMAEmmYj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcwoUZBaMAEmmYj.jpg",
+					"url": "https://t.co/ypcV87ElMR",
+					"display_url": "pic.twitter.com/ypcV87ElMR",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1570674709813141506/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1570674700828938200,
+					"id_str": "1570674700828938240",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/FcwoUZCaEAAezya.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcwoUZCaEAAezya.jpg",
+					"url": "https://t.co/ypcV87ElMR",
+					"display_url": "pic.twitter.com/ypcV87ElMR",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1570674709813141506/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 your summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 슬릭, 아마도이자람밴드, 우주왕복선싸이드미러, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2288,
+			"friends_count": 20,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 636,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6546,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;SUPERNOVA! 세종 : 너드커넥션 단독 공연&gt; 공연 관람 안내📣\n\n&lt;SUPERNOVA! 세종&gt; 단독 공연 안내 사항을 알려드립니다! 이번 주말 세종음악창작소 공연장에서 만나요‼️\n* 자세한 사항은 이미지를 참고해주세요.\n\n#너드커넥션 #너컨 #단독공연 #수퍼노바 #세종 #투어 https://t.co/ypcV87ElMR"
+	},
+	{
+		"created_at": "Fri Sep 16 07:28:57 +0000 2022",
+		"id": 1570676096508768300,
+		"id_str": "1570676096508768256",
+		"full_text": "#유니버설뮤직코리아 #Universal_Music_Korea\n이별하고 맨날 술만 마시는 친구 태그😥#이별 #술 #팝송 #가사\nhttps://t.co/EwwwsLePLJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "유니버설뮤직코리아",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "Universal_Music_Korea",
+					"indices": [
+						11,
+						33
+					]
+				},
+				{
+					"text": "이별",
+					"indices": [
+						55,
+						58
+					]
+				},
+				{
+					"text": "술",
+					"indices": [
+						59,
+						61
+					]
+				},
+				{
+					"text": "팝송",
+					"indices": [
+						62,
+						65
+					]
+				},
+				{
+					"text": "가사",
+					"indices": [
+						66,
+						69
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EwwwsLePLJ",
+					"expanded_url": "https://youtu.be/Z1CYaz7oRN8",
+					"display_url": "youtu.be/Z1CYaz7oRN8",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 253,
+			"friends_count": 460,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 235,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 88200,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#유니버설뮤직코리아 #Universal_Music_Korea\n이별하고 맨날 술만 마시는 친구 태그😥#이별 #술 #팝송 #가사\nhttps://t.co/EwwwsLePLJ"
+	},
+	{
 		"created_at": "Fri Sep 16 06:58:21 +0000 2022",
 		"id": 1570653960712487000,
 		"id_str": "1570668393421836290",
