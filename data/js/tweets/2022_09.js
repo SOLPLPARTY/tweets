@@ -1,6 +1,117 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Sat Sep 17 14:29:27 +0000 2022",
+		"id": 1571142308644655000,
+		"id_str": "1571144304273379331",
+		"full_text": "🎼 #정승환 SET LIST\n\n01. 뒷모습\n02. 네가 온다\n03. 우주선\n04. 친구, 그 오랜시간\n05. 그런 사람 \n06. JTBC 메들리 : 나를 사랑하지 않는 그대에게, 어떤가요, 희재, 응급실, 도망가자 \n07. 너였다면\n08. 이 바보야\n09. 눈사람\n\n#리슨어게인페스티벌",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "정승환",
+					"indices": [
+						2,
+						6
+					]
+				},
+				{
+					"text": "리슨어게인페스티벌",
+					"indices": [
+						150,
+						160
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1571129149435293700,
+		"in_reply_to_status_id_str": "1571129149435293699",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 페퍼톤스 정규 7집 'thousand years’ 2022. 09. 20. 6PM Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40415,
+			"friends_count": 12,
+			"listed_count": 378,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5360,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1662545087",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 42,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "🎼 #정승환 SET LIST\n\n01. 뒷모습\n02. 네가 온다\n03. 우주선\n04. 친구, 그 오랜시간\n05. 그런 사람 \n06. JTBC 메들리 : 나를 사랑하지 않는 그대에게, 어떤가요, 희재, 응급실, 도망가자 \n07. 너였다면\n08. 이 바보야\n09. 눈사람\n\n#리슨어게인페스티벌"
+	},
+	{
 		"created_at": "Sat Sep 17 13:29:35 +0000 2022",
 		"id": 1571129149435293700,
 		"id_str": "1571129240321691649",
