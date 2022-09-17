@@ -1,6 +1,299 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Sat Sep 17 03:58:15 +0000 2022",
+		"id": 1570970831295225900,
+		"id_str": "1570985457176952832",
+		"full_text": "[2022 렛츠락페스티벌 셔틀버스 이용 안내]\n\n🚌 운행 경로\n디지털미디어시티역 &lt;-&gt; 공연장 셔틀버스 주차장\n\n자세한 승하차 장소는 이미지 내용을 참고해 주세요!\n\n * 교통 상황에 따라 소요시간이 달라질 수 있습니다.\n * 여유롭게 셔틀버스 이용 시간을 계획하시기 바랍니다 https://t.co/qZbhBwfTi3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1570970825368703000,
+					"id_str": "1570970825368702977",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc01pG6akAEvnrh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc01pG6akAEvnrh.jpg",
+					"url": "https://t.co/qZbhBwfTi3",
+					"display_url": "pic.twitter.com/qZbhBwfTi3",
+					"expanded_url": "https://twitter.com/letsrockfe/status/1570970831295225856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1570970825368703000,
+					"id_str": "1570970825368702977",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc01pG6akAEvnrh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc01pG6akAEvnrh.jpg",
+					"url": "https://t.co/qZbhBwfTi3",
+					"display_url": "pic.twitter.com/qZbhBwfTi3",
+					"expanded_url": "https://twitter.com/letsrockfe/status/1570970831295225856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1570970825339314200,
+					"id_str": "1570970825339314177",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc01pGzaIAES88P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc01pGzaIAES88P.jpg",
+					"url": "https://t.co/qZbhBwfTi3",
+					"display_url": "pic.twitter.com/qZbhBwfTi3",
+					"expanded_url": "https://twitter.com/letsrockfe/status/1570970831295225856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1570970825335111700,
+					"id_str": "1570970825335111680",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc01pGyaAAA54_d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc01pGyaAAA54_d.jpg",
+					"url": "https://t.co/qZbhBwfTi3",
+					"display_url": "pic.twitter.com/qZbhBwfTi3",
+					"expanded_url": "https://twitter.com/letsrockfe/status/1570970831295225856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1570970825343500300,
+					"id_str": "1570970825343500288",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc01pG0aAAAklW6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc01pG0aAAAklW6.jpg",
+					"url": "https://t.co/qZbhBwfTi3",
+					"display_url": "pic.twitter.com/qZbhBwfTi3",
+					"expanded_url": "https://twitter.com/letsrockfe/status/1570970831295225856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 158300000,
+			"id_str": "158300000",
+			"name": "렛츠락페스티벌",
+			"screen_name": "letsrockfe",
+			"location": "Seoul Korea",
+			"description": "2022.09.24(토) - 2022.09.25(일)\n난지한강공원 일대\n-\n👇🏻티켓 예매 및 이벤트 참여🔗\nhttps://t.co/11CqLzCPD7",
+			"url": "https://t.co/1V3BUiKqLS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1V3BUiKqLS",
+							"expanded_url": "http://www.letsrock.co.kr",
+							"display_url": "letsrock.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/11CqLzCPD7",
+							"expanded_url": "http://linktr.ee/letsrockfe",
+							"display_url": "linktr.ee/letsrockfe",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3936,
+			"friends_count": 138,
+			"listed_count": 45,
+			"created_at": "Tue Jun 22 09:04:04 +0000 2010",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1430,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "89C9FA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551432329939529729/msipUz7J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551432329939529729/msipUz7J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/158300000/1658725267",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 25,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[2022 렛츠락페스티벌 셔틀버스 이용 안내]\n\n🚌 운행 경로\n디지털미디어시티역 &lt;-&gt; 공연장 셔틀버스 주차장\n\n자세한 승하차 장소는 이미지 내용을 참고해 주세요!\n\n * 교통 상황에 따라 소요시간이 달라질 수 있습니다.\n * 여유롭게 셔틀버스 이용 시간을 계획하시기 바랍니다 https://t.co/qZbhBwfTi3"
+	},
+	{
 		"created_at": "Sat Sep 17 03:04:58 +0000 2022",
 		"id": 1570972048499024000,
 		"id_str": "1570972048499023874",
