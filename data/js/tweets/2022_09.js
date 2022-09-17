@@ -1,6 +1,149 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Sat Sep 17 09:29:24 +0000 2022",
+		"id": 1571063034889801700,
+		"id_str": "1571068796567175168",
+		"full_text": "슬릭의 새로운 싱글 ‘있잖아’의 뮤직비디오를 신승은 감독님과 슬릭이 직접 코멘터리해봤습니다👀 ‘있잖아’ 뮤직비디오와 함께 감상해보세요‼️\n\n🔗https://t.co/zSZXk6AwsL\n\n#슬릭 #있잖아 #뮤직비디오 #코멘터리 #신승은",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬릭",
+					"indices": [
+						104,
+						107
+					]
+				},
+				{
+					"text": "있잖아",
+					"indices": [
+						108,
+						112
+					]
+				},
+				{
+					"text": "뮤직비디오",
+					"indices": [
+						113,
+						119
+					]
+				},
+				{
+					"text": "코멘터리",
+					"indices": [
+						120,
+						125
+					]
+				},
+				{
+					"text": "신승은",
+					"indices": [
+						126,
+						130
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zSZXk6AwsL",
+					"expanded_url": "http://c11.kr/15lip",
+					"display_url": "c11.kr/15lip",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 your summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 슬릭, 아마도이자람밴드, 우주왕복선싸이드미러, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2291,
+			"friends_count": 20,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 636,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6547,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "슬릭의 새로운 싱글 ‘있잖아’의 뮤직비디오를 신승은 감독님과 슬릭이 직접 코멘터리해봤습니다👀 ‘있잖아’ 뮤직비디오와 함께 감상해보세요‼️\n\n🔗https://t.co/zSZXk6AwsL\n\n#슬릭 #있잖아 #뮤직비디오 #코멘터리 #신승은"
+	},
+	{
 		"created_at": "Sat Sep 17 09:10:05 +0000 2022",
 		"id": 1571063935138435000,
 		"id_str": "1571063935138435080",
