@@ -1,6 +1,642 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Sun Sep 18 03:29:34 +0000 2022",
+		"id": 1571337181410775000,
+		"id_str": "1571340628646060032",
+		"full_text": "@pptnzexpress @pptnznoshel #ShinJaePyung #LeeJangWon\n#thousandyears #20220920_6PM\n#어디로가는가 #Where_Should_I_Go\n#2022LOVESOME",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			122
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ShinJaePyung",
+					"indices": [
+						27,
+						40
+					]
+				},
+				{
+					"text": "LeeJangWon",
+					"indices": [
+						41,
+						52
+					]
+				},
+				{
+					"text": "thousandyears",
+					"indices": [
+						53,
+						67
+					]
+				},
+				{
+					"text": "20220920_6PM",
+					"indices": [
+						68,
+						81
+					]
+				},
+				{
+					"text": "어디로가는가",
+					"indices": [
+						82,
+						89
+					]
+				},
+				{
+					"text": "Where_Should_I_Go",
+					"indices": [
+						90,
+						108
+					]
+				},
+				{
+					"text": "2022LOVESOME",
+					"indices": [
+						109,
+						122
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pptnzexpress",
+					"name": "페퍼톤스 peppertones",
+					"id": 191952879,
+					"id_str": "191952879",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "pptnznoshel",
+					"name": "이장원 (Edward J Lee)",
+					"id": 192668164,
+					"id_str": "192668164",
+					"indices": [
+						14,
+						26
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1571336962014707700,
+		"in_reply_to_status_id_str": "1571336962014707712",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 페퍼톤스 정규 7집 'thousand years’ 2022. 09. 20. 6PM Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40412,
+			"friends_count": 12,
+			"listed_count": 378,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5364,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1662545087",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "qme",
+		"text": "@pptnzexpress @pptnznoshel #ShinJaePyung #LeeJangWon\n#thousandyears #20220920_6PM\n#어디로가는가 #Where_Should_I_Go\n#2022LOVESOME"
+	},
+	{
+		"created_at": "Sun Sep 18 03:29:32 +0000 2022",
+		"id": 1571336962014707700,
+		"id_str": "1571340619741626368",
+		"full_text": "[#Video] #페퍼톤스 \n\n[안테나CAM] 페퍼톤스 직캠\n'어디로 가는가' - 2022 LOVESOME\n🔗 https://t.co/EE155CDqat \n\n페퍼톤스 정규 7집 'thousand years'\nPEPPERTONES 7th Full Album 'thousand years'\n\n🏔 2022. 09. 20. 6PM Release\n\n@pptnzexpress @pptnznoshel\n#Peppertones #신재평 #이장원 https://t.co/iUuDUTefOF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			239
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Video",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "페퍼톤스",
+					"indices": [
+						9,
+						14
+					]
+				},
+				{
+					"text": "Peppertones",
+					"indices": [
+						217,
+						229
+					]
+				},
+				{
+					"text": "신재평",
+					"indices": [
+						230,
+						234
+					]
+				},
+				{
+					"text": "이장원",
+					"indices": [
+						235,
+						239
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pptnzexpress",
+					"name": "페퍼톤스 peppertones",
+					"id": 191952879,
+					"id_str": "191952879",
+					"indices": [
+						190,
+						203
+					]
+				},
+				{
+					"screen_name": "pptnznoshel",
+					"name": "이장원 (Edward J Lee)",
+					"id": 192668164,
+					"id_str": "192668164",
+					"indices": [
+						204,
+						216
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/EE155CDqat",
+					"expanded_url": "https://youtu.be/vvfM3XaomaA",
+					"display_url": "youtu.be/vvfM3XaomaA",
+					"indices": [
+						62,
+						85
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1571330864507940900,
+					"id_str": "1571330864507940865",
+					"indices": [
+						240,
+						263
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc5-UDzaIAAUdlH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc5-UDzaIAAUdlH.jpg",
+					"url": "https://t.co/iUuDUTefOF",
+					"display_url": "pic.twitter.com/iUuDUTefOF",
+					"expanded_url": "https://twitter.com/antennamusic/status/1571336962014707712/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1571330864507940900,
+					"id_str": "1571330864507940865",
+					"indices": [
+						240,
+						263
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc5-UDzaIAAUdlH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc5-UDzaIAAUdlH.jpg",
+					"url": "https://t.co/iUuDUTefOF",
+					"display_url": "pic.twitter.com/iUuDUTefOF",
+					"expanded_url": "https://twitter.com/antennamusic/status/1571336962014707712/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 273940,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1571330864507940865/vid/480x270/D-VaUbTwy6U8JELc.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1571330864507940865/pl/ZySZ9d9NxhYTTxFt.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1571330864507940865/vid/640x360/NxJrmv8XjgJ-pHit.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1571330864507940865/vid/1280x720/I_RrB_80NTK3E_zT.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "[안테나CAM] 페퍼톤스 직캠 '어디로 가는가' - 2022 LOVESOME",
+						"description": "220917 [2022 LOVESOME 러브썸 페스티벌]\n페퍼톤스 - '어디로 가는가' 직캠",
+						"call_to_actions": {
+							"watch_now": {
+								"url": "https://youtu.be/vvfM3XaomaA"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 페퍼톤스 정규 7집 'thousand years’ 2022. 09. 20. 6PM Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40412,
+			"friends_count": 12,
+			"listed_count": 378,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5364,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1662545087",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 98,
+		"favorite_count": 84,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Video] #페퍼톤스 \n\n[안테나CAM] 페퍼톤스 직캠\n'어디로 가는가' - 2022 LOVESOME\n🔗 https://t.co/EE155CDqat \n\n페퍼톤스 정규 7집 'thousand years'\nPEPPERTONES 7th Full Album 'thousand years'\n\n🏔 2022. 09. 20. 6PM Release\n\n@pptnzexpress @pptnznoshel\n#Peppertones #신재평 #이장원 https://t.co/iUuDUTefOF"
+	},
+	{
+		"created_at": "Sun Sep 18 03:29:29 +0000 2022",
+		"id": 1571333366678687700,
+		"id_str": "1571340606491996162",
+		"full_text": "@pptnzexpress @pptnznoshel #ShinJaePyung #LeeJangWon\n#thousandyears #20220920_6PM\n#우산 #Umbrella \n#2022LOVESOME\n#우산 #Umbrella \n#2022LOVESOME",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ShinJaePyung",
+					"indices": [
+						27,
+						40
+					]
+				},
+				{
+					"text": "LeeJangWon",
+					"indices": [
+						41,
+						52
+					]
+				},
+				{
+					"text": "thousandyears",
+					"indices": [
+						53,
+						67
+					]
+				},
+				{
+					"text": "20220920_6PM",
+					"indices": [
+						68,
+						81
+					]
+				},
+				{
+					"text": "우산",
+					"indices": [
+						82,
+						85
+					]
+				},
+				{
+					"text": "Umbrella",
+					"indices": [
+						86,
+						95
+					]
+				},
+				{
+					"text": "2022LOVESOME",
+					"indices": [
+						97,
+						110
+					]
+				},
+				{
+					"text": "우산",
+					"indices": [
+						111,
+						114
+					]
+				},
+				{
+					"text": "Umbrella",
+					"indices": [
+						115,
+						124
+					]
+				},
+				{
+					"text": "2022LOVESOME",
+					"indices": [
+						126,
+						139
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pptnzexpress",
+					"name": "페퍼톤스 peppertones",
+					"id": 191952879,
+					"id_str": "191952879",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "pptnznoshel",
+					"name": "이장원 (Edward J Lee)",
+					"id": 192668164,
+					"id_str": "192668164",
+					"indices": [
+						14,
+						26
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1571333226500481000,
+		"in_reply_to_status_id_str": "1571333226500481024",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 페퍼톤스 정규 7집 'thousand years’ 2022. 09. 20. 6PM Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40412,
+			"friends_count": 12,
+			"listed_count": 378,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5364,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1662545087",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "qme",
+		"text": "@pptnzexpress @pptnznoshel #ShinJaePyung #LeeJangWon\n#thousandyears #20220920_6PM\n#우산 #Umbrella \n#2022LOVESOME\n#우산 #Umbrella \n#2022LOVESOME"
+	},
+	{
 		"created_at": "Sun Sep 18 03:13:57 +0000 2022",
 		"id": 1571336699833380900,
 		"id_str": "1571336699833380868",
