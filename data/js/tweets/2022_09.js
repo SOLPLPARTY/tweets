@@ -1,6 +1,246 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Sun Sep 18 05:29:25 +0000 2022",
+		"id": 1571359748611776500,
+		"id_str": "1571370788401385474",
+		"full_text": "#TheBigMouth LIM YOONA shines until the season finale with her irreplaceable presence in the show! \n“It will stay in my heart for a long time.\"\n - Successfully finished her first noir challenge \n-  Proved her wide acting spectrum \n-  Queen of ratings\n\n#임윤아 #LIMYOONA\n#빅마우스 https://t.co/NwuWKItclu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TheBigMouth",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"text": "임윤아",
+					"indices": [
+						252,
+						256
+					]
+				},
+				{
+					"text": "LIMYOONA",
+					"indices": [
+						257,
+						266
+					]
+				},
+				{
+					"text": "빅마우스",
+					"indices": [
+						267,
+						272
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1571359738469961700,
+					"id_str": "1571359738469961729",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc6XW1HaUAEYdqY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc6XW1HaUAEYdqY.jpg",
+					"url": "https://t.co/NwuWKItclu",
+					"display_url": "pic.twitter.com/NwuWKItclu",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1571359748611776513/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1571359738469961700,
+					"id_str": "1571359738469961729",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc6XW1HaUAEYdqY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc6XW1HaUAEYdqY.jpg",
+					"url": "https://t.co/NwuWKItclu",
+					"display_url": "pic.twitter.com/NwuWKItclu",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1571359748611776513/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1571359738465767400,
+					"id_str": "1571359738465767426",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc6XW1GaUAIcBdo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc6XW1GaUAIcBdo.jpg",
+					"url": "https://t.co/NwuWKItclu",
+					"display_url": "pic.twitter.com/NwuWKItclu",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1571359748611776513/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 730,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 242,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 428,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11180739,
+			"friends_count": 55,
+			"listed_count": 12609,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2027,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12900,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1507,
+		"favorite_count": 4813,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#TheBigMouth LIM YOONA shines until the season finale with her irreplaceable presence in the show! \n“It will stay in my heart for a long time.\"\n - Successfully finished her first noir challenge \n-  Proved her wide acting spectrum \n-  Queen of ratings\n\n#임윤아 #LIMYOONA\n#빅마우스 https://t.co/NwuWKItclu"
+	},
+	{
 		"created_at": "Sun Sep 18 04:29:34 +0000 2022",
 		"id": 1571348313378816000,
 		"id_str": "1571355726584446977",
