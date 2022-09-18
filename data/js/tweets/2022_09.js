@@ -1,6 +1,220 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Sun Sep 18 13:29:25 +0000 2022",
+		"id": 1571483001342824400,
+		"id_str": "1571491584738213889",
+		"full_text": "[📝] [속보] 울림상사의 회사 생활을 샅샅이 파헤치다!\n\n뜨거운 반응을 보였던 울림상사👔💻\n비하인드가 궁금하실 팬 여러분을 위해 준비했습니다😁\n지금 바로 아래의 링크로 들어오세요🙌\n\n▶️ https://t.co/Rw1AFqfnrO\n\n#GoldenChild #골든차일드 #DRIPPIN #드리핀 https://t.co/fTB0lS0ral",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoldenChild",
+					"indices": [
+						131,
+						143
+					]
+				},
+				{
+					"text": "골든차일드",
+					"indices": [
+						144,
+						150
+					]
+				},
+				{
+					"text": "DRIPPIN",
+					"indices": [
+						151,
+						159
+					]
+				},
+				{
+					"text": "드리핀",
+					"indices": [
+						160,
+						164
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Rw1AFqfnrO",
+					"expanded_url": "https://naver.me/xBhntKIB",
+					"display_url": "naver.me/xBhntKIB",
+					"indices": [
+						106,
+						129
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1571482995382710300,
+					"id_str": "1571482995382710273",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc8HdU5acAERmfu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc8HdU5acAERmfu.jpg",
+					"url": "https://t.co/fTB0lS0ral",
+					"display_url": "pic.twitter.com/fTB0lS0ral",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1571483001342824448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1571482995382710300,
+					"id_str": "1571482995382710273",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc8HdU5acAERmfu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc8HdU5acAERmfu.jpg",
+					"url": "https://t.co/fTB0lS0ral",
+					"display_url": "pic.twitter.com/fTB0lS0ral",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1571483001342824448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 713661673,
+			"id_str": "713661673",
+			"name": "woollim",
+			"screen_name": "woollim_ent",
+			"location": "",
+			"description": "Woollim Entertainment Official Twitter",
+			"url": "https://t.co/HkJWTvhbnM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HkJWTvhbnM",
+							"expanded_url": "http://www.woolliment.com",
+							"display_url": "woolliment.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 420004,
+			"friends_count": 13,
+			"listed_count": 1865,
+			"created_at": "Tue Jul 24 04:15:30 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2529,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1478924690630799360/smQ-RXv0_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1478924690630799360/smQ-RXv0_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/713661673/1661158937",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 751,
+		"favorite_count": 1538,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[📝] [속보] 울림상사의 회사 생활을 샅샅이 파헤치다!\n\n뜨거운 반응을 보였던 울림상사👔💻\n비하인드가 궁금하실 팬 여러분을 위해 준비했습니다😁\n지금 바로 아래의 링크로 들어오세요🙌\n\n▶️ https://t.co/Rw1AFqfnrO\n\n#GoldenChild #골든차일드 #DRIPPIN #드리핀 https://t.co/fTB0lS0ral"
+	},
+	{
 		"created_at": "Sun Sep 18 09:29:33 +0000 2022",
 		"id": 1571427668155039700,
 		"id_str": "1571431221606977538",
