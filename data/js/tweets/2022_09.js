@@ -1,6 +1,729 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Mon Sep 19 04:29:41 +0000 2022",
+		"id": 1571716975034003500,
+		"id_str": "1571718143080550402",
+		"full_text": "[#권혁수] #복학생_학점은A지만사랑은F입니다\n\n비밀연애요? 여기서요? 츠암나 오히려 좋아 ❣\n👉 https://t.co/pH0Yj8r8D3\n\n효뇽이 코-낸내는 혁뚜가 책임진다구 💤\n👉 https://t.co/INLddZGU4o\n\n#KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #쿠팡플레이시리즈 #복학생 #쿠팡플레이 #CoupangPlay #shorts",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			206
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권혁수",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "복학생_학점은A지만사랑은F입니다",
+					"indices": [
+						7,
+						25
+					]
+				},
+				{
+					"text": "KwunHyukSoo",
+					"indices": [
+						129,
+						141
+					]
+				},
+				{
+					"text": "휴맵컨텐츠",
+					"indices": [
+						142,
+						148
+					]
+				},
+				{
+					"text": "HUMAPCONTENTS",
+					"indices": [
+						149,
+						163
+					]
+				},
+				{
+					"text": "쿠팡플레이시리즈",
+					"indices": [
+						164,
+						173
+					]
+				},
+				{
+					"text": "복학생",
+					"indices": [
+						174,
+						178
+					]
+				},
+				{
+					"text": "쿠팡플레이",
+					"indices": [
+						179,
+						185
+					]
+				},
+				{
+					"text": "CoupangPlay",
+					"indices": [
+						186,
+						198
+					]
+				},
+				{
+					"text": "shorts",
+					"indices": [
+						199,
+						206
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pH0Yj8r8D3",
+					"expanded_url": "https://www.youtube.com/shorts/K6OintYN76s",
+					"display_url": "youtube.com/shorts/K6OintY…",
+					"indices": [
+						55,
+						78
+					]
+				},
+				{
+					"url": "https://t.co/INLddZGU4o",
+					"expanded_url": "https://www.youtube.com/shorts/Dp_yVT83rwI",
+					"display_url": "youtube.com/shorts/Dp_yVT8…",
+					"indices": [
+						104,
+						127
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1219506842935513000,
+			"id_str": "1219506842935513088",
+			"name": "휴맵컨텐츠(HUMAP)",
+			"screen_name": "humap_official",
+			"location": "",
+			"description": "휴맵컨텐츠(HUMAP CONTENTS) Official Twitter",
+			"url": "https://t.co/fBZZK3SmX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fBZZK3SmX6",
+							"expanded_url": "http://www.humapcontents.com/",
+							"display_url": "humapcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 382,
+			"friends_count": 2,
+			"listed_count": 2,
+			"created_at": "Tue Jan 21 06:28:27 +0000 2020",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 902,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1219506842935513088/1579755898",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#권혁수] #복학생_학점은A지만사랑은F입니다\n\n비밀연애요? 여기서요? 츠암나 오히려 좋아 ❣\n👉 https://t.co/pH0Yj8r8D3\n\n효뇽이 코-낸내는 혁뚜가 책임진다구 💤\n👉 https://t.co/INLddZGU4o\n\n#KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #쿠팡플레이시리즈 #복학생 #쿠팡플레이 #CoupangPlay #shorts"
+	},
+	{
+		"created_at": "Mon Sep 19 04:29:33 +0000 2022",
+		"id": 1571716834034077700,
+		"id_str": "1571718113065844737",
+		"full_text": "[#권혁수] #복학생_학점은A지만사랑은F입니다\n\n권혁수 집착 광공 주현영의 존버 성공기💕ㅣ복학생: 학점은 A지만 사랑은 F입니다ㅣ하이라이트\n\nhttps://t.co/nGSCWLjsSS\n\n#KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #쿠팡플레이시리즈 #쿠팡플레이 #CoupangPlay",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권혁수",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "복학생_학점은A지만사랑은F입니다",
+					"indices": [
+						7,
+						25
+					]
+				},
+				{
+					"text": "KwunHyukSoo",
+					"indices": [
+						104,
+						116
+					]
+				},
+				{
+					"text": "휴맵컨텐츠",
+					"indices": [
+						117,
+						123
+					]
+				},
+				{
+					"text": "HUMAPCONTENTS",
+					"indices": [
+						124,
+						138
+					]
+				},
+				{
+					"text": "쿠팡플레이시리즈",
+					"indices": [
+						139,
+						148
+					]
+				},
+				{
+					"text": "쿠팡플레이",
+					"indices": [
+						149,
+						155
+					]
+				},
+				{
+					"text": "CoupangPlay",
+					"indices": [
+						156,
+						168
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nGSCWLjsSS",
+					"expanded_url": "https://youtu.be/DLmlYGnRCTE",
+					"display_url": "youtu.be/DLmlYGnRCTE",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1219506842935513000,
+			"id_str": "1219506842935513088",
+			"name": "휴맵컨텐츠(HUMAP)",
+			"screen_name": "humap_official",
+			"location": "",
+			"description": "휴맵컨텐츠(HUMAP CONTENTS) Official Twitter",
+			"url": "https://t.co/fBZZK3SmX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fBZZK3SmX6",
+							"expanded_url": "http://www.humapcontents.com/",
+							"display_url": "humapcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 382,
+			"friends_count": 2,
+			"listed_count": 2,
+			"created_at": "Tue Jan 21 06:28:27 +0000 2020",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 902,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1219506842935513088/1579755898",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#권혁수] #복학생_학점은A지만사랑은F입니다\n\n권혁수 집착 광공 주현영의 존버 성공기💕ㅣ복학생: 학점은 A지만 사랑은 F입니다ㅣ하이라이트\n\nhttps://t.co/nGSCWLjsSS\n\n#KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #쿠팡플레이시리즈 #쿠팡플레이 #CoupangPlay"
+	},
+	{
+		"created_at": "Mon Sep 19 04:29:30 +0000 2022",
+		"id": 1571716734842970000,
+		"id_str": "1571718099799515137",
+		"full_text": "[VIDEO] [#권혁수] #벤자민권의상상은현실이된다2\n\n피부만 문제라고 생각하는거에요? #벤자민권 권혁수 #신규진\n\n👉 https://t.co/OAkSC9IUsT\n\n피부가 좋아지면 당당해짐 벤자민권 권혁수 #shorts\n\n👉 https://t.co/6t2D72dSPP\n\n#KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #위대한쇼맨 #가치삽시다TV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			202
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권혁수",
+					"indices": [
+						9,
+						13
+					]
+				},
+				{
+					"text": "벤자민권의상상은현실이된다2",
+					"indices": [
+						15,
+						30
+					]
+				},
+				{
+					"text": "벤자민권",
+					"indices": [
+						50,
+						55
+					]
+				},
+				{
+					"text": "신규진",
+					"indices": [
+						60,
+						64
+					]
+				},
+				{
+					"text": "shorts",
+					"indices": [
+						116,
+						123
+					]
+				},
+				{
+					"text": "KwunHyukSoo",
+					"indices": [
+						152,
+						164
+					]
+				},
+				{
+					"text": "휴맵컨텐츠",
+					"indices": [
+						165,
+						171
+					]
+				},
+				{
+					"text": "HUMAPCONTENTS",
+					"indices": [
+						172,
+						186
+					]
+				},
+				{
+					"text": "위대한쇼맨",
+					"indices": [
+						187,
+						193
+					]
+				},
+				{
+					"text": "가치삽시다TV",
+					"indices": [
+						194,
+						202
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OAkSC9IUsT",
+					"expanded_url": "https://www.youtube.com/shorts/LhtUc-y4IIg",
+					"display_url": "youtube.com/shorts/LhtUc-y…",
+					"indices": [
+						68,
+						91
+					]
+				},
+				{
+					"url": "https://t.co/6t2D72dSPP",
+					"expanded_url": "https://www.youtube.com/shorts/SMsG-KVVFaQ",
+					"display_url": "youtube.com/shorts/SMsG-KV…",
+					"indices": [
+						127,
+						150
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1219506842935513000,
+			"id_str": "1219506842935513088",
+			"name": "휴맵컨텐츠(HUMAP)",
+			"screen_name": "humap_official",
+			"location": "",
+			"description": "휴맵컨텐츠(HUMAP CONTENTS) Official Twitter",
+			"url": "https://t.co/fBZZK3SmX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fBZZK3SmX6",
+							"expanded_url": "http://www.humapcontents.com/",
+							"display_url": "humapcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 382,
+			"friends_count": 2,
+			"listed_count": 2,
+			"created_at": "Tue Jan 21 06:28:27 +0000 2020",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 902,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1219506842935513088/1579755898",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[VIDEO] [#권혁수] #벤자민권의상상은현실이된다2\n\n피부만 문제라고 생각하는거에요? #벤자민권 권혁수 #신규진\n\n👉 https://t.co/OAkSC9IUsT\n\n피부가 좋아지면 당당해짐 벤자민권 권혁수 #shorts\n\n👉 https://t.co/6t2D72dSPP\n\n#KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #위대한쇼맨 #가치삽시다TV"
+	},
+	{
+		"created_at": "Mon Sep 19 04:29:28 +0000 2022",
+		"id": 1571716636310376400,
+		"id_str": "1571718090538491910",
+		"full_text": "[VIDEO] [#권혁수] #벤자민권의상상은현실이된다2\n\n그쪽만 덥나..?ㅎ #벤자민권 #신규진 #백봉기 #shorts\n\n👉 https://t.co/2ovQ1HE1Re\n\n#KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #위대한쇼맨 #가치삽시다TV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권혁수",
+					"indices": [
+						9,
+						13
+					]
+				},
+				{
+					"text": "벤자민권의상상은현실이된다2",
+					"indices": [
+						15,
+						30
+					]
+				},
+				{
+					"text": "벤자민권",
+					"indices": [
+						43,
+						48
+					]
+				},
+				{
+					"text": "신규진",
+					"indices": [
+						49,
+						53
+					]
+				},
+				{
+					"text": "백봉기",
+					"indices": [
+						54,
+						58
+					]
+				},
+				{
+					"text": "shorts",
+					"indices": [
+						59,
+						66
+					]
+				},
+				{
+					"text": "KwunHyukSoo",
+					"indices": [
+						95,
+						107
+					]
+				},
+				{
+					"text": "휴맵컨텐츠",
+					"indices": [
+						108,
+						114
+					]
+				},
+				{
+					"text": "HUMAPCONTENTS",
+					"indices": [
+						115,
+						129
+					]
+				},
+				{
+					"text": "위대한쇼맨",
+					"indices": [
+						130,
+						136
+					]
+				},
+				{
+					"text": "가치삽시다TV",
+					"indices": [
+						137,
+						145
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2ovQ1HE1Re",
+					"expanded_url": "https://www.youtube.com/shorts/P_HMZ6ep90w",
+					"display_url": "youtube.com/shorts/P_HMZ6e…",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1219506842935513000,
+			"id_str": "1219506842935513088",
+			"name": "휴맵컨텐츠(HUMAP)",
+			"screen_name": "humap_official",
+			"location": "",
+			"description": "휴맵컨텐츠(HUMAP CONTENTS) Official Twitter",
+			"url": "https://t.co/fBZZK3SmX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fBZZK3SmX6",
+							"expanded_url": "http://www.humapcontents.com/",
+							"display_url": "humapcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 382,
+			"friends_count": 2,
+			"listed_count": 2,
+			"created_at": "Tue Jan 21 06:28:27 +0000 2020",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 902,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1219506842935513088/1579755898",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[VIDEO] [#권혁수] #벤자민권의상상은현실이된다2\n\n그쪽만 덥나..?ㅎ #벤자민권 #신규진 #백봉기 #shorts\n\n👉 https://t.co/2ovQ1HE1Re\n\n#KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #위대한쇼맨 #가치삽시다TV"
+	},
+	{
 		"created_at": "Mon Sep 19 03:34:26 +0000 2022",
 		"id": 1571704241693282300,
 		"id_str": "1571704241693282305",
