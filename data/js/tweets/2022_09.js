@@ -1,6 +1,567 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Mon Sep 19 05:29:37 +0000 2022",
+		"id": 1571726415292407800,
+		"id_str": "1571733226837663745",
+		"full_text": "[솔루션스 | 클럽 투어 공연 안내]\n\n2022 THE SOLUTIONS CLUB TOUR : NAIVE\n\n📌 10.10 (Mon) : RollingHall (@rollinghall)\n🔗 https://t.co/JWY9vhegCa\n\n자세한 사항은 상단 링크에서 확인하실 수 있습니다.\n\n#NAIVE #2022THESOLUTIONSCLUBTOUR\n#THESOLUTIONS #솔루션스\n#클럽투어 https://t.co/bhajnJZDUb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			218
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NAIVE",
+					"indices": [
+						160,
+						166
+					]
+				},
+				{
+					"text": "2022THESOLUTIONSCLUBTOUR",
+					"indices": [
+						167,
+						192
+					]
+				},
+				{
+					"text": "THESOLUTIONS",
+					"indices": [
+						193,
+						206
+					]
+				},
+				{
+					"text": "솔루션스",
+					"indices": [
+						207,
+						212
+					]
+				},
+				{
+					"text": "클럽투어",
+					"indices": [
+						213,
+						218
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rollinghall",
+					"name": "롤링홀",
+					"id": 2185812985,
+					"id_str": "2185812985",
+					"indices": [
+						89,
+						101
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/JWY9vhegCa",
+					"expanded_url": "https://bit.ly/3cP0atJ",
+					"display_url": "bit.ly/3cP0atJ",
+					"indices": [
+						105,
+						128
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1571726388448882700,
+					"id_str": "1571726388448882688",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc_k0quacAAkxuG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc_k0quacAAkxuG.jpg",
+					"url": "https://t.co/bhajnJZDUb",
+					"display_url": "pic.twitter.com/bhajnJZDUb",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1571726415292407809/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1571726388448882700,
+					"id_str": "1571726388448882688",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc_k0quacAAkxuG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc_k0quacAAkxuG.jpg",
+					"url": "https://t.co/bhajnJZDUb",
+					"display_url": "pic.twitter.com/bhajnJZDUb",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1571726415292407809/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1571726388440486000,
+					"id_str": "1571726388440485888",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc_k0qsaUAAyNua.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc_k0qsaUAAyNua.jpg",
+					"url": "https://t.co/bhajnJZDUb",
+					"display_url": "pic.twitter.com/bhajnJZDUb",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1571726415292407809/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1571726404617900000,
+		"in_reply_to_status_id_str": "1571726404617900033",
+		"in_reply_to_user_id": 63414926,
+		"in_reply_to_user_id_str": "63414926",
+		"in_reply_to_screen_name": "HappyRobotKR",
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "구만(9.10000), 노리플라이, 데이브레이크, Lacuna(라쿠나), SURL(설), 소란, 솔루션스, 쏜애플, OurR(아월)",
+			"url": "https://t.co/BIvBmbtJjn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BIvBmbtJjn",
+							"expanded_url": "https://mpmgmusic.com/",
+							"display_url": "mpmgmusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12906,
+			"friends_count": 1899,
+			"listed_count": 250,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 211,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13579,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1626843310",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[솔루션스 | 클럽 투어 공연 안내]\n\n2022 THE SOLUTIONS CLUB TOUR : NAIVE\n\n📌 10.10 (Mon) : RollingHall (@rollinghall)\n🔗 https://t.co/JWY9vhegCa\n\n자세한 사항은 상단 링크에서 확인하실 수 있습니다.\n\n#NAIVE #2022THESOLUTIONSCLUBTOUR\n#THESOLUTIONS #솔루션스\n#클럽투어 https://t.co/bhajnJZDUb"
+	},
+	{
+		"created_at": "Mon Sep 19 05:29:31 +0000 2022",
+		"id": 1571726404617900000,
+		"id_str": "1571733201164406785",
+		"full_text": "[솔루션스 | 클럽 투어 공연 안내]\n\n2022 THE SOLUTIONS CLUB TOUR : NAIVE\n\n📌 9.30 (Fri) : Pet Sounds (@petsoundsmusicpub)\n🔗 https://t.co/JWY9vhegCa\n\n자세한 사항은 상단 링크에서 확인하실 수 있습니다.\n\n#NAIVE #2022THESOLUTIONSCLUBTOUR\n#THESOLUTIONS #솔루션스\n#클럽투어 https://t.co/1kMWtm6emd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			222
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NAIVE",
+					"indices": [
+						164,
+						170
+					]
+				},
+				{
+					"text": "2022THESOLUTIONSCLUBTOUR",
+					"indices": [
+						171,
+						196
+					]
+				},
+				{
+					"text": "THESOLUTIONS",
+					"indices": [
+						197,
+						210
+					]
+				},
+				{
+					"text": "솔루션스",
+					"indices": [
+						211,
+						216
+					]
+				},
+				{
+					"text": "클럽투어",
+					"indices": [
+						217,
+						222
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JWY9vhegCa",
+					"expanded_url": "https://bit.ly/3cP0atJ",
+					"display_url": "bit.ly/3cP0atJ",
+					"indices": [
+						109,
+						132
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1571725981785936000,
+					"id_str": "1571725981785935872",
+					"indices": [
+						223,
+						246
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc_kc_yaUAA7wo4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc_kc_yaUAA7wo4.jpg",
+					"url": "https://t.co/1kMWtm6emd",
+					"display_url": "pic.twitter.com/1kMWtm6emd",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1571726404617900033/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1571725981785936000,
+					"id_str": "1571725981785935872",
+					"indices": [
+						223,
+						246
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc_kc_yaUAA7wo4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc_kc_yaUAA7wo4.jpg",
+					"url": "https://t.co/1kMWtm6emd",
+					"display_url": "pic.twitter.com/1kMWtm6emd",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1571726404617900033/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1571725982037586000,
+					"id_str": "1571725982037585920",
+					"indices": [
+						223,
+						246
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc_kdAuaMAAEr8o.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc_kdAuaMAAEr8o.jpg",
+					"url": "https://t.co/1kMWtm6emd",
+					"display_url": "pic.twitter.com/1kMWtm6emd",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1571726404617900033/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1571725982259875800,
+					"id_str": "1571725982259875843",
+					"indices": [
+						223,
+						246
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc_kdBjaEAM20zt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc_kdBjaEAM20zt.jpg",
+					"url": "https://t.co/1kMWtm6emd",
+					"display_url": "pic.twitter.com/1kMWtm6emd",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1571726404617900033/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1571724946350682000,
+		"in_reply_to_status_id_str": "1571724946350682117",
+		"in_reply_to_user_id": 63414926,
+		"in_reply_to_user_id_str": "63414926",
+		"in_reply_to_screen_name": "HappyRobotKR",
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "구만(9.10000), 노리플라이, 데이브레이크, Lacuna(라쿠나), SURL(설), 소란, 솔루션스, 쏜애플, OurR(아월)",
+			"url": "https://t.co/BIvBmbtJjn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BIvBmbtJjn",
+							"expanded_url": "https://mpmgmusic.com/",
+							"display_url": "mpmgmusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12906,
+			"friends_count": 1899,
+			"listed_count": 250,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 211,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13579,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1626843310",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[솔루션스 | 클럽 투어 공연 안내]\n\n2022 THE SOLUTIONS CLUB TOUR : NAIVE\n\n📌 9.30 (Fri) : Pet Sounds (@petsoundsmusicpub)\n🔗 https://t.co/JWY9vhegCa\n\n자세한 사항은 상단 링크에서 확인하실 수 있습니다.\n\n#NAIVE #2022THESOLUTIONSCLUBTOUR\n#THESOLUTIONS #솔루션스\n#클럽투어 https://t.co/1kMWtm6emd"
+	},
+	{
 		"created_at": "Mon Sep 19 04:29:41 +0000 2022",
 		"id": 1571716975034003500,
 		"id_str": "1571718143080550402",
