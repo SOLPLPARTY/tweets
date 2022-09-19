@@ -1,6 +1,771 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Mon Sep 19 03:11:28 +0000 2022",
+		"id": 1571696077928992800,
+		"id_str": "1571698460524707840",
+		"full_text": "&lt;evenif 2nd 정규 앨범 쇼케이스 ‘Our Precious Things Never Change’&gt;\n· 일시 : 2022년 10월 23일 (일) 오후 5시\n· 장소 : 롤링홀\n· 출연 : evenif (Guest. 행로난)\n· 예매 : 멜론티켓 2022년 09월 26일 (월) 오후 8시 예매오픈\n　\n#evenif #이븐이프 #OurPreciousThingsNeverChange\n#공연 #멜론티켓 https://t.co/TUxrTpAVyX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			230
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "evenif",
+					"indices": [
+						177,
+						184
+					]
+				},
+				{
+					"text": "이븐이프",
+					"indices": [
+						185,
+						190
+					]
+				},
+				{
+					"text": "OurPreciousThingsNeverChange",
+					"indices": [
+						191,
+						220
+					]
+				},
+				{
+					"text": "공연",
+					"indices": [
+						221,
+						224
+					]
+				},
+				{
+					"text": "멜론티켓",
+					"indices": [
+						225,
+						230
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1570327655274389500,
+					"id_str": "1570327655274389505",
+					"indices": [
+						231,
+						254
+					],
+					"media_url": "http://pbs.twimg.com/media/FcrsrrmaIAEjPd0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcrsrrmaIAEjPd0.jpg",
+					"url": "https://t.co/TUxrTpAVyX",
+					"display_url": "pic.twitter.com/TUxrTpAVyX",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1571696077928992768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1570327655274389500,
+					"id_str": "1570327655274389505",
+					"indices": [
+						231,
+						254
+					],
+					"media_url": "http://pbs.twimg.com/media/FcrsrrmaIAEjPd0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcrsrrmaIAEjPd0.jpg",
+					"url": "https://t.co/TUxrTpAVyX",
+					"display_url": "pic.twitter.com/TUxrTpAVyX",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1571696077928992768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1570327655291187200,
+					"id_str": "1570327655291187200",
+					"indices": [
+						231,
+						254
+					],
+					"media_url": "http://pbs.twimg.com/media/FcrsrrqacAAf4j5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcrsrrqacAAf4j5.jpg",
+					"url": "https://t.co/TUxrTpAVyX",
+					"display_url": "pic.twitter.com/TUxrTpAVyX",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1571696077928992768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1291327050578456600,
+			"id_str": "1291327050578456578",
+			"name": "롤링홀",
+			"screen_name": "rollinghall1995",
+			"location": "서울시 마포구 어울마당로 35 신보빌딩 지하1층",
+			"description": "📍𝙃𝙤𝙣𝙜𝙙𝙖𝙚’𝙨 𝙢𝙪𝙨𝙞𝙘 𝙢𝙚𝙘𝙘𝙖 𝙍𝙊𝙇𝙇𝙄𝙉𝙂𝙃𝘼𝙇𝙇 !🎈\n홍대/합정에 위치한 음악 공연장 롤링홀입니다.\n\n👇🏻👇🏻멜론티켓 롤링홀 기획공연 바로가기👇🏻👇🏻\nhttps://t.co/K14VaQbWBy",
+			"url": "https://t.co/eXKuF483pn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eXKuF483pn",
+							"expanded_url": "http://www.rollinghall.co.kr/default/",
+							"display_url": "rollinghall.co.kr/default/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/K14VaQbWBy",
+							"expanded_url": "http://bit.ly/3C4QrHt",
+							"display_url": "bit.ly/3C4QrHt",
+							"indices": [
+								92,
+								115
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 535,
+			"friends_count": 3,
+			"listed_count": 4,
+			"created_at": "Thu Aug 06 10:56:17 +0000 2020",
+			"favourites_count": 133,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 593,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1291327050578456578/1596712102",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;evenif 2nd 정규 앨범 쇼케이스 ‘Our Precious Things Never Change’&gt;\n· 일시 : 2022년 10월 23일 (일) 오후 5시\n· 장소 : 롤링홀\n· 출연 : evenif (Guest. 행로난)\n· 예매 : 멜론티켓 2022년 09월 26일 (월) 오후 8시 예매오픈\n　\n#evenif #이븐이프 #OurPreciousThingsNeverChange\n#공연 #멜론티켓 https://t.co/TUxrTpAVyX"
+	},
+	{
+		"created_at": "Mon Sep 19 03:11:20 +0000 2022",
+		"id": 1571695826157437000,
+		"id_str": "1571698426265362434",
+		"full_text": "&lt;evenif 2nd 정규 앨범 쇼케이스 ‘Our Precious Things Never Change’&gt;\n· 일시 : 2022년 10월 23일 (일) 오후 5시\n· 장소 : 롤링홀\n· 출연 : evenif (Guest. 행로난)\n· 예매 : 멜론티켓 2022년 09월 26일 (월) 오후 8시 예매오픈\n　\n#evenif #이븐이프 #OurPreciousThingsNeverChange\n#공연 #멜론티켓 https://t.co/BwHw5t4HCI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			230
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "evenif",
+					"indices": [
+						177,
+						184
+					]
+				},
+				{
+					"text": "이븐이프",
+					"indices": [
+						185,
+						190
+					]
+				},
+				{
+					"text": "OurPreciousThingsNeverChange",
+					"indices": [
+						191,
+						220
+					]
+				},
+				{
+					"text": "공연",
+					"indices": [
+						221,
+						224
+					]
+				},
+				{
+					"text": "멜론티켓",
+					"indices": [
+						225,
+						230
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1570327522331754500,
+					"id_str": "1570327522331754499",
+					"indices": [
+						231,
+						254
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1570327522331754499/pu/img/4GR9vWsj3TrrLLPm.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1570327522331754499/pu/img/4GR9vWsj3TrrLLPm.jpg",
+					"url": "https://t.co/BwHw5t4HCI",
+					"display_url": "pic.twitter.com/BwHw5t4HCI",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1571695826157436928/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1570327522331754500,
+					"id_str": "1570327522331754499",
+					"indices": [
+						231,
+						254
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1570327522331754499/pu/img/4GR9vWsj3TrrLLPm.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1570327522331754499/pu/img/4GR9vWsj3TrrLLPm.jpg",
+					"url": "https://t.co/BwHw5t4HCI",
+					"display_url": "pic.twitter.com/BwHw5t4HCI",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1571695826157436928/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 41775,
+						"variants": [
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1570327522331754499/pu/vid/480x600/IYOFakmnm-iWlnb8.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1570327522331754499/pu/pl/OcEtw9Krz5wy8rbj.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1570327522331754499/pu/vid/320x400/QnDpcN1LJFruzqcb.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1570327522331754499/pu/vid/720x900/ttQBtEjY-tcn0t2Q.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1291327050578456600,
+			"id_str": "1291327050578456578",
+			"name": "롤링홀",
+			"screen_name": "rollinghall1995",
+			"location": "서울시 마포구 어울마당로 35 신보빌딩 지하1층",
+			"description": "📍𝙃𝙤𝙣𝙜𝙙𝙖𝙚’𝙨 𝙢𝙪𝙨𝙞𝙘 𝙢𝙚𝙘𝙘𝙖 𝙍𝙊𝙇𝙇𝙄𝙉𝙂𝙃𝘼𝙇𝙇 !🎈\n홍대/합정에 위치한 음악 공연장 롤링홀입니다.\n\n👇🏻👇🏻멜론티켓 롤링홀 기획공연 바로가기👇🏻👇🏻\nhttps://t.co/K14VaQbWBy",
+			"url": "https://t.co/eXKuF483pn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eXKuF483pn",
+							"expanded_url": "http://www.rollinghall.co.kr/default/",
+							"display_url": "rollinghall.co.kr/default/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/K14VaQbWBy",
+							"expanded_url": "http://bit.ly/3C4QrHt",
+							"display_url": "bit.ly/3C4QrHt",
+							"indices": [
+								92,
+								115
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 535,
+			"friends_count": 3,
+			"listed_count": 4,
+			"created_at": "Thu Aug 06 10:56:17 +0000 2020",
+			"favourites_count": 133,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 593,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1291327050578456578/1596712102",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;evenif 2nd 정규 앨범 쇼케이스 ‘Our Precious Things Never Change’&gt;\n· 일시 : 2022년 10월 23일 (일) 오후 5시\n· 장소 : 롤링홀\n· 출연 : evenif (Guest. 행로난)\n· 예매 : 멜론티켓 2022년 09월 26일 (월) 오후 8시 예매오픈\n　\n#evenif #이븐이프 #OurPreciousThingsNeverChange\n#공연 #멜론티켓 https://t.co/BwHw5t4HCI"
+	},
+	{
+		"created_at": "Mon Sep 19 03:11:17 +0000 2022",
+		"id": 1571695573995901000,
+		"id_str": "1571698413200183296",
+		"full_text": "&lt;솔루션스 &amp; 아월 : My Song for You VOL．14&gt;\n· 일시 : 2022년 10월 10일 (월) 오후 5시\n· 장소 : 롤링홀\n· 출연 : 솔루션스, 아월\n· 예매 : 멜론티켓 2022년 09월 21일 (수) 오후 8시 예매오픈\n　\n#솔루션스 #TheSolutions #아월 #OurR\n#My_Song_for_You #마이송포유\n#롤링홀 #공연 #인디 #멜론티켓 https://t.co/5rRbaxynIn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			220
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "솔루션스",
+					"indices": [
+						148,
+						153
+					]
+				},
+				{
+					"text": "TheSolutions",
+					"indices": [
+						154,
+						167
+					]
+				},
+				{
+					"text": "아월",
+					"indices": [
+						168,
+						171
+					]
+				},
+				{
+					"text": "OurR",
+					"indices": [
+						172,
+						177
+					]
+				},
+				{
+					"text": "My_Song_for_You",
+					"indices": [
+						178,
+						194
+					]
+				},
+				{
+					"text": "마이송포유",
+					"indices": [
+						195,
+						201
+					]
+				},
+				{
+					"text": "롤링홀",
+					"indices": [
+						202,
+						206
+					]
+				},
+				{
+					"text": "공연",
+					"indices": [
+						207,
+						210
+					]
+				},
+				{
+					"text": "인디",
+					"indices": [
+						211,
+						214
+					]
+				},
+				{
+					"text": "멜론티켓",
+					"indices": [
+						215,
+						220
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1570346480980103200,
+					"id_str": "1570346480980103172",
+					"indices": [
+						221,
+						244
+					],
+					"media_url": "http://pbs.twimg.com/media/Fcr9ze0akAQQkai.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fcr9ze0akAQQkai.jpg",
+					"url": "https://t.co/5rRbaxynIn",
+					"display_url": "pic.twitter.com/5rRbaxynIn",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1571695573995900928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1570346480980103200,
+					"id_str": "1570346480980103172",
+					"indices": [
+						221,
+						244
+					],
+					"media_url": "http://pbs.twimg.com/media/Fcr9ze0akAQQkai.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fcr9ze0akAQQkai.jpg",
+					"url": "https://t.co/5rRbaxynIn",
+					"display_url": "pic.twitter.com/5rRbaxynIn",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1571695573995900928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1291327050578456600,
+			"id_str": "1291327050578456578",
+			"name": "롤링홀",
+			"screen_name": "rollinghall1995",
+			"location": "서울시 마포구 어울마당로 35 신보빌딩 지하1층",
+			"description": "📍𝙃𝙤𝙣𝙜𝙙𝙖𝙚’𝙨 𝙢𝙪𝙨𝙞𝙘 𝙢𝙚𝙘𝙘𝙖 𝙍𝙊𝙇𝙇𝙄𝙉𝙂𝙃𝘼𝙇𝙇 !🎈\n홍대/합정에 위치한 음악 공연장 롤링홀입니다.\n\n👇🏻👇🏻멜론티켓 롤링홀 기획공연 바로가기👇🏻👇🏻\nhttps://t.co/K14VaQbWBy",
+			"url": "https://t.co/eXKuF483pn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eXKuF483pn",
+							"expanded_url": "http://www.rollinghall.co.kr/default/",
+							"display_url": "rollinghall.co.kr/default/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/K14VaQbWBy",
+							"expanded_url": "http://bit.ly/3C4QrHt",
+							"display_url": "bit.ly/3C4QrHt",
+							"indices": [
+								92,
+								115
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 535,
+			"friends_count": 3,
+			"listed_count": 4,
+			"created_at": "Thu Aug 06 10:56:17 +0000 2020",
+			"favourites_count": 133,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 593,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1291327050578456578/1596712102",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;솔루션스 &amp; 아월 : My Song for You VOL．14&gt;\n· 일시 : 2022년 10월 10일 (월) 오후 5시\n· 장소 : 롤링홀\n· 출연 : 솔루션스, 아월\n· 예매 : 멜론티켓 2022년 09월 21일 (수) 오후 8시 예매오픈\n　\n#솔루션스 #TheSolutions #아월 #OurR\n#My_Song_for_You #마이송포유\n#롤링홀 #공연 #인디 #멜론티켓 https://t.co/5rRbaxynIn"
+	},
+	{
 		"created_at": "Mon Sep 19 02:11:17 +0000 2022",
 		"id": 1571679850657894400,
 		"id_str": "1571683314393546753",
