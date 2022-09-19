@@ -1,6 +1,271 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Mon Sep 19 02:11:17 +0000 2022",
+		"id": 1571679850657894400,
+		"id_str": "1571683314393546753",
+		"full_text": "🙌공연 공지🙌\n[키라라 : 그냥하는 단독공연 시즌2-5]\n\n2022.10.07 FRI 20시\n이번에는 최고은과 함께👏👏👏\n\n티켓예매는 9월 23일 금요일 18시 멜론티켓에서\n\n@stqpkiraradj \n@iamgonne \n\n#프리즘홀 #prismhall #키라라 #그냥하는단독공연 #최고은 https://t.co/SlqaubWVHU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "프리즘홀",
+					"indices": [
+						125,
+						130
+					]
+				},
+				{
+					"text": "prismhall",
+					"indices": [
+						131,
+						141
+					]
+				},
+				{
+					"text": "키라라",
+					"indices": [
+						142,
+						146
+					]
+				},
+				{
+					"text": "그냥하는단독공연",
+					"indices": [
+						147,
+						156
+					]
+				},
+				{
+					"text": "최고은",
+					"indices": [
+						157,
+						161
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "stqpkiraradj",
+					"name": "키라라 KIRARA",
+					"id": 1417147997977137200,
+					"id_str": "1417147997977137158",
+					"indices": [
+						98,
+						111
+					]
+				},
+				{
+					"screen_name": "iamgonne",
+					"name": "최고은 gonne choi",
+					"id": 188785053,
+					"id_str": "188785053",
+					"indices": [
+						113,
+						122
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1571679840868397000,
+					"id_str": "1571679840868397056",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc-6fPeacAAWfp8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc-6fPeacAAWfp8.jpg",
+					"url": "https://t.co/SlqaubWVHU",
+					"display_url": "pic.twitter.com/SlqaubWVHU",
+					"expanded_url": "https://twitter.com/prismhall/status/1571679850657894401/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1571679840868397000,
+					"id_str": "1571679840868397056",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc-6fPeacAAWfp8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc-6fPeacAAWfp8.jpg",
+					"url": "https://t.co/SlqaubWVHU",
+					"display_url": "pic.twitter.com/SlqaubWVHU",
+					"expanded_url": "https://twitter.com/prismhall/status/1571679850657894401/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 491231175,
+			"id_str": "491231175",
+			"name": "PrismHall",
+			"screen_name": "prismhall",
+			"location": "Mapo Seokyo-Dong",
+			"description": "최상급 무대장비와 시설. 엄청난 높이의 천고와 광활한 객석. 각종 파티,힙합,댄스,밴드 등 all_round concert, 실내페스티벌 등 모든 게 가능한 공연장입니다!",
+			"url": "https://t.co/VTKFWeLxvh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VTKFWeLxvh",
+							"expanded_url": "http://www.prismhall.com",
+							"display_url": "prismhall.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2035,
+			"friends_count": 1105,
+			"listed_count": 28,
+			"created_at": "Mon Feb 13 12:03:08 +0000 2012",
+			"favourites_count": 75,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2146,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/942698829089869824/bkVw2sYC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/942698829089869824/bkVw2sYC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/491231175/1513591891",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "019fba1c5ac23f79",
+			"url": "https://api.twitter.com/1.1/geo/id/019fba1c5ac23f79.json",
+			"place_type": "city",
+			"name": "마포구",
+			"full_name": "대한민국 마포구",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.855912576725,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.5893965817644
+						],
+						[
+							126.855912576725,
+							37.5893965817644
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🙌공연 공지🙌\n[키라라 : 그냥하는 단독공연 시즌2-5]\n\n2022.10.07 FRI 20시\n이번에는 최고은과 함께👏👏👏\n\n티켓예매는 9월 23일 금요일 18시 멜론티켓에서\n\n@stqpkiraradj \n@iamgonne \n\n#프리즘홀 #prismhall #키라라 #그냥하는단독공연 #최고은 https://t.co/SlqaubWVHU"
+	},
+	{
 		"created_at": "Sun Sep 18 14:29:32 +0000 2022",
 		"id": 1571494772174631000,
 		"id_str": "1571506714108649472",
