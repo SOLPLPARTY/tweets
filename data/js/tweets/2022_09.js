@@ -1,6 +1,658 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Tue Sep 20 08:11:17 +0000 2022",
+		"id": 1572131743427350500,
+		"id_str": "1572136300425392129",
+		"full_text": "이번주 클럽빵 공연~ 출연진이 많습니다~ #클럽빵 #어텐브리드 #반규남 #규리 #김산돌 #서예린 #전다인밴드 #조민규 #널드쿨  #아시아닉 #더구스 #윈터폴 #코끼리숨바꼭질 #품바21 #배드넘버나인 #이디어츠 #소매 #동녘  #비컨 #전호권 #연영석 #물과음  #시발점 https://t.co/HmKlmgu3TT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "클럽빵",
+					"indices": [
+						23,
+						27
+					]
+				},
+				{
+					"text": "어텐브리드",
+					"indices": [
+						28,
+						34
+					]
+				},
+				{
+					"text": "반규남",
+					"indices": [
+						35,
+						39
+					]
+				},
+				{
+					"text": "규리",
+					"indices": [
+						40,
+						43
+					]
+				},
+				{
+					"text": "김산돌",
+					"indices": [
+						44,
+						48
+					]
+				},
+				{
+					"text": "서예린",
+					"indices": [
+						49,
+						53
+					]
+				},
+				{
+					"text": "전다인밴드",
+					"indices": [
+						54,
+						60
+					]
+				},
+				{
+					"text": "조민규",
+					"indices": [
+						61,
+						65
+					]
+				},
+				{
+					"text": "널드쿨",
+					"indices": [
+						66,
+						70
+					]
+				},
+				{
+					"text": "아시아닉",
+					"indices": [
+						72,
+						77
+					]
+				},
+				{
+					"text": "더구스",
+					"indices": [
+						78,
+						82
+					]
+				},
+				{
+					"text": "윈터폴",
+					"indices": [
+						83,
+						87
+					]
+				},
+				{
+					"text": "코끼리숨바꼭질",
+					"indices": [
+						88,
+						96
+					]
+				},
+				{
+					"text": "품바21",
+					"indices": [
+						97,
+						102
+					]
+				},
+				{
+					"text": "배드넘버나인",
+					"indices": [
+						103,
+						110
+					]
+				},
+				{
+					"text": "이디어츠",
+					"indices": [
+						111,
+						116
+					]
+				},
+				{
+					"text": "소매",
+					"indices": [
+						117,
+						120
+					]
+				},
+				{
+					"text": "동녘",
+					"indices": [
+						121,
+						124
+					]
+				},
+				{
+					"text": "비컨",
+					"indices": [
+						126,
+						129
+					]
+				},
+				{
+					"text": "전호권",
+					"indices": [
+						130,
+						134
+					]
+				},
+				{
+					"text": "연영석",
+					"indices": [
+						135,
+						139
+					]
+				},
+				{
+					"text": "물과음",
+					"indices": [
+						140,
+						144
+					]
+				},
+				{
+					"text": "시발점",
+					"indices": [
+						146,
+						150
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1572131739203698700,
+					"id_str": "1572131739203698688",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/FdFVfL9agAAAkY1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdFVfL9agAAAkY1.jpg",
+					"url": "https://t.co/HmKlmgu3TT",
+					"display_url": "pic.twitter.com/HmKlmgu3TT",
+					"expanded_url": "https://twitter.com/club_bbang/status/1572131743427350528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1572131739203698700,
+					"id_str": "1572131739203698688",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/FdFVfL9agAAAkY1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdFVfL9agAAAkY1.jpg",
+					"url": "https://t.co/HmKlmgu3TT",
+					"display_url": "pic.twitter.com/HmKlmgu3TT",
+					"expanded_url": "https://twitter.com/club_bbang/status/1572131743427350528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1387140522,
+			"id_str": "1387140522",
+			"name": "클럽 빵",
+			"screen_name": "club_bbang",
+			"location": "서울 마포 서교동 327-18 지하",
+			"description": "모던록 라이브클럽 빵, 공연일정을 알려드려요! 문의 010-8910-1089, cafebbang@hanmail.net",
+			"url": "https://t.co/ZROqsiLHaK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZROqsiLHaK",
+							"expanded_url": "http://cafe.daum.net/cafebbang",
+							"display_url": "cafe.daum.net/cafebbang",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2530,
+			"friends_count": 904,
+			"listed_count": 34,
+			"created_at": "Sun Apr 28 14:57:43 +0000 2013",
+			"favourites_count": 91,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1903,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3617429436/49aa1ea87a3bdf4e12ef8ab826e7b229_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3617429436/49aa1ea87a3bdf4e12ef8ab826e7b229_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1387140522/1367815826",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이번주 클럽빵 공연~ 출연진이 많습니다~ #클럽빵 #어텐브리드 #반규남 #규리 #김산돌 #서예린 #전다인밴드 #조민규 #널드쿨  #아시아닉 #더구스 #윈터폴 #코끼리숨바꼭질 #품바21 #배드넘버나인 #이디어츠 #소매 #동녘  #비컨 #전호권 #연영석 #물과음  #시발점 https://t.co/HmKlmgu3TT"
+	},
+	{
+		"created_at": "Tue Sep 20 07:29:40 +0000 2022",
+		"id": 1572125200975794200,
+		"id_str": "1572125827877474304",
+		"full_text": "[Niia Live in Seoul]\n\n오늘 오후 8시부터 니아 내한공연의 티켓 판매가 시작됩니다!\n\nhttps://t.co/wRikUAIB3C https://t.co/QOVb7npUG3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wRikUAIB3C",
+					"expanded_url": "https://m.booking.naver.com/booking/12/bizes/760459",
+					"display_url": "m.booking.naver.com/booking/12/biz…",
+					"indices": [
+						57,
+						80
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1572125194550149000,
+					"id_str": "1572125194550149126",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/FdFPiPOagAYdU4p.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdFPiPOagAYdU4p.jpg",
+					"url": "https://t.co/QOVb7npUG3",
+					"display_url": "pic.twitter.com/QOVb7npUG3",
+					"expanded_url": "https://twitter.com/HIGHJINKXX/status/1572125200975794176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1572125194550149000,
+					"id_str": "1572125194550149126",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/FdFPiPOagAYdU4p.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdFPiPOagAYdU4p.jpg",
+					"url": "https://t.co/QOVb7npUG3",
+					"display_url": "pic.twitter.com/QOVb7npUG3",
+					"expanded_url": "https://twitter.com/HIGHJINKXX/status/1572125200975794176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 985865748638650400,
+			"id_str": "985865748638650368",
+			"name": "HIGHJINKX 하이징크스",
+			"screen_name": "HIGHJINKXX",
+			"location": "대한민국 서울",
+			"description": "https://t.co/UEZd1A0tMQ https://t.co/bYHM3gN9tB",
+			"url": "https://t.co/jgdOjxGxJL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jgdOjxGxJL",
+							"expanded_url": "https://www.highjinkxmm.com",
+							"display_url": "highjinkxmm.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UEZd1A0tMQ",
+							"expanded_url": "http://highjinkx.com",
+							"display_url": "highjinkx.com",
+							"indices": [
+								0,
+								23
+							]
+						},
+						{
+							"url": "https://t.co/bYHM3gN9tB",
+							"expanded_url": "http://highjinkxmm.com",
+							"display_url": "highjinkxmm.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 658,
+			"friends_count": 30,
+			"listed_count": 5,
+			"created_at": "Mon Apr 16 13:01:25 +0000 2018",
+			"favourites_count": 375,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 836,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/986167678246125568/PTUKZtMn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/986167678246125568/PTUKZtMn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/985865748638650368/1575347637",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Niia Live in Seoul]\n\n오늘 오후 8시부터 니아 내한공연의 티켓 판매가 시작됩니다!\n\nhttps://t.co/wRikUAIB3C https://t.co/QOVb7npUG3"
+	},
+	{
+		"created_at": "Tue Sep 20 07:29:33 +0000 2022",
+		"id": 1572121050661679000,
+		"id_str": "1572125797900587010",
+		"full_text": "9/24 (토) 오후 7시 @ 국립경주박물관 야외 성덕대왕신종 앞\n[#너드커넥션] 박물관 속 기타\n-\n9/25 (일) 오후 7시 @ 수원화성 동장대\n[#이랑] &lt;풍경이 부르는 노래&gt; ‘제2장 동장대의 노래’",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "너드커넥션",
+					"indices": [
+						38,
+						44
+					]
+				},
+				{
+					"text": "이랑",
+					"indices": [
+						84,
+						87
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1572120916649455600,
+		"in_reply_to_status_id_str": "1572120916649455616",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 your summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 슬릭, 아마도이자람밴드, 우주왕복선싸이드미러, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2290,
+			"friends_count": 20,
+			"listed_count": 12,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 638,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6556,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "9/24 (토) 오후 7시 @ 국립경주박물관 야외 성덕대왕신종 앞\n[#너드커넥션] 박물관 속 기타\n-\n9/25 (일) 오후 7시 @ 수원화성 동장대\n[#이랑] &lt;풍경이 부르는 노래&gt; ‘제2장 동장대의 노래’"
+	},
+	{
 		"created_at": "Tue Sep 20 06:45:29 +0000 2022",
 		"id": 1572114706923688000,
 		"id_str": "1572114706923687937",
