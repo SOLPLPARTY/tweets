@@ -1,6 +1,202 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Tue Sep 20 14:29:25 +0000 2022",
+		"id": 1572227106184261600,
+		"id_str": "1572231459754201089",
+		"full_text": "EXCLUSIVE: Behind the Scenes at Peter Do With K-pop’s SM Entertainment @wwd\n\nhttps://t.co/QBulVEjXHt\n\n#SM #NYFW  \n#PeterDo #PETERDOxSMTOWN\n#SEULGI #RedVelvet \n#JENO #NCT\n#SHOHEI #EUNSEOK #SMROOKIES",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SM",
+					"indices": [
+						102,
+						105
+					]
+				},
+				{
+					"text": "NYFW",
+					"indices": [
+						106,
+						111
+					]
+				},
+				{
+					"text": "PeterDo",
+					"indices": [
+						114,
+						122
+					]
+				},
+				{
+					"text": "PETERDOxSMTOWN",
+					"indices": [
+						123,
+						138
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						139,
+						146
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						147,
+						157
+					]
+				},
+				{
+					"text": "JENO",
+					"indices": [
+						159,
+						164
+					]
+				},
+				{
+					"text": "NCT",
+					"indices": [
+						165,
+						169
+					]
+				},
+				{
+					"text": "SHOHEI",
+					"indices": [
+						170,
+						177
+					]
+				},
+				{
+					"text": "EUNSEOK",
+					"indices": [
+						178,
+						186
+					]
+				},
+				{
+					"text": "SMROOKIES",
+					"indices": [
+						187,
+						197
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wwd",
+					"name": "WWD",
+					"id": 19784831,
+					"id_str": "19784831",
+					"indices": [
+						71,
+						75
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/QBulVEjXHt",
+					"expanded_url": "https://bit.ly/3LqctJL",
+					"display_url": "bit.ly/3LqctJL",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11184757,
+			"friends_count": 55,
+			"listed_count": 12609,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2027,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12921,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2712,
+		"favorite_count": 5496,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "EXCLUSIVE: Behind the Scenes at Peter Do With K-pop’s SM Entertainment @wwd\n\nhttps://t.co/QBulVEjXHt\n\n#SM #NYFW  \n#PeterDo #PETERDOxSMTOWN\n#SEULGI #RedVelvet \n#JENO #NCT\n#SHOHEI #EUNSEOK #SMROOKIES"
+	},
+	{
 		"created_at": "Tue Sep 20 10:58:15 +0000 2022",
 		"id": 1572163697266466800,
 		"id_str": "1572178318740398083",
@@ -1778,7 +1974,7 @@ Grailbird.data.tweets_2022_09 =
 		"created_at": "Tue Sep 20 09:29:47 +0000 2022",
 		"id": 1572151024282108000,
 		"id_str": "1572156054305411072",
-		"full_text": "#Boni #bobae \n\n𝘽𝙤𝙣𝙞 𝙭 𝙗𝙤𝙗𝙖𝙚 \n👁️❤️‍🩹\n관심과 사랑  \n𝘓𝘰𝘷𝘦 &amp; 𝘊𝘢𝘳𝘦\n\n𝟤𝟢𝟤𝟤.𝟢𝟫.𝟤𝟣. 𝟣𝟤𝖯𝖬 (𝖪𝖲𝖳)\n\n#Bonixbobae #관심과사랑 #LovenCare https://t.co/2iNholuKQV",
+		"full_text": "#Boni #bobae \n\n𝘽𝙤𝙣𝙞 𝙭 𝙗𝙤𝙗𝙖𝙚 \n👁️❤️🩹\n관심과 사랑  \n𝘓𝘰𝘷𝘦 &amp; 𝘊𝘢𝘳𝘦\n\n𝟤𝟢𝟤𝟤.𝟢𝟫.𝟤𝟣. 𝟣𝟤𝖯𝖬 (𝖪𝖲𝖳)\n\n#Bonixbobae #관심과사랑 #LovenCare https://t.co/2iNholuKQV",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -2013,7 +2209,7 @@ Grailbird.data.tweets_2022_09 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "#Boni #bobae \n\n𝘽𝙤𝙣𝙞 𝙭 𝙗𝙤𝙗𝙖𝙚 \n👁️❤️‍🩹\n관심과 사랑  \n𝘓𝘰𝘷𝘦 &amp; 𝘊𝘢𝘳𝘦\n\n𝟤𝟢𝟤𝟤.𝟢𝟫.𝟤𝟣. 𝟣𝟤𝖯𝖬 (𝖪𝖲𝖳)\n\n#Bonixbobae #관심과사랑 #LovenCare https://t.co/2iNholuKQV"
+		"text": "#Boni #bobae \n\n𝘽𝙤𝙣𝙞 𝙭 𝙗𝙤𝙗𝙖𝙚 \n👁️❤️🩹\n관심과 사랑  \n𝘓𝘰𝘷𝘦 &amp; 𝘊𝘢𝘳𝘦\n\n𝟤𝟢𝟤𝟤.𝟢𝟫.𝟤𝟣. 𝟣𝟤𝖯𝖬 (𝖪𝖲𝖳)\n\n#Bonixbobae #관심과사랑 #LovenCare https://t.co/2iNholuKQV"
 	},
 	{
 		"created_at": "Tue Sep 20 09:29:44 +0000 2022",
