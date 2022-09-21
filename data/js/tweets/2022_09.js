@@ -1,6 +1,367 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Wed Sep 21 06:29:28 +0000 2022",
+		"id": 1572466202605396000,
+		"id_str": "1572473063417036800",
+		"full_text": "[#권혁수] [#대충극장]\n\n공조2 보기 전 공조1 1분 요약 #shorts\n\n👉 https://t.co/hbXKgiJGBa\n\n#KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #공조2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권혁수",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "대충극장",
+					"indices": [
+						8,
+						13
+					]
+				},
+				{
+					"text": "shorts",
+					"indices": [
+						35,
+						42
+					]
+				},
+				{
+					"text": "KwunHyukSoo",
+					"indices": [
+						71,
+						83
+					]
+				},
+				{
+					"text": "휴맵컨텐츠",
+					"indices": [
+						84,
+						90
+					]
+				},
+				{
+					"text": "HUMAPCONTENTS",
+					"indices": [
+						91,
+						105
+					]
+				},
+				{
+					"text": "공조2",
+					"indices": [
+						106,
+						110
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hbXKgiJGBa",
+					"expanded_url": "https://www.youtube.com/shorts/RWbFd1iE7wY",
+					"display_url": "youtube.com/shorts/RWbFd1i…",
+					"indices": [
+						46,
+						69
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1219506842935513000,
+			"id_str": "1219506842935513088",
+			"name": "휴맵컨텐츠(HUMAP)",
+			"screen_name": "humap_official",
+			"location": "",
+			"description": "휴맵컨텐츠(HUMAP CONTENTS) Official Twitter",
+			"url": "https://t.co/fBZZK3SmX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fBZZK3SmX6",
+							"expanded_url": "http://www.humapcontents.com/",
+							"display_url": "humapcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 382,
+			"friends_count": 2,
+			"listed_count": 2,
+			"created_at": "Tue Jan 21 06:28:27 +0000 2020",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 905,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1219506842935513088/1579755898",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#권혁수] [#대충극장]\n\n공조2 보기 전 공조1 1분 요약 #shorts\n\n👉 https://t.co/hbXKgiJGBa\n\n#KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #공조2"
+	},
+	{
+		"created_at": "Wed Sep 21 06:29:25 +0000 2022",
+		"id": 1572461537817927700,
+		"id_str": "1572473053384445952",
+		"full_text": "[#윤종신] 2022 윤종신 콘서트 &lt;가을 냄새&gt; 티켓오픈 공지✔️\n\n📍티켓 오픈 : 9월 23일(금) 오후2시\n📍예매 : 인터파크 티켓\n📍날짜 : 10.20(목)-23(일), 10.27(목)-30(일)\n📍시간 : 목 20시, 금 20시, 토 17시, 일 16시\n📍장소 : 신한pLay 스퀘어 라이브홀\n\n#YoonJongshin #소극장콘서트 #가을냄새 https://t.co/bRrpw9dZBK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			203
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "윤종신",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "YoonJongshin",
+					"indices": [
+						176,
+						189
+					]
+				},
+				{
+					"text": "소극장콘서트",
+					"indices": [
+						190,
+						197
+					]
+				},
+				{
+					"text": "가을냄새",
+					"indices": [
+						198,
+						203
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1572461290790211600,
+					"id_str": "1572461290790211588",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/FdKBNnSaUAQ6Ult.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdKBNnSaUAQ6Ult.jpg",
+					"url": "https://t.co/bRrpw9dZBK",
+					"display_url": "pic.twitter.com/bRrpw9dZBK",
+					"expanded_url": "https://twitter.com/themysticstory/status/1572461537817927680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 961,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1349,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1572461290790211600,
+					"id_str": "1572461290790211588",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/FdKBNnSaUAQ6Ult.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdKBNnSaUAQ6Ult.jpg",
+					"url": "https://t.co/bRrpw9dZBK",
+					"display_url": "pic.twitter.com/bRrpw9dZBK",
+					"expanded_url": "https://twitter.com/themysticstory/status/1572461537817927680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 961,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1349,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/pgQyM4fB27",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pgQyM4fB27",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37546,
+			"friends_count": 14,
+			"listed_count": 302,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7237,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1661267008",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#윤종신] 2022 윤종신 콘서트 &lt;가을 냄새&gt; 티켓오픈 공지✔️\n\n📍티켓 오픈 : 9월 23일(금) 오후2시\n📍예매 : 인터파크 티켓\n📍날짜 : 10.20(목)-23(일), 10.27(목)-30(일)\n📍시간 : 목 20시, 금 20시, 토 17시, 일 16시\n📍장소 : 신한pLay 스퀘어 라이브홀\n\n#YoonJongshin #소극장콘서트 #가을냄새 https://t.co/bRrpw9dZBK"
+	},
+	{
 		"created_at": "Wed Sep 21 05:30:00 +0000 2022",
 		"id": 1572455471998705700,
 		"id_str": "1572458100329951234",
@@ -287,7 +648,7 @@ Grailbird.data.tweets_2022_09 =
 		"created_at": "Wed Sep 21 05:29:52 +0000 2022",
 		"id": 1572453994819391500,
 		"id_str": "1572458065970229248",
-		"full_text": "#보니 #bobae \n\n👁️❤️‍🩹\nBoni x bobae - 관심과 사랑 (Love &amp; Care) (Official Visualizer)\nhttps://t.co/Ha3EqNa2KT\n\n#Bonixbobae #관심과사랑 #LovenCare https://t.co/gP1rkiwGU7",
+		"full_text": "#보니 #bobae \n\n👁️❤️🩹\nBoni x bobae - 관심과 사랑 (Love &amp; Care) (Official Visualizer)\nhttps://t.co/Ha3EqNa2KT\n\n#Bonixbobae #관심과사랑 #LovenCare https://t.co/gP1rkiwGU7",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -532,7 +893,7 @@ Grailbird.data.tweets_2022_09 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "#보니 #bobae \n\n👁️❤️‍🩹\nBoni x bobae - 관심과 사랑 (Love &amp; Care) (Official Visualizer)\nhttps://t.co/Ha3EqNa2KT\n\n#Bonixbobae #관심과사랑 #LovenCare https://t.co/gP1rkiwGU7"
+		"text": "#보니 #bobae \n\n👁️❤️🩹\nBoni x bobae - 관심과 사랑 (Love &amp; Care) (Official Visualizer)\nhttps://t.co/Ha3EqNa2KT\n\n#Bonixbobae #관심과사랑 #LovenCare https://t.co/gP1rkiwGU7"
 	},
 	{
 		"created_at": "Wed Sep 21 05:29:45 +0000 2022",
