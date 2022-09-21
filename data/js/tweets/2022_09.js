@@ -1,6 +1,998 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Wed Sep 21 05:30:00 +0000 2022",
+		"id": 1572455471998705700,
+		"id_str": "1572458100329951234",
+		"full_text": "카더가든이 메타버스 세계에 접속해 노래를 불렀다고 합니다. 그의 라이브를 360도로 감상하시고 싶으시다면 'ifland' 앱의 &lt;메타홍대&gt;에서 확인하실 수 있습니다. \n\n일정:\n09.19(월) ~ 09.25(일)\n\n아티스트 라인업:\n- YB(윤도현 밴드)\n- 10CM\n- SWJA(선우정아)\n- 카더가든\n- pH-1(박준원) https://t.co/rCtX5ifNZT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1572455336279416800,
+					"id_str": "1572455336279416832",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/FdJ7zBAaIAAyWVl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdJ7zBAaIAAyWVl.jpg",
+					"url": "https://t.co/rCtX5ifNZT",
+					"display_url": "pic.twitter.com/rCtX5ifNZT",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1572455471998705665/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1572455336279416800,
+					"id_str": "1572455336279416832",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/FdJ7zBAaIAAyWVl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdJ7zBAaIAAyWVl.jpg",
+					"url": "https://t.co/rCtX5ifNZT",
+					"display_url": "pic.twitter.com/rCtX5ifNZT",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1572455471998705665/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1572455357460652000,
+					"id_str": "1572455357460652034",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/FdJ70P6aIAItcsg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdJ70P6aIAItcsg.jpg",
+					"url": "https://t.co/rCtX5ifNZT",
+					"display_url": "pic.twitter.com/rCtX5ifNZT",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1572455471998705665/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1572455367833157600,
+					"id_str": "1572455367833157632",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/FdJ702jaAAAF67k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdJ702jaAAAF67k.jpg",
+					"url": "https://t.co/rCtX5ifNZT",
+					"display_url": "pic.twitter.com/rCtX5ifNZT",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1572455471998705665/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1572455391942021000,
+					"id_str": "1572455391942021120",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/FdJ72QXaEAA0vWS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdJ72QXaEAA0vWS.jpg",
+					"url": "https://t.co/rCtX5ifNZT",
+					"display_url": "pic.twitter.com/rCtX5ifNZT",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1572455471998705665/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1081,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1081,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 679,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 240145508,
+			"id_str": "240145508",
+			"name": "DooRooDooRoo Artist Company",
+			"screen_name": "DRDRacompany",
+			"location": "대한민국 서울",
+			"description": "두루두루 아티스트 컴퍼니",
+			"url": "https://t.co/y5yKgWQtSS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y5yKgWQtSS",
+							"expanded_url": "http://www.drdr.ac",
+							"display_url": "drdr.ac",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4036,
+			"friends_count": 11,
+			"listed_count": 84,
+			"created_at": "Wed Jan 19 07:40:00 +0000 2011",
+			"favourites_count": 84,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3061,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/240145508/1517471917",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "카더가든이 메타버스 세계에 접속해 노래를 불렀다고 합니다. 그의 라이브를 360도로 감상하시고 싶으시다면 'ifland' 앱의 &lt;메타홍대&gt;에서 확인하실 수 있습니다. \n\n일정:\n09.19(월) ~ 09.25(일)\n\n아티스트 라인업:\n- YB(윤도현 밴드)\n- 10CM\n- SWJA(선우정아)\n- 카더가든\n- pH-1(박준원) https://t.co/rCtX5ifNZT"
+	},
+	{
+		"created_at": "Wed Sep 21 05:29:52 +0000 2022",
+		"id": 1572453994819391500,
+		"id_str": "1572458065970229248",
+		"full_text": "#보니 #bobae \n\n👁️❤️‍🩹\nBoni x bobae - 관심과 사랑 (Love &amp; Care) (Official Visualizer)\nhttps://t.co/Ha3EqNa2KT\n\n#Bonixbobae #관심과사랑 #LovenCare https://t.co/gP1rkiwGU7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "보니",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "bobae",
+					"indices": [
+						4,
+						10
+					]
+				},
+				{
+					"text": "Bonixbobae",
+					"indices": [
+						107,
+						118
+					]
+				},
+				{
+					"text": "관심과사랑",
+					"indices": [
+						119,
+						125
+					]
+				},
+				{
+					"text": "LovenCare",
+					"indices": [
+						126,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ha3EqNa2KT",
+					"expanded_url": "https://youtu.be/bqA5zLCS_e0",
+					"display_url": "youtu.be/bqA5zLCS_e0",
+					"indices": [
+						82,
+						105
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1572453893480779800,
+					"id_str": "1572453893480779776",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1572453893480779776/pu/img/5cQAP4Dpaea52sPL.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1572453893480779776/pu/img/5cQAP4Dpaea52sPL.jpg",
+					"url": "https://t.co/gP1rkiwGU7",
+					"display_url": "pic.twitter.com/gP1rkiwGU7",
+					"expanded_url": "https://twitter.com/inplanet/status/1572453994819391491/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1572453893480779800,
+					"id_str": "1572453893480779776",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1572453893480779776/pu/img/5cQAP4Dpaea52sPL.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1572453893480779776/pu/img/5cQAP4Dpaea52sPL.jpg",
+					"url": "https://t.co/gP1rkiwGU7",
+					"display_url": "pic.twitter.com/gP1rkiwGU7",
+					"expanded_url": "https://twitter.com/inplanet/status/1572453994819391491/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 16423,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1572453893480779776/pu/vid/480x270/AwjSQaO_Ig5sUYjZ.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1572453893480779776/pu/vid/640x360/mROlkW_of7NlaOeb.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1572453893480779776/pu/pl/tOKlgTlPIdthxzSY.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1572453893480779776/pu/vid/1280x720/v9EtN_dizs9gdHsf.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 76964739,
+			"id_str": "76964739",
+			"name": "inplanet",
+			"screen_name": "inplanet",
+			"location": "Seoul, KOREA",
+			"description": "Music Label & Distributor / with Boni, The Suite, Wilcox, OuiOui, DAMYE, bobae, Choi Cello / 유통팀: notice@inplanet.co.kr / 제작팀: anr@inplanet.co.kr",
+			"url": "https://t.co/WF9ly7o9FQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WF9ly7o9FQ",
+							"expanded_url": "http://www.inplanet.co.kr",
+							"display_url": "inplanet.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1424,
+			"friends_count": 760,
+			"listed_count": 61,
+			"created_at": "Thu Sep 24 15:25:25 +0000 2009",
+			"favourites_count": 134,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5553,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1383277780150853638/qacXSe09_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1383277780150853638/qacXSe09_normal.jpg",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "0099FF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#보니 #bobae \n\n👁️❤️‍🩹\nBoni x bobae - 관심과 사랑 (Love &amp; Care) (Official Visualizer)\nhttps://t.co/Ha3EqNa2KT\n\n#Bonixbobae #관심과사랑 #LovenCare https://t.co/gP1rkiwGU7"
+	},
+	{
+		"created_at": "Wed Sep 21 05:29:45 +0000 2022",
+		"id": 1572450985343357000,
+		"id_str": "1572458035859296256",
+		"full_text": "𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 고려진의 썸을 청산하고 연애를 시작하는 설렘 가득한 사랑 노래💕 https://t.co/36ojnMXyxP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/36ojnMXyxP",
+					"expanded_url": "http://blog.naver.com/chili7272/222880435832",
+					"display_url": "blog.naver.com/chili7272/2228…",
+					"indices": [
+						45,
+						68
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.naver.com\" rel=\"nofollow\">Naver</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 114111001,
+			"id_str": "114111001",
+			"name": "칠리뮤직코리아",
+			"screen_name": "chilimusickorea",
+			"location": "Seoul, Korea",
+			"description": "음반제작 및 배급전문/국내 및 해외사이트 음원유통/매니지먼트 담당//\n허클베리 핀/에이프릴 세컨드/트레봉봉/오드트리/Steve Barakett/LasseLindh/Sioen 등",
+			"url": "https://t.co/qZzCfFQtXO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qZzCfFQtXO",
+							"expanded_url": "http://www.facebook.com/chilimusickorea1",
+							"display_url": "facebook.com/chilimusickore…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2073,
+			"friends_count": 2328,
+			"listed_count": 61,
+			"created_at": "Sun Feb 14 05:12:40 +0000 2010",
+			"favourites_count": 690,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5428,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1526066762969935872/M-LQZSu0_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1526066762969935872/M-LQZSu0_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/114111001/1663643565",
+			"profile_link_color": "FC420A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "C0B8C4",
+			"profile_text_color": "9FFEE3",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 고려진의 썸을 청산하고 연애를 시작하는 설렘 가득한 사랑 노래💕 https://t.co/36ojnMXyxP"
+	},
+	{
+		"created_at": "Wed Sep 21 05:29:38 +0000 2022",
+		"id": 1572448425853194200,
+		"id_str": "1572458005685481472",
+		"full_text": "📍ONLINE Streaming Date\nNov 12, 2022 (SAT) 21:00 (KST)\nNov 13, 2022 (SUN) 06:00 (KST)\n\nOnline tickets will be open later.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1572418183432392700,
+		"in_reply_to_status_id_str": "1572418183432392704",
+		"in_reply_to_user_id": 206117108,
+		"in_reply_to_user_id_str": "206117108",
+		"in_reply_to_screen_name": "Warner_Music_Kr",
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 90245,
+			"friends_count": 492,
+			"listed_count": 218,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1579,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11990,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1636703401",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "📍ONLINE Streaming Date\nNov 12, 2022 (SAT) 21:00 (KST)\nNov 13, 2022 (SUN) 06:00 (KST)\n\nOnline tickets will be open later."
+	},
+	{
+		"created_at": "Wed Sep 21 05:29:28 +0000 2022",
+		"id": 1572448238770475000,
+		"id_str": "1572457967156629506",
+		"full_text": "[솔루션스 | 클럽 투어 공연 안내]\n\n2022 THE SOLUTIONS CLUB TOUR : NAIVE\n\n📌 10.07 (Fri) : 살롱문보우 (@salon.moonbow)\n🔗 https://t.co/JWY9vhegCa\n\n자세한 사항은 상단 링크에서 확인하실 수 있습니다.\n\n#NAIVE #2022THESOLUTIONSCLUBTOUR\n#THESOLUTIONS #솔루션스\n#클럽투어 https://t.co/0fR8qqITsk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			214
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NAIVE",
+					"indices": [
+						156,
+						162
+					]
+				},
+				{
+					"text": "2022THESOLUTIONSCLUBTOUR",
+					"indices": [
+						163,
+						188
+					]
+				},
+				{
+					"text": "THESOLUTIONS",
+					"indices": [
+						189,
+						202
+					]
+				},
+				{
+					"text": "솔루션스",
+					"indices": [
+						203,
+						208
+					]
+				},
+				{
+					"text": "클럽투어",
+					"indices": [
+						209,
+						214
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Salon",
+					"name": "Salon",
+					"id": 16955991,
+					"id_str": "16955991",
+					"indices": [
+						83,
+						89
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/JWY9vhegCa",
+					"expanded_url": "https://bit.ly/3cP0atJ",
+					"display_url": "bit.ly/3cP0atJ",
+					"indices": [
+						101,
+						124
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1572448117014036500,
+					"id_str": "1572448117014036481",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/FdJ1OzJagAEUOmg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdJ1OzJagAEUOmg.jpg",
+					"url": "https://t.co/0fR8qqITsk",
+					"display_url": "pic.twitter.com/0fR8qqITsk",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1572448238770475009/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1572448117014036500,
+					"id_str": "1572448117014036481",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/FdJ1OzJagAEUOmg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdJ1OzJagAEUOmg.jpg",
+					"url": "https://t.co/0fR8qqITsk",
+					"display_url": "pic.twitter.com/0fR8qqITsk",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1572448238770475009/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1572448117357973500,
+					"id_str": "1572448117357973505",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/FdJ1O0bakAExvCE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdJ1O0bakAExvCE.jpg",
+					"url": "https://t.co/0fR8qqITsk",
+					"display_url": "pic.twitter.com/0fR8qqITsk",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1572448238770475009/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1572447997665091600,
+		"in_reply_to_status_id_str": "1572447997665091585",
+		"in_reply_to_user_id": 63414926,
+		"in_reply_to_user_id_str": "63414926",
+		"in_reply_to_screen_name": "HappyRobotKR",
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "구만(9.10000), 노리플라이, 데이브레이크, Lacuna(라쿠나), SURL(설), 소란, 솔루션스, 쏜애플, OurR(아월)",
+			"url": "https://t.co/BIvBmbtJjn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BIvBmbtJjn",
+							"expanded_url": "https://mpmgmusic.com/",
+							"display_url": "mpmgmusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12906,
+			"friends_count": 1898,
+			"listed_count": 250,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 211,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13579,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1626843310",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[솔루션스 | 클럽 투어 공연 안내]\n\n2022 THE SOLUTIONS CLUB TOUR : NAIVE\n\n📌 10.07 (Fri) : 살롱문보우 (@salon.moonbow)\n🔗 https://t.co/JWY9vhegCa\n\n자세한 사항은 상단 링크에서 확인하실 수 있습니다.\n\n#NAIVE #2022THESOLUTIONSCLUBTOUR\n#THESOLUTIONS #솔루션스\n#클럽투어 https://t.co/0fR8qqITsk"
+	},
+	{
 		"created_at": "Wed Sep 21 05:07:25 +0000 2022",
 		"id": 1572452416959950800,
 		"id_str": "1572452416959950850",
