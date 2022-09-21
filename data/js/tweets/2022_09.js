@@ -1,6 +1,499 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Wed Sep 21 13:29:32 +0000 2022",
+		"id": 1572575812263776300,
+		"id_str": "1572578778412457986",
+		"full_text": "사진은 함께 못 찍었지만 만나서 행복했습니다!\n또 만날 수 있었으면 좋겠어요!😊\n가천대학교 감사합니다💜\n\n#보라미유 #BORAMIYU #가천대학교 https://t.co/v7ex8HfQgu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "보라미유",
+					"indices": [
+						59,
+						64
+					]
+				},
+				{
+					"text": "BORAMIYU",
+					"indices": [
+						65,
+						74
+					]
+				},
+				{
+					"text": "가천대학교",
+					"indices": [
+						75,
+						81
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1572575795603984400,
+					"id_str": "1572575795603984384",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/FdLpWq9aUAA_Ire.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdLpWq9aUAA_Ire.jpg",
+					"url": "https://t.co/v7ex8HfQgu",
+					"display_url": "pic.twitter.com/v7ex8HfQgu",
+					"expanded_url": "https://twitter.com/shofar_ent/status/1572575812263776257/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1572575795603984400,
+					"id_str": "1572575795603984384",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/FdLpWq9aUAA_Ire.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdLpWq9aUAA_Ire.jpg",
+					"url": "https://t.co/v7ex8HfQgu",
+					"display_url": "pic.twitter.com/v7ex8HfQgu",
+					"expanded_url": "https://twitter.com/shofar_ent/status/1572575812263776257/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1572575804420411400,
+					"id_str": "1572575804420411394",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/FdLpXLzaUAI5DbS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdLpXLzaUAI5DbS.jpg",
+					"url": "https://t.co/v7ex8HfQgu",
+					"display_url": "pic.twitter.com/v7ex8HfQgu",
+					"expanded_url": "https://twitter.com/shofar_ent/status/1572575812263776257/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 265792818,
+			"id_str": "265792818",
+			"name": "쇼파르엔터테인먼트",
+			"screen_name": "shofar_ent",
+			"location": "",
+			"description": "SHOFAR ENTERTAINMENT Official Twitter",
+			"url": "https://t.co/zzQk2ihRbI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zzQk2ihRbI",
+							"expanded_url": "http://shofar-ent.com/",
+							"display_url": "shofar-ent.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7643,
+			"friends_count": 4,
+			"listed_count": 64,
+			"created_at": "Mon Mar 14 04:31:00 +0000 2011",
+			"favourites_count": 52,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4881,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/265792818/1661332345",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "사진은 함께 못 찍었지만 만나서 행복했습니다!\n또 만날 수 있었으면 좋겠어요!😊\n가천대학교 감사합니다💜\n\n#보라미유 #BORAMIYU #가천대학교 https://t.co/v7ex8HfQgu"
+	},
+	{
+		"created_at": "Wed Sep 21 13:29:28 +0000 2022",
+		"id": 1572572254567026700,
+		"id_str": "1572578760897204225",
+		"full_text": "✨New Music K-Pop✨\n'JAY B - go UP'이 스포티파이 'K-Pop x J-Pop'  커버를 장식하였습니다\nCheck out \"go UP\" on 'New Music K-Pop' #playlist on @SpotifyKR\n\n🎶https://t.co/LD0ZyymsUI\n\n#warnerkpop #warnermusic #JAYB #제이비 #goUP #BeYourself #Spotify @jaybnow_hr @cdnzarecords https://t.co/GyPl9prblZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			248
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "playlist",
+					"indices": [
+						109,
+						118
+					]
+				},
+				{
+					"text": "warnerkpop",
+					"indices": [
+						160,
+						171
+					]
+				},
+				{
+					"text": "warnermusic",
+					"indices": [
+						172,
+						184
+					]
+				},
+				{
+					"text": "JAYB",
+					"indices": [
+						185,
+						190
+					]
+				},
+				{
+					"text": "제이비",
+					"indices": [
+						191,
+						195
+					]
+				},
+				{
+					"text": "goUP",
+					"indices": [
+						196,
+						201
+					]
+				},
+				{
+					"text": "BeYourself",
+					"indices": [
+						202,
+						213
+					]
+				},
+				{
+					"text": "Spotify",
+					"indices": [
+						214,
+						222
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SpotifyKR",
+					"name": "Spotify Korea",
+					"id": 1207908245118963700,
+					"id_str": "1207908245118963712",
+					"indices": [
+						122,
+						132
+					]
+				},
+				{
+					"screen_name": "jaybnow_hr",
+					"name": "JAY B",
+					"id": 1243264807840542700,
+					"id_str": "1243264807840542721",
+					"indices": [
+						223,
+						234
+					]
+				},
+				{
+					"screen_name": "cdnzarecords",
+					"name": "cdnzarecords",
+					"id": 1548925275295355000,
+					"id_str": "1548925275295354880",
+					"indices": [
+						235,
+						248
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/LD0ZyymsUI",
+					"expanded_url": "https://spoti.fi/3BC7otr",
+					"display_url": "spoti.fi/3BC7otr",
+					"indices": [
+						135,
+						158
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1572571031889653800,
+					"id_str": "1572571031889653766",
+					"indices": [
+						249,
+						272
+					],
+					"media_url": "http://pbs.twimg.com/media/FdLlBYvaMAYsT-T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdLlBYvaMAYsT-T.jpg",
+					"url": "https://t.co/GyPl9prblZ",
+					"display_url": "pic.twitter.com/GyPl9prblZ",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1572572254567026688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1572571031889653800,
+					"id_str": "1572571031889653766",
+					"indices": [
+						249,
+						272
+					],
+					"media_url": "http://pbs.twimg.com/media/FdLlBYvaMAYsT-T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdLlBYvaMAYsT-T.jpg",
+					"url": "https://t.co/GyPl9prblZ",
+					"display_url": "pic.twitter.com/GyPl9prblZ",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1572572254567026688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 90270,
+			"friends_count": 492,
+			"listed_count": 217,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1579,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11992,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1636703401",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2133,
+		"favorite_count": 2825,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "✨New Music K-Pop✨\n'JAY B - go UP'이 스포티파이 'K-Pop x J-Pop'  커버를 장식하였습니다\nCheck out \"go UP\" on 'New Music K-Pop' #playlist on @SpotifyKR\n\n🎶https://t.co/LD0ZyymsUI\n\n#warnerkpop #warnermusic #JAYB #제이비 #goUP #BeYourself #Spotify @jaybnow_hr @cdnzarecords https://t.co/GyPl9prblZ"
+	},
+	{
 		"created_at": "Wed Sep 21 12:58:15 +0000 2022",
 		"id": 1572556246783127600,
 		"id_str": "1572570903753498626",
