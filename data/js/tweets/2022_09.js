@@ -1,6 +1,439 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Wed Sep 21 15:29:35 +0000 2022",
+		"id": 1572606968111722500,
+		"id_str": "1572608991368466433",
+		"full_text": "[#홍자] MBN '우리들의 남진' 완료📸\n\n홍자가 보여준 고품격 라이브 어땠나요?!🎤\n9월 28일에 방송되는 2회도 기대 많이 해주세요👏\n\n#HONGJA #우리들의남진 https://t.co/FM4Wu3zwep",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "홍자",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "HONGJA",
+					"indices": [
+						79,
+						86
+					]
+				},
+				{
+					"text": "우리들의남진",
+					"indices": [
+						87,
+						94
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1572606961476309000,
+					"id_str": "1572606961476308992",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/FdMFsw4aEAAXWq3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdMFsw4aEAAXWq3.jpg",
+					"url": "https://t.co/FM4Wu3zwep",
+					"display_url": "pic.twitter.com/FM4Wu3zwep",
+					"expanded_url": "https://twitter.com/themysticstory/status/1572606968111722502/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1170,
+							"h": 1170,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1170,
+							"h": 1170,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1572606961476309000,
+					"id_str": "1572606961476308992",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/FdMFsw4aEAAXWq3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdMFsw4aEAAXWq3.jpg",
+					"url": "https://t.co/FM4Wu3zwep",
+					"display_url": "pic.twitter.com/FM4Wu3zwep",
+					"expanded_url": "https://twitter.com/themysticstory/status/1572606968111722502/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1170,
+							"h": 1170,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1170,
+							"h": 1170,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/pgQyM4fB27",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pgQyM4fB27",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37554,
+			"friends_count": 14,
+			"listed_count": 302,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7239,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1661267008",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#홍자] MBN '우리들의 남진' 완료📸\n\n홍자가 보여준 고품격 라이브 어땠나요?!🎤\n9월 28일에 방송되는 2회도 기대 많이 해주세요👏\n\n#HONGJA #우리들의남진 https://t.co/FM4Wu3zwep"
+	},
+	{
+		"created_at": "Wed Sep 21 15:29:27 +0000 2022",
+		"id": 1572603490513592300,
+		"id_str": "1572608956870295554",
+		"full_text": "Samm Henshaw Live in Seoul🙌\n\n오늘 밤 샘 핸쇼 내한공연을 빛내주신 모든 분들께 감사를 전합니다! \n\n@SammHenshaw https://t.co/IhVECLXiZ1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SammHenshaw",
+					"name": "SAMMSONITE THE SHEATH!",
+					"id": 135199936,
+					"id_str": "135199936",
+					"indices": [
+						69,
+						81
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1572602573621964800,
+					"id_str": "1572602573621964805",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1572602573621964805/pu/img/gyzCCzOqLaT52XTS.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1572602573621964805/pu/img/gyzCCzOqLaT52XTS.jpg",
+					"url": "https://t.co/IhVECLXiZ1",
+					"display_url": "pic.twitter.com/IhVECLXiZ1",
+					"expanded_url": "https://twitter.com/HIGHJINKXX/status/1572603490513592321/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1572602573621964800,
+					"id_str": "1572602573621964805",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1572602573621964805/pu/img/gyzCCzOqLaT52XTS.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1572602573621964805/pu/img/gyzCCzOqLaT52XTS.jpg",
+					"url": "https://t.co/IhVECLXiZ1",
+					"display_url": "pic.twitter.com/IhVECLXiZ1",
+					"expanded_url": "https://twitter.com/HIGHJINKXX/status/1572603490513592321/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 41601,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1572602573621964805/pu/vid/1280x720/2X6XqHOnDTG6Er2s.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1572602573621964805/pu/vid/640x360/96vlyhm3M7yJMwHu.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1572602573621964805/pu/vid/480x270/VLfCrFf03Uwl7Ipw.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1572602573621964805/pu/pl/p6Z2G37-Gihix3Sm.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 985865748638650400,
+			"id_str": "985865748638650368",
+			"name": "HIGHJINKX 하이징크스",
+			"screen_name": "HIGHJINKXX",
+			"location": "대한민국 서울",
+			"description": "https://t.co/UEZd1A0tMQ https://t.co/bYHM3gN9tB",
+			"url": "https://t.co/jgdOjxGxJL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jgdOjxGxJL",
+							"expanded_url": "https://www.highjinkxmm.com",
+							"display_url": "highjinkxmm.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UEZd1A0tMQ",
+							"expanded_url": "http://highjinkx.com",
+							"display_url": "highjinkx.com",
+							"indices": [
+								0,
+								23
+							]
+						},
+						{
+							"url": "https://t.co/bYHM3gN9tB",
+							"expanded_url": "http://highjinkxmm.com",
+							"display_url": "highjinkxmm.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 659,
+			"friends_count": 30,
+			"listed_count": 5,
+			"created_at": "Mon Apr 16 13:01:25 +0000 2018",
+			"favourites_count": 371,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 838,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/986167678246125568/PTUKZtMn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/986167678246125568/PTUKZtMn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/985865748638650368/1575347637",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Samm Henshaw Live in Seoul🙌\n\n오늘 밤 샘 핸쇼 내한공연을 빛내주신 모든 분들께 감사를 전합니다! \n\n@SammHenshaw https://t.co/IhVECLXiZ1"
+	},
+	{
 		"created_at": "Wed Sep 21 15:15:13 +0000 2022",
 		"id": 1572605372774621200,
 		"id_str": "1572605372774621187",
