@@ -1,6 +1,649 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Wed Sep 21 03:29:49 +0000 2022",
+		"id": 1572422056532414500,
+		"id_str": "1572427853312172033",
+		"full_text": "New experiential content using the IP of SM artists, EXO, Red Velvet, NCT, and aespa, will roll out from October at Everland!\n\n🎡 ‘KWANGYA@EVERLAND’ ➫ 10/14 TBD\n\nhttps://t.co/3Nn4Sjgmt9\n\n#EVERSMTOWN #SMCU \n#SMTOWN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			212
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EVERSMTOWN",
+					"indices": [
+						186,
+						197
+					]
+				},
+				{
+					"text": "SMCU",
+					"indices": [
+						198,
+						203
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						205,
+						212
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3Nn4Sjgmt9",
+					"expanded_url": "https://bit.ly/3Bw3guM",
+					"display_url": "bit.ly/3Bw3guM",
+					"indices": [
+						161,
+						184
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1572421988865699800,
+		"in_reply_to_status_id_str": "1572421988865699840",
+		"in_reply_to_user_id": 884378714,
+		"in_reply_to_user_id_str": "884378714",
+		"in_reply_to_screen_name": "SMTOWNGLOBAL",
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11184406,
+			"friends_count": 55,
+			"listed_count": 12608,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2027,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12925,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 681,
+		"favorite_count": 1904,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "New experiential content using the IP of SM artists, EXO, Red Velvet, NCT, and aespa, will roll out from October at Everland!\n\n🎡 ‘KWANGYA@EVERLAND’ ➫ 10/14 TBD\n\nhttps://t.co/3Nn4Sjgmt9\n\n#EVERSMTOWN #SMCU \n#SMTOWN"
+	},
+	{
+		"created_at": "Wed Sep 21 03:29:41 +0000 2022",
+		"id": 1572421988865699800,
+		"id_str": "1572427823004160008",
+		"full_text": "SM X Everland sign a MOU to collaborate on #EVERSMTOWN, a #SMCU-combined space and content production business! \n\n#SMTOWN https://t.co/XaZL745Ccd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EVERSMTOWN",
+					"indices": [
+						43,
+						54
+					]
+				},
+				{
+					"text": "SMCU",
+					"indices": [
+						58,
+						63
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						114,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1572421977834672000,
+					"id_str": "1572421977834672128",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/FdJddTHaUAAyQHS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdJddTHaUAAyQHS.jpg",
+					"url": "https://t.co/XaZL745Ccd",
+					"display_url": "pic.twitter.com/XaZL745Ccd",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1572421988865699840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1208,
+							"h": 1708,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1572421977834672000,
+					"id_str": "1572421977834672128",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/FdJddTHaUAAyQHS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdJddTHaUAAyQHS.jpg",
+					"url": "https://t.co/XaZL745Ccd",
+					"display_url": "pic.twitter.com/XaZL745Ccd",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1572421988865699840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1208,
+							"h": 1708,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11184406,
+			"friends_count": 55,
+			"listed_count": 12608,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2027,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12925,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1769,
+		"favorite_count": 4194,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "SM X Everland sign a MOU to collaborate on #EVERSMTOWN, a #SMCU-combined space and content production business! \n\n#SMTOWN https://t.co/XaZL745Ccd"
+	},
+	{
+		"created_at": "Wed Sep 21 03:29:33 +0000 2022",
+		"id": 1572421504201293800,
+		"id_str": "1572427788782641152",
+		"full_text": "안현진 (An Hyun Jin) [Lo-fi: Cosmos] https://t.co/mYBikyT6Er",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mYBikyT6Er",
+					"expanded_url": "http://blog.naver.com/chili7272/222880341498",
+					"display_url": "blog.naver.com/chili7272/2228…",
+					"indices": [
+						34,
+						57
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.naver.com\" rel=\"nofollow\">Naver</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 114111001,
+			"id_str": "114111001",
+			"name": "칠리뮤직코리아",
+			"screen_name": "chilimusickorea",
+			"location": "Seoul, Korea",
+			"description": "음반제작 및 배급전문/국내 및 해외사이트 음원유통/매니지먼트 담당//\n허클베리 핀/에이프릴 세컨드/트레봉봉/오드트리/Steve Barakett/LasseLindh/Sioen 등",
+			"url": "https://t.co/qZzCfFQtXO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qZzCfFQtXO",
+							"expanded_url": "http://www.facebook.com/chilimusickorea1",
+							"display_url": "facebook.com/chilimusickore…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2073,
+			"friends_count": 2328,
+			"listed_count": 61,
+			"created_at": "Sun Feb 14 05:12:40 +0000 2010",
+			"favourites_count": 690,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5427,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1526066762969935872/M-LQZSu0_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1526066762969935872/M-LQZSu0_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/114111001/1663643565",
+			"profile_link_color": "FC420A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "C0B8C4",
+			"profile_text_color": "9FFEE3",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "안현진 (An Hyun Jin) [Lo-fi: Cosmos] https://t.co/mYBikyT6Er"
+	},
+	{
+		"created_at": "Wed Sep 21 03:29:28 +0000 2022",
+		"id": 1572421241012887600,
+		"id_str": "1572427766980833281",
+		"full_text": "#Boni #bobae \n\n\"오히려 더 좋을지도 몰라!\"\n\n𝘽𝙤𝙣𝙞 𝙭 𝙗𝙤𝙗𝙖𝙚 \n\n👁❤‍🩹\n관심과 사랑  \n𝘓𝘰𝘷𝘦 &amp; 𝘊𝘢𝘳𝘦\n\n🎧\n지금 모든 음원사이트에서 감상하실 수 있습니다\n\n#Bonixbobae #관심과사랑 #LovenCare https://t.co/7ZVLSV0PHZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Boni",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "bobae",
+					"indices": [
+						6,
+						12
+					]
+				},
+				{
+					"text": "Bonixbobae",
+					"indices": [
+						108,
+						119
+					]
+				},
+				{
+					"text": "관심과사랑",
+					"indices": [
+						120,
+						126
+					]
+				},
+				{
+					"text": "LovenCare",
+					"indices": [
+						127,
+						137
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1572421229054947300,
+					"id_str": "1572421229054947332",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/FdJcxtsacAQ058T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdJcxtsacAQ058T.jpg",
+					"url": "https://t.co/7ZVLSV0PHZ",
+					"display_url": "pic.twitter.com/7ZVLSV0PHZ",
+					"expanded_url": "https://twitter.com/inplanet/status/1572421241012887552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1572421229054947300,
+					"id_str": "1572421229054947332",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/FdJcxtsacAQ058T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdJcxtsacAQ058T.jpg",
+					"url": "https://t.co/7ZVLSV0PHZ",
+					"display_url": "pic.twitter.com/7ZVLSV0PHZ",
+					"expanded_url": "https://twitter.com/inplanet/status/1572421241012887552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 76964739,
+			"id_str": "76964739",
+			"name": "inplanet",
+			"screen_name": "inplanet",
+			"location": "Seoul, KOREA",
+			"description": "Music Label & Distributor / with Boni, The Suite, Wilcox, OuiOui, DAMYE, bobae, Choi Cello / 유통팀: notice@inplanet.co.kr / 제작팀: anr@inplanet.co.kr",
+			"url": "https://t.co/WF9ly7o9FQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WF9ly7o9FQ",
+							"expanded_url": "http://www.inplanet.co.kr",
+							"display_url": "inplanet.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1424,
+			"friends_count": 760,
+			"listed_count": 61,
+			"created_at": "Thu Sep 24 15:25:25 +0000 2009",
+			"favourites_count": 134,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5552,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1383277780150853638/qacXSe09_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1383277780150853638/qacXSe09_normal.jpg",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "0099FF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Boni #bobae \n\n\"오히려 더 좋을지도 몰라!\"\n\n𝘽𝙤𝙣𝙞 𝙭 𝙗𝙤𝙗𝙖𝙚 \n\n👁❤‍🩹\n관심과 사랑  \n𝘓𝘰𝘷𝘦 &amp; 𝘊𝘢𝘳𝘦\n\n🎧\n지금 모든 음원사이트에서 감상하실 수 있습니다\n\n#Bonixbobae #관심과사랑 #LovenCare https://t.co/7ZVLSV0PHZ"
+	},
+	{
 		"created_at": "Wed Sep 21 02:58:47 +0000 2022",
 		"id": 1572413560197902300,
 		"id_str": "1572420043727843331",
