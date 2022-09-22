@@ -1,6 +1,803 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Thu Sep 22 03:11:17 +0000 2022",
+		"id": 1572782745339699200,
+		"id_str": "1572785578877538305",
+		"full_text": "📢 𝗧𝗶𝗰𝗸𝗲𝘁 𝗢𝗽𝗲𝗻 - 𝗣𝗠 𝟴 𝗠𝗲𝗹𝗼𝗻 𝗧𝗶𝗰𝗸𝗲𝘁\n⠀\n&lt;크리스피 단독 콘서트 [ WE'RE ]&gt;\n· 일시 : 2022년 10월 09일 (일) 오후 7시\n· 장소 : 롤링홀\n· 출연 : 크리스피 (Guest. 베리코이버니)\n· 예매 : 🥝멜론티켓 https://t.co/zC389JCzDs\n　\n#크리스피 #creespy #WERE\n#인디 #멜론티켓 https://t.co/E85R61u9ir",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			205
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "크리스피",
+					"indices": [
+						175,
+						180
+					]
+				},
+				{
+					"text": "creespy",
+					"indices": [
+						181,
+						189
+					]
+				},
+				{
+					"text": "WERE",
+					"indices": [
+						190,
+						195
+					]
+				},
+				{
+					"text": "인디",
+					"indices": [
+						196,
+						199
+					]
+				},
+				{
+					"text": "멜론티켓",
+					"indices": [
+						200,
+						205
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zC389JCzDs",
+					"expanded_url": "https://bit.ly/3BBomt1",
+					"display_url": "bit.ly/3BBomt1",
+					"indices": [
+						149,
+						172
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1569946780217016300,
+					"id_str": "1569946780217016320",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1569946780217016320/pu/img/e_Gb8C-n7YbjQ0j9.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1569946780217016320/pu/img/e_Gb8C-n7YbjQ0j9.jpg",
+					"url": "https://t.co/E85R61u9ir",
+					"display_url": "pic.twitter.com/E85R61u9ir",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1572782745339699200/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1569946780217016300,
+					"id_str": "1569946780217016320",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1569946780217016320/pu/img/e_Gb8C-n7YbjQ0j9.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1569946780217016320/pu/img/e_Gb8C-n7YbjQ0j9.jpg",
+					"url": "https://t.co/E85R61u9ir",
+					"display_url": "pic.twitter.com/E85R61u9ir",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1572782745339699200/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 3010,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1569946780217016320/pu/vid/320x320/FiDnBPpjBSLouWkK.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1569946780217016320/pu/vid/540x540/KDBZBAMUka_k7oLz.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1569946780217016320/pu/pl/lbAkvZSMszHIMCb7.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1569946780217016320/pu/vid/720x720/vSdO7jE_VqaP2NWf.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1291327050578456600,
+			"id_str": "1291327050578456578",
+			"name": "롤링홀",
+			"screen_name": "rollinghall1995",
+			"location": "서울시 마포구 어울마당로 35 신보빌딩 지하1층",
+			"description": "📍𝙃𝙤𝙣𝙜𝙙𝙖𝙚’𝙨 𝙢𝙪𝙨𝙞𝙘 𝙢𝙚𝙘𝙘𝙖 𝙍𝙊𝙇𝙇𝙄𝙉𝙂𝙃𝘼𝙇𝙇 !🎈\n홍대/합정에 위치한 음악 공연장 롤링홀입니다.\n\n👇🏻👇🏻멜론티켓 롤링홀 기획공연 바로가기👇🏻👇🏻\nhttps://t.co/K14VaQbWBy",
+			"url": "https://t.co/eXKuF483pn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eXKuF483pn",
+							"expanded_url": "http://www.rollinghall.co.kr/default/",
+							"display_url": "rollinghall.co.kr/default/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/K14VaQbWBy",
+							"expanded_url": "http://bit.ly/3C4QrHt",
+							"display_url": "bit.ly/3C4QrHt",
+							"indices": [
+								92,
+								115
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 538,
+			"friends_count": 3,
+			"listed_count": 4,
+			"created_at": "Thu Aug 06 10:56:17 +0000 2020",
+			"favourites_count": 133,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 594,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1291327050578456578/1596712102",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📢 𝗧𝗶𝗰𝗸𝗲𝘁 𝗢𝗽𝗲𝗻 - 𝗣𝗠 𝟴 𝗠𝗲𝗹𝗼𝗻 𝗧𝗶𝗰𝗸𝗲𝘁\n⠀\n&lt;크리스피 단독 콘서트 [ WE'RE ]&gt;\n· 일시 : 2022년 10월 09일 (일) 오후 7시\n· 장소 : 롤링홀\n· 출연 : 크리스피 (Guest. 베리코이버니)\n· 예매 : 🥝멜론티켓 https://t.co/zC389JCzDs\n　\n#크리스피 #creespy #WERE\n#인디 #멜론티켓 https://t.co/E85R61u9ir"
+	},
+	{
+		"created_at": "Thu Sep 22 03:01:13 +0000 2022",
+		"id": 1572783043915677700,
+		"id_str": "1572783043915677696",
+		"full_text": "#워너뮤직코리아 #Warner_Music_Korea\n브리엘 (Briel), Cribs (크립스) - 올빼미 [Music Video]\nhttps://t.co/1DDFegfS1Y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "워너뮤직코리아",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Warner_Music_Korea",
+					"indices": [
+						9,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1DDFegfS1Y",
+					"expanded_url": "https://youtu.be/bOm3Xpwah90",
+					"display_url": "youtu.be/bOm3Xpwah90",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 253,
+			"friends_count": 460,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 234,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 88447,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#워너뮤직코리아 #Warner_Music_Korea\n브리엘 (Briel), Cribs (크립스) - 올빼미 [Music Video]\nhttps://t.co/1DDFegfS1Y"
+	},
+	{
+		"created_at": "Thu Sep 22 02:29:47 +0000 2022",
+		"id": 1572768503513612300,
+		"id_str": "1572775133336698881",
+		"full_text": "방금 사진을 게시했습니다 https://t.co/3e7Ftzk4uT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3e7Ftzk4uT",
+					"expanded_url": "https://www.instagram.com/p/CiyqKt_J2MQ/?igshid=YTgzYjQ4ZTY=",
+					"display_url": "instagram.com/p/CiyqKt_J2MQ/…",
+					"indices": [
+						14,
+						37
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2855837208,
+			"id_str": "2855837208",
+			"name": "동양 표준 음향사/ Eastern Standard Sounds",
+			"screen_name": "E_S_Sounds",
+			"location": "Seoul, Korea",
+			"description": "All Roots and Culture/ Label/ Agency/ Distribute/ Produce/",
+			"url": "https://t.co/4se6Mhbnr1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4se6Mhbnr1",
+							"expanded_url": "http://www.easternstandardsounds.com",
+							"display_url": "easternstandardsounds.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 622,
+			"friends_count": 1735,
+			"listed_count": 10,
+			"created_at": "Tue Oct 14 19:11:59 +0000 2014",
+			"favourites_count": 246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1804,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377239775166431236/AbrYTQ1R_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377239775166431236/AbrYTQ1R_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2855837208/1663570644",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "방금 사진을 게시했습니다 https://t.co/3e7Ftzk4uT"
+	},
+	{
+		"created_at": "Thu Sep 22 02:29:39 +0000 2022",
+		"id": 1572768032258412500,
+		"id_str": "1572775103053852673",
+		"full_text": "방금 사진을 게시했습니다 https://t.co/zPNUjwpoAV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zPNUjwpoAV",
+					"expanded_url": "https://www.instagram.com/p/Ciyp9BApIFk/?igshid=YTgzYjQ4ZTY=",
+					"display_url": "instagram.com/p/Ciyp9BApIFk/…",
+					"indices": [
+						14,
+						37
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2855837208,
+			"id_str": "2855837208",
+			"name": "동양 표준 음향사/ Eastern Standard Sounds",
+			"screen_name": "E_S_Sounds",
+			"location": "Seoul, Korea",
+			"description": "All Roots and Culture/ Label/ Agency/ Distribute/ Produce/",
+			"url": "https://t.co/4se6Mhbnr1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4se6Mhbnr1",
+							"expanded_url": "http://www.easternstandardsounds.com",
+							"display_url": "easternstandardsounds.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 622,
+			"friends_count": 1735,
+			"listed_count": 10,
+			"created_at": "Tue Oct 14 19:11:59 +0000 2014",
+			"favourites_count": 246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1804,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377239775166431236/AbrYTQ1R_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377239775166431236/AbrYTQ1R_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2855837208/1663570644",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "방금 사진을 게시했습니다 https://t.co/zPNUjwpoAV"
+	},
+	{
+		"created_at": "Thu Sep 22 02:29:34 +0000 2022",
+		"id": 1572763761001525200,
+		"id_str": "1572775081277018115",
+		"full_text": "[#존박 #곽진언]\n\nKBS WORLD TV\n&lt;Stage W busking in Mokpo&gt;\n존박, 곽진언의 '네 생각'&amp;'목포의 눈물' 선공개 🎶\n🔗 https://t.co/6746DMf179\n\n#존박 #JohnPark #곽진언 #KwakJineon\n#STAGEW #MokpoMusicPlay #KBS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "존박",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "곽진언",
+					"indices": [
+						5,
+						9
+					]
+				},
+				{
+					"text": "존박",
+					"indices": [
+						120,
+						123
+					]
+				},
+				{
+					"text": "JohnPark",
+					"indices": [
+						124,
+						133
+					]
+				},
+				{
+					"text": "곽진언",
+					"indices": [
+						134,
+						138
+					]
+				},
+				{
+					"text": "KwakJineon",
+					"indices": [
+						139,
+						150
+					]
+				},
+				{
+					"text": "STAGEW",
+					"indices": [
+						151,
+						158
+					]
+				},
+				{
+					"text": "MokpoMusicPlay",
+					"indices": [
+						159,
+						174
+					]
+				},
+				{
+					"text": "KBS",
+					"indices": [
+						175,
+						179
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6746DMf179",
+					"expanded_url": "https://youtu.be/jYgEUfNHp9k",
+					"display_url": "youtu.be/jYgEUfNHp9k",
+					"indices": [
+						95,
+						118
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 387577661,
+			"id_str": "387577661",
+			"name": "뮤직팜 Music Farm",
+			"screen_name": "musicfarmkorea",
+			"location": "",
+			"description": "이적, 김동률, 존박, 곽진언 / Official YouTube Channel https://t.co/e3kPCV31vL",
+			"url": "https://t.co/P8S0qXo9Ud",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/P8S0qXo9Ud",
+							"expanded_url": "http://www.musicfarm.co.kr",
+							"display_url": "musicfarm.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e3kPCV31vL",
+							"expanded_url": "http://youtube.com/user/musicfarmkorea",
+							"display_url": "youtube.com/user/musicfarm…",
+							"indices": [
+								44,
+								67
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8930,
+			"friends_count": 4,
+			"listed_count": 105,
+			"created_at": "Sun Oct 09 09:25:49 +0000 2011",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1045,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "86B577",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1402947092859867142/vPyyn-39_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1402947092859867142/vPyyn-39_normal.jpg",
+			"profile_link_color": "136785",
+			"profile_sidebar_border_color": "46555C",
+			"profile_sidebar_fill_color": "B9BDBF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#존박 #곽진언]\n\nKBS WORLD TV\n&lt;Stage W busking in Mokpo&gt;\n존박, 곽진언의 '네 생각'&amp;'목포의 눈물' 선공개 🎶\n🔗 https://t.co/6746DMf179\n\n#존박 #JohnPark #곽진언 #KwakJineon\n#STAGEW #MokpoMusicPlay #KBS"
+	},
+	{
 		"created_at": "Thu Sep 22 01:58:15 +0000 2022",
 		"id": 1572761629200359400,
 		"id_str": "1572767198976028674",
