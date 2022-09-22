@@ -1,6 +1,462 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Thu Sep 22 01:58:15 +0000 2022",
+		"id": 1572761629200359400,
+		"id_str": "1572767198976028674",
+		"full_text": "[2022 렛츠락페스티벌 물품 보관 이용 안내]\n\n렛츠락페스티벌 물품 보관 이용 안내드립니다.\n안내 사항 참고하셔서 이용해 주시기 바랍니다!\n\n📌 운영 시간\n09:30 ~ 공연 종료시까지\n\n📌 운영 가격\n1회 3,000원 (재보관료 1,000원) https://t.co/wGAWXzMugr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1572761621818396700,
+					"id_str": "1572761621818396672",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/FdOSXLjaUAAPNi7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdOSXLjaUAAPNi7.jpg",
+					"url": "https://t.co/wGAWXzMugr",
+					"display_url": "pic.twitter.com/wGAWXzMugr",
+					"expanded_url": "https://twitter.com/letsrockfe/status/1572761629200359424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1572761621818396700,
+					"id_str": "1572761621818396672",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/FdOSXLjaUAAPNi7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdOSXLjaUAAPNi7.jpg",
+					"url": "https://t.co/wGAWXzMugr",
+					"display_url": "pic.twitter.com/wGAWXzMugr",
+					"expanded_url": "https://twitter.com/letsrockfe/status/1572761629200359424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1572761621839347700,
+					"id_str": "1572761621839347713",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/FdOSXLoaAAErB99.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdOSXLoaAAErB99.jpg",
+					"url": "https://t.co/wGAWXzMugr",
+					"display_url": "pic.twitter.com/wGAWXzMugr",
+					"expanded_url": "https://twitter.com/letsrockfe/status/1572761629200359424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 158300000,
+			"id_str": "158300000",
+			"name": "렛츠락페스티벌",
+			"screen_name": "letsrockfe",
+			"location": "Seoul Korea",
+			"description": "2022.09.24(토) - 2022.09.25(일)\n난지한강공원 일대\n-\n👇🏻티켓 예매🔗\nhttps://t.co/11CqLzUYRf",
+			"url": "https://t.co/1V3BUitnJS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1V3BUitnJS",
+							"expanded_url": "http://www.letsrock.co.kr",
+							"display_url": "letsrock.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/11CqLzUYRf",
+							"expanded_url": "http://linktr.ee/letsrockfe",
+							"display_url": "linktr.ee/letsrockfe",
+							"indices": [
+								51,
+								74
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3928,
+			"friends_count": 138,
+			"listed_count": 45,
+			"created_at": "Tue Jun 22 09:04:04 +0000 2010",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1438,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "89C9FA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551432329939529729/msipUz7J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551432329939529729/msipUz7J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/158300000/1658725267",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[2022 렛츠락페스티벌 물품 보관 이용 안내]\n\n렛츠락페스티벌 물품 보관 이용 안내드립니다.\n안내 사항 참고하셔서 이용해 주시기 바랍니다!\n\n📌 운영 시간\n09:30 ~ 공연 종료시까지\n\n📌 운영 가격\n1회 3,000원 (재보관료 1,000원) https://t.co/wGAWXzMugr"
+	},
+	{
+		"created_at": "Thu Sep 22 01:29:31 +0000 2022",
+		"id": 1572752826258059300,
+		"id_str": "1572759967501000704",
+		"full_text": "SHINHWA 신화 'I Pray 4 U' MV\n\nhttps://t.co/PtS4lYkfaY\n\n#SM_Remastering_Project #RemasterMV\n#리마스터링프로젝트\n#SHINHWA #신화 #I_Pray_4_U\n#SMTOWN https://t.co/Iy8250BE5A",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SM_Remastering_Project",
+					"indices": [
+						53,
+						76
+					]
+				},
+				{
+					"text": "RemasterMV",
+					"indices": [
+						77,
+						88
+					]
+				},
+				{
+					"text": "리마스터링프로젝트",
+					"indices": [
+						89,
+						99
+					]
+				},
+				{
+					"text": "SHINHWA",
+					"indices": [
+						100,
+						108
+					]
+				},
+				{
+					"text": "신화",
+					"indices": [
+						109,
+						112
+					]
+				},
+				{
+					"text": "I_Pray_4_U",
+					"indices": [
+						113,
+						124
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						125,
+						132
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PtS4lYkfaY",
+					"expanded_url": "https://youtu.be/2TCs9D-j52s",
+					"display_url": "youtu.be/2TCs9D-j52s",
+					"indices": [
+						28,
+						51
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1572752820180172800,
+					"id_str": "1572752820180172800",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/FdOKW25VQAAn1EO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdOKW25VQAAn1EO.jpg",
+					"url": "https://t.co/Iy8250BE5A",
+					"display_url": "pic.twitter.com/Iy8250BE5A",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1572752826258059265/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1572752820180172800,
+					"id_str": "1572752820180172800",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/FdOKW25VQAAn1EO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdOKW25VQAAn1EO.jpg",
+					"url": "https://t.co/Iy8250BE5A",
+					"display_url": "pic.twitter.com/Iy8250BE5A",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1572752826258059265/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11186859,
+			"friends_count": 55,
+			"listed_count": 12611,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2027,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12931,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 218,
+		"favorite_count": 1204,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "SHINHWA 신화 'I Pray 4 U' MV\n\nhttps://t.co/PtS4lYkfaY\n\n#SM_Remastering_Project #RemasterMV\n#리마스터링프로젝트\n#SHINHWA #신화 #I_Pray_4_U\n#SMTOWN https://t.co/Iy8250BE5A"
+	},
+	{
 		"created_at": "Thu Sep 22 01:08:41 +0000 2022",
 		"id": 1572754724931375000,
 		"id_str": "1572754724931375104",
