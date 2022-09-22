@@ -1,6 +1,220 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Thu Sep 22 13:29:25 +0000 2022",
+		"id": 1572933891962605600,
+		"id_str": "1572941136523849728",
+		"full_text": "핑블아 와서 문제 하나만 맞혀주라 스엠 소원!🙏🏻 | Pink Blood OX Quiz Show with Pink Bloods💖\n\nhttps://t.co/w4OccrifR2\n\n#PinkBlood #OX_QuizShow \n#SMTOWN #SMTOWNLIVE2022_SUWON https://t.co/512sOLUAZk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PinkBlood",
+					"indices": [
+						98,
+						108
+					]
+				},
+				{
+					"text": "OX_QuizShow",
+					"indices": [
+						109,
+						121
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						123,
+						130
+					]
+				},
+				{
+					"text": "SMTOWNLIVE2022_SUWON",
+					"indices": [
+						131,
+						152
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/w4OccrifR2",
+					"expanded_url": "https://youtu.be/6-ai8Wx_JrY",
+					"display_url": "youtu.be/6-ai8Wx_JrY",
+					"indices": [
+						73,
+						96
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1572933882860966000,
+					"id_str": "1572933882860965888",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/FdQvCF8akAAUy5H.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdQvCF8akAAUy5H.jpg",
+					"url": "https://t.co/512sOLUAZk",
+					"display_url": "pic.twitter.com/512sOLUAZk",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1572933891962605569/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1572933882860966000,
+					"id_str": "1572933882860965888",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/FdQvCF8akAAUy5H.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdQvCF8akAAUy5H.jpg",
+					"url": "https://t.co/512sOLUAZk",
+					"display_url": "pic.twitter.com/512sOLUAZk",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1572933891962605569/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11186987,
+			"friends_count": 55,
+			"listed_count": 12612,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2027,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12936,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 319,
+		"favorite_count": 2015,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "핑블아 와서 문제 하나만 맞혀주라 스엠 소원!🙏🏻 | Pink Blood OX Quiz Show with Pink Bloods💖\n\nhttps://t.co/w4OccrifR2\n\n#PinkBlood #OX_QuizShow \n#SMTOWN #SMTOWNLIVE2022_SUWON https://t.co/512sOLUAZk"
+	},
+	{
 		"created_at": "Thu Sep 22 13:11:31 +0000 2022",
 		"id": 1572909590915985400,
 		"id_str": "1572936634143842306",
