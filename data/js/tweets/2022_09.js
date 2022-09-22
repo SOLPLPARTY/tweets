@@ -1,6 +1,329 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Thu Sep 22 03:58:15 +0000 2022",
+		"id": 1572796215632482300,
+		"id_str": "1572797399051177984",
+		"full_text": "[2022 렛츠락페스티벌 INFO 영상 공개]\n\n렛츠락페스티벌 INFO 영상을 공개합니다! 💁🏻‍♀️\n\n구역별 정보를 잘 확인하시고 렛츠락페스티벌에서 924925배 더 즐거운 시간 되시길 바랍니다! 🤩💚 https://t.co/IY2LOXBZbu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1572796134124564500,
+					"id_str": "1572796134124564481",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1572796134124564481/pu/img/qSsj_B9ePbBOrbk5.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1572796134124564481/pu/img/qSsj_B9ePbBOrbk5.jpg",
+					"url": "https://t.co/IY2LOXBZbu",
+					"display_url": "pic.twitter.com/IY2LOXBZbu",
+					"expanded_url": "https://twitter.com/letsrockfe/status/1572796215632482304/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1572796134124564500,
+					"id_str": "1572796134124564481",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1572796134124564481/pu/img/qSsj_B9ePbBOrbk5.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1572796134124564481/pu/img/qSsj_B9ePbBOrbk5.jpg",
+					"url": "https://t.co/IY2LOXBZbu",
+					"display_url": "pic.twitter.com/IY2LOXBZbu",
+					"expanded_url": "https://twitter.com/letsrockfe/status/1572796215632482304/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 44541,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1572796134124564481/pu/pl/Bchc2N_UadLU5sd0.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1572796134124564481/pu/vid/720x720/5xSmiEZYqsceVoBL.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1572796134124564481/pu/vid/540x540/xYIpEMR9OGPcnEoN.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1572796134124564481/pu/vid/320x320/zn-ayHJt2YyQlqbw.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 158300000,
+			"id_str": "158300000",
+			"name": "렛츠락페스티벌",
+			"screen_name": "letsrockfe",
+			"location": "Seoul Korea",
+			"description": "2022.09.24(토) - 2022.09.25(일)\n난지한강공원 일대\n-\n👇🏻티켓 예매🔗\nhttps://t.co/11CqLzUYRf",
+			"url": "https://t.co/1V3BUitnJS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1V3BUitnJS",
+							"expanded_url": "http://www.letsrock.co.kr",
+							"display_url": "letsrock.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/11CqLzUYRf",
+							"expanded_url": "http://linktr.ee/letsrockfe",
+							"display_url": "linktr.ee/letsrockfe",
+							"indices": [
+								51,
+								74
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3927,
+			"friends_count": 138,
+			"listed_count": 45,
+			"created_at": "Tue Jun 22 09:04:04 +0000 2010",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1439,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "89C9FA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551432329939529729/msipUz7J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551432329939529729/msipUz7J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/158300000/1658725267",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[2022 렛츠락페스티벌 INFO 영상 공개]\n\n렛츠락페스티벌 INFO 영상을 공개합니다! 💁🏻‍♀️\n\n구역별 정보를 잘 확인하시고 렛츠락페스티벌에서 924925배 더 즐거운 시간 되시길 바랍니다! 🤩💚 https://t.co/IY2LOXBZbu"
+	},
+	{
+		"created_at": "Thu Sep 22 03:29:27 +0000 2022",
+		"id": 1572783754070069200,
+		"id_str": "1572790149175562240",
+		"full_text": "원포인트(One Point) [Shall we go Tomorrow?] https://t.co/AoG2lDkQP9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AoG2lDkQP9",
+					"expanded_url": "http://blog.naver.com/chili7272/222881237350",
+					"display_url": "blog.naver.com/chili7272/2228…",
+					"indices": [
+						40,
+						63
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.naver.com\" rel=\"nofollow\">Naver</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 114111001,
+			"id_str": "114111001",
+			"name": "칠리뮤직코리아",
+			"screen_name": "chilimusickorea",
+			"location": "Seoul, Korea",
+			"description": "음반제작 및 배급전문/국내 및 해외사이트 음원유통/매니지먼트 담당//\n허클베리 핀/에이프릴 세컨드/트레봉봉/오드트리/Steve Barakett/LasseLindh/Sioen 등",
+			"url": "https://t.co/qZzCfFQtXO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qZzCfFQtXO",
+							"expanded_url": "http://www.facebook.com/chilimusickorea1",
+							"display_url": "facebook.com/chilimusickore…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2073,
+			"friends_count": 2328,
+			"listed_count": 0,
+			"created_at": "Sun Feb 14 05:12:40 +0000 2010",
+			"favourites_count": 690,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5429,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1526066762969935872/M-LQZSu0_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1526066762969935872/M-LQZSu0_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/114111001/1663643565",
+			"profile_link_color": "FC420A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "C0B8C4",
+			"profile_text_color": "9FFEE3",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "원포인트(One Point) [Shall we go Tomorrow?] https://t.co/AoG2lDkQP9"
+	},
+	{
 		"created_at": "Thu Sep 22 03:11:17 +0000 2022",
 		"id": 1572782745339699200,
 		"id_str": "1572785578877538305",
