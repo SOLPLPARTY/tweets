@@ -1,10 +1,463 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Thu Sep 22 06:11:24 +0000 2022",
+		"id": 1572830904296558600,
+		"id_str": "1572830904296558593",
+		"full_text": "#유니버설뮤직코리아 #Universal_Music_Korea\n올 하반기 가장 핫한 챌린지를 만든 노래 'BILLIE EILISH.'🔥🔥\nhttps://t.co/rVL1iGy3Pa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "유니버설뮤직코리아",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "Universal_Music_Korea",
+					"indices": [
+						11,
+						33
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rVL1iGy3Pa",
+					"expanded_url": "https://youtu.be/GtQH-5C0vkE",
+					"display_url": "youtu.be/GtQH-5C0vkE",
+					"indices": [
+						76,
+						99
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 253,
+			"friends_count": 460,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 234,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 88454,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#유니버설뮤직코리아 #Universal_Music_Korea\n올 하반기 가장 핫한 챌린지를 만든 노래 'BILLIE EILISH.'🔥🔥\nhttps://t.co/rVL1iGy3Pa"
+	},
+	{
+		"created_at": "Thu Sep 22 06:11:24 +0000 2022",
+		"id": 1572830904271384600,
+		"id_str": "1572830904271384576",
+		"full_text": "#유니버설뮤직코리아 #Universal_Music_Korea\nTXT랑 히트곡을 만든 방법 | 유뮤코 오리지널\nhttps://t.co/eIShL4OUn5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "유니버설뮤직코리아",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "Universal_Music_Korea",
+					"indices": [
+						11,
+						33
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eIShL4OUn5",
+					"expanded_url": "https://youtu.be/sB5sGBACePg",
+					"display_url": "youtu.be/sB5sGBACePg",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 253,
+			"friends_count": 460,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 234,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 88454,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#유니버설뮤직코리아 #Universal_Music_Korea\nTXT랑 히트곡을 만든 방법 | 유뮤코 오리지널\nhttps://t.co/eIShL4OUn5"
+	},
+	{
+		"created_at": "Thu Sep 22 05:29:30 +0000 2022",
+		"id": 1572818653766045700,
+		"id_str": "1572820362278346757",
+		"full_text": "[#인순이] #수니버스 #수니잼\n\n▶#거위의꿈 - 인순이 cover by 인순이, 김수린 | 수니잼 EP.10◀\n\n누구나 한번쯤 위로 받았던 바로 그 곡을\n세상의 모든 수험생에게 바칩니다🙏\n여러분의 그 꿈을 믿어요✨\n\n👉 https://t.co/Ykx8jyr2NT\n\n#INSOONI #휴맵컨텐츠 #HUMAPCONTENTS #sooniverse #kpop",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "인순이",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "수니버스",
+					"indices": [
+						7,
+						12
+					]
+				},
+				{
+					"text": "수니잼",
+					"indices": [
+						13,
+						17
+					]
+				},
+				{
+					"text": "거위의꿈",
+					"indices": [
+						20,
+						25
+					]
+				},
+				{
+					"text": "INSOONI",
+					"indices": [
+						149,
+						157
+					]
+				},
+				{
+					"text": "휴맵컨텐츠",
+					"indices": [
+						158,
+						164
+					]
+				},
+				{
+					"text": "HUMAPCONTENTS",
+					"indices": [
+						165,
+						179
+					]
+				},
+				{
+					"text": "sooniverse",
+					"indices": [
+						180,
+						191
+					]
+				},
+				{
+					"text": "kpop",
+					"indices": [
+						192,
+						197
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ykx8jyr2NT",
+					"expanded_url": "https://youtu.be/JIbJZzBHTfQ",
+					"display_url": "youtu.be/JIbJZzBHTfQ",
+					"indices": [
+						124,
+						147
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1219506842935513000,
+			"id_str": "1219506842935513088",
+			"name": "휴맵컨텐츠(HUMAP)",
+			"screen_name": "humap_official",
+			"location": "",
+			"description": "휴맵컨텐츠(HUMAP CONTENTS) Official Twitter",
+			"url": "https://t.co/fBZZK3SmX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fBZZK3SmX6",
+							"expanded_url": "http://www.humapcontents.com/",
+							"display_url": "humapcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 382,
+			"friends_count": 2,
+			"listed_count": 0,
+			"created_at": "Tue Jan 21 06:28:27 +0000 2020",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 909,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1219506842935513088/1579755898",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#인순이] #수니버스 #수니잼\n\n▶#거위의꿈 - 인순이 cover by 인순이, 김수린 | 수니잼 EP.10◀\n\n누구나 한번쯤 위로 받았던 바로 그 곡을\n세상의 모든 수험생에게 바칩니다🙏\n여러분의 그 꿈을 믿어요✨\n\n👉 https://t.co/Ykx8jyr2NT\n\n#INSOONI #휴맵컨텐츠 #HUMAPCONTENTS #sooniverse #kpop"
+	},
+	{
 		"created_at": "Thu Sep 22 03:58:15 +0000 2022",
 		"id": 1572796215632482300,
 		"id_str": "1572797399051177984",
-		"full_text": "[2022 렛츠락페스티벌 INFO 영상 공개]\n\n렛츠락페스티벌 INFO 영상을 공개합니다! 💁🏻‍♀️\n\n구역별 정보를 잘 확인하시고 렛츠락페스티벌에서 924925배 더 즐거운 시간 되시길 바랍니다! 🤩💚 https://t.co/IY2LOXBZbu",
+		"full_text": "[2022 렛츠락페스티벌 INFO 영상 공개]\n\n렛츠락페스티벌 INFO 영상을 공개합니다! 💁🏻♀️\n\n구역별 정보를 잘 확인하시고 렛츠락페스티벌에서 924925배 더 즐거운 시간 되시길 바랍니다! 🤩💚 https://t.co/IY2LOXBZbu",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -214,7 +667,7 @@ Grailbird.data.tweets_2022_09 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "[2022 렛츠락페스티벌 INFO 영상 공개]\n\n렛츠락페스티벌 INFO 영상을 공개합니다! 💁🏻‍♀️\n\n구역별 정보를 잘 확인하시고 렛츠락페스티벌에서 924925배 더 즐거운 시간 되시길 바랍니다! 🤩💚 https://t.co/IY2LOXBZbu"
+		"text": "[2022 렛츠락페스티벌 INFO 영상 공개]\n\n렛츠락페스티벌 INFO 영상을 공개합니다! 💁🏻♀️\n\n구역별 정보를 잘 확인하시고 렛츠락페스티벌에서 924925배 더 즐거운 시간 되시길 바랍니다! 🤩💚 https://t.co/IY2LOXBZbu"
 	},
 	{
 		"created_at": "Thu Sep 22 03:29:27 +0000 2022",
