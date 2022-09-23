@@ -1,6 +1,1942 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Fri Sep 23 07:58:20 +0000 2022",
+		"id": 1573210820661891000,
+		"id_str": "1573220205131603969",
+		"full_text": "✅ Let’s Checklist \n\n렛츠락페스티벌 오기 전 챙기면 좋을\n렛츠락만의 체크리스트! 🤳\n\n같이 Let's Check!\n\n-\n2022 Let's Rock Festival\n2022. 09. 24(토) - 09. 25(일)\n난지한강공원 일대 https://t.co/Qv8y8BObev",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1573210812201676800,
+					"id_str": "1573210812201676800",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/FdUq5gIVsAAsQyy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdUq5gIVsAAsQyy.jpg",
+					"url": "https://t.co/Qv8y8BObev",
+					"display_url": "pic.twitter.com/Qv8y8BObev",
+					"expanded_url": "https://twitter.com/letsrockfe/status/1573210820661891074/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1573210812201676800,
+					"id_str": "1573210812201676800",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/FdUq5gIVsAAsQyy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdUq5gIVsAAsQyy.jpg",
+					"url": "https://t.co/Qv8y8BObev",
+					"display_url": "pic.twitter.com/Qv8y8BObev",
+					"expanded_url": "https://twitter.com/letsrockfe/status/1573210820661891074/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1573210812210024400,
+					"id_str": "1573210812210024448",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/FdUq5gKVEAAuTa6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdUq5gKVEAAuTa6.jpg",
+					"url": "https://t.co/Qv8y8BObev",
+					"display_url": "pic.twitter.com/Qv8y8BObev",
+					"expanded_url": "https://twitter.com/letsrockfe/status/1573210820661891074/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1573210812168032300,
+					"id_str": "1573210812168032261",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/FdUq5gAUUAUi1-i.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdUq5gAUUAUi1-i.jpg",
+					"url": "https://t.co/Qv8y8BObev",
+					"display_url": "pic.twitter.com/Qv8y8BObev",
+					"expanded_url": "https://twitter.com/letsrockfe/status/1573210820661891074/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1573210812172288000,
+					"id_str": "1573210812172288000",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/FdUq5gBVQAAHfWU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdUq5gBVQAAHfWU.jpg",
+					"url": "https://t.co/Qv8y8BObev",
+					"display_url": "pic.twitter.com/Qv8y8BObev",
+					"expanded_url": "https://twitter.com/letsrockfe/status/1573210820661891074/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 158300000,
+			"id_str": "158300000",
+			"name": "렛츠락페스티벌",
+			"screen_name": "letsrockfe",
+			"location": "Seoul Korea",
+			"description": "2022.09.24(토) - 2022.09.25(일)\n난지한강공원 일대\n-\n👇🏻티켓 예매🔗\nhttps://t.co/11CqLzUYRf",
+			"url": "https://t.co/1V3BUitnJS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1V3BUitnJS",
+							"expanded_url": "http://www.letsrock.co.kr",
+							"display_url": "letsrock.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/11CqLzUYRf",
+							"expanded_url": "http://linktr.ee/letsrockfe",
+							"display_url": "linktr.ee/letsrockfe",
+							"indices": [
+								51,
+								74
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3929,
+			"friends_count": 138,
+			"listed_count": 45,
+			"created_at": "Tue Jun 22 09:04:04 +0000 2010",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1442,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "89C9FA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551432329939529729/msipUz7J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551432329939529729/msipUz7J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/158300000/1658725267",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "✅ Let’s Checklist \n\n렛츠락페스티벌 오기 전 챙기면 좋을\n렛츠락만의 체크리스트! 🤳\n\n같이 Let's Check!\n\n-\n2022 Let's Rock Festival\n2022. 09. 24(토) - 09. 25(일)\n난지한강공원 일대 https://t.co/Qv8y8BObev"
+	},
+	{
+		"created_at": "Fri Sep 23 07:58:15 +0000 2022",
+		"id": 1573207073210663000,
+		"id_str": "1573220183426191360",
+		"full_text": "KCON 2022 JAPAN 굿즈 판매 개시🎉\n🗓️9/23(금) 12:00 ~ 11/18(금) 23:59\n \n📣10/10까지 발송하는 특급상품 마감 : 9/30(금)\n \n온라인 구입으로 #KCON 출연 아티스트 솔로 폴라로이드 당첨의 기회도✨\n\n자세한 내용은 홈페이지를 확인해 주세요💙\n🔗https://t.co/oKAmmvU5zu\n\n#KCON2022JAPAN https://t.co/Vm68JZiBEC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						104,
+						109
+					]
+				},
+				{
+					"text": "KCON2022JAPAN",
+					"indices": [
+						186,
+						200
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oKAmmvU5zu",
+					"expanded_url": "https://kcon2022japan-officialmd.com",
+					"display_url": "kcon2022japan-officialmd.com",
+					"indices": [
+						161,
+						184
+					]
+				},
+				{
+					"url": "https://t.co/Vm68JZiBEC",
+					"expanded_url": "https://twitter.com/kconjapan/status/1573206828833705985",
+					"display_url": "twitter.com/kconjapan/stat…",
+					"indices": [
+						201,
+						224
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER \n📍 KCON 2022 SAUDI ARABIA 9/30 ~ 10/1 \n📍KCON 2022 JAPAN 10/14 ~ 10/16(JST)",
+			"url": "https://t.co/IDnJhWoZ59",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWoZ59",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 464527,
+			"friends_count": 76,
+			"listed_count": 1128,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 138,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13018,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1567787455188987905/sAYoOtFz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1567787455188987905/sAYoOtFz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1662638939",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1573206828833706000,
+		"quoted_status_id_str": "1573206828833705985",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Vm68JZiBEC",
+			"expanded": "https://twitter.com/kconjapan/status/1573206828833705985",
+			"display": "twitter.com/kconjapan/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Sep 23 07:05:11 +0000 2022",
+			"id": 1573206828833706000,
+			"id_str": "1573206828833705985",
+			"full_text": "本日より #KCON2022JAPAN のグッズ販売開始🎉\n🗓️9/23(金) 12:00 ~ 11/18(金) 23:59\n \n📣10/10までに発送する特急商品の締切は9/30(金)\nお忘れなく‼️\n \nオンラインから購入すると #KCON 出演アーティストの「ソロポラロイド」が当たるチャンスも✨\n \n詳細はHPをチェック💙\n🔗https://t.co/rz0Ah45ZA4 https://t.co/RFBMtNANbf",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				190
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "KCON2022JAPAN",
+						"indices": [
+							5,
+							19
+						]
+					},
+					{
+						"text": "KCON",
+						"indices": [
+							117,
+							122
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/rz0Ah45ZA4",
+						"expanded_url": "https://kcon2022japan-officialmd.com",
+						"display_url": "kcon2022japan-officialmd.com",
+						"indices": [
+							167,
+							190
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1573206758197461000,
+						"id_str": "1573206758197460992",
+						"indices": [
+							191,
+							214
+						],
+						"media_url": "http://pbs.twimg.com/media/FdUnNhyagAA2a7O.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FdUnNhyagAA2a7O.jpg",
+						"url": "https://t.co/RFBMtNANbf",
+						"display_url": "pic.twitter.com/RFBMtNANbf",
+						"expanded_url": "https://twitter.com/kconjapan/status/1573206828833705985/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1573206758197461000,
+						"id_str": "1573206758197460992",
+						"indices": [
+							191,
+							214
+						],
+						"media_url": "http://pbs.twimg.com/media/FdUnNhyagAA2a7O.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FdUnNhyagAA2a7O.jpg",
+						"url": "https://t.co/RFBMtNANbf",
+						"display_url": "pic.twitter.com/RFBMtNANbf",
+						"expanded_url": "https://twitter.com/kconjapan/status/1573206828833705985/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1573206773296926700,
+						"id_str": "1573206773296926720",
+						"indices": [
+							191,
+							214
+						],
+						"media_url": "http://pbs.twimg.com/media/FdUnOaCaEAAmAz8.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FdUnOaCaEAAmAz8.jpg",
+						"url": "https://t.co/RFBMtNANbf",
+						"display_url": "pic.twitter.com/RFBMtNANbf",
+						"expanded_url": "https://twitter.com/kconjapan/status/1573206828833705985/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1573206795224772600,
+						"id_str": "1573206795224772608",
+						"indices": [
+							191,
+							214
+						],
+						"media_url": "http://pbs.twimg.com/media/FdUnPruacAAo8cE.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FdUnPruacAAo8cE.jpg",
+						"url": "https://t.co/RFBMtNANbf",
+						"display_url": "pic.twitter.com/RFBMtNANbf",
+						"expanded_url": "https://twitter.com/kconjapan/status/1573206828833705985/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1573206817588781000,
+						"id_str": "1573206817588781058",
+						"indices": [
+							191,
+							214
+						],
+						"media_url": "http://pbs.twimg.com/media/FdUnQ_CaIAIcO5g.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FdUnQ_CaIAIcO5g.jpg",
+						"url": "https://t.co/RFBMtNANbf",
+						"display_url": "pic.twitter.com/RFBMtNANbf",
+						"expanded_url": "https://twitter.com/kconjapan/status/1573206828833705985/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3017029196,
+				"id_str": "3017029196",
+				"name": "KCON Japan",
+				"screen_name": "kconjapan",
+				"location": "",
+				"description": "世界最大級のK-Cultureフェスティバル\n『KCON JAPAN』の公式Twitterです！\n📍10/14（金） ~ 10/16(日）/ 東京・有明アリーナ",
+				"url": "https://t.co/sCRhaGCzOM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/sCRhaGCzOM",
+								"expanded_url": "http://kconjapan.com",
+								"display_url": "kconjapan.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 242869,
+				"friends_count": 157,
+				"listed_count": 474,
+				"created_at": "Thu Feb 12 06:02:55 +0000 2015",
+				"favourites_count": 166,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 6713,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5ABB5",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1554285876041367553/Z3_Jgigb_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1554285876041367553/Z3_Jgigb_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3017029196/1662617121",
+				"profile_link_color": "F5ABB5",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 366,
+			"favorite_count": 1226,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"retweet_count": 14,
+		"favorite_count": 57,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "KCON 2022 JAPAN 굿즈 판매 개시🎉\n🗓️9/23(금) 12:00 ~ 11/18(금) 23:59\n \n📣10/10까지 발송하는 특급상품 마감 : 9/30(금)\n \n온라인 구입으로 #KCON 출연 아티스트 솔로 폴라로이드 당첨의 기회도✨\n\n자세한 내용은 홈페이지를 확인해 주세요💙\n🔗https://t.co/oKAmmvU5zu\n\n#KCON2022JAPAN https://t.co/Vm68JZiBEC"
+	},
+	{
+		"created_at": "Fri Sep 23 07:35:39 +0000 2022",
+		"id": 1573214495870107600,
+		"id_str": "1573214495870107648",
+		"full_text": "#소니뮤직코리아 #Sony_Music_Korea\n#2022롤드컵 주제곡을 #릴나스엑스 가 불렀다고?😮 #이왜진\nhttps://t.co/KOkquuhX37",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "소니뮤직코리아",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Sony_Music_Korea",
+					"indices": [
+						9,
+						26
+					]
+				},
+				{
+					"text": "2022롤드컵",
+					"indices": [
+						27,
+						35
+					]
+				},
+				{
+					"text": "릴나스엑스",
+					"indices": [
+						41,
+						47
+					]
+				},
+				{
+					"text": "이왜진",
+					"indices": [
+						57,
+						61
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KOkquuhX37",
+					"expanded_url": "https://youtu.be/wqRlw8Y6hms",
+					"display_url": "youtu.be/wqRlw8Y6hms",
+					"indices": [
+						62,
+						85
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 253,
+			"friends_count": 460,
+			"listed_count": 0,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 234,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 88528,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#소니뮤직코리아 #Sony_Music_Korea\n#2022롤드컵 주제곡을 #릴나스엑스 가 불렀다고?😮 #이왜진\nhttps://t.co/KOkquuhX37"
+	},
+	{
+		"created_at": "Fri Sep 23 07:29:52 +0000 2022",
+		"id": 1573210877339508700,
+		"id_str": "1573213040467738624",
+		"full_text": "🎉2022 개항 in싸 사운드바운드🎉\n\n[한중문화관 야외 스테이지 소개]\n한중문화관 앞 야외 무대에서 사운드바운드의 메인 스테이지가 무료 공연으로 펼쳐집니다.\n\n-몽돌\n: 탄산처럼 청량한 사운드로 질주하는 루키 밴드\n\n#사운드바운드 #한중문화관 #EOS #아디오스오디오 #후추스 #몽돌 https://t.co/T9PyCfJoUp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "사운드바운드",
+					"indices": [
+						122,
+						129
+					]
+				},
+				{
+					"text": "한중문화관",
+					"indices": [
+						130,
+						136
+					]
+				},
+				{
+					"text": "EOS",
+					"indices": [
+						137,
+						141
+					]
+				},
+				{
+					"text": "아디오스오디오",
+					"indices": [
+						142,
+						150
+					]
+				},
+				{
+					"text": "후추스",
+					"indices": [
+						151,
+						155
+					]
+				},
+				{
+					"text": "몽돌",
+					"indices": [
+						156,
+						159
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1573210864706293800,
+					"id_str": "1573210864706293760",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/FdUq8juakAAB5nt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdUq8juakAAB5nt.jpg",
+					"url": "https://t.co/T9PyCfJoUp",
+					"display_url": "pic.twitter.com/T9PyCfJoUp",
+					"expanded_url": "https://twitter.com/ruby_records/status/1573210877339508737/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1573210864706293800,
+					"id_str": "1573210864706293760",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/FdUq8juakAAB5nt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdUq8juakAAB5nt.jpg",
+					"url": "https://t.co/T9PyCfJoUp",
+					"display_url": "pic.twitter.com/T9PyCfJoUp",
+					"expanded_url": "https://twitter.com/ruby_records/status/1573210877339508737/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110930534,
+			"id_str": "110930534",
+			"name": "Ruby records",
+			"screen_name": "ruby_records",
+			"location": "대한민국 서울",
+			"description": "💎 루비레코드 #루비튜브 Rubytube #인천여관X루비살롱 rubysalon #스마일러브위크엔드 #모트 Motte #레인보우노트 RBN #우예린 yerin",
+			"url": "https://t.co/vLFrhW6ba0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vLFrhW6ba0",
+							"expanded_url": "http://youtube.com/user/rubysalon",
+							"display_url": "youtube.com/user/rubysalon",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7532,
+			"friends_count": 8168,
+			"listed_count": 195,
+			"created_at": "Wed Feb 03 07:13:24 +0000 2010",
+			"favourites_count": 1020,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7757,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1403718575479681030/-FWGVqIS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1403718575479681030/-FWGVqIS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110930534/1623507563",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🎉2022 개항 in싸 사운드바운드🎉\n\n[한중문화관 야외 스테이지 소개]\n한중문화관 앞 야외 무대에서 사운드바운드의 메인 스테이지가 무료 공연으로 펼쳐집니다.\n\n-몽돌\n: 탄산처럼 청량한 사운드로 질주하는 루키 밴드\n\n#사운드바운드 #한중문화관 #EOS #아디오스오디오 #후추스 #몽돌 https://t.co/T9PyCfJoUp"
+	},
+	{
+		"created_at": "Fri Sep 23 07:29:49 +0000 2022",
+		"id": 1573210780375617500,
+		"id_str": "1573213027029114880",
+		"full_text": "🎉2022 개항 in싸 사운드바운드🎉\n\n[한중문화관 야외 스테이지 소개]\n한중문화관 앞 야외 무대에서 사운드바운드의 메인 스테이지가 무료 공연으로 펼쳐집니다.\n\n-후추스\n: 익숙한 듯 새로운 팝과 록, 레트로의 경계 후추스\n\n#사운드바운드 #한중문화관 #EOS #아디오스오디오 #후추스 #몽돌 https://t.co/IjQ5OWoTC3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "사운드바운드",
+					"indices": [
+						126,
+						133
+					]
+				},
+				{
+					"text": "한중문화관",
+					"indices": [
+						134,
+						140
+					]
+				},
+				{
+					"text": "EOS",
+					"indices": [
+						141,
+						145
+					]
+				},
+				{
+					"text": "아디오스오디오",
+					"indices": [
+						146,
+						154
+					]
+				},
+				{
+					"text": "후추스",
+					"indices": [
+						155,
+						159
+					]
+				},
+				{
+					"text": "몽돌",
+					"indices": [
+						160,
+						163
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1573210713530986500,
+					"id_str": "1573210713530986496",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/FdUqzwjacAAN7IX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdUqzwjacAAN7IX.jpg",
+					"url": "https://t.co/IjQ5OWoTC3",
+					"display_url": "pic.twitter.com/IjQ5OWoTC3",
+					"expanded_url": "https://twitter.com/ruby_records/status/1573210780375617537/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1573210713530986500,
+					"id_str": "1573210713530986496",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/FdUqzwjacAAN7IX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdUqzwjacAAN7IX.jpg",
+					"url": "https://t.co/IjQ5OWoTC3",
+					"display_url": "pic.twitter.com/IjQ5OWoTC3",
+					"expanded_url": "https://twitter.com/ruby_records/status/1573210780375617537/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110930534,
+			"id_str": "110930534",
+			"name": "Ruby records",
+			"screen_name": "ruby_records",
+			"location": "대한민국 서울",
+			"description": "💎 루비레코드 #루비튜브 Rubytube #인천여관X루비살롱 rubysalon #스마일러브위크엔드 #모트 Motte #레인보우노트 RBN #우예린 yerin",
+			"url": "https://t.co/vLFrhW6ba0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vLFrhW6ba0",
+							"expanded_url": "http://youtube.com/user/rubysalon",
+							"display_url": "youtube.com/user/rubysalon",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7532,
+			"friends_count": 8168,
+			"listed_count": 195,
+			"created_at": "Wed Feb 03 07:13:24 +0000 2010",
+			"favourites_count": 1020,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7757,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1403718575479681030/-FWGVqIS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1403718575479681030/-FWGVqIS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110930534/1623507563",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🎉2022 개항 in싸 사운드바운드🎉\n\n[한중문화관 야외 스테이지 소개]\n한중문화관 앞 야외 무대에서 사운드바운드의 메인 스테이지가 무료 공연으로 펼쳐집니다.\n\n-후추스\n: 익숙한 듯 새로운 팝과 록, 레트로의 경계 후추스\n\n#사운드바운드 #한중문화관 #EOS #아디오스오디오 #후추스 #몽돌 https://t.co/IjQ5OWoTC3"
+	},
+	{
+		"created_at": "Fri Sep 23 07:29:44 +0000 2022",
+		"id": 1573210604936261600,
+		"id_str": "1573213009341808645",
+		"full_text": "🎉2022 개항 in싸 사운드바운드🎉\n\n[한중문화관 야외무대 소개]\n한중문화관 앞 야외 무대에서 사운드바운드의 메인 스테이지가 무료로 펼쳐집니다\n\n-아디오스오디오\n: 단단한 피아노 선율과 보컬 멜로디로 만들어내는 서정적, 격정적 감정이 뒤섞인 여운\n\n#사운드바운드 #한중문화관 #아디오스오디오 https://t.co/hn9IqLplEg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "사운드바운드",
+					"indices": [
+						140,
+						147
+					]
+				},
+				{
+					"text": "한중문화관",
+					"indices": [
+						148,
+						154
+					]
+				},
+				{
+					"text": "아디오스오디오",
+					"indices": [
+						155,
+						163
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1573210573021794300,
+					"id_str": "1573210573021794304",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/FdUqrlHaUAAZ7uh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdUqrlHaUAAZ7uh.jpg",
+					"url": "https://t.co/hn9IqLplEg",
+					"display_url": "pic.twitter.com/hn9IqLplEg",
+					"expanded_url": "https://twitter.com/ruby_records/status/1573210604936261633/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1573210573021794300,
+					"id_str": "1573210573021794304",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/FdUqrlHaUAAZ7uh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdUqrlHaUAAZ7uh.jpg",
+					"url": "https://t.co/hn9IqLplEg",
+					"display_url": "pic.twitter.com/hn9IqLplEg",
+					"expanded_url": "https://twitter.com/ruby_records/status/1573210604936261633/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110930534,
+			"id_str": "110930534",
+			"name": "Ruby records",
+			"screen_name": "ruby_records",
+			"location": "대한민국 서울",
+			"description": "💎 루비레코드 #루비튜브 Rubytube #인천여관X루비살롱 rubysalon #스마일러브위크엔드 #모트 Motte #레인보우노트 RBN #우예린 yerin",
+			"url": "https://t.co/vLFrhW6ba0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vLFrhW6ba0",
+							"expanded_url": "http://youtube.com/user/rubysalon",
+							"display_url": "youtube.com/user/rubysalon",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7532,
+			"friends_count": 8168,
+			"listed_count": 195,
+			"created_at": "Wed Feb 03 07:13:24 +0000 2010",
+			"favourites_count": 1020,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7757,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1403718575479681030/-FWGVqIS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1403718575479681030/-FWGVqIS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110930534/1623507563",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🎉2022 개항 in싸 사운드바운드🎉\n\n[한중문화관 야외무대 소개]\n한중문화관 앞 야외 무대에서 사운드바운드의 메인 스테이지가 무료로 펼쳐집니다\n\n-아디오스오디오\n: 단단한 피아노 선율과 보컬 멜로디로 만들어내는 서정적, 격정적 감정이 뒤섞인 여운\n\n#사운드바운드 #한중문화관 #아디오스오디오 https://t.co/hn9IqLplEg"
+	},
+	{
+		"created_at": "Fri Sep 23 07:29:38 +0000 2022",
+		"id": 1573210281735753700,
+		"id_str": "1573212983345422341",
+		"full_text": "🎉2022 개항 in싸 사운드바운드🎉\n\n[한중문화관 야외 스테이지 소개]\n한중문화관 앞 야외 무대에서 사운드바운드의 메인 스테이지가 무료 공연으로 펼쳐집니다.\n\n-EOS\n: 여전히 세련된 감성의 국내 최초 테크노 락 밴드\n\n#사운드바운드 #한중문화관 #EOS #아디오스오디오 #후추스 #몽돌 https://t.co/NV9vudXL7i",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "사운드바운드",
+					"indices": [
+						125,
+						132
+					]
+				},
+				{
+					"text": "한중문화관",
+					"indices": [
+						133,
+						139
+					]
+				},
+				{
+					"text": "EOS",
+					"indices": [
+						140,
+						144
+					]
+				},
+				{
+					"text": "아디오스오디오",
+					"indices": [
+						145,
+						153
+					]
+				},
+				{
+					"text": "후추스",
+					"indices": [
+						154,
+						158
+					]
+				},
+				{
+					"text": "몽돌",
+					"indices": [
+						159,
+						162
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1573210266074226700,
+					"id_str": "1573210266074226688",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/FdUqZtpaIAAOUma.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdUqZtpaIAAOUma.jpg",
+					"url": "https://t.co/NV9vudXL7i",
+					"display_url": "pic.twitter.com/NV9vudXL7i",
+					"expanded_url": "https://twitter.com/ruby_records/status/1573210281735753730/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1573210266074226700,
+					"id_str": "1573210266074226688",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/FdUqZtpaIAAOUma.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdUqZtpaIAAOUma.jpg",
+					"url": "https://t.co/NV9vudXL7i",
+					"display_url": "pic.twitter.com/NV9vudXL7i",
+					"expanded_url": "https://twitter.com/ruby_records/status/1573210281735753730/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110930534,
+			"id_str": "110930534",
+			"name": "Ruby records",
+			"screen_name": "ruby_records",
+			"location": "대한민국 서울",
+			"description": "💎 루비레코드 #루비튜브 Rubytube #인천여관X루비살롱 rubysalon #스마일러브위크엔드 #모트 Motte #레인보우노트 RBN #우예린 yerin",
+			"url": "https://t.co/vLFrhW6ba0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vLFrhW6ba0",
+							"expanded_url": "http://youtube.com/user/rubysalon",
+							"display_url": "youtube.com/user/rubysalon",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7532,
+			"friends_count": 8168,
+			"listed_count": 195,
+			"created_at": "Wed Feb 03 07:13:24 +0000 2010",
+			"favourites_count": 1020,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7757,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1403718575479681030/-FWGVqIS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1403718575479681030/-FWGVqIS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110930534/1623507563",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🎉2022 개항 in싸 사운드바운드🎉\n\n[한중문화관 야외 스테이지 소개]\n한중문화관 앞 야외 무대에서 사운드바운드의 메인 스테이지가 무료 공연으로 펼쳐집니다.\n\n-EOS\n: 여전히 세련된 감성의 국내 최초 테크노 락 밴드\n\n#사운드바운드 #한중문화관 #EOS #아디오스오디오 #후추스 #몽돌 https://t.co/NV9vudXL7i"
+	},
+	{
+		"created_at": "Fri Sep 23 07:29:32 +0000 2022",
+		"id": 1573210052877754400,
+		"id_str": "1573212957353336833",
+		"full_text": "🎉2022 개항 in싸 사운드바운드🎉\n\n단돈 만원으로 즐기는 공연들과 개항희망문화상권 여행 2022 사운드바운드!\n\n👉바로 예매하기\nhttps://t.co/tUNl3Kr5mg\n\n[한중문화관 야외 스테이지 소개]\n한중문화관 앞 야외 무대에서 사운드바운드의 메인 스테이지가 무료 공연으로 펼쳐집니다. https://t.co/5gRqwrYb8C",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tUNl3Kr5mg",
+					"expanded_url": "https://bit.ly/3xC1qHv",
+					"display_url": "bit.ly/3xC1qHv",
+					"indices": [
+						74,
+						97
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1573210026369745000,
+					"id_str": "1573210026369744896",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/FdUqLwraAAAuGbB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdUqLwraAAAuGbB.jpg",
+					"url": "https://t.co/5gRqwrYb8C",
+					"display_url": "pic.twitter.com/5gRqwrYb8C",
+					"expanded_url": "https://twitter.com/ruby_records/status/1573210052877754369/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1573210026369745000,
+					"id_str": "1573210026369744896",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/FdUqLwraAAAuGbB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdUqLwraAAAuGbB.jpg",
+					"url": "https://t.co/5gRqwrYb8C",
+					"display_url": "pic.twitter.com/5gRqwrYb8C",
+					"expanded_url": "https://twitter.com/ruby_records/status/1573210052877754369/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110930534,
+			"id_str": "110930534",
+			"name": "Ruby records",
+			"screen_name": "ruby_records",
+			"location": "대한민국 서울",
+			"description": "💎 루비레코드 #루비튜브 Rubytube #인천여관X루비살롱 rubysalon #스마일러브위크엔드 #모트 Motte #레인보우노트 RBN #우예린 yerin",
+			"url": "https://t.co/vLFrhW6ba0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vLFrhW6ba0",
+							"expanded_url": "http://youtube.com/user/rubysalon",
+							"display_url": "youtube.com/user/rubysalon",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7532,
+			"friends_count": 8168,
+			"listed_count": 195,
+			"created_at": "Wed Feb 03 07:13:24 +0000 2010",
+			"favourites_count": 1020,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7757,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1403718575479681030/-FWGVqIS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1403718575479681030/-FWGVqIS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110930534/1623507563",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🎉2022 개항 in싸 사운드바운드🎉\n\n단돈 만원으로 즐기는 공연들과 개항희망문화상권 여행 2022 사운드바운드!\n\n👉바로 예매하기\nhttps://t.co/tUNl3Kr5mg\n\n[한중문화관 야외 스테이지 소개]\n한중문화관 앞 야외 무대에서 사운드바운드의 메인 스테이지가 무료 공연으로 펼쳐집니다. https://t.co/5gRqwrYb8C"
+	},
+	{
 		"created_at": "Fri Sep 23 07:19:28 +0000 2022",
 		"id": 1573210424610214000,
 		"id_str": "1573210424610213888",
