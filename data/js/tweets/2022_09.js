@@ -1,6 +1,195 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Fri Sep 23 14:29:25 +0000 2022",
+		"id": 1573306917065461800,
+		"id_str": "1573318622449131520",
+		"full_text": "몰래 촬영을 몰래 촬영 \n\n#디어클라우드 앨범 녹음 시작!!\n#11월발매 https://t.co/GVPAob2w77",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "디어클라우드",
+					"indices": [
+						15,
+						22
+					]
+				},
+				{
+					"text": "11월발매",
+					"indices": [
+						34,
+						40
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1573306902305706000,
+					"id_str": "1573306902305705990",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/FdWCSrqaEAYTBTW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdWCSrqaEAYTBTW.jpg",
+					"url": "https://t.co/GVPAob2w77",
+					"display_url": "pic.twitter.com/GVPAob2w77",
+					"expanded_url": "https://twitter.com/messenger_yoon/status/1573306917065461760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 570,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1716,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1005,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1573306902305706000,
+					"id_str": "1573306902305705990",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/FdWCSrqaEAYTBTW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdWCSrqaEAYTBTW.jpg",
+					"url": "https://t.co/GVPAob2w77",
+					"display_url": "pic.twitter.com/GVPAob2w77",
+					"expanded_url": "https://twitter.com/messenger_yoon/status/1573306917065461760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 570,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1716,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1005,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 150566482,
+			"id_str": "150566482",
+			"name": "메신져윤(Messenger_Yoon)",
+			"screen_name": "messenger_yoon",
+			"location": "대한민국",
+			"description": "CEO/ 정준일, 낭만유랑악단, 나인(Nine9), 디어클라우드, 권영찬, 위아영(WeAreYoung)/ mymusicent@naver.com",
+			"url": "https://t.co/hvpc0ZvCMw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hvpc0ZvCMw",
+							"expanded_url": "https://youtube.com/channel/UCVCr77USl1_3GTbOhqUMACQ",
+							"display_url": "youtube.com/channel/UCVCr7…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2555,
+			"friends_count": 315,
+			"listed_count": 29,
+			"created_at": "Tue Jun 01 07:29:53 +0000 2010",
+			"favourites_count": 23041,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5861,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1504319027790852100/f3alenoq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1504319027790852100/f3alenoq_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "몰래 촬영을 몰래 촬영 \n\n#디어클라우드 앨범 녹음 시작!!\n#11월발매 https://t.co/GVPAob2w77"
+	},
+	{
 		"created_at": "Fri Sep 23 14:11:17 +0000 2022",
 		"id": 1573281980770357200,
 		"id_str": "1573314060174647303",
