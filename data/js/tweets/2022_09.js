@@ -1,6 +1,569 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Fri Sep 23 03:31:51 +0000 2022",
+		"id": 1573153140316127200,
+		"id_str": "1573153140316127232",
+		"full_text": "#유니버설뮤직코리아 #Universal_Music_Korea\n오늘 쫌 치명적이고 싶은 당신을 위해 준비한 노래💋 | 샘 스미스 (Sam Smith) - Unholy (Feat. Kim Petras) (가사/한글/해석)\nhttps://t.co/p8DQGGa0Bb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "유니버설뮤직코리아",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "Universal_Music_Korea",
+					"indices": [
+						11,
+						33
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/p8DQGGa0Bb",
+					"expanded_url": "https://youtu.be/C8uzRmUw0NE",
+					"display_url": "youtu.be/C8uzRmUw0NE",
+					"indices": [
+						122,
+						145
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 253,
+			"friends_count": 460,
+			"listed_count": 0,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 234,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 88502,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#유니버설뮤직코리아 #Universal_Music_Korea\n오늘 쫌 치명적이고 싶은 당신을 위해 준비한 노래💋 | 샘 스미스 (Sam Smith) - Unholy (Feat. Kim Petras) (가사/한글/해석)\nhttps://t.co/p8DQGGa0Bb"
+	},
+	{
+		"created_at": "Fri Sep 23 03:29:33 +0000 2022",
+		"id": 1573148380234391600,
+		"id_str": "1573152561259024385",
+		"full_text": "[유라]\n다가오는 일요일 난지한강공원에서\n아티스트 유라를 만나보세요💚\n\n유라의 무대는 오후 1시 50분부터 약 40분간 진행됩니다.\n\n#렛츠락페스티벌 #유라 #Rock #music https://t.co/x4lHnQu0zM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "렛츠락페스티벌",
+					"indices": [
+						75,
+						83
+					]
+				},
+				{
+					"text": "유라",
+					"indices": [
+						84,
+						87
+					]
+				},
+				{
+					"text": "Rock",
+					"indices": [
+						88,
+						93
+					]
+				},
+				{
+					"text": "music",
+					"indices": [
+						94,
+						100
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1573148305730969600,
+					"id_str": "1573148305730969600",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/FdTyDJYaIAA0__s.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdTyDJYaIAA0__s.jpg",
+					"url": "https://t.co/x4lHnQu0zM",
+					"display_url": "pic.twitter.com/x4lHnQu0zM",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1573148380234391552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1573148305730969600,
+					"id_str": "1573148305730969600",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/FdTyDJYaIAA0__s.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdTyDJYaIAA0__s.jpg",
+					"url": "https://t.co/x4lHnQu0zM",
+					"display_url": "pic.twitter.com/x4lHnQu0zM",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1573148380234391552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 743014855653752800,
+			"id_str": "743014855653752833",
+			"name": "문화인",
+			"screen_name": "munhwainkr",
+			"location": "",
+			"description": "🎧뮤직레이블 문화인의 공식트위터입니다. 윤현상/유라/로지/김우주/나히/허회경",
+			"url": "https://t.co/EWOG41NDnZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EWOG41NDnZ",
+							"expanded_url": "http://www.munhwain.kr",
+							"display_url": "munhwain.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 938,
+			"friends_count": 8,
+			"listed_count": 20,
+			"created_at": "Wed Jun 15 09:38:40 +0000 2016",
+			"favourites_count": 87,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1046,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1527524077572788226/HAmj0Af__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1527524077572788226/HAmj0Af__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/743014855653752833/1653271322",
+			"profile_link_color": "199B2B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[유라]\n다가오는 일요일 난지한강공원에서\n아티스트 유라를 만나보세요💚\n\n유라의 무대는 오후 1시 50분부터 약 40분간 진행됩니다.\n\n#렛츠락페스티벌 #유라 #Rock #music https://t.co/x4lHnQu0zM"
+	},
+	{
+		"created_at": "Fri Sep 23 03:29:29 +0000 2022",
+		"id": 1573145771070951400,
+		"id_str": "1573152548214693889",
+		"full_text": "KWON YURI shows off her charms in 'Good Job' as a bold and confident character! Her straightforward and proactive side shines as she doesn’t shy away from confessing to her crush!\n\n#권유리 #KWONYURI\n#굿잡 #GoodJob \n#소녀시대 #GirlsGeneration https://t.co/gp3HOKPvhD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			232
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권유리",
+					"indices": [
+						181,
+						185
+					]
+				},
+				{
+					"text": "KWONYURI",
+					"indices": [
+						186,
+						195
+					]
+				},
+				{
+					"text": "굿잡",
+					"indices": [
+						196,
+						199
+					]
+				},
+				{
+					"text": "GoodJob",
+					"indices": [
+						200,
+						208
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						210,
+						215
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						216,
+						232
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1573145763323969500,
+					"id_str": "1573145763323969537",
+					"indices": [
+						233,
+						256
+					],
+					"media_url": "http://pbs.twimg.com/media/FdTvvKLWAAEtKh_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdTvvKLWAAEtKh_.jpg",
+					"url": "https://t.co/gp3HOKPvhD",
+					"display_url": "pic.twitter.com/gp3HOKPvhD",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1573145771070951425/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 243,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 732,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 429,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1573145763323969500,
+					"id_str": "1573145763323969537",
+					"indices": [
+						233,
+						256
+					],
+					"media_url": "http://pbs.twimg.com/media/FdTvvKLWAAEtKh_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdTvvKLWAAEtKh_.jpg",
+					"url": "https://t.co/gp3HOKPvhD",
+					"display_url": "pic.twitter.com/gp3HOKPvhD",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1573145771070951425/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 243,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 732,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 429,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11188398,
+			"friends_count": 55,
+			"listed_count": 12611,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2027,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12939,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 270,
+		"favorite_count": 1323,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "KWON YURI shows off her charms in 'Good Job' as a bold and confident character! Her straightforward and proactive side shines as she doesn’t shy away from confessing to her crush!\n\n#권유리 #KWONYURI\n#굿잡 #GoodJob \n#소녀시대 #GirlsGeneration https://t.co/gp3HOKPvhD"
+	},
+	{
 		"created_at": "Fri Sep 23 03:11:50 +0000 2022",
 		"id": 1573148105511342000,
 		"id_str": "1573148105511342081",
