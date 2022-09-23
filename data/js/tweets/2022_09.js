@@ -1,6 +1,241 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Fri Sep 23 10:58:15 +0000 2022",
+		"id": 1573250823290851300,
+		"id_str": "1573265480906932227",
+		"full_text": "[ATEEZ CHECK IN]\nBreak that CHECK IN with ATEEZ feel💖 Check out the message from ATEEZ right now🎁\n\n에이티즈 게릴라 맞음. 왜냐면 케이콘 세상을 뒤집어놨음💖 조명신의 가호까지 따라주는 짱티즈의 메시지 지금 확인하기🎁\n\n#KCON #KCON2022SAUDIARABIA @ATEEZofficial https://t.co/zgXR1bP9AT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			206
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						165,
+						170
+					]
+				},
+				{
+					"text": "KCON2022SAUDIARABIA",
+					"indices": [
+						171,
+						191
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ATEEZofficial",
+					"name": "ATEEZ(에이티즈)",
+					"id": 923415570522914800,
+					"id_str": "923415570522914819",
+					"indices": [
+						192,
+						206
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1573240425489764400,
+					"id_str": "1573240425489764353",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1573240425489764353/img/-9Sri0IxOM9El1vS.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1573240425489764353/img/-9Sri0IxOM9El1vS.jpg",
+					"url": "https://t.co/zgXR1bP9AT",
+					"display_url": "pic.twitter.com/zgXR1bP9AT",
+					"expanded_url": "https://twitter.com/KCON_official/status/1573250823290851329/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1573240425489764400,
+					"id_str": "1573240425489764353",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1573240425489764353/img/-9Sri0IxOM9El1vS.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1573240425489764353/img/-9Sri0IxOM9El1vS.jpg",
+					"url": "https://t.co/zgXR1bP9AT",
+					"display_url": "pic.twitter.com/zgXR1bP9AT",
+					"expanded_url": "https://twitter.com/KCON_official/status/1573250823290851329/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 106606,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1573240425489764353/vid/720x1280/eu40h9A_4hd16qIG.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1573240425489764353/pl/yVWe9GWOGvMxImJ9.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1573240425489764353/vid/480x852/YhejR8HV4DjYImXR.mp4?tag=14"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1573240425489764353/vid/320x568/N6LcyC2UtyPoTIoj.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER \n📍 KCON 2022 SAUDI ARABIA 9/30 ~ 10/1 \n📍KCON 2022 JAPAN 10/14 ~ 10/16(JST)",
+			"url": "https://t.co/IDnJhWoZ59",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWoZ59",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 464584,
+			"friends_count": 76,
+			"listed_count": 1128,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 138,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13021,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1567787455188987905/sAYoOtFz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1567787455188987905/sAYoOtFz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1662638939",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1611,
+		"favorite_count": 3232,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[ATEEZ CHECK IN]\nBreak that CHECK IN with ATEEZ feel💖 Check out the message from ATEEZ right now🎁\n\n에이티즈 게릴라 맞음. 왜냐면 케이콘 세상을 뒤집어놨음💖 조명신의 가호까지 따라주는 짱티즈의 메시지 지금 확인하기🎁\n\n#KCON #KCON2022SAUDIARABIA @ATEEZofficial https://t.co/zgXR1bP9AT"
+	},
+	{
 		"created_at": "Fri Sep 23 09:58:48 +0000 2022",
 		"id": 1573248983744782300,
 		"id_str": "1573250519295983616",
