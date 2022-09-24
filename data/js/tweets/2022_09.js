@@ -1,6 +1,230 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Sat Sep 24 03:29:25 +0000 2022",
+		"id": 1573507514444005400,
+		"id_str": "1573514916442644496",
+		"full_text": "[Close Up ver.] WOOJIN - Moonlight🌙\n@AB6IX @Reileymusic\n🎧음원듣기 https://t.co/zk2o9iYqmP https://t.co/NImqm7ShPr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AB6IX",
+					"name": "AB6IX",
+					"id": 1096344582902575100,
+					"id_str": "1096344582902575104",
+					"indices": [
+						36,
+						42
+					]
+				},
+				{
+					"screen_name": "Reileymusic",
+					"name": "Reiley",
+					"id": 1102627913088811000,
+					"id_str": "1102627913088811008",
+					"indices": [
+						43,
+						55
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/zk2o9iYqmP",
+					"expanded_url": "http://WMK.lnk.to/XhEboN",
+					"display_url": "WMK.lnk.to/XhEboN",
+					"indices": [
+						62,
+						85
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1573504062280339500,
+					"id_str": "1573504062280339456",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1573504062280339456/pu/img/aGCqa5u87b4OVhEr.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1573504062280339456/pu/img/aGCqa5u87b4OVhEr.jpg",
+					"url": "https://t.co/NImqm7ShPr",
+					"display_url": "pic.twitter.com/NImqm7ShPr",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1573507514444005378/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1573504062280339500,
+					"id_str": "1573504062280339456",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1573504062280339456/pu/img/aGCqa5u87b4OVhEr.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1573504062280339456/pu/img/aGCqa5u87b4OVhEr.jpg",
+					"url": "https://t.co/NImqm7ShPr",
+					"display_url": "pic.twitter.com/NImqm7ShPr",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1573507514444005378/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 58591,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1573504062280339456/pu/vid/320x568/XRb9tQ69Le3zhvE0.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1573504062280339456/pu/pl/Jp8X85WxOnJ8pZVx.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1573504062280339456/pu/vid/480x852/dEGUHURuAEEI8n5b.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1573504062280339456/pu/vid/720x1280/ASQF89EGeCtYpaTj.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 90328,
+			"friends_count": 491,
+			"listed_count": 217,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1579,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11999,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1636703401",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 366,
+		"favorite_count": 656,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Close Up ver.] WOOJIN - Moonlight🌙\n@AB6IX @Reileymusic\n🎧음원듣기 https://t.co/zk2o9iYqmP https://t.co/NImqm7ShPr"
+	},
+	{
 		"created_at": "Sat Sep 24 03:12:30 +0000 2022",
 		"id": 1573510660519927800,
 		"id_str": "1573510660519927808",
