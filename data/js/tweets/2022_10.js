@@ -1,6 +1,275 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Sat Oct 01 11:58:18 +0000 2022",
+		"id": 1576172574546935800,
+		"id_str": "1576179697393848322",
+		"full_text": "Guess who?\n\nArtist Booth Visit Event \n@ K-CONTENTS STORY with KOCCA💎\n\nCome and visit K-CONTENTS STORY to meet our Secret Guests! \n\nGet all stamps and see what special gift wait for you! ;) \n\n#KCON #KCONSAUDIARABIA #KOCCA https://t.co/yqgfcRjor6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			220
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						191,
+						196
+					]
+				},
+				{
+					"text": "KCONSAUDIARABIA",
+					"indices": [
+						197,
+						213
+					]
+				},
+				{
+					"text": "KOCCA",
+					"indices": [
+						214,
+						220
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1576145469642002400,
+					"id_str": "1576145469642002432",
+					"indices": [
+						221,
+						244
+					],
+					"media_url": "http://pbs.twimg.com/media/Fd-X9DBaUAArLgO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fd-X9DBaUAArLgO.jpg",
+					"url": "https://t.co/yqgfcRjor6",
+					"display_url": "pic.twitter.com/yqgfcRjor6",
+					"expanded_url": "https://twitter.com/KCON_official/status/1576172574546935808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1576145469642002400,
+					"id_str": "1576145469642002432",
+					"indices": [
+						221,
+						244
+					],
+					"media_url": "http://pbs.twimg.com/media/Fd-X9DBaUAArLgO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fd-X9DBaUAArLgO.jpg",
+					"url": "https://t.co/yqgfcRjor6",
+					"display_url": "pic.twitter.com/yqgfcRjor6",
+					"expanded_url": "https://twitter.com/KCON_official/status/1576172574546935808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1576145469637824500,
+					"id_str": "1576145469637824513",
+					"indices": [
+						221,
+						244
+					],
+					"media_url": "http://pbs.twimg.com/media/Fd-X9DAakAEZ5JG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fd-X9DAakAEZ5JG.jpg",
+					"url": "https://t.co/yqgfcRjor6",
+					"display_url": "pic.twitter.com/yqgfcRjor6",
+					"expanded_url": "https://twitter.com/KCON_official/status/1576172574546935808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1576145469646213000,
+					"id_str": "1576145469646213121",
+					"indices": [
+						221,
+						244
+					],
+					"media_url": "http://pbs.twimg.com/media/Fd-X9DCakAEUG4A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fd-X9DCakAEUG4A.jpg",
+					"url": "https://t.co/yqgfcRjor6",
+					"display_url": "pic.twitter.com/yqgfcRjor6",
+					"expanded_url": "https://twitter.com/KCON_official/status/1576172574546935808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER \n📍 KCON 2022 SAUDI ARABIA 9/30 ~ 10/1 (AST)\n📍KCON 2022 JAPAN 10/14 ~ 10/16 (JST)",
+			"url": "https://t.co/IDnJhWorfB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWorfB",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 466709,
+			"friends_count": 76,
+			"listed_count": 1134,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 138,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13113,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1567787455188987905/sAYoOtFz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1567787455188987905/sAYoOtFz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1662638939",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 488,
+		"favorite_count": 1001,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Guess who?\n\nArtist Booth Visit Event \n@ K-CONTENTS STORY with KOCCA💎\n\nCome and visit K-CONTENTS STORY to meet our Secret Guests! \n\nGet all stamps and see what special gift wait for you! ;) \n\n#KCON #KCONSAUDIARABIA #KOCCA https://t.co/yqgfcRjor6"
+	},
+	{
 		"created_at": "Sat Oct 01 10:29:31 +0000 2022",
 		"id": 1576149432415842300,
 		"id_str": "1576157352692154369",
