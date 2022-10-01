@@ -1,6 +1,295 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Sat Oct 01 03:29:25 +0000 2022",
+		"id": 1576044228387356700,
+		"id_str": "1576051631913078787",
+		"full_text": "[2022 Kakao Entertainment Friends Global Online Audition in ASIA]\n\n📆 Application Period: Oct 1st 2022(Sat) – Oct 31st 2022(Mon)\n\nApply to audition through the Kakao Entertainment homepage\n👉 https://t.co/Up6OErLR9q\n\n#KakaoEntertainment #Audition #Globalaudition https://t.co/7pUzeZTu7W",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			260
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KakaoEntertainment",
+					"indices": [
+						215,
+						234
+					]
+				},
+				{
+					"text": "Audition",
+					"indices": [
+						235,
+						244
+					]
+				},
+				{
+					"text": "Globalaudition",
+					"indices": [
+						245,
+						260
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Up6OErLR9q",
+					"expanded_url": "http://audition.kakaoent.com",
+					"display_url": "audition.kakaoent.com",
+					"indices": [
+						190,
+						213
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1575420419166740500,
+					"id_str": "1575420419166740480",
+					"indices": [
+						261,
+						284
+					],
+					"media_url": "http://pbs.twimg.com/media/Fd0EhjhUoAAXu0y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fd0EhjhUoAAXu0y.jpg",
+					"url": "https://t.co/7pUzeZTu7W",
+					"display_url": "pic.twitter.com/7pUzeZTu7W",
+					"expanded_url": "https://twitter.com/KakaoEntFriends/status/1576044228387356672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1081,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1081,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1575420419166740500,
+					"id_str": "1575420419166740480",
+					"indices": [
+						261,
+						284
+					],
+					"media_url": "http://pbs.twimg.com/media/Fd0EhjhUoAAXu0y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fd0EhjhUoAAXu0y.jpg",
+					"url": "https://t.co/7pUzeZTu7W",
+					"display_url": "pic.twitter.com/7pUzeZTu7W",
+					"expanded_url": "https://twitter.com/KakaoEntFriends/status/1576044228387356672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1081,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1081,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1575420516831137800,
+					"id_str": "1575420516831137792",
+					"indices": [
+						261,
+						284
+					],
+					"media_url": "http://pbs.twimg.com/media/Fd0EnPWVEAA8blj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fd0EnPWVEAA8blj.jpg",
+					"url": "https://t.co/7pUzeZTu7W",
+					"display_url": "pic.twitter.com/7pUzeZTu7W",
+					"expanded_url": "https://twitter.com/KakaoEntFriends/status/1576044228387356672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1575420516948537300,
+					"id_str": "1575420516948537345",
+					"indices": [
+						261,
+						284
+					],
+					"media_url": "http://pbs.twimg.com/media/Fd0EnPyUcAExzdL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fd0EnPyUcAExzdL.jpg",
+					"url": "https://t.co/7pUzeZTu7W",
+					"display_url": "pic.twitter.com/7pUzeZTu7W",
+					"expanded_url": "https://twitter.com/KakaoEntFriends/status/1576044228387356672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 870208746210734100,
+			"id_str": "870208746210734080",
+			"name": "Kakao Entertainment Friends Audition",
+			"screen_name": "KakaoEntFriends",
+			"location": "",
+			"description": "🎈국내 최대 엔터테인먼트 그룹 #카카오엔터테인먼트 #오디션 페이지 🎈오디션 지원하기 👉https://t.co/aaHK1Enxhk",
+			"url": "https://t.co/aaHK1Enxhk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aaHK1Enxhk",
+							"expanded_url": "http://audition.kakaoent.com",
+							"display_url": "audition.kakaoent.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aaHK1Enxhk",
+							"expanded_url": "http://audition.kakaoent.com",
+							"display_url": "audition.kakaoent.com",
+							"indices": [
+								48,
+								71
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3090,
+			"friends_count": 7,
+			"listed_count": 9,
+			"created_at": "Thu Jun 01 09:21:47 +0000 2017",
+			"favourites_count": 66,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1112,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1369119121284104199/UtSJe4HZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1369119121284104199/UtSJe4HZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/870208746210734080/1661585866",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[2022 Kakao Entertainment Friends Global Online Audition in ASIA]\n\n📆 Application Period: Oct 1st 2022(Sat) – Oct 31st 2022(Mon)\n\nApply to audition through the Kakao Entertainment homepage\n👉 https://t.co/Up6OErLR9q\n\n#KakaoEntertainment #Audition #Globalaudition https://t.co/7pUzeZTu7W"
+	},
+	{
 		"created_at": "Sat Oct 01 03:11:40 +0000 2022",
 		"id": 1576047165469696000,
 		"id_str": "1576047165469696000",
