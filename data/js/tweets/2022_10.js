@@ -1,6 +1,923 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Sat Oct 01 21:58:40 +0000 2022",
+		"id": 1576329534915637200,
+		"id_str": "1576330784918700036",
+		"full_text": "💚KCON 2022 SAUDI ARABIA AR Filter❤️\n\nWith AR Filter, artists' cuteness double up! \nCute AR Filter Challenge of #TO1 🥰 \n\nAR Filter 챌린지라니... 귀여움 과하다...!\n#티오원 의 사랑스러운 AR Filter 챌린지 🥰 \n\n#KCON2022SAUDIARABIA @TO1_offcl https://t.co/2ZnXAEB2HQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			213
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TO1",
+					"indices": [
+						111,
+						115
+					]
+				},
+				{
+					"text": "티오원",
+					"indices": [
+						151,
+						155
+					]
+				},
+				{
+					"text": "KCON2022SAUDIARABIA",
+					"indices": [
+						182,
+						202
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TO1_offcl",
+					"name": "TO1",
+					"id": 1120217350848958500,
+					"id_str": "1120217350848958465",
+					"indices": [
+						203,
+						213
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1576329461913768000,
+					"id_str": "1576329461913767936",
+					"indices": [
+						214,
+						237
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1576329461913767936/pu/img/xQfMQRkp3MmpzZeb.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1576329461913767936/pu/img/xQfMQRkp3MmpzZeb.jpg",
+					"url": "https://t.co/2ZnXAEB2HQ",
+					"display_url": "pic.twitter.com/2ZnXAEB2HQ",
+					"expanded_url": "https://twitter.com/KCON_official/status/1576329534915637248/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1576329461913768000,
+					"id_str": "1576329461913767936",
+					"indices": [
+						214,
+						237
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1576329461913767936/pu/img/xQfMQRkp3MmpzZeb.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1576329461913767936/pu/img/xQfMQRkp3MmpzZeb.jpg",
+					"url": "https://t.co/2ZnXAEB2HQ",
+					"display_url": "pic.twitter.com/2ZnXAEB2HQ",
+					"expanded_url": "https://twitter.com/KCON_official/status/1576329534915637248/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 16934,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1576329461913767936/pu/vid/720x1280/R2VHuscf7QgGvCUZ.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1576329461913767936/pu/pl/_5hNt0_DbffYlI4X.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1576329461913767936/pu/vid/320x568/bRZzhyOO8zlB6fdi.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1576329461913767936/pu/vid/480x852/SoSMChbkCse6r38g.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1576329281197990000,
+		"in_reply_to_status_id_str": "1576329281197989889",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER \n📍 KCON 2022 SAUDI ARABIA 9/30 ~ 10/1 (AST)\n📍KCON 2022 JAPAN 10/14 ~ 10/16 (JST)",
+			"url": "https://t.co/IDnJhWorfB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWorfB",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 467125,
+			"friends_count": 76,
+			"listed_count": 1133,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 141,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13160,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1567787455188987905/sAYoOtFz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1567787455188987905/sAYoOtFz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1662638939",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 67,
+		"favorite_count": 196,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💚KCON 2022 SAUDI ARABIA AR Filter❤️\n\nWith AR Filter, artists' cuteness double up! \nCute AR Filter Challenge of #TO1 🥰 \n\nAR Filter 챌린지라니... 귀여움 과하다...!\n#티오원 의 사랑스러운 AR Filter 챌린지 🥰 \n\n#KCON2022SAUDIARABIA @TO1_offcl https://t.co/2ZnXAEB2HQ"
+	},
+	{
+		"created_at": "Sat Oct 01 21:58:35 +0000 2022",
+		"id": 1576329281197990000,
+		"id_str": "1576330763338907649",
+		"full_text": "💚KCON 2022 SAUDI ARABIA AR Filter❤️\n\nWith AR Filter, artists' cuteness double up! \nCute AR Filter Challenge of #TO1 🥰 \n\nAR Filter 챌린지라니... 귀여움 과하다...!\n#티오원 의 사랑스러운 AR Filter 챌린지 🥰 \n\n#KCON2022SAUDIARABIA @TO1_offcl https://t.co/wwESl8Wsip",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			213
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TO1",
+					"indices": [
+						111,
+						115
+					]
+				},
+				{
+					"text": "티오원",
+					"indices": [
+						151,
+						155
+					]
+				},
+				{
+					"text": "KCON2022SAUDIARABIA",
+					"indices": [
+						182,
+						202
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TO1_offcl",
+					"name": "TO1",
+					"id": 1120217350848958500,
+					"id_str": "1120217350848958465",
+					"indices": [
+						203,
+						213
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1576329212226842600,
+					"id_str": "1576329212226842624",
+					"indices": [
+						214,
+						237
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1576329212226842624/pu/img/hWW4-srlvTRt118f.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1576329212226842624/pu/img/hWW4-srlvTRt118f.jpg",
+					"url": "https://t.co/wwESl8Wsip",
+					"display_url": "pic.twitter.com/wwESl8Wsip",
+					"expanded_url": "https://twitter.com/KCON_official/status/1576329281197989889/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1576329212226842600,
+					"id_str": "1576329212226842624",
+					"indices": [
+						214,
+						237
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1576329212226842624/pu/img/hWW4-srlvTRt118f.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1576329212226842624/pu/img/hWW4-srlvTRt118f.jpg",
+					"url": "https://t.co/wwESl8Wsip",
+					"display_url": "pic.twitter.com/wwESl8Wsip",
+					"expanded_url": "https://twitter.com/KCON_official/status/1576329281197989889/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 11934,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1576329212226842624/pu/vid/320x568/GkckzIlfJVcIZxx1.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1576329212226842624/pu/pl/gVP7ba-daRInPYx3.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1576329212226842624/pu/vid/480x852/Vz5etN0-aFu-7wWX.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1576329212226842624/pu/vid/720x1280/jNqaM51aNuGC4t3n.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1576329105439883300,
+		"in_reply_to_status_id_str": "1576329105439883264",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER \n📍 KCON 2022 SAUDI ARABIA 9/30 ~ 10/1 (AST)\n📍KCON 2022 JAPAN 10/14 ~ 10/16 (JST)",
+			"url": "https://t.co/IDnJhWorfB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWorfB",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 467125,
+			"friends_count": 76,
+			"listed_count": 1133,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 141,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13160,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1567787455188987905/sAYoOtFz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1567787455188987905/sAYoOtFz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1662638939",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 63,
+		"favorite_count": 173,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💚KCON 2022 SAUDI ARABIA AR Filter❤️\n\nWith AR Filter, artists' cuteness double up! \nCute AR Filter Challenge of #TO1 🥰 \n\nAR Filter 챌린지라니... 귀여움 과하다...!\n#티오원 의 사랑스러운 AR Filter 챌린지 🥰 \n\n#KCON2022SAUDIARABIA @TO1_offcl https://t.co/wwESl8Wsip"
+	},
+	{
+		"created_at": "Sat Oct 01 21:58:31 +0000 2022",
+		"id": 1576329105439883300,
+		"id_str": "1576330746045816835",
+		"full_text": "💚KCON 2022 SAUDI ARABIA AR Filter❤️\n\nWith AR Filter, artists' cuteness double up! \nCute AR Filter Challenge of #TO1 🥰 \n\nAR Filter 챌린지라니... 귀여움 과하다...!\n#티오원 의 사랑스러운 AR Filter 챌린지 🥰 \n\n#KCON2022SAUDIARABIA @TO1_offcl https://t.co/qCkhBTC67x",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			213
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TO1",
+					"indices": [
+						111,
+						115
+					]
+				},
+				{
+					"text": "티오원",
+					"indices": [
+						151,
+						155
+					]
+				},
+				{
+					"text": "KCON2022SAUDIARABIA",
+					"indices": [
+						182,
+						202
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TO1_offcl",
+					"name": "TO1",
+					"id": 1120217350848958500,
+					"id_str": "1120217350848958465",
+					"indices": [
+						203,
+						213
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1576329028881244200,
+					"id_str": "1576329028881244160",
+					"indices": [
+						214,
+						237
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1576329028881244160/pu/img/7ou-BW3-g0bl1bvW.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1576329028881244160/pu/img/7ou-BW3-g0bl1bvW.jpg",
+					"url": "https://t.co/qCkhBTC67x",
+					"display_url": "pic.twitter.com/qCkhBTC67x",
+					"expanded_url": "https://twitter.com/KCON_official/status/1576329105439883264/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1576329028881244200,
+					"id_str": "1576329028881244160",
+					"indices": [
+						214,
+						237
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1576329028881244160/pu/img/7ou-BW3-g0bl1bvW.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1576329028881244160/pu/img/7ou-BW3-g0bl1bvW.jpg",
+					"url": "https://t.co/qCkhBTC67x",
+					"display_url": "pic.twitter.com/qCkhBTC67x",
+					"expanded_url": "https://twitter.com/KCON_official/status/1576329105439883264/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 11399,
+						"variants": [
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1576329028881244160/pu/vid/480x852/vJY3WZ9GSZLO18na.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1576329028881244160/pu/vid/320x568/PIfmObrBG_PDwPcb.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1576329028881244160/pu/vid/720x1280/OLd1Q-nGJXuNe68T.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1576329028881244160/pu/pl/69_so6rQh6cOBCFD.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER \n📍 KCON 2022 SAUDI ARABIA 9/30 ~ 10/1 (AST)\n📍KCON 2022 JAPAN 10/14 ~ 10/16 (JST)",
+			"url": "https://t.co/IDnJhWorfB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWorfB",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 467125,
+			"friends_count": 76,
+			"listed_count": 1133,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 141,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13160,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1567787455188987905/sAYoOtFz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1567787455188987905/sAYoOtFz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1662638939",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 71,
+		"favorite_count": 214,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💚KCON 2022 SAUDI ARABIA AR Filter❤️\n\nWith AR Filter, artists' cuteness double up! \nCute AR Filter Challenge of #TO1 🥰 \n\nAR Filter 챌린지라니... 귀여움 과하다...!\n#티오원 의 사랑스러운 AR Filter 챌린지 🥰 \n\n#KCON2022SAUDIARABIA @TO1_offcl https://t.co/qCkhBTC67x"
+	},
+	{
+		"created_at": "Sat Oct 01 21:58:24 +0000 2022",
+		"id": 1576326445814624300,
+		"id_str": "1576330716153090050",
+		"full_text": "Thank you for enjoying KCON 2022 SAUDI ARABIA💚\nDon't miss out upcoming VODs on [KCON official] YouTube channel!\n\n👉 [KCON official] https://t.co/ZGovFc9TNl\n\n#KCON #KCON2022SAUDIARABIA https://t.co/0gsM7oT33A",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						156,
+						161
+					]
+				},
+				{
+					"text": "KCON2022SAUDIARABIA",
+					"indices": [
+						162,
+						182
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZGovFc9TNl",
+					"expanded_url": "http://youtube.com/kcon",
+					"display_url": "youtube.com/kcon",
+					"indices": [
+						131,
+						154
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1576323375328174000,
+					"id_str": "1576323375328174081",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/FeA5whWUoAEnGGA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeA5whWUoAEnGGA.jpg",
+					"url": "https://t.co/0gsM7oT33A",
+					"display_url": "pic.twitter.com/0gsM7oT33A",
+					"expanded_url": "https://twitter.com/KCON_official/status/1576326445814624256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1574,
+							"h": 1965,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 545,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 961,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1576323375328174000,
+					"id_str": "1576323375328174081",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/FeA5whWUoAEnGGA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeA5whWUoAEnGGA.jpg",
+					"url": "https://t.co/0gsM7oT33A",
+					"display_url": "pic.twitter.com/0gsM7oT33A",
+					"expanded_url": "https://twitter.com/KCON_official/status/1576326445814624256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1574,
+							"h": 1965,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 545,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 961,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER \n📍 KCON 2022 SAUDI ARABIA 9/30 ~ 10/1 (AST)\n📍KCON 2022 JAPAN 10/14 ~ 10/16 (JST)",
+			"url": "https://t.co/IDnJhWorfB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWorfB",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 467125,
+			"friends_count": 76,
+			"listed_count": 1133,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 141,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13160,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1567787455188987905/sAYoOtFz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1567787455188987905/sAYoOtFz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1662638939",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 74,
+		"favorite_count": 246,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thank you for enjoying KCON 2022 SAUDI ARABIA💚\nDon't miss out upcoming VODs on [KCON official] YouTube channel!\n\n👉 [KCON official] https://t.co/ZGovFc9TNl\n\n#KCON #KCON2022SAUDIARABIA https://t.co/0gsM7oT33A"
+	},
+	{
 		"created_at": "Sat Oct 01 20:58:34 +0000 2022",
 		"id": 1576305139090354200,
 		"id_str": "1576315661709705222",
