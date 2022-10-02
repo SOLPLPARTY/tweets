@@ -1,6 +1,170 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Sun Oct 02 06:29:25 +0000 2022",
+		"id": 1576451302036754400,
+		"id_str": "1576459318739746817",
+		"full_text": "[#김영철] '막가리' 챌린지 with 버즈 민경훈✔️\n\n쌈자와 함께라면 챌린지도 한 번에 막가리🧡\n▶️ https://t.co/g3NYcjuR8a\n\n#KimYoungchul #막가리 #민경훈 #MinKyunghoon #버즈 #BUZZ #막가리챌린지",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "김영철",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "KimYoungchul",
+					"indices": [
+						84,
+						97
+					]
+				},
+				{
+					"text": "막가리",
+					"indices": [
+						98,
+						102
+					]
+				},
+				{
+					"text": "민경훈",
+					"indices": [
+						103,
+						107
+					]
+				},
+				{
+					"text": "MinKyunghoon",
+					"indices": [
+						108,
+						121
+					]
+				},
+				{
+					"text": "버즈",
+					"indices": [
+						122,
+						125
+					]
+				},
+				{
+					"text": "BUZZ",
+					"indices": [
+						126,
+						131
+					]
+				},
+				{
+					"text": "막가리챌린지",
+					"indices": [
+						132,
+						139
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/g3NYcjuR8a",
+					"expanded_url": "https://bit.ly/3fCxqoL",
+					"display_url": "bit.ly/3fCxqoL",
+					"indices": [
+						59,
+						82
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/pgQyM4g8RF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pgQyM4g8RF",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37557,
+			"friends_count": 14,
+			"listed_count": 304,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7284,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1663804824",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#김영철] '막가리' 챌린지 with 버즈 민경훈✔️\n\n쌈자와 함께라면 챌린지도 한 번에 막가리🧡\n▶️ https://t.co/g3NYcjuR8a\n\n#KimYoungchul #막가리 #민경훈 #MinKyunghoon #버즈 #BUZZ #막가리챌린지"
+	},
+	{
 		"created_at": "Sun Oct 02 06:11:17 +0000 2022",
 		"id": 1576443636371558400,
 		"id_str": "1576454754787622917",
