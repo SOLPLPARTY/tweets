@@ -1,6 +1,217 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Sun Oct 02 06:11:17 +0000 2022",
+		"id": 1576443636371558400,
+		"id_str": "1576454754787622917",
+		"full_text": "D-1 [시공간집 5 : 시 놀이공원] \n\n모든 준비를 마치고 여러분을 기다립니다. \n시공간집에서 만나요✍️\n\n🍀주중 회차들은 자리 여유있게 남아있습니다. \n🔥다회 신청 가능합니다. \n✨시 도슨트 프로그램, 동시공간집(유아동반 입장 회차) 등 스페셜 회차들에도 관심 부탁드립니다. https://t.co/z0m9sc3K5U",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1576443595938181000,
+					"id_str": "1576443595938181126",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/FeCnGSBVsAYBeCs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeCnGSBVsAYBeCs.jpg",
+					"url": "https://t.co/z0m9sc3K5U",
+					"display_url": "pic.twitter.com/z0m9sc3K5U",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1576443636371558400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1576443595938181000,
+					"id_str": "1576443595938181126",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/FeCnGSBVsAYBeCs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeCnGSBVsAYBeCs.jpg",
+					"url": "https://t.co/z0m9sc3K5U",
+					"display_url": "pic.twitter.com/z0m9sc3K5U",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1576443636371558400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1576443595900407800,
+					"id_str": "1576443595900407813",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/FeCnGR4VUAU4wUX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeCnGR4VUAU4wUX.jpg",
+					"url": "https://t.co/z0m9sc3K5U",
+					"display_url": "pic.twitter.com/z0m9sc3K5U",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1576443636371558400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1575406524511711200,
+		"in_reply_to_status_id_str": "1575406524511711232",
+		"in_reply_to_user_id": 282449618,
+		"in_reply_to_user_id_str": "282449618",
+		"in_reply_to_screen_name": "studio_zemi",
+		"user": {
+			"id": 282449618,
+			"id_str": "282449618",
+			"name": "재미공작소",
+			"screen_name": "studio_zemi",
+			"location": "서울시 영등포구 문래동 3가 58-84 1층 왼편",
+			"description": "재미공작소는 서울 문래동에 위치한 문화예술공간입니다. (Since 2011) 공연, 문학 행사, 팝업숍, 전시, 창작 워크숍, 출판, 캘린더 갤러리 등 '재미있는 일'을 기획하고 진행합니다. 재미공작소의 일정 및 예약 관련 정보는 아래 홈블로그 링크에서 바로 확인하실 수 있습니다.",
+			"url": "https://t.co/aLQQKE9ltK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aLQQKE9ltK",
+							"expanded_url": "http://blog.naver.com/studiozemi",
+							"display_url": "blog.naver.com/studiozemi",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8309,
+			"friends_count": 548,
+			"listed_count": 75,
+			"created_at": "Fri Apr 15 07:08:52 +0000 2011",
+			"favourites_count": 2409,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14848,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/282449618/1398647875",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "D-1 [시공간집 5 : 시 놀이공원] \n\n모든 준비를 마치고 여러분을 기다립니다. \n시공간집에서 만나요✍️\n\n🍀주중 회차들은 자리 여유있게 남아있습니다. \n🔥다회 신청 가능합니다. \n✨시 도슨트 프로그램, 동시공간집(유아동반 입장 회차) 등 스페셜 회차들에도 관심 부탁드립니다. https://t.co/z0m9sc3K5U"
+	},
+	{
 		"created_at": "Sun Oct 02 05:11:17 +0000 2022",
 		"id": 1576432468399624200,
 		"id_str": "1576439654936711168",
