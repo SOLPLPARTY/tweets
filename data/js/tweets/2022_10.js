@@ -1,6 +1,476 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Sun Oct 02 09:29:42 +0000 2022",
+		"id": 1576498379755954200,
+		"id_str": "1576504688844967938",
+		"full_text": "[#김영철] '막가리' 챌린지 with CRAVITY 형준&amp;태영✔️\n\n막가리와 함께 오늘만큼은 신나게 놀아🖤\n▶️https://t.co/51p9HUakBR\n\n#KimYoungchul #막가리 #형준 #HYEONGJUN #태영 #TAEYOUNG #CRAVITY #크래비티 #막가리챌린지",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "김영철",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "KimYoungchul",
+					"indices": [
+						92,
+						105
+					]
+				},
+				{
+					"text": "막가리",
+					"indices": [
+						106,
+						110
+					]
+				},
+				{
+					"text": "형준",
+					"indices": [
+						111,
+						114
+					]
+				},
+				{
+					"text": "HYEONGJUN",
+					"indices": [
+						115,
+						125
+					]
+				},
+				{
+					"text": "태영",
+					"indices": [
+						126,
+						129
+					]
+				},
+				{
+					"text": "TAEYOUNG",
+					"indices": [
+						130,
+						139
+					]
+				},
+				{
+					"text": "CRAVITY",
+					"indices": [
+						140,
+						148
+					]
+				},
+				{
+					"text": "크래비티",
+					"indices": [
+						149,
+						154
+					]
+				},
+				{
+					"text": "막가리챌린지",
+					"indices": [
+						155,
+						162
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/51p9HUakBR",
+					"expanded_url": "https://youtube.com/shorts/syDFX1YXP-E",
+					"display_url": "youtube.com/shorts/syDFX1Y…",
+					"indices": [
+						67,
+						90
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/pgQyM4g8RF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pgQyM4g8RF",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37555,
+			"friends_count": 14,
+			"listed_count": 304,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7287,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1663804824",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 70,
+		"favorite_count": 74,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#김영철] '막가리' 챌린지 with CRAVITY 형준&amp;태영✔️\n\n막가리와 함께 오늘만큼은 신나게 놀아🖤\n▶️https://t.co/51p9HUakBR\n\n#KimYoungchul #막가리 #형준 #HYEONGJUN #태영 #TAEYOUNG #CRAVITY #크래비티 #막가리챌린지"
+	},
+	{
+		"created_at": "Sun Oct 02 09:29:34 +0000 2022",
+		"id": 1576498261040369700,
+		"id_str": "1576504654736809985",
+		"full_text": "https://t.co/dFcZx1cj6j",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1576498251217313800,
+					"id_str": "1576498251217313797",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FeDYzozVIAU0sEc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeDYzozVIAU0sEc.jpg",
+					"url": "https://t.co/dFcZx1cj6j",
+					"display_url": "pic.twitter.com/dFcZx1cj6j",
+					"expanded_url": "https://twitter.com/musicfarmkorea/status/1576498261040369664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1576498251217313800,
+					"id_str": "1576498251217313797",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FeDYzozVIAU0sEc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeDYzozVIAU0sEc.jpg",
+					"url": "https://t.co/dFcZx1cj6j",
+					"display_url": "pic.twitter.com/dFcZx1cj6j",
+					"expanded_url": "https://twitter.com/musicfarmkorea/status/1576498261040369664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1576498251234091000,
+					"id_str": "1576498251234091011",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FeDYzo3VIAMmPpt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeDYzo3VIAMmPpt.jpg",
+					"url": "https://t.co/dFcZx1cj6j",
+					"display_url": "pic.twitter.com/dFcZx1cj6j",
+					"expanded_url": "https://twitter.com/musicfarmkorea/status/1576498261040369664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1576498251238252500,
+					"id_str": "1576498251238252545",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FeDYzo4UoAEUq8b.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeDYzo4UoAEUq8b.jpg",
+					"url": "https://t.co/dFcZx1cj6j",
+					"display_url": "pic.twitter.com/dFcZx1cj6j",
+					"expanded_url": "https://twitter.com/musicfarmkorea/status/1576498261040369664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1576498251221520400,
+					"id_str": "1576498251221520384",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FeDYzo0VUAAHiVk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeDYzo0VUAAHiVk.jpg",
+					"url": "https://t.co/dFcZx1cj6j",
+					"display_url": "pic.twitter.com/dFcZx1cj6j",
+					"expanded_url": "https://twitter.com/musicfarmkorea/status/1576498261040369664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1576498076654530600,
+		"in_reply_to_status_id_str": "1576498076654530560",
+		"in_reply_to_user_id": 387577661,
+		"in_reply_to_user_id_str": "387577661",
+		"in_reply_to_screen_name": "musicfarmkorea",
+		"user": {
+			"id": 387577661,
+			"id_str": "387577661",
+			"name": "뮤직팜 Music Farm",
+			"screen_name": "musicfarmkorea",
+			"location": "",
+			"description": "이적, 김동률, 존박, 곽진언 / Official YouTube Channel https://t.co/e3kPCV31vL",
+			"url": "https://t.co/P8S0qXo9Ud",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/P8S0qXo9Ud",
+							"expanded_url": "http://www.musicfarm.co.kr",
+							"display_url": "musicfarm.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e3kPCV31vL",
+							"expanded_url": "http://youtube.com/user/musicfarmkorea",
+							"display_url": "youtube.com/user/musicfarm…",
+							"indices": [
+								44,
+								67
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8912,
+			"friends_count": 4,
+			"listed_count": 105,
+			"created_at": "Sun Oct 09 09:25:49 +0000 2011",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1047,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "86B577",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1402947092859867142/vPyyn-39_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1402947092859867142/vPyyn-39_normal.jpg",
+			"profile_link_color": "136785",
+			"profile_sidebar_border_color": "46555C",
+			"profile_sidebar_fill_color": "B9BDBF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zxx",
+		"text": "https://t.co/dFcZx1cj6j"
+	},
+	{
 		"created_at": "Sun Oct 02 09:07:26 +0000 2022",
 		"id": 1576499085531496400,
 		"id_str": "1576499085531496448",
