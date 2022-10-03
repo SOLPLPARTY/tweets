@@ -1,6 +1,313 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Mon Oct 03 04:29:29 +0000 2022",
+		"id": 1576782019199406000,
+		"id_str": "1576791526470033409",
+		"full_text": "❤️‍🔥 https://t.co/TBEQXRMzZA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			4
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TBEQXRMzZA",
+					"expanded_url": "https://twitter.com/partypupils/status/1576272623381594113",
+					"display_url": "twitter.com/partypupils/st…",
+					"indices": [
+						5,
+						28
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 985865748638650400,
+			"id_str": "985865748638650368",
+			"name": "HIGHJINKX 하이징크스",
+			"screen_name": "HIGHJINKXX",
+			"location": "대한민국 서울",
+			"description": "https://t.co/UEZd1A0tMQ https://t.co/bYHM3gN9tB",
+			"url": "https://t.co/jgdOjxGxJL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jgdOjxGxJL",
+							"expanded_url": "https://www.highjinkxmm.com",
+							"display_url": "highjinkxmm.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UEZd1A0tMQ",
+							"expanded_url": "http://highjinkx.com",
+							"display_url": "highjinkx.com",
+							"indices": [
+								0,
+								23
+							]
+						},
+						{
+							"url": "https://t.co/bYHM3gN9tB",
+							"expanded_url": "http://highjinkxmm.com",
+							"display_url": "highjinkxmm.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 664,
+			"friends_count": 32,
+			"listed_count": 5,
+			"created_at": "Mon Apr 16 13:01:25 +0000 2018",
+			"favourites_count": 371,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 847,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/986167678246125568/PTUKZtMn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/986167678246125568/PTUKZtMn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/985865748638650368/1575347637",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1576272623381594000,
+		"quoted_status_id_str": "1576272623381594113",
+		"quoted_status_permalink": {
+			"url": "https://t.co/TBEQXRMzZA",
+			"expanded": "https://twitter.com/partypupils/status/1576272623381594113",
+			"display": "twitter.com/partypupils/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Oct 01 18:07:33 +0000 2022",
+			"id": 1576272623381594000,
+			"id_str": "1576272623381594113",
+			"full_text": "PARTY PUPILS IN KOREA \n\nNEXT WEEK \n\nFIRST SHOW EVER IN SEOUL \n\n🇰🇷🇰🇷🇰🇷🇰🇷🇰🇷🇰🇷🇰🇷🇰🇷🇰🇷🇰🇷 https://t.co/GsinuiDn6r",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				83
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1576272618751025200,
+						"id_str": "1576272618751025152",
+						"indices": [
+							84,
+							107
+						],
+						"media_url": "http://pbs.twimg.com/media/FeALmGXUYAAsjg8.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FeALmGXUYAAsjg8.jpg",
+						"url": "https://t.co/GsinuiDn6r",
+						"display_url": "pic.twitter.com/GsinuiDn6r",
+						"expanded_url": "https://twitter.com/PartyPupils/status/1576272623381594113/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1576272618751025200,
+						"id_str": "1576272618751025152",
+						"indices": [
+							84,
+							107
+						],
+						"media_url": "http://pbs.twimg.com/media/FeALmGXUYAAsjg8.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FeALmGXUYAAsjg8.jpg",
+						"url": "https://t.co/GsinuiDn6r",
+						"display_url": "pic.twitter.com/GsinuiDn6r",
+						"expanded_url": "https://twitter.com/PartyPupils/status/1576272623381594113/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 760631927107747800,
+				"id_str": "760631927107747840",
+				"name": "PARTY PUPILS",
+				"screen_name": "PartyPupils",
+				"location": "",
+				"description": "MGMT: Eric Vogel eric@jet-mgmt.com Booking: cory@thehellogroup.com",
+				"url": "https://t.co/43ob1fkPNW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/43ob1fkPNW",
+								"expanded_url": "http://PartyPupils.com",
+								"display_url": "PartyPupils.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6883,
+				"friends_count": 741,
+				"listed_count": 30,
+				"created_at": "Wed Aug 03 00:22:38 +0000 2016",
+				"favourites_count": 18534,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 8006,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1486217015354224643/o-6KMT5T_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1486217015354224643/o-6KMT5T_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/760631927107747840/1643174705",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 32,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "qst",
+		"text": "❤️‍🔥 https://t.co/TBEQXRMzZA"
+	},
+	{
 		"created_at": "Mon Oct 03 04:11:59 +0000 2022",
 		"id": 1576787119808209000,
 		"id_str": "1576787119808208897",
