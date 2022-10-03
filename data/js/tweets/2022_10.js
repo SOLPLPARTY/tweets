@@ -1,10 +1,417 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Mon Oct 03 05:58:15 +0000 2022",
+		"id": 1576799203359170600,
+		"id_str": "1576813863491850240",
+		"full_text": "[VIVIZ CHECK IN]\nVIVIZ~ Stick around here👍🎵\nNa.V, stick around here if you want to find out VIVIZ's taste~🥰\n\nVIVIZ~ 여기 여기 붙어라👍🎵\n갓비지 취향 알고 싶은 Na.V도 붙어라~🥰\n\n📺YouTube Membership: https://t.co/Ii6iQ9JpLe\n\n#KCON #KCONJAPAN #KCON2022JAPAN @VIVIZ_official https://t.co/OVOBoZ8ROu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			247
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						200,
+						205
+					]
+				},
+				{
+					"text": "KCONJAPAN",
+					"indices": [
+						206,
+						216
+					]
+				},
+				{
+					"text": "KCON2022JAPAN",
+					"indices": [
+						217,
+						231
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "VIVIZ_official",
+					"name": "VIVIZ",
+					"id": 1441319485638463500,
+					"id_str": "1441319485638463495",
+					"indices": [
+						232,
+						247
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Ii6iQ9JpLe",
+					"expanded_url": "http://youtube.com/kcon/join/",
+					"display_url": "youtube.com/kcon/join/",
+					"indices": [
+						175,
+						198
+					]
+				},
+				{
+					"url": "https://t.co/OVOBoZ8ROu",
+					"expanded_url": "https://twitter.com/kconjapan/status/1571665396863627264",
+					"display_url": "twitter.com/kconjapan/stat…",
+					"indices": [
+						248,
+						271
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER \n📍 KCON 2022 SAUDI ARABIA 9/30 ~ 10/1 (AST)\n📍KCON 2022 JAPAN 10/14 ~ 10/16 (JST)",
+			"url": "https://t.co/IDnJhWorfB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWorfB",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 467743,
+			"friends_count": 76,
+			"listed_count": 1138,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 141,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13200,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1567787455188987905/sAYoOtFz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1567787455188987905/sAYoOtFz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1662638939",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1571665396863627300,
+		"quoted_status_id_str": "1571665396863627264",
+		"quoted_status_permalink": {
+			"url": "https://t.co/OVOBoZ8ROu",
+			"expanded": "https://twitter.com/kconjapan/status/1571665396863627264",
+			"display": "twitter.com/kconjapan/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Sep 19 01:00:05 +0000 2022",
+			"id": 1571665396863627300,
+			"id_str": "1571665396863627264",
+			"full_text": "[VIVIZ CHECK IN]\nVIVIZ~ この指とまれ👍🎵\nVIVIZの好みが知りたいNa.Vもこの指とまれ〜🥰\n\n🎫TICKET : https://t.co/ySpx5naJtR\n\n#KCON #KCONJAPAN #KCON2022JAPAN @VIVIZ_official https://t.co/5sVfaXM6nR",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				143
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "KCON",
+						"indices": [
+							96,
+							101
+						]
+					},
+					{
+						"text": "KCONJAPAN",
+						"indices": [
+							102,
+							112
+						]
+					},
+					{
+						"text": "KCON2022JAPAN",
+						"indices": [
+							113,
+							127
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "VIVIZ_official",
+						"name": "VIVIZ",
+						"id": 1441319485638463500,
+						"id_str": "1441319485638463495",
+						"indices": [
+							128,
+							143
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/ySpx5naJtR",
+						"expanded_url": "http://kconjapan.com/ticket/",
+						"display_url": "kconjapan.com/ticket/",
+						"indices": [
+							71,
+							94
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1570807275962634200,
+						"id_str": "1570807275962634240",
+						"indices": [
+							144,
+							167
+						],
+						"media_url": "http://pbs.twimg.com/media/FcyhaePaUAIuI8F.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FcyhaePaUAIuI8F.jpg",
+						"url": "https://t.co/5sVfaXM6nR",
+						"display_url": "pic.twitter.com/5sVfaXM6nR",
+						"expanded_url": "https://twitter.com/kconjapan/status/1571665396863627264/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 320,
+								"h": 568,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 320,
+								"h": 568,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 320,
+								"h": 568,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1570807275962634200,
+						"id_str": "1570807275962634240",
+						"indices": [
+							144,
+							167
+						],
+						"media_url": "http://pbs.twimg.com/media/FcyhaePaUAIuI8F.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FcyhaePaUAIuI8F.jpg",
+						"url": "https://t.co/5sVfaXM6nR",
+						"display_url": "pic.twitter.com/5sVfaXM6nR",
+						"expanded_url": "https://twitter.com/kconjapan/status/1571665396863627264/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 320,
+								"h": 568,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 320,
+								"h": 568,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 320,
+								"h": 568,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								9,
+								16
+							],
+							"duration_millis": 118551,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1570807275962634240/pl/4jfAVthAXhcSjos6.m3u8?tag=14&container=fmp4"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1570807275962634240/vid/720x1280/o-uxMqqjZLNhtlOc.mp4?tag=14"
+								},
+								{
+									"bitrate": 950000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1570807275962634240/vid/480x852/YsyXCXcnr6K5YV7m.mp4?tag=14"
+								},
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1570807275962634240/vid/320x568/rvb88O03BJ8p9hVT.mp4?tag=14"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3017029196,
+				"id_str": "3017029196",
+				"name": "KCON Japan",
+				"screen_name": "kconjapan",
+				"location": "",
+				"description": "世界最大級のK-Cultureフェスティバル\n『KCON JAPAN』の公式Twitterです！\n📍10/14（金） ~ 10/16(日）/ 東京・有明アリーナ",
+				"url": "https://t.co/sCRhaGCzOM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/sCRhaGCzOM",
+								"expanded_url": "http://kconjapan.com",
+								"display_url": "kconjapan.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 243631,
+				"friends_count": 158,
+				"listed_count": 475,
+				"created_at": "Thu Feb 12 06:02:55 +0000 2015",
+				"favourites_count": 166,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 6749,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5ABB5",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1554285876041367553/Z3_Jgigb_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1554285876041367553/Z3_Jgigb_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3017029196/1662617121",
+				"profile_link_color": "F5ABB5",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1295,
+			"favorite_count": 3876,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"retweet_count": 5,
+		"favorite_count": 43,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[VIVIZ CHECK IN]\nVIVIZ~ Stick around here👍🎵\nNa.V, stick around here if you want to find out VIVIZ's taste~🥰\n\nVIVIZ~ 여기 여기 붙어라👍🎵\n갓비지 취향 알고 싶은 Na.V도 붙어라~🥰\n\n📺YouTube Membership: https://t.co/Ii6iQ9JpLe\n\n#KCON #KCONJAPAN #KCON2022JAPAN @VIVIZ_official https://t.co/OVOBoZ8ROu"
+	},
+	{
 		"created_at": "Mon Oct 03 04:29:29 +0000 2022",
 		"id": 1576782019199406000,
 		"id_str": "1576791526470033409",
-		"full_text": "❤️‍🔥 https://t.co/TBEQXRMzZA",
+		"full_text": "❤️🔥 https://t.co/TBEQXRMzZA",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -305,7 +712,7 @@ Grailbird.data.tweets_2022_10 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "qst",
-		"text": "❤️‍🔥 https://t.co/TBEQXRMzZA"
+		"text": "❤️🔥 https://t.co/TBEQXRMzZA"
 	},
 	{
 		"created_at": "Mon Oct 03 04:11:59 +0000 2022",
