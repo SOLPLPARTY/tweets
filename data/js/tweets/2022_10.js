@@ -1,6 +1,549 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Mon Oct 03 08:58:15 +0000 2022",
+		"id": 1576844506464493600,
+		"id_str": "1576859161849126912",
+		"full_text": "[TEMPEST CHECK IN]\nShhh🤫 Secrets between TEMPEST and iE👉👈\nCheck out TEMPEST's Secret Talk😘\n\n쉿🤫 이건 TEMPEST와  iE만의 비밀인데👉👈\n템깅이들 시크릿톡 iE한테만 특.별.히 알랴줌😘\n\n📺YouTube Membership: https://t.co/Ii6iQ9JpLe\n\n#KCON #KCONJAPAN #KCON2022JAPAN @TPST__official https://t.co/uvXHgpZVuZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			241
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						194,
+						199
+					]
+				},
+				{
+					"text": "KCONJAPAN",
+					"indices": [
+						200,
+						210
+					]
+				},
+				{
+					"text": "KCON2022JAPAN",
+					"indices": [
+						211,
+						225
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TPST__official",
+					"name": "TEMPEST",
+					"id": 1413305677951365000,
+					"id_str": "1413305677951365121",
+					"indices": [
+						226,
+						241
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Ii6iQ9JpLe",
+					"expanded_url": "http://youtube.com/kcon/join/",
+					"display_url": "youtube.com/kcon/join/",
+					"indices": [
+						169,
+						192
+					]
+				},
+				{
+					"url": "https://t.co/uvXHgpZVuZ",
+					"expanded_url": "https://twitter.com/kconjapan/status/1572752540696924160",
+					"display_url": "twitter.com/kconjapan/stat…",
+					"indices": [
+						242,
+						265
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER \n📍 KCON 2022 SAUDI ARABIA 9/30 ~ 10/1 (AST)\n📍KCON 2022 JAPAN 10/14 ~ 10/16 (JST)",
+			"url": "https://t.co/IDnJhWorfB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWorfB",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 467730,
+			"friends_count": 76,
+			"listed_count": 1138,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 141,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13203,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1567787455188987905/sAYoOtFz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1567787455188987905/sAYoOtFz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1662638939",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1572752540696924200,
+		"quoted_status_id_str": "1572752540696924160",
+		"quoted_status_permalink": {
+			"url": "https://t.co/uvXHgpZVuZ",
+			"expanded": "https://twitter.com/kconjapan/status/1572752540696924160",
+			"display": "twitter.com/kconjapan/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Sep 22 01:00:00 +0000 2022",
+			"id": 1572752540696924200,
+			"id_str": "1572752540696924160",
+			"full_text": "[TEMPEST CHECK IN]\nシー🤫これはTEMPESTとiEだけの内緒だけど…👉👈\nTEMPESTのSecret TalkをiEだけ特別に教えるよ😘\n\n🎫TICKET : https://t.co/ySpx5naJtR \n\n#KCON #KCONJAPAN #KCON2022JAPAN @TPST__official https://t.co/tBxV9SwaNz",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				164
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "KCON",
+						"indices": [
+							117,
+							122
+						]
+					},
+					{
+						"text": "KCONJAPAN",
+						"indices": [
+							123,
+							133
+						]
+					},
+					{
+						"text": "KCON2022JAPAN",
+						"indices": [
+							134,
+							148
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "TPST__official",
+						"name": "TEMPEST",
+						"id": 1413305677951365000,
+						"id_str": "1413305677951365121",
+						"indices": [
+							149,
+							164
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/ySpx5naJtR",
+						"expanded_url": "http://kconjapan.com/ticket/",
+						"display_url": "kconjapan.com/ticket/",
+						"indices": [
+							91,
+							114
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1572534297290231800,
+						"id_str": "1572534297290231808",
+						"indices": [
+							165,
+							188
+						],
+						"media_url": "http://pbs.twimg.com/media/FdLEkSjacAEtX0n.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FdLEkSjacAEtX0n.jpg",
+						"url": "https://t.co/tBxV9SwaNz",
+						"display_url": "pic.twitter.com/tBxV9SwaNz",
+						"expanded_url": "https://twitter.com/kconjapan/status/1572752540696924160/video/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 480,
+								"h": 852,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 480,
+								"h": 852,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1572534297290231800,
+						"id_str": "1572534297290231808",
+						"indices": [
+							165,
+							188
+						],
+						"media_url": "http://pbs.twimg.com/media/FdLEkSjacAEtX0n.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FdLEkSjacAEtX0n.jpg",
+						"url": "https://t.co/tBxV9SwaNz",
+						"display_url": "pic.twitter.com/tBxV9SwaNz",
+						"expanded_url": "https://twitter.com/kconjapan/status/1572752540696924160/video/1",
+						"type": "video",
+						"sizes": {
+							"large": {
+								"w": 480,
+								"h": 852,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 480,
+								"h": 852,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								9,
+								16
+							],
+							"duration_millis": 274907,
+							"variants": [
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1572534297290231808/vid/320x568/5_2tW8FEllEXxjQA.mp4?tag=14"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1572534297290231808/pl/v2GwQJLJeQCZZmzv.m3u8?tag=14&container=fmp4"
+								},
+								{
+									"bitrate": 950000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1572534297290231808/vid/480x852/KiHC-rTZTXnOSlVn.mp4?tag=14"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1572534297290231808/vid/720x1280/V-536psOkbVZ6Pvk.mp4?tag=14"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3017029196,
+				"id_str": "3017029196",
+				"name": "KCON Japan",
+				"screen_name": "kconjapan",
+				"location": "",
+				"description": "世界最大級のK-Cultureフェスティバル\n『KCON JAPAN』の公式Twitterです！\n📍10/14（金） ~ 10/16(日）/ 東京・有明アリーナ",
+				"url": "https://t.co/sCRhaGCzOM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/sCRhaGCzOM",
+								"expanded_url": "http://kconjapan.com",
+								"display_url": "kconjapan.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 243657,
+				"friends_count": 158,
+				"listed_count": 478,
+				"created_at": "Thu Feb 12 06:02:55 +0000 2015",
+				"favourites_count": 166,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 6749,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5ABB5",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1554285876041367553/Z3_Jgigb_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1554285876041367553/Z3_Jgigb_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3017029196/1662617121",
+				"profile_link_color": "F5ABB5",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 990,
+			"favorite_count": 3294,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"retweet_count": 13,
+		"favorite_count": 68,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[TEMPEST CHECK IN]\nShhh🤫 Secrets between TEMPEST and iE👉👈\nCheck out TEMPEST's Secret Talk😘\n\n쉿🤫 이건 TEMPEST와  iE만의 비밀인데👉👈\n템깅이들 시크릿톡 iE한테만 특.별.히 알랴줌😘\n\n📺YouTube Membership: https://t.co/Ii6iQ9JpLe\n\n#KCON #KCONJAPAN #KCON2022JAPAN @TPST__official https://t.co/uvXHgpZVuZ"
+	},
+	{
+		"created_at": "Mon Oct 03 08:29:29 +0000 2022",
+		"id": 1576845603027710000,
+		"id_str": "1576851922010734593",
+		"full_text": "[#김영철] '막가리' 챌린지✔️\n\n막 갈 준비 한 번 더 한 번 더🔥\n오늘 밤 8시, SBS M '더트롯쇼' 본방사수 잊지마세요!\n▶️ https://t.co/AVcxMIDCQv\n\n#KimYoungchul #막가리 #막가리챌린지",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "김영철",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "KimYoungchul",
+					"indices": [
+						102,
+						115
+					]
+				},
+				{
+					"text": "막가리",
+					"indices": [
+						116,
+						120
+					]
+				},
+				{
+					"text": "막가리챌린지",
+					"indices": [
+						121,
+						128
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AVcxMIDCQv",
+					"expanded_url": "https://bit.ly/3MfHjoZ",
+					"display_url": "bit.ly/3MfHjoZ",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/pgQyM4g8RF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pgQyM4g8RF",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37556,
+			"friends_count": 14,
+			"listed_count": 304,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7290,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1663804824",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#김영철] '막가리' 챌린지✔️\n\n막 갈 준비 한 번 더 한 번 더🔥\n오늘 밤 8시, SBS M '더트롯쇼' 본방사수 잊지마세요!\n▶️ https://t.co/AVcxMIDCQv\n\n#KimYoungchul #막가리 #막가리챌린지"
+	},
+	{
 		"created_at": "Mon Oct 03 07:58:15 +0000 2022",
 		"id": 1576829410669478000,
 		"id_str": "1576844061792690177",
