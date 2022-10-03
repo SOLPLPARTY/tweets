@@ -1,6 +1,289 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Mon Oct 03 10:29:25 +0000 2022",
+		"id": 1576867054535442400,
+		"id_str": "1576882103123431426",
+		"full_text": "작년 충격적인 데뷔LP를 발매한 이후 마침내 베일을 벗는 DJ Backstage, 상해와 서울을 오가며 다수 명의에 의한 인터내셔널 릴리스로 주목받은 K.O.P.32, 설명불요의 Salamanda의 1/2인 Uman Therma, 원앤온리 사운드시스템크루인  Banyah Sound의 MHMD, 그리고 노터리어스 Quan &amp; Von이 함께 합니다. https://t.co/dwVkwvE4a7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1576867041394315300,
+					"id_str": "1576867041394315267",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/FeIoODRUUAMCv6r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeIoODRUUAMCv6r.jpg",
+					"url": "https://t.co/dwVkwvE4a7",
+					"display_url": "pic.twitter.com/dwVkwvE4a7",
+					"expanded_url": "https://twitter.com/bombino_records/status/1576867054535442432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1576867041394315300,
+					"id_str": "1576867041394315267",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/FeIoODRUUAMCv6r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeIoODRUUAMCv6r.jpg",
+					"url": "https://t.co/dwVkwvE4a7",
+					"display_url": "pic.twitter.com/dwVkwvE4a7",
+					"expanded_url": "https://twitter.com/bombino_records/status/1576867054535442432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1576867044779184000,
+					"id_str": "1576867044779184128",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/FeIoOP4VUAAVYFa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeIoOP4VUAAVYFa.jpg",
+					"url": "https://t.co/dwVkwvE4a7",
+					"display_url": "pic.twitter.com/dwVkwvE4a7",
+					"expanded_url": "https://twitter.com/bombino_records/status/1576867054535442432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1576867048277168000,
+					"id_str": "1576867048277168129",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/FeIoOc6UUAEeW80.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeIoOc6UUAEeW80.jpg",
+					"url": "https://t.co/dwVkwvE4a7",
+					"display_url": "pic.twitter.com/dwVkwvE4a7",
+					"expanded_url": "https://twitter.com/bombino_records/status/1576867054535442432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1576867051989192700,
+					"id_str": "1576867051989192706",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/FeIoOqvVUAIehA6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeIoOqvVUAIehA6.jpg",
+					"url": "https://t.co/dwVkwvE4a7",
+					"display_url": "pic.twitter.com/dwVkwvE4a7",
+					"expanded_url": "https://twitter.com/bombino_records/status/1576867054535442432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1078,
+							"h": 1078,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1078,
+							"h": 1078,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1576866050888851500,
+		"in_reply_to_status_id_str": "1576866050888851457",
+		"in_reply_to_user_id": 389236787,
+		"in_reply_to_user_id_str": "389236787",
+		"in_reply_to_screen_name": "bombino_records",
+		"user": {
+			"id": 389236787,
+			"id_str": "389236787",
+			"name": "Bombino Records",
+			"screen_name": "bombino_records",
+			"location": "babylon",
+			"description": "",
+			"url": "https://t.co/3IX5WApqpM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3IX5WApqpM",
+							"expanded_url": "http://bekindrespin.wordpress.com/",
+							"display_url": "bekindrespin.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 497,
+			"friends_count": 72,
+			"listed_count": 7,
+			"created_at": "Wed Oct 12 02:35:26 +0000 2011",
+			"favourites_count": 101,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2145,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1208686940427415552/JVoB59S9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1208686940427415552/JVoB59S9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/389236787/1545404016",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "작년 충격적인 데뷔LP를 발매한 이후 마침내 베일을 벗는 DJ Backstage, 상해와 서울을 오가며 다수 명의에 의한 인터내셔널 릴리스로 주목받은 K.O.P.32, 설명불요의 Salamanda의 1/2인 Uman Therma, 원앤온리 사운드시스템크루인  Banyah Sound의 MHMD, 그리고 노터리어스 Quan &amp; Von이 함께 합니다. https://t.co/dwVkwvE4a7"
+	},
+	{
 		"created_at": "Mon Oct 03 09:58:15 +0000 2022",
 		"id": 1576859601051451400,
 		"id_str": "1576874260659900416",
