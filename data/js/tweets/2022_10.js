@@ -1,6 +1,1170 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Tue Oct 04 11:15:41 +0000 2022",
+		"id": 1577256134246703000,
+		"id_str": "1577256134246703106",
+		"full_text": "#소니뮤직코리아 #Sony_Music_Korea\n#낫벗띠 코너 메이슨 솔로 싱글 발매! 🍂 쌀쌀해진 오늘, 가을 감성 가득한 코너 목소리 듣고 가세요 👀\nhttps://t.co/sE2NSnHK7o",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "소니뮤직코리아",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Sony_Music_Korea",
+					"indices": [
+						9,
+						26
+					]
+				},
+				{
+					"text": "낫벗띠",
+					"indices": [
+						27,
+						31
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sE2NSnHK7o",
+					"expanded_url": "https://youtu.be/dkb63zUKIWY",
+					"display_url": "youtu.be/dkb63zUKIWY",
+					"indices": [
+						86,
+						109
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 256,
+			"friends_count": 460,
+			"listed_count": 5,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 234,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 89183,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#소니뮤직코리아 #Sony_Music_Korea\n#낫벗띠 코너 메이슨 솔로 싱글 발매! 🍂 쌀쌀해진 오늘, 가을 감성 가득한 코너 목소리 듣고 가세요 👀\nhttps://t.co/sE2NSnHK7o"
+	},
+	{
+		"created_at": "Tue Oct 04 10:58:15 +0000 2022",
+		"id": 1577237540704174000,
+		"id_str": "1577251747080331267",
+		"full_text": "❤️KCON 2022 JAPAN PLATFORM INFO💙\nFind out which online platforms you can watch!\nSee you online! Let's KCON!\n\n온라인 시청 플랫폼을 확인해 보세요!\n온라인에서도 Let's KCON!\n\nオンライン視聴プラットフォームをご確認ください！\nオンラインでもLet's KCON！\n\n#KCON #KCONJAPAN #KCON2022JAPAN https://t.co/wBj9sFCpKj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			226
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						195,
+						200
+					]
+				},
+				{
+					"text": "KCONJAPAN",
+					"indices": [
+						201,
+						211
+					]
+				},
+				{
+					"text": "KCON2022JAPAN",
+					"indices": [
+						212,
+						226
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1577237534622433300,
+					"id_str": "1577237534622433281",
+					"indices": [
+						227,
+						250
+					],
+					"media_url": "http://pbs.twimg.com/media/FeN5LmGVQAEuI5R.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeN5LmGVQAEuI5R.jpg",
+					"url": "https://t.co/wBj9sFCpKj",
+					"display_url": "pic.twitter.com/wBj9sFCpKj",
+					"expanded_url": "https://twitter.com/KCON_official/status/1577237540704174081/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1081,
+							"h": 1081,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1081,
+							"h": 1081,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1577237534622433300,
+					"id_str": "1577237534622433281",
+					"indices": [
+						227,
+						250
+					],
+					"media_url": "http://pbs.twimg.com/media/FeN5LmGVQAEuI5R.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeN5LmGVQAEuI5R.jpg",
+					"url": "https://t.co/wBj9sFCpKj",
+					"display_url": "pic.twitter.com/wBj9sFCpKj",
+					"expanded_url": "https://twitter.com/KCON_official/status/1577237540704174081/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1081,
+							"h": 1081,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1081,
+							"h": 1081,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER\n📍KCON 2022 JAPAN 10/14 ~ 10/16 (JST)",
+			"url": "https://t.co/IDnJhWoZ59",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWoZ59",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 467770,
+			"friends_count": 76,
+			"listed_count": 1138,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 141,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13233,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1567787455188987905/sAYoOtFz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1567787455188987905/sAYoOtFz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1664852417",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 63,
+		"favorite_count": 162,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "❤️KCON 2022 JAPAN PLATFORM INFO💙\nFind out which online platforms you can watch!\nSee you online! Let's KCON!\n\n온라인 시청 플랫폼을 확인해 보세요!\n온라인에서도 Let's KCON!\n\nオンライン視聴プラットフォームをご確認ください！\nオンラインでもLet's KCON！\n\n#KCON #KCONJAPAN #KCON2022JAPAN https://t.co/wBj9sFCpKj"
+	},
+	{
+		"created_at": "Tue Oct 04 10:29:52 +0000 2022",
+		"id": 1577239963057684500,
+		"id_str": "1577244604256092160",
+		"full_text": "[📰]디어유, 보라미유 &amp; 최유리 프라이빗 메시지 서비스 ‘버블’ 신규 오픈\n(출처 : 뉴스탭)\n\nhttps://t.co/W1AcfOtJM0\n\n#보라미유 #최유리 #버블\n#BORAMIYU #CHOIYUREE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "보라미유",
+					"indices": [
+						84,
+						89
+					]
+				},
+				{
+					"text": "최유리",
+					"indices": [
+						90,
+						94
+					]
+				},
+				{
+					"text": "버블",
+					"indices": [
+						95,
+						98
+					]
+				},
+				{
+					"text": "BORAMIYU",
+					"indices": [
+						99,
+						108
+					]
+				},
+				{
+					"text": "CHOIYUREE",
+					"indices": [
+						109,
+						119
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/W1AcfOtJM0",
+					"expanded_url": "https://bit.ly/3fGLiOQ",
+					"display_url": "bit.ly/3fGLiOQ",
+					"indices": [
+						59,
+						82
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 265792818,
+			"id_str": "265792818",
+			"name": "쇼파르엔터테인먼트",
+			"screen_name": "shofar_ent",
+			"location": "",
+			"description": "SHOFAR ENTERTAINMENT Official Twitter",
+			"url": "https://t.co/zzQk2ihRbI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zzQk2ihRbI",
+							"expanded_url": "http://shofar-ent.com/",
+							"display_url": "shofar-ent.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7634,
+			"friends_count": 4,
+			"listed_count": 64,
+			"created_at": "Mon Mar 14 04:31:00 +0000 2011",
+			"favourites_count": 52,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4908,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/265792818/1664357663",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[📰]디어유, 보라미유 &amp; 최유리 프라이빗 메시지 서비스 ‘버블’ 신규 오픈\n(출처 : 뉴스탭)\n\nhttps://t.co/W1AcfOtJM0\n\n#보라미유 #최유리 #버블\n#BORAMIYU #CHOIYUREE"
+	},
+	{
+		"created_at": "Tue Oct 04 10:29:42 +0000 2022",
+		"id": 1577237095684391000,
+		"id_str": "1577244565932736514",
+		"full_text": "[#Teaser] #권진아\n\n권진아 DS '진심이었던 사람만 바보가 돼'\nKwon Jin Ah DS 'Stupid Love'\n\n🖤 Concept Photo\n\n2022. 10. 13. 6PM Release\n\n#KwonJinAh\n#진심이었던사람만바보가돼\n#StupidLove\n#20221013_6PM https://t.co/nm7pa0k3mJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Teaser",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "권진아",
+					"indices": [
+						10,
+						14
+					]
+				},
+				{
+					"text": "KwonJinAh",
+					"indices": [
+						115,
+						125
+					]
+				},
+				{
+					"text": "진심이었던사람만바보가돼",
+					"indices": [
+						126,
+						139
+					]
+				},
+				{
+					"text": "StupidLove",
+					"indices": [
+						140,
+						151
+					]
+				},
+				{
+					"text": "20221013_6PM",
+					"indices": [
+						152,
+						165
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1577111551403733000,
+					"id_str": "1577111551403732992",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/FeMGmaCVsAAReA6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeMGmaCVsAAReA6.jpg",
+					"url": "https://t.co/nm7pa0k3mJ",
+					"display_url": "pic.twitter.com/nm7pa0k3mJ",
+					"expanded_url": "https://twitter.com/antennamusic/status/1577237095684390919/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1577111551403733000,
+					"id_str": "1577111551403732992",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/FeMGmaCVsAAReA6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeMGmaCVsAAReA6.jpg",
+					"url": "https://t.co/nm7pa0k3mJ",
+					"display_url": "pic.twitter.com/nm7pa0k3mJ",
+					"expanded_url": "https://twitter.com/antennamusic/status/1577237095684390919/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1577111551407898600,
+					"id_str": "1577111551407898624",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/FeMGmaDVQAASU2t.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeMGmaDVQAASU2t.jpg",
+					"url": "https://t.co/nm7pa0k3mJ",
+					"display_url": "pic.twitter.com/nm7pa0k3mJ",
+					"expanded_url": "https://twitter.com/antennamusic/status/1577237095684390919/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1577111551575699500,
+					"id_str": "1577111551575699458",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/FeMGmarVsAIXUsL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeMGmarVsAIXUsL.jpg",
+					"url": "https://t.co/nm7pa0k3mJ",
+					"display_url": "pic.twitter.com/nm7pa0k3mJ",
+					"expanded_url": "https://twitter.com/antennamusic/status/1577237095684390919/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 452,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 798,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1625,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1577111551793717200,
+					"id_str": "1577111551793717248",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/FeMGmbfUYAATUd9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeMGmbfUYAATUd9.jpg",
+					"url": "https://t.co/nm7pa0k3mJ",
+					"display_url": "pic.twitter.com/nm7pa0k3mJ",
+					"expanded_url": "https://twitter.com/antennamusic/status/1577237095684390919/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 권진아 DS ‘진심이었던 사람만 바보가 돼’ 2022. 10. 13. 6PM Release",
+			"url": "https://t.co/XSWWwEx210",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEx210",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40395,
+			"friends_count": 12,
+			"listed_count": 376,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5420,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1664877607",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 56,
+		"favorite_count": 58,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Teaser] #권진아\n\n권진아 DS '진심이었던 사람만 바보가 돼'\nKwon Jin Ah DS 'Stupid Love'\n\n🖤 Concept Photo\n\n2022. 10. 13. 6PM Release\n\n#KwonJinAh\n#진심이었던사람만바보가돼\n#StupidLove\n#20221013_6PM https://t.co/nm7pa0k3mJ"
+	},
+	{
+		"created_at": "Tue Oct 04 10:29:33 +0000 2022",
+		"id": 1577236196018729000,
+		"id_str": "1577244527659810818",
+		"full_text": "[Bugs-ker]\n⠀\n보라미유 - '널 좋아해' 소파 Ver. Live\n▷ https://t.co/exxhrV6p9Y \n⠀\n2022.09.28. 6PM Release\n⠀\n#보라미유 #BORAMIYU \n#널좋아해 #I_Like_You",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "보라미유",
+					"indices": [
+						96,
+						101
+					]
+				},
+				{
+					"text": "BORAMIYU",
+					"indices": [
+						102,
+						111
+					]
+				},
+				{
+					"text": "널좋아해",
+					"indices": [
+						113,
+						118
+					]
+				},
+				{
+					"text": "I_Like_You",
+					"indices": [
+						119,
+						130
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/exxhrV6p9Y",
+					"expanded_url": "https://youtu.be/ciB2T-tXX0Y",
+					"display_url": "youtu.be/ciB2T-tXX0Y",
+					"indices": [
+						43,
+						66
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 265792818,
+			"id_str": "265792818",
+			"name": "쇼파르엔터테인먼트",
+			"screen_name": "shofar_ent",
+			"location": "",
+			"description": "SHOFAR ENTERTAINMENT Official Twitter",
+			"url": "https://t.co/zzQk2ihRbI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zzQk2ihRbI",
+							"expanded_url": "http://shofar-ent.com/",
+							"display_url": "shofar-ent.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7634,
+			"friends_count": 4,
+			"listed_count": 64,
+			"created_at": "Mon Mar 14 04:31:00 +0000 2011",
+			"favourites_count": 52,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4908,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/265792818/1664357663",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Bugs-ker]\n⠀\n보라미유 - '널 좋아해' 소파 Ver. Live\n▷ https://t.co/exxhrV6p9Y \n⠀\n2022.09.28. 6PM Release\n⠀\n#보라미유 #BORAMIYU \n#널좋아해 #I_Like_You"
+	},
+	{
+		"created_at": "Tue Oct 04 10:29:31 +0000 2022",
+		"id": 1577232238227644400,
+		"id_str": "1577244518662938624",
+		"full_text": "[#LIVEON 시즌2]\n⠀\n최유리와 WH3N(웬)이 &lt;LIVE. ON&gt; 공연에 함께합니다\n10월 12일(수) 오후 6시 LIVE. ON 유튜브 채널에서 만나요🤗💕\n⠀\n▷ https://t.co/CrkgTidXZp\n⠀\n#최유리 #WH3N #라이브온 https://t.co/MKcELkw7zt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LIVEON",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "최유리",
+					"indices": [
+						128,
+						132
+					]
+				},
+				{
+					"text": "WH3N",
+					"indices": [
+						133,
+						138
+					]
+				},
+				{
+					"text": "라이브온",
+					"indices": [
+						139,
+						144
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CrkgTidXZp",
+					"expanded_url": "https://www.youtube.com/c/liveonarirang/",
+					"display_url": "youtube.com/c/liveonariran…",
+					"indices": [
+						102,
+						125
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1577231300502904800,
+					"id_str": "1577231300502904832",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/FeNzguMaYAA2ims.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeNzguMaYAA2ims.jpg",
+					"url": "https://t.co/MKcELkw7zt",
+					"display_url": "pic.twitter.com/MKcELkw7zt",
+					"expanded_url": "https://twitter.com/shofar_ent/status/1577232238227644416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1577231300502904800,
+					"id_str": "1577231300502904832",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/FeNzguMaYAA2ims.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeNzguMaYAA2ims.jpg",
+					"url": "https://t.co/MKcELkw7zt",
+					"display_url": "pic.twitter.com/MKcELkw7zt",
+					"expanded_url": "https://twitter.com/shofar_ent/status/1577232238227644416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 265792818,
+			"id_str": "265792818",
+			"name": "쇼파르엔터테인먼트",
+			"screen_name": "shofar_ent",
+			"location": "",
+			"description": "SHOFAR ENTERTAINMENT Official Twitter",
+			"url": "https://t.co/zzQk2ihRbI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zzQk2ihRbI",
+							"expanded_url": "http://shofar-ent.com/",
+							"display_url": "shofar-ent.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7634,
+			"friends_count": 4,
+			"listed_count": 64,
+			"created_at": "Mon Mar 14 04:31:00 +0000 2011",
+			"favourites_count": 52,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4908,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/265792818/1664357663",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#LIVEON 시즌2]\n⠀\n최유리와 WH3N(웬)이 &lt;LIVE. ON&gt; 공연에 함께합니다\n10월 12일(수) 오후 6시 LIVE. ON 유튜브 채널에서 만나요🤗💕\n⠀\n▷ https://t.co/CrkgTidXZp\n⠀\n#최유리 #WH3N #라이브온 https://t.co/MKcELkw7zt"
+	},
+	{
 		"created_at": "Tue Oct 04 09:58:39 +0000 2022",
 		"id": 1577227278206963700,
 		"id_str": "1577236748442243073",
