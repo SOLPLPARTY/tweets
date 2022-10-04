@@ -1,6 +1,735 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Tue Oct 04 07:29:47 +0000 2022",
+		"id": 1577194438501503000,
+		"id_str": "1577199288219746311",
+		"full_text": "[#인천시티팝]\n본선 일정은 아래 시간과 장소를 확인해주세요😍\n📅일시: 10월 23일(일) 오후 5:00\n📍장소:인천문화예술회관 대공연장\n🎟티켓: FREE(무료관람)\n\n#인천시티팝 #창작가요제 #인천문화예술회관 #SURL #설 #모트 #음악경연 #라이브경연 https://t.co/fBpAah2cjI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "인천시티팝",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "인천시티팝",
+					"indices": [
+						94,
+						100
+					]
+				},
+				{
+					"text": "창작가요제",
+					"indices": [
+						101,
+						107
+					]
+				},
+				{
+					"text": "인천문화예술회관",
+					"indices": [
+						108,
+						117
+					]
+				},
+				{
+					"text": "SURL",
+					"indices": [
+						118,
+						123
+					]
+				},
+				{
+					"text": "설",
+					"indices": [
+						124,
+						126
+					]
+				},
+				{
+					"text": "모트",
+					"indices": [
+						127,
+						130
+					]
+				},
+				{
+					"text": "음악경연",
+					"indices": [
+						131,
+						136
+					]
+				},
+				{
+					"text": "라이브경연",
+					"indices": [
+						137,
+						143
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1577194358440603600,
+					"id_str": "1577194358440603648",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/FeNR6aSaMAA9Zdj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeNR6aSaMAA9Zdj.jpg",
+					"url": "https://t.co/fBpAah2cjI",
+					"display_url": "pic.twitter.com/fBpAah2cjI",
+					"expanded_url": "https://twitter.com/ruby_records/status/1577194438501502977/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1577194358440603600,
+					"id_str": "1577194358440603648",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/FeNR6aSaMAA9Zdj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeNR6aSaMAA9Zdj.jpg",
+					"url": "https://t.co/fBpAah2cjI",
+					"display_url": "pic.twitter.com/fBpAah2cjI",
+					"expanded_url": "https://twitter.com/ruby_records/status/1577194438501502977/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110930534,
+			"id_str": "110930534",
+			"name": "Ruby records",
+			"screen_name": "ruby_records",
+			"location": "대한민국 서울",
+			"description": "💎 루비레코드 #루비튜브 Rubytube #인천여관X루비살롱 rubysalon #스마일러브위크엔드 #모트 Motte #레인보우노트 RBN #우예린 yerin",
+			"url": "https://t.co/vLFrhW6ba0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vLFrhW6ba0",
+							"expanded_url": "http://youtube.com/user/rubysalon",
+							"display_url": "youtube.com/user/rubysalon",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7524,
+			"friends_count": 8164,
+			"listed_count": 195,
+			"created_at": "Wed Feb 03 07:13:24 +0000 2010",
+			"favourites_count": 1021,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7775,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1403718575479681030/-FWGVqIS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1403718575479681030/-FWGVqIS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110930534/1623507563",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#인천시티팝]\n본선 일정은 아래 시간과 장소를 확인해주세요😍\n📅일시: 10월 23일(일) 오후 5:00\n📍장소:인천문화예술회관 대공연장\n🎟티켓: FREE(무료관람)\n\n#인천시티팝 #창작가요제 #인천문화예술회관 #SURL #설 #모트 #음악경연 #라이브경연 https://t.co/fBpAah2cjI"
+	},
+	{
+		"created_at": "Tue Oct 04 07:29:38 +0000 2022",
+		"id": 1577194025853259800,
+		"id_str": "1577199250034855937",
+		"full_text": "[#인천시티팝] \n10.23(일) PM5 인천문화예술회관 대공연장\n\n전국민 대상 창작 가요제 2022 인천 시티팝의 본선 포스터를 공개합니다!🎊\n\n실력있는 참가자들의 불꽃튀는 경연을 생생하게!!\n그리고 축하공연으로 요새 가장 핫한 인디씬의 스타 SURL과 모트가 경연을 빛내주기로 했답니다! 쏴리질러~ https://t.co/Q8codwg0Tv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "인천시티팝",
+					"indices": [
+						1,
+						7
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1577193999034912800,
+					"id_str": "1577193999034912768",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/FeNRlfZakAADm2E.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeNRlfZakAADm2E.jpg",
+					"url": "https://t.co/Q8codwg0Tv",
+					"display_url": "pic.twitter.com/Q8codwg0Tv",
+					"expanded_url": "https://twitter.com/ruby_records/status/1577194025853259776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1577193999034912800,
+					"id_str": "1577193999034912768",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/FeNRlfZakAADm2E.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeNRlfZakAADm2E.jpg",
+					"url": "https://t.co/Q8codwg0Tv",
+					"display_url": "pic.twitter.com/Q8codwg0Tv",
+					"expanded_url": "https://twitter.com/ruby_records/status/1577194025853259776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110930534,
+			"id_str": "110930534",
+			"name": "Ruby records",
+			"screen_name": "ruby_records",
+			"location": "대한민국 서울",
+			"description": "💎 루비레코드 #루비튜브 Rubytube #인천여관X루비살롱 rubysalon #스마일러브위크엔드 #모트 Motte #레인보우노트 RBN #우예린 yerin",
+			"url": "https://t.co/vLFrhW6ba0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vLFrhW6ba0",
+							"expanded_url": "http://youtube.com/user/rubysalon",
+							"display_url": "youtube.com/user/rubysalon",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7524,
+			"friends_count": 8164,
+			"listed_count": 195,
+			"created_at": "Wed Feb 03 07:13:24 +0000 2010",
+			"favourites_count": 1021,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7775,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1403718575479681030/-FWGVqIS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1403718575479681030/-FWGVqIS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110930534/1623507563",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#인천시티팝] \n10.23(일) PM5 인천문화예술회관 대공연장\n\n전국민 대상 창작 가요제 2022 인천 시티팝의 본선 포스터를 공개합니다!🎊\n\n실력있는 참가자들의 불꽃튀는 경연을 생생하게!!\n그리고 축하공연으로 요새 가장 핫한 인디씬의 스타 SURL과 모트가 경연을 빛내주기로 했답니다! 쏴리질러~ https://t.co/Q8codwg0Tv"
+	},
+	{
+		"created_at": "Tue Oct 04 07:29:35 +0000 2022",
+		"id": 1577188446132588500,
+		"id_str": "1577199236839620608",
+		"full_text": "[NEWS] '복학생: 학점은 A지만 사랑은 F입니다' 중간고사 맞이 서로를 공부하는 #권혁수 ♥주현영\n\n👉 https://t.co/PXN9YWoSrZ\n\n#KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #쿠팡플레이시리즈 #쿠팡플레이 #coupangplay #복학생_학점은A지만사랑은F입니다",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권혁수",
+					"indices": [
+						48,
+						52
+					]
+				},
+				{
+					"text": "KwunHyukSoo",
+					"indices": [
+						86,
+						98
+					]
+				},
+				{
+					"text": "휴맵컨텐츠",
+					"indices": [
+						99,
+						105
+					]
+				},
+				{
+					"text": "HUMAPCONTENTS",
+					"indices": [
+						106,
+						120
+					]
+				},
+				{
+					"text": "쿠팡플레이시리즈",
+					"indices": [
+						121,
+						130
+					]
+				},
+				{
+					"text": "쿠팡플레이",
+					"indices": [
+						131,
+						137
+					]
+				},
+				{
+					"text": "coupangplay",
+					"indices": [
+						138,
+						150
+					]
+				},
+				{
+					"text": "복학생_학점은A지만사랑은F입니다",
+					"indices": [
+						151,
+						169
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PXN9YWoSrZ",
+					"expanded_url": "http://www.gpkorea.com/news/articleView.html?idxno=92931",
+					"display_url": "gpkorea.com/news/articleVi…",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1219506842935513000,
+			"id_str": "1219506842935513088",
+			"name": "휴맵컨텐츠(HUMAP)",
+			"screen_name": "humap_official",
+			"location": "",
+			"description": "휴맵컨텐츠(HUMAP CONTENTS) Official Twitter",
+			"url": "https://t.co/fBZZK3SmX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fBZZK3SmX6",
+							"expanded_url": "http://www.humapcontents.com/",
+							"display_url": "humapcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 384,
+			"friends_count": 2,
+			"listed_count": 2,
+			"created_at": "Tue Jan 21 06:28:27 +0000 2020",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 932,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1219506842935513088/1579755898",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[NEWS] '복학생: 학점은 A지만 사랑은 F입니다' 중간고사 맞이 서로를 공부하는 #권혁수 ♥주현영\n\n👉 https://t.co/PXN9YWoSrZ\n\n#KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #쿠팡플레이시리즈 #쿠팡플레이 #coupangplay #복학생_학점은A지만사랑은F입니다"
+	},
+	{
+		"created_at": "Tue Oct 04 07:29:32 +0000 2022",
+		"id": 1577185778949828600,
+		"id_str": "1577199223551950849",
+		"full_text": "무신사 숏TV x cott \n도시에 사는 당신을 위해🏙\n\n무신사 숏TV 기획전에 cott이 함께 했습니다. cott의 신곡 ‘OH MESS’와 무신사 숏TV의 만남을 지금 바로 확인해보세요! \n\n🔗https://t.co/r247QpVDwB\n\n#cott #무신사숏TV #무신사스토어 #OHMESS #도시에사는당신을위해",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "cott",
+					"indices": [
+						135,
+						140
+					]
+				},
+				{
+					"text": "무신사숏TV",
+					"indices": [
+						141,
+						148
+					]
+				},
+				{
+					"text": "무신사스토어",
+					"indices": [
+						149,
+						156
+					]
+				},
+				{
+					"text": "OHMESS",
+					"indices": [
+						157,
+						164
+					]
+				},
+				{
+					"text": "도시에사는당신을위해",
+					"indices": [
+						165,
+						176
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/r247QpVDwB",
+					"expanded_url": "http://www.musinsa.com/app/plan/views/25595",
+					"display_url": "musinsa.com/app/plan/views…",
+					"indices": [
+						110,
+						133
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 your summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 슬릭, 아마도이자람밴드, 우주왕복선싸이드미러, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2296,
+			"friends_count": 20,
+			"listed_count": 12,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 638,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6580,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "무신사 숏TV x cott \n도시에 사는 당신을 위해🏙\n\n무신사 숏TV 기획전에 cott이 함께 했습니다. cott의 신곡 ‘OH MESS’와 무신사 숏TV의 만남을 지금 바로 확인해보세요! \n\n🔗https://t.co/r247QpVDwB\n\n#cott #무신사숏TV #무신사스토어 #OHMESS #도시에사는당신을위해"
+	},
+	{
 		"created_at": "Tue Oct 04 06:58:26 +0000 2022",
 		"id": 1577181723779104800,
 		"id_str": "1577191397693788162",
