@@ -1,6 +1,858 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Tue Oct 04 12:03:33 +0000 2022",
+		"id": 1577268182523383800,
+		"id_str": "1577268182523383814",
+		"full_text": "#EBS스페이스공감 #스페이스공감 #공감 \n[격공 playlist] 공감의 3대 기타리스트는 과연 누구? 🌟 해외 레전드 기타리스트 모음.zip 플레이리스트\nhttps://t.co/7h5amp1iUa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EBS스페이스공감",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "스페이스공감",
+					"indices": [
+						11,
+						18
+					]
+				},
+				{
+					"text": "공감",
+					"indices": [
+						19,
+						22
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7h5amp1iUa",
+					"expanded_url": "https://youtu.be/zzi4OJVgVP8",
+					"display_url": "youtu.be/zzi4OJVgVP8",
+					"indices": [
+						88,
+						111
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 256,
+			"friends_count": 460,
+			"listed_count": 5,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 234,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 89189,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#EBS스페이스공감 #스페이스공감 #공감 \n[격공 playlist] 공감의 3대 기타리스트는 과연 누구? 🌟 해외 레전드 기타리스트 모음.zip 플레이리스트\nhttps://t.co/7h5amp1iUa"
+	},
+	{
+		"created_at": "Tue Oct 04 11:58:28 +0000 2022",
+		"id": 1577252320252870700,
+		"id_str": "1577266901947977728",
+		"full_text": "❤️夢よりも夢のような時間、KCON 2022 JAPAN💙\n\n10月、たった3日間行われるカラフルなKCON WORLDをお楽しみください💘\nもっとFUNなKCON 2022 JAPANにハマってみてください🌻🌼🌷🎵\n\n10/14-16(JST)にお会いしましょう！Let's KCON🥳\n\n#KCON #KCONJAPAN #KCON2022JAPAN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						147,
+						152
+					]
+				},
+				{
+					"text": "KCONJAPAN",
+					"indices": [
+						153,
+						163
+					]
+				},
+				{
+					"text": "KCON2022JAPAN",
+					"indices": [
+						164,
+						178
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1577252318084333600,
+		"in_reply_to_status_id_str": "1577252318084333568",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER\n📍KCON 2022 JAPAN 10/14 ~ 10/16 (JST)",
+			"url": "https://t.co/IDnJhWoZ59",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWoZ59",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 467788,
+			"friends_count": 76,
+			"listed_count": 1138,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 141,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13233,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1567787455188987905/sAYoOtFz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1567787455188987905/sAYoOtFz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1664852417",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 30,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja",
+		"text": "❤️夢よりも夢のような時間、KCON 2022 JAPAN💙\n\n10月、たった3日間行われるカラフルなKCON WORLDをお楽しみください💘\nもっとFUNなKCON 2022 JAPANにハマってみてください🌻🌼🌷🎵\n\n10/14-16(JST)にお会いしましょう！Let's KCON🥳\n\n#KCON #KCONJAPAN #KCON2022JAPAN"
+	},
+	{
+		"created_at": "Tue Oct 04 11:58:24 +0000 2022",
+		"id": 1577252318084333600,
+		"id_str": "1577266884709343232",
+		"full_text": "❤️꿈보다 더 꿈같은 시간, KCON 2022 JAPAN💙\n\n10월, 단 3일 동안 펼쳐지는 다채로운 KCON WORLD를 기대해 주세요💘\n더 FUN한 KCON 2022 JAPAN에 빠져 보세요🌻🌼🌷🎵\n\n10/14-16(JST)에 만나요! Let's KCON🥳\n\n#KCON #KCONJAPAN #KCON2022JAPAN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						147,
+						152
+					]
+				},
+				{
+					"text": "KCONJAPAN",
+					"indices": [
+						153,
+						163
+					]
+				},
+				{
+					"text": "KCON2022JAPAN",
+					"indices": [
+						164,
+						178
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1577252193337344000,
+		"in_reply_to_status_id_str": "1577252193337344000",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER\n📍KCON 2022 JAPAN 10/14 ~ 10/16 (JST)",
+			"url": "https://t.co/IDnJhWoZ59",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWoZ59",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 467788,
+			"friends_count": 76,
+			"listed_count": 1138,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 141,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13233,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1567787455188987905/sAYoOtFz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1567787455188987905/sAYoOtFz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1664852417",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "❤️꿈보다 더 꿈같은 시간, KCON 2022 JAPAN💙\n\n10월, 단 3일 동안 펼쳐지는 다채로운 KCON WORLD를 기대해 주세요💘\n더 FUN한 KCON 2022 JAPAN에 빠져 보세요🌻🌼🌷🎵\n\n10/14-16(JST)에 만나요! Let's KCON🥳\n\n#KCON #KCONJAPAN #KCON2022JAPAN"
+	},
+	{
+		"created_at": "Tue Oct 04 11:58:15 +0000 2022",
+		"id": 1577252193337344000,
+		"id_str": "1577266846541160448",
+		"full_text": "❤️Our surreal time more than a dream, KCON 2022 JAPAN💙\n\nOn October, look forward to 3-day KCON WORLD with full of glowing moments💘\nExperience the FUN at KCON 2022 JAPAN🌻🌼🌷🎵\n\n10/14-16(JST), see you soon! Let's KCON🥳\n\n#KCON #KCONJAPAN #KCONJAPAN https://t.co/xI4V5DDzWI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			243
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						216,
+						221
+					]
+				},
+				{
+					"text": "KCONJAPAN",
+					"indices": [
+						222,
+						232
+					]
+				},
+				{
+					"text": "KCONJAPAN",
+					"indices": [
+						233,
+						243
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1577206995824038000,
+					"id_str": "1577206995824037888",
+					"indices": [
+						244,
+						267
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1577206995824037888/img/OdEppMvwCiWEI4_n.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1577206995824037888/img/OdEppMvwCiWEI4_n.jpg",
+					"url": "https://t.co/xI4V5DDzWI",
+					"display_url": "pic.twitter.com/xI4V5DDzWI",
+					"expanded_url": "https://twitter.com/KCON_official/status/1577252193337344000/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1577206995824038000,
+					"id_str": "1577206995824037888",
+					"indices": [
+						244,
+						267
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1577206995824037888/img/OdEppMvwCiWEI4_n.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1577206995824037888/img/OdEppMvwCiWEI4_n.jpg",
+					"url": "https://t.co/xI4V5DDzWI",
+					"display_url": "pic.twitter.com/xI4V5DDzWI",
+					"expanded_url": "https://twitter.com/KCON_official/status/1577252193337344000/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 39172,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1577206995824037888/vid/640x360/79tRUYUVgcO413dG.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1577206995824037888/vid/1280x720/wyPlzGqYHEvhab3M.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1577206995824037888/pl/Dt6m5pVmJuHGOxbS.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1577206995824037888/vid/480x270/MHauu9FinfDHe3H_.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER\n📍KCON 2022 JAPAN 10/14 ~ 10/16 (JST)",
+			"url": "https://t.co/IDnJhWoZ59",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWoZ59",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 467788,
+			"friends_count": 76,
+			"listed_count": 1138,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 141,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13233,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1567787455188987905/sAYoOtFz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1567787455188987905/sAYoOtFz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1664852417",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 80,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "❤️Our surreal time more than a dream, KCON 2022 JAPAN💙\n\nOn October, look forward to 3-day KCON WORLD with full of glowing moments💘\nExperience the FUN at KCON 2022 JAPAN🌻🌼🌷🎵\n\n10/14-16(JST), see you soon! Let's KCON🥳\n\n#KCON #KCONJAPAN #KCONJAPAN https://t.co/xI4V5DDzWI"
+	},
+	{
+		"created_at": "Tue Oct 04 11:29:31 +0000 2022",
+		"id": 1577251214252572700,
+		"id_str": "1577259617872379904",
+		"full_text": "[#김영철] SBS M, SBS FiL '더쇼' 완료✔️\n\n평일의 시작은 김영철과 함께🧡\n다시 주말까지 '막' 가보자고❗\n▶️https://t.co/IvxUNpp2Vx\n\n🎵김영철 '막가리' Play\n▶️https://t.co/daBwXJAK61\n\n#KimYoungchul #막가리 #SBSM #SBSFiL #더쇼 https://t.co/J2h1fRqQMG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "김영철",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "KimYoungchul",
+					"indices": [
+						138,
+						151
+					]
+				},
+				{
+					"text": "막가리",
+					"indices": [
+						152,
+						156
+					]
+				},
+				{
+					"text": "SBSM",
+					"indices": [
+						157,
+						162
+					]
+				},
+				{
+					"text": "SBSFiL",
+					"indices": [
+						163,
+						170
+					]
+				},
+				{
+					"text": "더쇼",
+					"indices": [
+						171,
+						174
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IvxUNpp2Vx",
+					"expanded_url": "https://tv.naver.com/v/29665604",
+					"display_url": "tv.naver.com/v/29665604",
+					"indices": [
+						70,
+						93
+					]
+				},
+				{
+					"url": "https://t.co/daBwXJAK61",
+					"expanded_url": "http://kko.to/FlACr8u62",
+					"display_url": "kko.to/FlACr8u62",
+					"indices": [
+						113,
+						136
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1577250385437200400,
+					"id_str": "1577250385437200385",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/FeOE3nHVEAEdMMH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeOE3nHVEAEdMMH.jpg",
+					"url": "https://t.co/J2h1fRqQMG",
+					"display_url": "pic.twitter.com/J2h1fRqQMG",
+					"expanded_url": "https://twitter.com/themysticstory/status/1577251214252572673/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 651,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1150,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1962,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1577250385437200400,
+					"id_str": "1577250385437200385",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/FeOE3nHVEAEdMMH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeOE3nHVEAEdMMH.jpg",
+					"url": "https://t.co/J2h1fRqQMG",
+					"display_url": "pic.twitter.com/J2h1fRqQMG",
+					"expanded_url": "https://twitter.com/themysticstory/status/1577251214252572673/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 651,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1150,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1962,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/pgQyM4g8RF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pgQyM4g8RF",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37567,
+			"friends_count": 14,
+			"listed_count": 304,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7295,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1663804824",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#김영철] SBS M, SBS FiL '더쇼' 완료✔️\n\n평일의 시작은 김영철과 함께🧡\n다시 주말까지 '막' 가보자고❗\n▶️https://t.co/IvxUNpp2Vx\n\n🎵김영철 '막가리' Play\n▶️https://t.co/daBwXJAK61\n\n#KimYoungchul #막가리 #SBSM #SBSFiL #더쇼 https://t.co/J2h1fRqQMG"
+	},
+	{
 		"created_at": "Tue Oct 04 11:15:41 +0000 2022",
 		"id": 1577256134246703000,
 		"id_str": "1577256134246703106",
