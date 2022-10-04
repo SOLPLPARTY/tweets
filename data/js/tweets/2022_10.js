@@ -1,6 +1,146 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Tue Oct 04 01:58:20 +0000 2022",
+		"id": 1577101445001670700,
+		"id_str": "1577115873109839873",
+		"full_text": "[NiziU CHECK IN]\n쉿🤫 이건 니쥬와 위쥬만의 비밀인데...👉👈\n니쥬🌈 시크릿톡 WithU한테만 특별히 알랴줌\n\n🍨https://t.co/Or1GBif2sI\nKCON 2022 Cafe 카페에도 많이 방문해 주세요😊\n\n#KCON #KCONJAPAN #KCON2022JAPAN @NiziU__official",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						127,
+						132
+					]
+				},
+				{
+					"text": "KCONJAPAN",
+					"indices": [
+						133,
+						143
+					]
+				},
+				{
+					"text": "KCON2022JAPAN",
+					"indices": [
+						144,
+						158
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NiziU__official",
+					"name": "NiziU",
+					"id": 1110738092493668400,
+					"id_str": "1110738092493668352",
+					"indices": [
+						159,
+						175
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Or1GBif2sI",
+					"expanded_url": "http://kcon-cafe.jp",
+					"display_url": "kcon-cafe.jp",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1577101414462914600,
+		"in_reply_to_status_id_str": "1577101414462914560",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER \n📍 KCON 2022 SAUDI ARABIA 9/30 ~ 10/1 (AST)\n📍KCON 2022 JAPAN 10/14 ~ 10/16 (JST)",
+			"url": "https://t.co/IDnJhWorfB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWorfB",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 467777,
+			"friends_count": 76,
+			"listed_count": 1138,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 141,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13206,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1567787455188987905/sAYoOtFz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1567787455188987905/sAYoOtFz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1662638939",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[NiziU CHECK IN]\n쉿🤫 이건 니쥬와 위쥬만의 비밀인데...👉👈\n니쥬🌈 시크릿톡 WithU한테만 특별히 알랴줌\n\n🍨https://t.co/Or1GBif2sI\nKCON 2022 Cafe 카페에도 많이 방문해 주세요😊\n\n#KCON #KCONJAPAN #KCON2022JAPAN @NiziU__official"
+	},
+	{
 		"created_at": "Mon Oct 03 13:29:27 +0000 2022",
 		"id": 1576927200183718000,
 		"id_str": "1576927410511118336",
