@@ -1,6 +1,790 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Wed Oct 05 03:58:15 +0000 2022",
+		"id": 1577493784383717400,
+		"id_str": "1577508438556418049",
+		"full_text": "[AD]KCON 2022 JAPAN with Qoo10✨\nCheck out LiveShopping on #Qoo10LiveStudio📺⚡\n\nLet's KCON\n2022.10.14-16 (JST)\n\n#KCON #KCON2022JAPAN #Qoo10 https://t.co/PXgjdMEgQT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Qoo10LiveStudio",
+					"indices": [
+						58,
+						74
+					]
+				},
+				{
+					"text": "KCON",
+					"indices": [
+						110,
+						115
+					]
+				},
+				{
+					"text": "KCON2022JAPAN",
+					"indices": [
+						116,
+						130
+					]
+				},
+				{
+					"text": "Qoo10",
+					"indices": [
+						131,
+						137
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1577484419505324000,
+					"id_str": "1577484419505324033",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/FeRZuL9UAAE5-hD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeRZuL9UAAE5-hD.jpg",
+					"url": "https://t.co/PXgjdMEgQT",
+					"display_url": "pic.twitter.com/PXgjdMEgQT",
+					"expanded_url": "https://twitter.com/KCON_official/status/1577493784383717376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1577484419505324000,
+					"id_str": "1577484419505324033",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/FeRZuL9UAAE5-hD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeRZuL9UAAE5-hD.jpg",
+					"url": "https://t.co/PXgjdMEgQT",
+					"display_url": "pic.twitter.com/PXgjdMEgQT",
+					"expanded_url": "https://twitter.com/KCON_official/status/1577493784383717376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1577484419505393700,
+					"id_str": "1577484419505393664",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/FeRZuL9VEAAjVE8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeRZuL9VEAAjVE8.jpg",
+					"url": "https://t.co/PXgjdMEgQT",
+					"display_url": "pic.twitter.com/PXgjdMEgQT",
+					"expanded_url": "https://twitter.com/KCON_official/status/1577493784383717376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1577484419513753600,
+					"id_str": "1577484419513753600",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/FeRZuL_UoAAZkWa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeRZuL_UoAAZkWa.jpg",
+					"url": "https://t.co/PXgjdMEgQT",
+					"display_url": "pic.twitter.com/PXgjdMEgQT",
+					"expanded_url": "https://twitter.com/KCON_official/status/1577493784383717376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1577484419522130000,
+					"id_str": "1577484419522129920",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/FeRZuMBUcAA6-Jq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeRZuMBUcAA6-Jq.jpg",
+					"url": "https://t.co/PXgjdMEgQT",
+					"display_url": "pic.twitter.com/PXgjdMEgQT",
+					"expanded_url": "https://twitter.com/KCON_official/status/1577493784383717376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER\n📍KCON 2022 JAPAN 10/14 ~ 10/16 (JST)",
+			"url": "https://t.co/IDnJhWoZ59",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWoZ59",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 467861,
+			"friends_count": 76,
+			"listed_count": 1138,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 141,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13238,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1567787455188987905/sAYoOtFz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1567787455188987905/sAYoOtFz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1664852417",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 32,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[AD]KCON 2022 JAPAN with Qoo10✨\nCheck out LiveShopping on #Qoo10LiveStudio📺⚡\n\nLet's KCON\n2022.10.14-16 (JST)\n\n#KCON #KCON2022JAPAN #Qoo10 https://t.co/PXgjdMEgQT"
+	},
+	{
+		"created_at": "Wed Oct 05 03:29:34 +0000 2022",
+		"id": 1577497563368153000,
+		"id_str": "1577501223091060736",
+		"full_text": "SUPER JUNIOR 슈퍼주니어 '쏘리 쏘리 (SORRY, SORRY)' MV\n\n📺Original Release in 2009, Remastered in 2022.\n\nhttps://t.co/WEDNiE6TIm\n\n#SM_Remastering_Project #RemasterMV\n#리마스터링프로젝트\n#슈퍼주니어 #SUPERJUNIOR\n#쏘리쏘리 #SorrySorry\n#SMSTATION https://t.co/7qhF35Ymks",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			214
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SM_Remastering_Project",
+					"indices": [
+						119,
+						142
+					]
+				},
+				{
+					"text": "RemasterMV",
+					"indices": [
+						143,
+						154
+					]
+				},
+				{
+					"text": "리마스터링프로젝트",
+					"indices": [
+						155,
+						165
+					]
+				},
+				{
+					"text": "슈퍼주니어",
+					"indices": [
+						166,
+						172
+					]
+				},
+				{
+					"text": "SUPERJUNIOR",
+					"indices": [
+						173,
+						185
+					]
+				},
+				{
+					"text": "쏘리쏘리",
+					"indices": [
+						186,
+						191
+					]
+				},
+				{
+					"text": "SorrySorry",
+					"indices": [
+						192,
+						203
+					]
+				},
+				{
+					"text": "SMSTATION",
+					"indices": [
+						204,
+						214
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WEDNiE6TIm",
+					"expanded_url": "https://youtu.be/x6QA3m58DQw",
+					"display_url": "youtu.be/x6QA3m58DQw",
+					"indices": [
+						94,
+						117
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1577497555331559400,
+					"id_str": "1577497555331559424",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/FeRlqyuVsAAETIF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeRlqyuVsAAETIF.jpg",
+					"url": "https://t.co/7qhF35Ymks",
+					"display_url": "pic.twitter.com/7qhF35Ymks",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1577497563368153088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1577497555331559400,
+					"id_str": "1577497555331559424",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/FeRlqyuVsAAETIF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeRlqyuVsAAETIF.jpg",
+					"url": "https://t.co/7qhF35Ymks",
+					"display_url": "pic.twitter.com/7qhF35Ymks",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1577497563368153088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11209709,
+			"friends_count": 55,
+			"listed_count": 12623,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2027,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13012,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1993,
+		"favorite_count": 3327,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "SUPER JUNIOR 슈퍼주니어 '쏘리 쏘리 (SORRY, SORRY)' MV\n\n📺Original Release in 2009, Remastered in 2022.\n\nhttps://t.co/WEDNiE6TIm\n\n#SM_Remastering_Project #RemasterMV\n#리마스터링프로젝트\n#슈퍼주니어 #SUPERJUNIOR\n#쏘리쏘리 #SorrySorry\n#SMSTATION https://t.co/7qhF35Ymks"
+	},
+	{
+		"created_at": "Wed Oct 05 03:29:32 +0000 2022",
+		"id": 1577494100919869400,
+		"id_str": "1577501214144692225",
+		"full_text": "《 곽진언 소극장 콘서트 - Op.4 》\n\n• 공연일시 •\n2022년 11월 5일(토) 오후 7시\n2022년 11월 6일(일) 오후 3시, 7시\n\n• 공연장소 •\n벨로주 홍대\n\n• 티켓오픈 •\n2022년 10월 11일(화) 오후 5시\n멜론티켓 (https://t.co/i44dcbim4w)\n\n#곽진언 #KwakJineon\n#소극장콘서트 #곽진언_Op #Op_4 https://t.co/xjXFEAAkpl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "곽진언",
+					"indices": [
+						163,
+						167
+					]
+				},
+				{
+					"text": "KwakJineon",
+					"indices": [
+						168,
+						179
+					]
+				},
+				{
+					"text": "소극장콘서트",
+					"indices": [
+						180,
+						187
+					]
+				},
+				{
+					"text": "곽진언_Op",
+					"indices": [
+						188,
+						195
+					]
+				},
+				{
+					"text": "Op_4",
+					"indices": [
+						196,
+						201
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/i44dcbim4w",
+					"expanded_url": "http://bit.ly/3M8pYOz",
+					"display_url": "bit.ly/3M8pYOz",
+					"indices": [
+						137,
+						160
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1577494094720663600,
+					"id_str": "1577494094720663552",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/FeRihW8aAAAuD0c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeRihW8aAAAuD0c.jpg",
+					"url": "https://t.co/xjXFEAAkpl",
+					"display_url": "pic.twitter.com/xjXFEAAkpl",
+					"expanded_url": "https://twitter.com/musicfarmkorea/status/1577494100919869441/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1199,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 848,
+							"h": 1199,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1577494094720663600,
+					"id_str": "1577494094720663552",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/FeRihW8aAAAuD0c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeRihW8aAAAuD0c.jpg",
+					"url": "https://t.co/xjXFEAAkpl",
+					"display_url": "pic.twitter.com/xjXFEAAkpl",
+					"expanded_url": "https://twitter.com/musicfarmkorea/status/1577494100919869441/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1199,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 848,
+							"h": 1199,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 387577661,
+			"id_str": "387577661",
+			"name": "뮤직팜 Music Farm",
+			"screen_name": "musicfarmkorea",
+			"location": "",
+			"description": "이적, 김동률, 존박, 곽진언 / Official YouTube Channel https://t.co/e3kPCV31vL",
+			"url": "https://t.co/P8S0qXo9Ud",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/P8S0qXo9Ud",
+							"expanded_url": "http://www.musicfarm.co.kr",
+							"display_url": "musicfarm.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e3kPCV31vL",
+							"expanded_url": "http://youtube.com/user/musicfarmkorea",
+							"display_url": "youtube.com/user/musicfarm…",
+							"indices": [
+								44,
+								67
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8911,
+			"friends_count": 4,
+			"listed_count": 105,
+			"created_at": "Sun Oct 09 09:25:49 +0000 2011",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1049,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "86B577",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1402947092859867142/vPyyn-39_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1402947092859867142/vPyyn-39_normal.jpg",
+			"profile_link_color": "136785",
+			"profile_sidebar_border_color": "46555C",
+			"profile_sidebar_fill_color": "B9BDBF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "《 곽진언 소극장 콘서트 - Op.4 》\n\n• 공연일시 •\n2022년 11월 5일(토) 오후 7시\n2022년 11월 6일(일) 오후 3시, 7시\n\n• 공연장소 •\n벨로주 홍대\n\n• 티켓오픈 •\n2022년 10월 11일(화) 오후 5시\n멜론티켓 (https://t.co/i44dcbim4w)\n\n#곽진언 #KwakJineon\n#소극장콘서트 #곽진언_Op #Op_4 https://t.co/xjXFEAAkpl"
+	},
+	{
 		"created_at": "Wed Oct 05 03:13:54 +0000 2022",
 		"id": 1577497280667480000,
 		"id_str": "1577497280667480065",
