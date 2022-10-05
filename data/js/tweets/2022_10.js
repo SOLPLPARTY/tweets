@@ -1,6 +1,843 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Wed Oct 05 05:11:19 +0000 2022",
+		"id": 1577525570283638800,
+		"id_str": "1577526828675354624",
+		"full_text": "🌺Project：New born🌺\n하얀 무궁화와 검은밤\n밤을 노래하는 검은 무궁화 화노(Hwanho)의 색다른 도약과 새로운 무대\n⠀\n✔공연일시\n2022.10.23(일) 6PM\n⠀\n✔공연장소\nKT&amp;G 상상마당 홍대 라이브홀\n⠀\n✔예매처\n멜론티켓\n⠀\n✔공연문의\n02-2014-2021 https://t.co/WrUY3VWFpb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1577525560045027300,
+					"id_str": "1577525560045027329",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/FeR_I4aVQAEguHe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeR_I4aVQAEguHe.jpg",
+					"url": "https://t.co/WrUY3VWFpb",
+					"display_url": "pic.twitter.com/WrUY3VWFpb",
+					"expanded_url": "https://twitter.com/SSmadang/status/1577525570283638784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 420,
+							"h": 594,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 420,
+							"h": 594,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 420,
+							"h": 594,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1577525560045027300,
+					"id_str": "1577525560045027329",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/FeR_I4aVQAEguHe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeR_I4aVQAEguHe.jpg",
+					"url": "https://t.co/WrUY3VWFpb",
+					"display_url": "pic.twitter.com/WrUY3VWFpb",
+					"expanded_url": "https://twitter.com/SSmadang/status/1577525570283638784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 420,
+							"h": 594,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 420,
+							"h": 594,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 420,
+							"h": 594,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110358280,
+			"id_str": "110358280",
+			"name": "KT&G 상상마당",
+			"screen_name": "SSmadang",
+			"location": "서울 홍대 (Hongdae, Seoul)",
+			"description": "[복합문화공간] #상상마당 영화ㅣ공연ㅣ디자인ㅣ전시ㅣ교육ㅣ카페",
+			"url": "https://t.co/dQStXHIksz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dQStXHIksz",
+							"expanded_url": "http://sangsangmadang.com",
+							"display_url": "sangsangmadang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17441,
+			"friends_count": 1830,
+			"listed_count": 285,
+			"created_at": "Mon Feb 01 07:45:21 +0000 2010",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9102,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1565171981581893632/v5xwQVrn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1565171981581893632/v5xwQVrn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110358280/1661994351",
+			"profile_link_color": "242D8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "595959",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🌺Project：New born🌺\n하얀 무궁화와 검은밤\n밤을 노래하는 검은 무궁화 화노(Hwanho)의 색다른 도약과 새로운 무대\n⠀\n✔공연일시\n2022.10.23(일) 6PM\n⠀\n✔공연장소\nKT&amp;G 상상마당 홍대 라이브홀\n⠀\n✔예매처\n멜론티켓\n⠀\n✔공연문의\n02-2014-2021 https://t.co/WrUY3VWFpb"
+	},
+	{
+		"created_at": "Wed Oct 05 05:11:17 +0000 2022",
+		"id": 1577525278095511600,
+		"id_str": "1577526819720495104",
+		"full_text": "2022음악지원사업\n&lt;나의 첫 번째 콘서트&gt;의 선정팀 #화노\n⠀\n화노가 준비한 셀프 입덕가이드✨\n화노에게 환호해줘😆😉 https://t.co/1Rc371oLCX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "화노",
+					"indices": [
+						36,
+						39
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1577525242729181200,
+					"id_str": "1577525242729181184",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/FeR-2aUVsAA53Ke.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeR-2aUVsAA53Ke.jpg",
+					"url": "https://t.co/1Rc371oLCX",
+					"display_url": "pic.twitter.com/1Rc371oLCX",
+					"expanded_url": "https://twitter.com/SSmadang/status/1577525278095511552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1128,
+							"h": 1406,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 546,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 963,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1577525242729181200,
+					"id_str": "1577525242729181184",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/FeR-2aUVsAA53Ke.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeR-2aUVsAA53Ke.jpg",
+					"url": "https://t.co/1Rc371oLCX",
+					"display_url": "pic.twitter.com/1Rc371oLCX",
+					"expanded_url": "https://twitter.com/SSmadang/status/1577525278095511552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1128,
+							"h": 1406,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 546,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 963,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1577525242943004700,
+					"id_str": "1577525242943004672",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/FeR-2bHUYAAM1ak.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeR-2bHUYAAM1ak.jpg",
+					"url": "https://t.co/1Rc371oLCX",
+					"display_url": "pic.twitter.com/1Rc371oLCX",
+					"expanded_url": "https://twitter.com/SSmadang/status/1577525278095511552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 963,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1128,
+							"h": 1406,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 546,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1577525242817179600,
+					"id_str": "1577525242817179648",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/FeR-2apUcAA8M3m.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeR-2apUcAA8M3m.jpg",
+					"url": "https://t.co/1Rc371oLCX",
+					"display_url": "pic.twitter.com/1Rc371oLCX",
+					"expanded_url": "https://twitter.com/SSmadang/status/1577525278095511552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 963,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1128,
+							"h": 1406,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 546,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1577525242720702500,
+					"id_str": "1577525242720702465",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/FeR-2aSUUAECZvF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeR-2aSUUAECZvF.jpg",
+					"url": "https://t.co/1Rc371oLCX",
+					"display_url": "pic.twitter.com/1Rc371oLCX",
+					"expanded_url": "https://twitter.com/SSmadang/status/1577525278095511552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 963,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1128,
+							"h": 1406,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 546,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110358280,
+			"id_str": "110358280",
+			"name": "KT&G 상상마당",
+			"screen_name": "SSmadang",
+			"location": "서울 홍대 (Hongdae, Seoul)",
+			"description": "[복합문화공간] #상상마당 영화ㅣ공연ㅣ디자인ㅣ전시ㅣ교육ㅣ카페",
+			"url": "https://t.co/dQStXHIksz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dQStXHIksz",
+							"expanded_url": "http://sangsangmadang.com",
+							"display_url": "sangsangmadang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17441,
+			"friends_count": 1830,
+			"listed_count": 285,
+			"created_at": "Mon Feb 01 07:45:21 +0000 2010",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9102,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1565171981581893632/v5xwQVrn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1565171981581893632/v5xwQVrn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110358280/1661994351",
+			"profile_link_color": "242D8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "595959",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2022음악지원사업\n&lt;나의 첫 번째 콘서트&gt;의 선정팀 #화노\n⠀\n화노가 준비한 셀프 입덕가이드✨\n화노에게 환호해줘😆😉 https://t.co/1Rc371oLCX"
+	},
+	{
+		"created_at": "Wed Oct 05 04:58:15 +0000 2022",
+		"id": 1577508965662937000,
+		"id_str": "1577523538222776320",
+		"full_text": "📢KCON 2022 JAPAN MD 예약판매 안내🎁\n✔️아카이브 모먼트, 포토카드 틴케이스 세트, 비하인드 포토 세트\n\n🔗판매처 : https://t.co/TkbguYqCmg\n🗓️판매 일자 : 2022.09.29 17:00 ~ 11.06 23:59\n\n#KCON #KCON2022JAPAN https://t.co/Ufw9hIalkR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						140,
+						145
+					]
+				},
+				{
+					"text": "KCON2022JAPAN",
+					"indices": [
+						146,
+						160
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TkbguYqCmg",
+					"expanded_url": "https://bit.ly/3dT2ccK",
+					"display_url": "bit.ly/3dT2ccK",
+					"indices": [
+						74,
+						97
+					]
+				},
+				{
+					"url": "https://t.co/Ufw9hIalkR",
+					"expanded_url": "https://twitter.com/kconjapan/status/1577508879356678145",
+					"display_url": "twitter.com/kconjapan/stat…",
+					"indices": [
+						161,
+						184
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER\n📍KCON 2022 JAPAN 10/14 ~ 10/16 (JST)",
+			"url": "https://t.co/IDnJhWoZ59",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWoZ59",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 467861,
+			"friends_count": 76,
+			"listed_count": 1138,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 141,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13239,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1567787455188987905/sAYoOtFz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1567787455188987905/sAYoOtFz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1664852417",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1577508879356678100,
+		"quoted_status_id_str": "1577508879356678145",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Ufw9hIalkR",
+			"expanded": "https://twitter.com/kconjapan/status/1577508879356678145",
+			"display": "twitter.com/kconjapan/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Oct 05 04:00:00 +0000 2022",
+			"id": 1577508879356678100,
+			"id_str": "1577508879356678145",
+			"full_text": "📢KCON 2022 JAPAN MD 予約販売のお知らせ🎁\n✔️ARCHIVE MOMENT、PHOTO CARD TINCASE SET、BEHIND PHOTO SET\n\n🔗販売先 : https://t.co/QcrNM7O5Sg\n🗓️販売日時 : 2022.09.29 17:00 ~ 11.06 23:59\n\n#KCON #KCON2022JAPAN https://t.co/fPBs6z8wzf",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				181
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "KCON",
+						"indices": [
+							161,
+							166
+						]
+					},
+					{
+						"text": "KCON2022JAPAN",
+						"indices": [
+							167,
+							181
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/QcrNM7O5Sg",
+						"expanded_url": "https://bit.ly/3dT2ccK",
+						"display_url": "bit.ly/3dT2ccK",
+						"indices": [
+							96,
+							119
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1577294956397744000,
+						"id_str": "1577294956397744128",
+						"indices": [
+							182,
+							205
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1577294956397744128/img/5e1SfALEb95dkhDN.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1577294956397744128/img/5e1SfALEb95dkhDN.jpg",
+						"url": "https://t.co/fPBs6z8wzf",
+						"display_url": "pic.twitter.com/fPBs6z8wzf",
+						"expanded_url": "https://twitter.com/kconjapan/status/1577508879356678145/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1577294956397744000,
+						"id_str": "1577294956397744128",
+						"indices": [
+							182,
+							205
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1577294956397744128/img/5e1SfALEb95dkhDN.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1577294956397744128/img/5e1SfALEb95dkhDN.jpg",
+						"url": "https://t.co/fPBs6z8wzf",
+						"display_url": "pic.twitter.com/fPBs6z8wzf",
+						"expanded_url": "https://twitter.com/kconjapan/status/1577508879356678145/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 55055,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1577294956397744128/vid/640x360/iT4Hd8o-5_S5ymvl.mp4?tag=14"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1577294956397744128/pl/lGTCwQqNpZ-OZECd.m3u8?tag=14&container=fmp4"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1577294956397744128/vid/1280x720/tbg6U3UKAH7KwPri.mp4?tag=14"
+								},
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1577294956397744128/vid/480x270/WNHSKqCcbfu9swBY.mp4?tag=14"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3017029196,
+				"id_str": "3017029196",
+				"name": "KCON Japan",
+				"screen_name": "kconjapan",
+				"location": "",
+				"description": "世界最大級のK-Cultureフェスティバル\n『KCON JAPAN』の公式Twitterです！\n📍10/14（金） ~ 10/16(日）/ 東京・有明アリーナ",
+				"url": "https://t.co/sCRhaGCzOM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/sCRhaGCzOM",
+								"expanded_url": "http://kconjapan.com",
+								"display_url": "kconjapan.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 244043,
+				"friends_count": 158,
+				"listed_count": 480,
+				"created_at": "Thu Feb 12 06:02:55 +0000 2015",
+				"favourites_count": 166,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 6766,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5ABB5",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1554285876041367553/Z3_Jgigb_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1554285876041367553/Z3_Jgigb_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3017029196/1662617121",
+				"profile_link_color": "F5ABB5",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 49,
+			"favorite_count": 229,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"retweet_count": 6,
+		"favorite_count": 43,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📢KCON 2022 JAPAN MD 예약판매 안내🎁\n✔️아카이브 모먼트, 포토카드 틴케이스 세트, 비하인드 포토 세트\n\n🔗판매처 : https://t.co/TkbguYqCmg\n🗓️판매 일자 : 2022.09.29 17:00 ~ 11.06 23:59\n\n#KCON #KCON2022JAPAN https://t.co/Ufw9hIalkR"
+	},
+	{
 		"created_at": "Wed Oct 05 03:58:15 +0000 2022",
 		"id": 1577493784383717400,
 		"id_str": "1577508438556418049",
