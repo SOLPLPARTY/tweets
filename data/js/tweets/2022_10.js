@@ -1,6 +1,398 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Thu Oct 06 11:29:36 +0000 2022",
+		"id": 1577976964140265500,
+		"id_str": "1577984414298132480",
+		"full_text": "[Playlist | Mix] #UnderHouse by DJ YENA &amp; JAMIE (제이미) (Warner K-Pop Originals)\n\n🔗https://t.co/GdZyY4QYkQ\n\n#언더하우스 #WarnerMusicKPOP #JAMIE #제이미 #OneBadNight #3DWoman #BedtimeStory #Honesty #YENA @jiminpark07 https://t.co/QDxodAeREa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			209
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "UnderHouse",
+					"indices": [
+						17,
+						28
+					]
+				},
+				{
+					"text": "언더하우스",
+					"indices": [
+						110,
+						116
+					]
+				},
+				{
+					"text": "WarnerMusicKPOP",
+					"indices": [
+						117,
+						133
+					]
+				},
+				{
+					"text": "JAMIE",
+					"indices": [
+						134,
+						140
+					]
+				},
+				{
+					"text": "제이미",
+					"indices": [
+						141,
+						145
+					]
+				},
+				{
+					"text": "OneBadNight",
+					"indices": [
+						146,
+						158
+					]
+				},
+				{
+					"text": "3DWoman",
+					"indices": [
+						159,
+						167
+					]
+				},
+				{
+					"text": "BedtimeStory",
+					"indices": [
+						168,
+						181
+					]
+				},
+				{
+					"text": "Honesty",
+					"indices": [
+						182,
+						190
+					]
+				},
+				{
+					"text": "YENA",
+					"indices": [
+						191,
+						196
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jiminpark07",
+					"name": "JIMINxJAMIE",
+					"id": 220195175,
+					"id_str": "220195175",
+					"indices": [
+						197,
+						209
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/GdZyY4QYkQ",
+					"expanded_url": "http://youtu.be/eMTOHai6vFU",
+					"display_url": "youtu.be/eMTOHai6vFU",
+					"indices": [
+						85,
+						108
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1577971745088163800,
+					"id_str": "1577971745088163840",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1577971745088163840/pu/img/znFPvijDbVUtnge6.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1577971745088163840/pu/img/znFPvijDbVUtnge6.jpg",
+					"url": "https://t.co/QDxodAeREa",
+					"display_url": "pic.twitter.com/QDxodAeREa",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1577976964140265474/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1577971745088163800,
+					"id_str": "1577971745088163840",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1577971745088163840/pu/img/znFPvijDbVUtnge6.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1577971745088163840/pu/img/znFPvijDbVUtnge6.jpg",
+					"url": "https://t.co/QDxodAeREa",
+					"display_url": "pic.twitter.com/QDxodAeREa",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1577976964140265474/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 59072,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1577971745088163840/pu/pl/Ds5n4dIBN7AfhKad.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1577971745088163840/pu/vid/1280x720/mxFYnu0J35j3N6Iq.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1577971745088163840/pu/vid/480x270/o4nboLCm_oRCAMd2.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1577971745088163840/pu/vid/640x360/u2Nif-XWyjDesKfJ.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 90603,
+			"friends_count": 491,
+			"listed_count": 221,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1579,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 12037,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1664247457",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 48,
+		"favorite_count": 69,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[Playlist | Mix] #UnderHouse by DJ YENA &amp; JAMIE (제이미) (Warner K-Pop Originals)\n\n🔗https://t.co/GdZyY4QYkQ\n\n#언더하우스 #WarnerMusicKPOP #JAMIE #제이미 #OneBadNight #3DWoman #BedtimeStory #Honesty #YENA @jiminpark07 https://t.co/QDxodAeREa"
+	},
+	{
+		"created_at": "Thu Oct 06 11:29:31 +0000 2022",
+		"id": 1577976016915804200,
+		"id_str": "1577984392802222086",
+		"full_text": "프랑스 출신의 K.O.P 32는 파리와 서울, 상해를 오가며 종로에디트, Pyramid Of Knowledge 등의 다양한 명의로 릴리스를 해왔으며 테크노와 앰비언트, 프렌치코어 사이를 탐구한다.\nhttps://t.co/3WiyAYe7UD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3WiyAYe7UD",
+					"expanded_url": "https://youtu.be/t13YzBA_Tp0",
+					"display_url": "youtu.be/t13YzBA_Tp0",
+					"indices": [
+						110,
+						133
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 389236787,
+			"id_str": "389236787",
+			"name": "Bombino Records",
+			"screen_name": "bombino_records",
+			"location": "babylon",
+			"description": "",
+			"url": "https://t.co/3IX5WApqpM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3IX5WApqpM",
+							"expanded_url": "http://bekindrespin.wordpress.com/",
+							"display_url": "bekindrespin.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 498,
+			"friends_count": 72,
+			"listed_count": 7,
+			"created_at": "Wed Oct 12 02:35:26 +0000 2011",
+			"favourites_count": 102,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2147,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1208686940427415552/JVoB59S9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1208686940427415552/JVoB59S9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/389236787/1545404016",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "프랑스 출신의 K.O.P 32는 파리와 서울, 상해를 오가며 종로에디트, Pyramid Of Knowledge 등의 다양한 명의로 릴리스를 해왔으며 테크노와 앰비언트, 프렌치코어 사이를 탐구한다.\nhttps://t.co/3WiyAYe7UD"
+	},
+	{
 		"created_at": "Thu Oct 06 11:11:17 +0000 2022",
 		"id": 1577976967218995200,
 		"id_str": "1577979803151794176",
