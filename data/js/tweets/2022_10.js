@@ -1,6 +1,1057 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Thu Oct 06 03:29:57 +0000 2022",
+		"id": 1577859761340440600,
+		"id_str": "1577863705160781824",
+		"full_text": "#임윤아, 미우미우 엠버서더로 파리 패션위크 참석! ‘글로벌 퀸’ 저력 입증\n파리에서도 지금은 ‘윤아시대’! 현지 매료시킨 독보적 아우라\n\n‘Global Queen’ #LIMYOONA attends Paris Fashion Week as a Miu Miu ambassador!  \nShe captivates the local audience with her unique aura!\n\n#소녀시대 https://t.co/RtKDppSO7R",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			219
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "임윤아",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "LIMYOONA",
+					"indices": [
+						93,
+						102
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						214,
+						219
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1577859748258451500,
+					"id_str": "1577859748258451456",
+					"indices": [
+						220,
+						243
+					],
+					"media_url": "http://pbs.twimg.com/media/FeWvFMhVEAA_NDq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeWvFMhVEAA_NDq.jpg",
+					"url": "https://t.co/RtKDppSO7R",
+					"display_url": "pic.twitter.com/RtKDppSO7R",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1577859761340440576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1577859748258451500,
+					"id_str": "1577859748258451456",
+					"indices": [
+						220,
+						243
+					],
+					"media_url": "http://pbs.twimg.com/media/FeWvFMhVEAA_NDq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeWvFMhVEAA_NDq.jpg",
+					"url": "https://t.co/RtKDppSO7R",
+					"display_url": "pic.twitter.com/RtKDppSO7R",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1577859761340440576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1577859748287770600,
+					"id_str": "1577859748287770625",
+					"indices": [
+						220,
+						243
+					],
+					"media_url": "http://pbs.twimg.com/media/FeWvFMoUcAEiQmc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeWvFMoUcAEiQmc.jpg",
+					"url": "https://t.co/RtKDppSO7R",
+					"display_url": "pic.twitter.com/RtKDppSO7R",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1577859761340440576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 799,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1364,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11211139,
+			"friends_count": 55,
+			"listed_count": 12629,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2027,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13015,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 906,
+		"favorite_count": 2564,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#임윤아, 미우미우 엠버서더로 파리 패션위크 참석! ‘글로벌 퀸’ 저력 입증\n파리에서도 지금은 ‘윤아시대’! 현지 매료시킨 독보적 아우라\n\n‘Global Queen’ #LIMYOONA attends Paris Fashion Week as a Miu Miu ambassador!  \nShe captivates the local audience with her unique aura!\n\n#소녀시대 https://t.co/RtKDppSO7R"
+	},
+	{
+		"created_at": "Thu Oct 06 03:29:52 +0000 2022",
+		"id": 1577858961910665200,
+		"id_str": "1577863683656585217",
+		"full_text": "[SURL | #GSI]\n\nSURL(설)의 '선인장', '열기구 (Acoustic ver.)'가 수록된\n#Mnet '그레이트 서울 인베이전'의 Final 컴필레이션 앨범이 발매되었습니다.\n \n지금 모든 음원사이트에서 감상하실 수 있습니다.\n\n#SURL #설 #발매 #엠넷 #그레이트서울인베이전 https://t.co/WAa8uePQbY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GSI",
+					"indices": [
+						8,
+						12
+					]
+				},
+				{
+					"text": "Mnet",
+					"indices": [
+						58,
+						63
+					]
+				},
+				{
+					"text": "SURL",
+					"indices": [
+						135,
+						140
+					]
+				},
+				{
+					"text": "설",
+					"indices": [
+						141,
+						143
+					]
+				},
+				{
+					"text": "발매",
+					"indices": [
+						144,
+						147
+					]
+				},
+				{
+					"text": "엠넷",
+					"indices": [
+						148,
+						151
+					]
+				},
+				{
+					"text": "그레이트서울인베이전",
+					"indices": [
+						152,
+						163
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1577858889571520500,
+					"id_str": "1577858889571520512",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/FeWuTNqaUAASNHa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeWuTNqaUAASNHa.jpg",
+					"url": "https://t.co/WAa8uePQbY",
+					"display_url": "pic.twitter.com/WAa8uePQbY",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1577858961910665217/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1577858889571520500,
+					"id_str": "1577858889571520512",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/FeWuTNqaUAASNHa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeWuTNqaUAASNHa.jpg",
+					"url": "https://t.co/WAa8uePQbY",
+					"display_url": "pic.twitter.com/WAa8uePQbY",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1577858961910665217/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "구만(9.10000), 노리플라이, 데이브레이크, Lacuna(라쿠나), SURL(설), 소란, 솔루션스, 쏜애플, OurR(아월)",
+			"url": "https://t.co/BIvBmbtJjn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BIvBmbtJjn",
+							"expanded_url": "https://mpmgmusic.com/",
+							"display_url": "mpmgmusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12890,
+			"friends_count": 1894,
+			"listed_count": 249,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 209,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13582,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1626843310",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[SURL | #GSI]\n\nSURL(설)의 '선인장', '열기구 (Acoustic ver.)'가 수록된\n#Mnet '그레이트 서울 인베이전'의 Final 컴필레이션 앨범이 발매되었습니다.\n \n지금 모든 음원사이트에서 감상하실 수 있습니다.\n\n#SURL #설 #발매 #엠넷 #그레이트서울인베이전 https://t.co/WAa8uePQbY"
+	},
+	{
+		"created_at": "Thu Oct 06 03:29:47 +0000 2022",
+		"id": 1577856468421734400,
+		"id_str": "1577863662143954946",
+		"full_text": "[최시원] 어디서 (박재)훈훈한 냄새 안 나요?\n\n포스트 보러 가기 👉 https://t.co/aSUSCuGvhR\n￼\n#CHOISIWON #최시원 \n#SUPERJUNIOR #슈퍼주니어 \n#얼어죽을연애따위",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CHOISIWON",
+					"indices": [
+						66,
+						76
+					]
+				},
+				{
+					"text": "최시원",
+					"indices": [
+						77,
+						81
+					]
+				},
+				{
+					"text": "SUPERJUNIOR",
+					"indices": [
+						83,
+						95
+					]
+				},
+				{
+					"text": "슈퍼주니어",
+					"indices": [
+						96,
+						102
+					]
+				},
+				{
+					"text": "얼어죽을연애따위",
+					"indices": [
+						104,
+						113
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aSUSCuGvhR",
+					"expanded_url": "https://naver.me/5ucXGFjp",
+					"display_url": "naver.me/5ucXGFjp",
+					"indices": [
+						40,
+						63
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11211139,
+			"friends_count": 55,
+			"listed_count": 12629,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2027,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13015,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 393,
+		"favorite_count": 1579,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[최시원] 어디서 (박재)훈훈한 냄새 안 나요?\n\n포스트 보러 가기 👉 https://t.co/aSUSCuGvhR\n￼\n#CHOISIWON #최시원 \n#SUPERJUNIOR #슈퍼주니어 \n#얼어죽을연애따위"
+	},
+	{
+		"created_at": "Thu Oct 06 03:29:43 +0000 2022",
+		"id": 1577855941898170400,
+		"id_str": "1577863649066188801",
+		"full_text": "CHOI SIWON, ‘a real romantic comedy veteran’, gives an impressive performance as a cool ↔ sweet-hearted ‘wannabe guy friend’ in the first episode of ‘Love is for Suckers’!\n\n#CHOISIWON #최시원 \n#SUPERJUNIOR #슈퍼주니어 \n#얼어죽을연애따위 https://t.co/ArgTJdQIiX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			220
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CHOISIWON",
+					"indices": [
+						173,
+						183
+					]
+				},
+				{
+					"text": "최시원",
+					"indices": [
+						184,
+						188
+					]
+				},
+				{
+					"text": "SUPERJUNIOR",
+					"indices": [
+						190,
+						202
+					]
+				},
+				{
+					"text": "슈퍼주니어",
+					"indices": [
+						203,
+						209
+					]
+				},
+				{
+					"text": "얼어죽을연애따위",
+					"indices": [
+						211,
+						220
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1577855934222590000,
+					"id_str": "1577855934222589952",
+					"indices": [
+						221,
+						244
+					],
+					"media_url": "http://pbs.twimg.com/media/FeWrnMIUYAAF9P3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeWrnMIUYAAF9P3.jpg",
+					"url": "https://t.co/ArgTJdQIiX",
+					"display_url": "pic.twitter.com/ArgTJdQIiX",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1577855941898170368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 244,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 734,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 430,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1577855934222590000,
+					"id_str": "1577855934222589952",
+					"indices": [
+						221,
+						244
+					],
+					"media_url": "http://pbs.twimg.com/media/FeWrnMIUYAAF9P3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeWrnMIUYAAF9P3.jpg",
+					"url": "https://t.co/ArgTJdQIiX",
+					"display_url": "pic.twitter.com/ArgTJdQIiX",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1577855941898170368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 244,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 734,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 430,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11211139,
+			"friends_count": 55,
+			"listed_count": 12629,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2027,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13015,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 703,
+		"favorite_count": 2035,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "CHOI SIWON, ‘a real romantic comedy veteran’, gives an impressive performance as a cool ↔ sweet-hearted ‘wannabe guy friend’ in the first episode of ‘Love is for Suckers’!\n\n#CHOISIWON #최시원 \n#SUPERJUNIOR #슈퍼주니어 \n#얼어죽을연애따위 https://t.co/ArgTJdQIiX"
+	},
+	{
+		"created_at": "Thu Oct 06 03:29:34 +0000 2022",
+		"id": 1577854228113916000,
+		"id_str": "1577863610558201861",
+		"full_text": "DOH KYUNGSOO captivates the audience from the first episode of ‘Bad Prosecutor’! He turns into a bad prosecutor and proves a large spectrum of his acting skills from comedy to action!\n\n#도경수 #DOHKYUNGSOO\n#디오 #DO(D.O.)\n#엑소 #EXO #weareoneEXO \n#진검승부 \n#진정 https://t.co/tiidfabapF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			250
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "도경수",
+					"indices": [
+						185,
+						189
+					]
+				},
+				{
+					"text": "DOHKYUNGSOO",
+					"indices": [
+						190,
+						202
+					]
+				},
+				{
+					"text": "디오",
+					"indices": [
+						203,
+						206
+					]
+				},
+				{
+					"text": "DO",
+					"indices": [
+						207,
+						210
+					]
+				},
+				{
+					"text": "엑소",
+					"indices": [
+						217,
+						220
+					]
+				},
+				{
+					"text": "EXO",
+					"indices": [
+						221,
+						225
+					]
+				},
+				{
+					"text": "weareoneEXO",
+					"indices": [
+						226,
+						238
+					]
+				},
+				{
+					"text": "진검승부",
+					"indices": [
+						240,
+						245
+					]
+				},
+				{
+					"text": "진정",
+					"indices": [
+						247,
+						250
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1577854220694192000,
+					"id_str": "1577854220694192128",
+					"indices": [
+						251,
+						274
+					],
+					"media_url": "http://pbs.twimg.com/media/FeWqDcvUAAA5BZl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeWqDcvUAAA5BZl.jpg",
+					"url": "https://t.co/tiidfabapF",
+					"display_url": "pic.twitter.com/tiidfabapF",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1577854228113915909/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 732,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 243,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 429,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1577854220694192000,
+					"id_str": "1577854220694192128",
+					"indices": [
+						251,
+						274
+					],
+					"media_url": "http://pbs.twimg.com/media/FeWqDcvUAAA5BZl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeWqDcvUAAA5BZl.jpg",
+					"url": "https://t.co/tiidfabapF",
+					"display_url": "pic.twitter.com/tiidfabapF",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1577854228113915909/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 732,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 243,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 429,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11211139,
+			"friends_count": 55,
+			"listed_count": 12629,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2027,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13015,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5406,
+		"favorite_count": 10907,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "DOH KYUNGSOO captivates the audience from the first episode of ‘Bad Prosecutor’! He turns into a bad prosecutor and proves a large spectrum of his acting skills from comedy to action!\n\n#도경수 #DOHKYUNGSOO\n#디오 #DO(D.O.)\n#엑소 #EXO #weareoneEXO \n#진검승부 \n#진정 https://t.co/tiidfabapF"
+	},
+	{
 		"created_at": "Thu Oct 06 03:11:17 +0000 2022",
 		"id": 1577856168944287700,
 		"id_str": "1577859007494197250",
