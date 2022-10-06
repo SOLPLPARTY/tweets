@@ -1,6 +1,611 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Thu Oct 06 04:58:15 +0000 2022",
+		"id": 1577871551193444400,
+		"id_str": "1577885927233523712",
+		"full_text": "🎊 #KCON2022JAPAN MD 아티스트 추가 안내🎊\n\nATINY 여러분 주목!\nKCON 2022 JAPAN MD에 #ATEEZ 가 추가 되었습니다🤩🎉\n\n자세한 내용은 홈페이지를 체크해 주세요❤️\n🔗https://t.co/oKAmmwb8Bu\n\n#KCON #KCONJAPAN https://t.co/pPNsvWFXoc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON2022JAPAN",
+					"indices": [
+						2,
+						16
+					]
+				},
+				{
+					"text": "ATEEZ",
+					"indices": [
+						67,
+						73
+					]
+				},
+				{
+					"text": "KCON",
+					"indices": [
+						138,
+						143
+					]
+				},
+				{
+					"text": "KCONJAPAN",
+					"indices": [
+						144,
+						154
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oKAmmwb8Bu",
+					"expanded_url": "https://kcon2022japan-officialmd.com",
+					"display_url": "kcon2022japan-officialmd.com",
+					"indices": [
+						113,
+						136
+					]
+				},
+				{
+					"url": "https://t.co/pPNsvWFXoc",
+					"expanded_url": "https://twitter.com/kconjapan/status/1577871268711317504",
+					"display_url": "twitter.com/kconjapan/stat…",
+					"indices": [
+						155,
+						178
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER\n📍KCON 2022 JAPAN 10/14 ~ 10/16 (JST)",
+			"url": "https://t.co/IDnJhWoZ59",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWoZ59",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 467930,
+			"friends_count": 76,
+			"listed_count": 1138,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 141,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13248,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1567787455188987905/sAYoOtFz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1567787455188987905/sAYoOtFz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1664852417",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1577871268711317500,
+		"quoted_status_id_str": "1577871268711317504",
+		"quoted_status_permalink": {
+			"url": "https://t.co/pPNsvWFXoc",
+			"expanded": "https://twitter.com/kconjapan/status/1577871268711317504",
+			"display": "twitter.com/kconjapan/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Oct 06 04:00:00 +0000 2022",
+			"id": 1577871268711317500,
+			"id_str": "1577871268711317504",
+			"full_text": "🎊 #KCON2022JAPAN グッズの追加アーティスト決定🎊\n\n#ATINY のみなさん注目！\nKCON 2022 JAPAN MDに #ATEEZ のグッズが追加されました🤩🎉\n\n詳細はHPをチェック❤️\n🔗https://t.co/rz0Ah4n2C4\n\n#KCON #KCONJAPAN https://t.co/I3R5d0rTQM",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				148
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "KCON2022JAPAN",
+						"indices": [
+							2,
+							16
+						]
+					},
+					{
+						"text": "ATINY",
+						"indices": [
+							34,
+							40
+						]
+					},
+					{
+						"text": "ATEEZ",
+						"indices": [
+							70,
+							76
+						]
+					},
+					{
+						"text": "KCON",
+						"indices": [
+							132,
+							137
+						]
+					},
+					{
+						"text": "KCONJAPAN",
+						"indices": [
+							138,
+							148
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/rz0Ah4n2C4",
+						"expanded_url": "https://kcon2022japan-officialmd.com",
+						"display_url": "kcon2022japan-officialmd.com",
+						"indices": [
+							107,
+							130
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1577678477578600400,
+						"id_str": "1577678477578600448",
+						"indices": [
+							149,
+							172
+						],
+						"media_url": "http://pbs.twimg.com/media/FeUKN2naAAAwbAs.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FeUKN2naAAAwbAs.jpg",
+						"url": "https://t.co/I3R5d0rTQM",
+						"display_url": "pic.twitter.com/I3R5d0rTQM",
+						"expanded_url": "https://twitter.com/kconjapan/status/1577871268711317504/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1620,
+								"h": 1620,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1577678477578600400,
+						"id_str": "1577678477578600448",
+						"indices": [
+							149,
+							172
+						],
+						"media_url": "http://pbs.twimg.com/media/FeUKN2naAAAwbAs.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FeUKN2naAAAwbAs.jpg",
+						"url": "https://t.co/I3R5d0rTQM",
+						"display_url": "pic.twitter.com/I3R5d0rTQM",
+						"expanded_url": "https://twitter.com/kconjapan/status/1577871268711317504/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1620,
+								"h": 1620,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1577678498982137900,
+						"id_str": "1577678498982137856",
+						"indices": [
+							149,
+							172
+						],
+						"media_url": "http://pbs.twimg.com/media/FeUKPGWaEAAeCn3.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FeUKPGWaEAAeCn3.jpg",
+						"url": "https://t.co/I3R5d0rTQM",
+						"display_url": "pic.twitter.com/I3R5d0rTQM",
+						"expanded_url": "https://twitter.com/kconjapan/status/1577871268711317504/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1620,
+								"h": 1620,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3017029196,
+				"id_str": "3017029196",
+				"name": "KCON Japan",
+				"screen_name": "kconjapan",
+				"location": "",
+				"description": "世界最大級のK-Cultureフェスティバル\n『KCON JAPAN』の公式Twitterです！\n📍10/14（金） ~ 10/16(日）/ 東京・有明アリーナ",
+				"url": "https://t.co/sCRhaGCzOM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/sCRhaGCzOM",
+								"expanded_url": "http://kconjapan.com",
+								"display_url": "kconjapan.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 244180,
+				"friends_count": 158,
+				"listed_count": 480,
+				"created_at": "Thu Feb 12 06:02:55 +0000 2015",
+				"favourites_count": 166,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 6776,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5ABB5",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1554285876041367553/Z3_Jgigb_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1554285876041367553/Z3_Jgigb_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3017029196/1662617121",
+				"profile_link_color": "F5ABB5",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 192,
+			"favorite_count": 491,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"retweet_count": 38,
+		"favorite_count": 93,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🎊 #KCON2022JAPAN MD 아티스트 추가 안내🎊\n\nATINY 여러분 주목!\nKCON 2022 JAPAN MD에 #ATEEZ 가 추가 되었습니다🤩🎉\n\n자세한 내용은 홈페이지를 체크해 주세요❤️\n🔗https://t.co/oKAmmwb8Bu\n\n#KCON #KCONJAPAN https://t.co/pPNsvWFXoc"
+	},
+	{
+		"created_at": "Thu Oct 06 04:29:33 +0000 2022",
+		"id": 1577878221911384000,
+		"id_str": "1577878704436510722",
+		"full_text": "한국교원대학교 2022 동아리 대동제에 너드커넥션이 초대 가수로 무대에 오릅니다! 10월 7일 금요일 밤 10시에 한국교원대학교에서 만나요.\n\n#너드커넥션 #한국교원대학교 #대동제 https://t.co/aqEn23NU5u",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "너드커넥션",
+					"indices": [
+						80,
+						86
+					]
+				},
+				{
+					"text": "한국교원대학교",
+					"indices": [
+						87,
+						95
+					]
+				},
+				{
+					"text": "대동제",
+					"indices": [
+						96,
+						100
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1577878210939060200,
+					"id_str": "1577878210939060224",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/FeW_33XaAAAZrqD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeW_33XaAAAZrqD.jpg",
+					"url": "https://t.co/aqEn23NU5u",
+					"display_url": "pic.twitter.com/aqEn23NU5u",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1577878221911384066/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1296,
+							"h": 1728,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1577878210939060200,
+					"id_str": "1577878210939060224",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/FeW_33XaAAAZrqD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeW_33XaAAAZrqD.jpg",
+					"url": "https://t.co/aqEn23NU5u",
+					"display_url": "pic.twitter.com/aqEn23NU5u",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1577878221911384066/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1296,
+							"h": 1728,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 your summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 슬릭, 아마도이자람밴드, 우주왕복선싸이드미러, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2297,
+			"friends_count": 20,
+			"listed_count": 12,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 637,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6588,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "한국교원대학교 2022 동아리 대동제에 너드커넥션이 초대 가수로 무대에 오릅니다! 10월 7일 금요일 밤 10시에 한국교원대학교에서 만나요.\n\n#너드커넥션 #한국교원대학교 #대동제 https://t.co/aqEn23NU5u"
+	},
+	{
 		"created_at": "Thu Oct 06 03:29:57 +0000 2022",
 		"id": 1577859761340440600,
 		"id_str": "1577863705160781824",
