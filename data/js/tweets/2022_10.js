@@ -1,6 +1,386 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Fri Oct 07 06:58:15 +0000 2022",
+		"id": 1578264099095355400,
+		"id_str": "1578278513068605441",
+		"full_text": "[DANCE PRACTICE]\nJoin membership to watch full ver. on YouTube🖤\n\n안무영상 속 숨겨진 히든미션을 찾아보세요🌿\n핌둥이들 풀버전 댄프 보러 갈 피어나 구함🖤\n\n✔풀버전은 유튜브 KCON official 채널 PREMIUM, ALL ACCESS 회원에게 제공됩니다.\n\n#KCON #KCON2022JAPAN #LE_SSERAFIM #르세라핌 https://t.co/kYsSs0XCEZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			214
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						175,
+						180
+					]
+				},
+				{
+					"text": "KCON2022JAPAN",
+					"indices": [
+						181,
+						195
+					]
+				},
+				{
+					"text": "LE_SSERAFIM",
+					"indices": [
+						196,
+						208
+					]
+				},
+				{
+					"text": "르세라핌",
+					"indices": [
+						209,
+						214
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kYsSs0XCEZ",
+					"expanded_url": "https://twitter.com/kconjapan/status/1578263854139711488",
+					"display_url": "twitter.com/kconjapan/stat…",
+					"indices": [
+						215,
+						238
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER\n📍KCON 2022 JAPAN 10/14 ~ 10/16 (JST)",
+			"url": "https://t.co/IDnJhWoZ59",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWoZ59",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 468105,
+			"friends_count": 76,
+			"listed_count": 1138,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 191,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13257,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1567787455188987905/sAYoOtFz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1567787455188987905/sAYoOtFz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1664852417",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1578263854139711500,
+		"quoted_status_id_str": "1578263854139711488",
+		"quoted_status_permalink": {
+			"url": "https://t.co/kYsSs0XCEZ",
+			"expanded": "https://twitter.com/kconjapan/status/1578263854139711488",
+			"display": "twitter.com/kconjapan/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Oct 07 06:00:00 +0000 2022",
+			"id": 1578263854139711500,
+			"id_str": "1578263854139711488",
+			"full_text": "[DANCE PRACTICE]\nLE SSERAFIMの振り付け映像に隠れたミッションを探してみてください🌿\nダンプラフルバージョンを見に行くFEARNOT募集🖤\n\n✔フルバージョンはYouTube KCON officialチャンネルのPREMIUM、ALL ACCESS会員に提供されます\n\n#KCON #KCON2022JAPAN #LE_SSERAFIM #르세라핌 https://t.co/kPG0PziKux",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				188
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "KCON",
+						"indices": [
+							149,
+							154
+						]
+					},
+					{
+						"text": "KCON2022JAPAN",
+						"indices": [
+							155,
+							169
+						]
+					},
+					{
+						"text": "LE_SSERAFIM",
+						"indices": [
+							170,
+							182
+						]
+					},
+					{
+						"text": "르세라핌",
+						"indices": [
+							183,
+							188
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1578040747307454500,
+						"id_str": "1578040747307454464",
+						"indices": [
+							189,
+							212
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1578040747307454464/img/YBiB1hyqGzgq7yVr.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1578040747307454464/img/YBiB1hyqGzgq7yVr.jpg",
+						"url": "https://t.co/kPG0PziKux",
+						"display_url": "pic.twitter.com/kPG0PziKux",
+						"expanded_url": "https://twitter.com/kconjapan/status/1578263854139711488/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1578040747307454500,
+						"id_str": "1578040747307454464",
+						"indices": [
+							189,
+							212
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1578040747307454464/img/YBiB1hyqGzgq7yVr.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1578040747307454464/img/YBiB1hyqGzgq7yVr.jpg",
+						"url": "https://t.co/kPG0PziKux",
+						"display_url": "pic.twitter.com/kPG0PziKux",
+						"expanded_url": "https://twitter.com/kconjapan/status/1578263854139711488/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 29062,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1578040747307454464/vid/640x360/mVSZgjZA6W9-dHVo.mp4?tag=14"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1578040747307454464/pl/7yX6sQuCNkw7VOU8.m3u8?tag=14&container=fmp4"
+								},
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1578040747307454464/vid/480x270/BNoQcxtl_k65QFfg.mp4?tag=14"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1578040747307454464/vid/1280x720/kXnp5uIioIXBV202.mp4?tag=14"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3017029196,
+				"id_str": "3017029196",
+				"name": "KCON Japan",
+				"screen_name": "kconjapan",
+				"location": "",
+				"description": "世界最大級のK-Cultureフェスティバル\n『KCON JAPAN』の公式Twitterです！\n📍10/14（金） ~ 10/16(日）/ 東京・有明アリーナ",
+				"url": "https://t.co/sCRhaGCzOM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/sCRhaGCzOM",
+								"expanded_url": "http://kconjapan.com",
+								"display_url": "kconjapan.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 244778,
+				"friends_count": 158,
+				"listed_count": 482,
+				"created_at": "Thu Feb 12 06:02:55 +0000 2015",
+				"favourites_count": 194,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 6787,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5ABB5",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1554285876041367553/Z3_Jgigb_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1554285876041367553/Z3_Jgigb_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3017029196/1662617121",
+				"profile_link_color": "F5ABB5",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 452,
+			"favorite_count": 961,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"retweet_count": 10,
+		"favorite_count": 53,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[DANCE PRACTICE]\nJoin membership to watch full ver. on YouTube🖤\n\n안무영상 속 숨겨진 히든미션을 찾아보세요🌿\n핌둥이들 풀버전 댄프 보러 갈 피어나 구함🖤\n\n✔풀버전은 유튜브 KCON official 채널 PREMIUM, ALL ACCESS 회원에게 제공됩니다.\n\n#KCON #KCON2022JAPAN #LE_SSERAFIM #르세라핌 https://t.co/kYsSs0XCEZ"
+	},
+	{
 		"created_at": "Fri Oct 07 06:11:21 +0000 2022",
 		"id": 1578263987589828600,
 		"id_str": "1578266711924539392",
