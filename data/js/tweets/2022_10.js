@@ -1,6 +1,1241 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Fri Oct 07 06:11:21 +0000 2022",
+		"id": 1578263987589828600,
+		"id_str": "1578266711924539392",
+		"full_text": "💛이고도 단독 공연💛\n⠀\n서서히 물드는 가을처럼 찾아온 SSHOWBOX🍂\n많은 사랑에 힘입어 추가 좌석 오픈👀✨\n⠀\n🔔 추가 오픈 : 10월 11일(화) 18:00 🔔\n⠀\n✔공연일시\n10월 23일(일) 5PM\n⠀\n✔공연장소\nKT&amp;G 상상마당 춘천 사운드홀\n⠀\n✔예매처\n멜론티켓\n⠀\n✔공연문의\n카카오톡채널(@상상마당춘천) https://t.co/jhHsaCH3Cf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1578263629744418800,
+					"id_str": "1578263629744418817",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/FeceaMTVsAEM1j_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeceaMTVsAEM1j_.jpg",
+					"url": "https://t.co/jhHsaCH3Cf",
+					"display_url": "pic.twitter.com/jhHsaCH3Cf",
+					"expanded_url": "https://twitter.com/SSmadang/status/1578263987589828608/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 546,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1128,
+							"h": 1406,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 963,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1578263629744418800,
+					"id_str": "1578263629744418817",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/FeceaMTVsAEM1j_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeceaMTVsAEM1j_.jpg",
+					"url": "https://t.co/jhHsaCH3Cf",
+					"display_url": "pic.twitter.com/jhHsaCH3Cf",
+					"expanded_url": "https://twitter.com/SSmadang/status/1578263987589828608/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 546,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1128,
+							"h": 1406,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 963,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1578263629761171500,
+					"id_str": "1578263629761171456",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/FeceaMXVUAAUpph.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeceaMXVUAAUpph.jpg",
+					"url": "https://t.co/jhHsaCH3Cf",
+					"display_url": "pic.twitter.com/jhHsaCH3Cf",
+					"expanded_url": "https://twitter.com/SSmadang/status/1578263987589828608/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1128,
+							"h": 1406,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 963,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 546,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1578263629727600600,
+					"id_str": "1578263629727600641",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/FeceaMPVEAEF45a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeceaMPVEAEF45a.jpg",
+					"url": "https://t.co/jhHsaCH3Cf",
+					"display_url": "pic.twitter.com/jhHsaCH3Cf",
+					"expanded_url": "https://twitter.com/SSmadang/status/1578263987589828608/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 546,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 963,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1128,
+							"h": 1406,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110358280,
+			"id_str": "110358280",
+			"name": "KT&G 상상마당",
+			"screen_name": "SSmadang",
+			"location": "서울 홍대 (Hongdae, Seoul)",
+			"description": "[복합문화공간] #상상마당 영화ㅣ공연ㅣ디자인ㅣ전시ㅣ교육ㅣ카페",
+			"url": "https://t.co/dQStXHIksz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dQStXHIksz",
+							"expanded_url": "http://sangsangmadang.com",
+							"display_url": "sangsangmadang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17438,
+			"friends_count": 1830,
+			"listed_count": 285,
+			"created_at": "Mon Feb 01 07:45:21 +0000 2010",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9106,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1565171981581893632/v5xwQVrn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1565171981581893632/v5xwQVrn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110358280/1661994351",
+			"profile_link_color": "242D8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "595959",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💛이고도 단독 공연💛\n⠀\n서서히 물드는 가을처럼 찾아온 SSHOWBOX🍂\n많은 사랑에 힘입어 추가 좌석 오픈👀✨\n⠀\n🔔 추가 오픈 : 10월 11일(화) 18:00 🔔\n⠀\n✔공연일시\n10월 23일(일) 5PM\n⠀\n✔공연장소\nKT&amp;G 상상마당 춘천 사운드홀\n⠀\n✔예매처\n멜론티켓\n⠀\n✔공연문의\n카카오톡채널(@상상마당춘천) https://t.co/jhHsaCH3Cf"
+	},
+	{
+		"created_at": "Fri Oct 07 06:11:17 +0000 2022",
+		"id": 1578262277450760200,
+		"id_str": "1578266694585401346",
+		"full_text": "꿈결 같은 그리움을 담은 드림팝 사운드 \n김새녘님의 EP &lt;새빛깔&gt; 이 공상온도 온라인스토어와 오프라인에 모두 입고되었어요! 지금 공상온도 스토어에서 만나보세요!!!\n\n.\nhttps://t.co/d7i5lM9NRc\nhttps://t.co/XipgX93bH3\n—\n\n#새빛깔 #김새녘 #인디 #모던락 #드림팝 #인디음악 #음악 https://t.co/6JylcbZntN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "새빛깔",
+					"indices": [
+						153,
+						157
+					]
+				},
+				{
+					"text": "김새녘",
+					"indices": [
+						158,
+						162
+					]
+				},
+				{
+					"text": "인디",
+					"indices": [
+						163,
+						166
+					]
+				},
+				{
+					"text": "모던락",
+					"indices": [
+						167,
+						171
+					]
+				},
+				{
+					"text": "드림팝",
+					"indices": [
+						172,
+						176
+					]
+				},
+				{
+					"text": "인디음악",
+					"indices": [
+						177,
+						182
+					]
+				},
+				{
+					"text": "음악",
+					"indices": [
+						183,
+						186
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/d7i5lM9NRc",
+					"expanded_url": "http://www.gongsangondo.com",
+					"display_url": "gongsangondo.com",
+					"indices": [
+						102,
+						125
+					]
+				},
+				{
+					"url": "https://t.co/XipgX93bH3",
+					"expanded_url": "http://smartstore.naver.com/gongsangondo",
+					"display_url": "smartstore.naver.com/gongsangondo",
+					"indices": [
+						126,
+						149
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1578262272337932300,
+					"id_str": "1578262272337932288",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/FecdLLkacAAbVNK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FecdLLkacAAbVNK.jpg",
+					"url": "https://t.co/6JylcbZntN",
+					"display_url": "pic.twitter.com/6JylcbZntN",
+					"expanded_url": "https://twitter.com/gongsangondo/status/1578262277450760192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1578262272337932300,
+					"id_str": "1578262272337932288",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/FecdLLkacAAbVNK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FecdLLkacAAbVNK.jpg",
+					"url": "https://t.co/6JylcbZntN",
+					"display_url": "pic.twitter.com/6JylcbZntN",
+					"expanded_url": "https://twitter.com/gongsangondo/status/1578262277450760192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 720862057243914200,
+			"id_str": "720862057243914240",
+			"name": "공상온도",
+			"screen_name": "gongsangondo",
+			"location": "대한민국 마포구 동교로23길 40",
+			"description": "카페를 기반으로 한 대안공간,갤러리,공연장,아트마켓의 복합문화공간! 서울시 마포구 동교로23길 40 아트마켓 입점,대관 : gongsangondo@gmail.com {ARTIST지원} 아티스트 증명시, 제조음료 30%할인",
+			"url": "https://t.co/GbMQgcSSJ2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GbMQgcSSJ2",
+							"expanded_url": "http://linktr.ee/gongsangondo",
+							"display_url": "linktr.ee/gongsangondo",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 428,
+			"friends_count": 216,
+			"listed_count": 7,
+			"created_at": "Fri Apr 15 06:31:22 +0000 2016",
+			"favourites_count": 1168,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3265,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/720863690283622400/Rh9cF7Fa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/720863690283622400/Rh9cF7Fa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/720862057243914240/1460702295",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "1469659b6ad47003",
+			"url": "https://api.twitter.com/1.1/geo/id/1469659b6ad47003.json",
+			"place_type": "poi",
+			"name": "공상온도",
+			"full_name": "공상온도",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.91974610090254,
+							37.557641961668054
+						],
+						[
+							126.91974610090254,
+							37.557641961668054
+						],
+						[
+							126.91974610090254,
+							37.557641961668054
+						],
+						[
+							126.91974610090254,
+							37.557641961668054
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "꿈결 같은 그리움을 담은 드림팝 사운드 \n김새녘님의 EP &lt;새빛깔&gt; 이 공상온도 온라인스토어와 오프라인에 모두 입고되었어요! 지금 공상온도 스토어에서 만나보세요!!!\n\n.\nhttps://t.co/d7i5lM9NRc\nhttps://t.co/XipgX93bH3\n—\n\n#새빛깔 #김새녘 #인디 #모던락 #드림팝 #인디음악 #음악 https://t.co/6JylcbZntN"
+	},
+	{
+		"created_at": "Fri Oct 07 05:58:15 +0000 2022",
+		"id": 1578249172666314800,
+		"id_str": "1578263413414940672",
+		"full_text": "[KIHYUN CHECK IN]\nShhh🤫 Secrets between KIHYUN and MONBEBE...👉👈\nCheck out KIHYUN's Secret Talk now😘\n\n쉿🤫 이건 기현과 몬베베만의 비밀인데...👉👈\n햄찌락스타🐹🦈 시크릿톡 몬베베한테만 알랴줌😘\n\n📺YouTube Membership: https://t.co/Ii6iQ9rOmE \n\n#KCON2022JAPAN @OfficialMonstaX https://t.co/R4cYuvUEID",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			231
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON2022JAPAN",
+					"indices": [
+						200,
+						214
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OfficialMonstaX",
+					"name": "몬스타엑스_MONSTA X",
+					"id": 3030158859,
+					"id_str": "3030158859",
+					"indices": [
+						215,
+						231
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Ii6iQ9rOmE",
+					"expanded_url": "http://youtube.com/kcon/join/",
+					"display_url": "youtube.com/kcon/join/",
+					"indices": [
+						174,
+						197
+					]
+				},
+				{
+					"url": "https://t.co/R4cYuvUEID",
+					"expanded_url": "https://twitter.com/kconjapan/status/1578248756667072520",
+					"display_url": "twitter.com/kconjapan/stat…",
+					"indices": [
+						232,
+						255
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER\n📍KCON 2022 JAPAN 10/14 ~ 10/16 (JST)",
+			"url": "https://t.co/IDnJhWoZ59",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWoZ59",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 468100,
+			"friends_count": 76,
+			"listed_count": 1137,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 191,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13255,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1567787455188987905/sAYoOtFz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1567787455188987905/sAYoOtFz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1664852417",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1578248756667072500,
+		"quoted_status_id_str": "1578248756667072520",
+		"quoted_status_permalink": {
+			"url": "https://t.co/R4cYuvUEID",
+			"expanded": "https://twitter.com/kconjapan/status/1578248756667072520",
+			"display": "twitter.com/kconjapan/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Oct 07 05:00:00 +0000 2022",
+			"id": 1578248756667072500,
+			"id_str": "1578248756667072520",
+			"full_text": "[KIHYUN CHECK IN]\nシー🤫これはKIHYUNとMONBEBEだけの内緒だけど…👉👈\nハムスター🐹🦈のSecret Talkをモンベべだけ特別に教えるよ😘\n\n📺YouTube Membership: https://t.co/8h80nZK1QE \n\n#KCON #KCONJAPAN #KCON2022JAPAN @OfficialMonstaX https://t.co/68cs6YiQHz",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				181
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "KCON",
+						"indices": [
+							133,
+							138
+						]
+					},
+					{
+						"text": "KCONJAPAN",
+						"indices": [
+							139,
+							149
+						]
+					},
+					{
+						"text": "KCON2022JAPAN",
+						"indices": [
+							150,
+							164
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "OfficialMonstaX",
+						"name": "몬스타엑스_MONSTA X",
+						"id": 3030158859,
+						"id_str": "3030158859",
+						"indices": [
+							165,
+							181
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/8h80nZK1QE",
+						"expanded_url": "http://youtube.com/kcon/join/",
+						"display_url": "youtube.com/kcon/join/",
+						"indices": [
+							107,
+							130
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1578037833860001800,
+						"id_str": "1578037833860001792",
+						"indices": [
+							182,
+							205
+						],
+						"media_url": "http://pbs.twimg.com/media/FeZRfQiaMAMClu0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FeZRfQiaMAMClu0.jpg",
+						"url": "https://t.co/68cs6YiQHz",
+						"display_url": "pic.twitter.com/68cs6YiQHz",
+						"expanded_url": "https://twitter.com/kconjapan/status/1578248756667072520/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 320,
+								"h": 568,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 320,
+								"h": 568,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 320,
+								"h": 568,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1578037833860001800,
+						"id_str": "1578037833860001792",
+						"indices": [
+							182,
+							205
+						],
+						"media_url": "http://pbs.twimg.com/media/FeZRfQiaMAMClu0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FeZRfQiaMAMClu0.jpg",
+						"url": "https://t.co/68cs6YiQHz",
+						"display_url": "pic.twitter.com/68cs6YiQHz",
+						"expanded_url": "https://twitter.com/kconjapan/status/1578248756667072520/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 320,
+								"h": 568,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 320,
+								"h": 568,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 320,
+								"h": 568,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								9,
+								16
+							],
+							"duration_millis": 100266,
+							"variants": [
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1578037833860001792/vid/320x568/ViFyrB7KrHjsK3yO.mp4?tag=14"
+								},
+								{
+									"bitrate": 950000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1578037833860001792/vid/480x852/oOS6B3DVLUn89Yhn.mp4?tag=14"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1578037833860001792/pl/C5egTzK_n-rK4cXP.m3u8?tag=14&container=fmp4"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1578037833860001792/vid/720x1280/PuS2sHWpnFBjhC1n.mp4?tag=14"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3017029196,
+				"id_str": "3017029196",
+				"name": "KCON Japan",
+				"screen_name": "kconjapan",
+				"location": "",
+				"description": "世界最大級のK-Cultureフェスティバル\n『KCON JAPAN』の公式Twitterです！\n📍10/14（金） ~ 10/16(日）/ 東京・有明アリーナ",
+				"url": "https://t.co/sCRhaGCzOM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/sCRhaGCzOM",
+								"expanded_url": "http://kconjapan.com",
+								"display_url": "kconjapan.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 244754,
+				"friends_count": 158,
+				"listed_count": 484,
+				"created_at": "Thu Feb 12 06:02:55 +0000 2015",
+				"favourites_count": 194,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 6785,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5ABB5",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1554285876041367553/Z3_Jgigb_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1554285876041367553/Z3_Jgigb_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3017029196/1662617121",
+				"profile_link_color": "F5ABB5",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 412,
+			"favorite_count": 553,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"retweet_count": 113,
+		"favorite_count": 191,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[KIHYUN CHECK IN]\nShhh🤫 Secrets between KIHYUN and MONBEBE...👉👈\nCheck out KIHYUN's Secret Talk now😘\n\n쉿🤫 이건 기현과 몬베베만의 비밀인데...👉👈\n햄찌락스타🐹🦈 시크릿톡 몬베베한테만 알랴줌😘\n\n📺YouTube Membership: https://t.co/Ii6iQ9rOmE \n\n#KCON2022JAPAN @OfficialMonstaX https://t.co/R4cYuvUEID"
+	},
+	{
+		"created_at": "Fri Oct 07 05:29:37 +0000 2022",
+		"id": 1578255533039308800,
+		"id_str": "1578256209387216897",
+		"full_text": "김사월의 요기요 매거진 &lt;맛&gt; 인터뷰가 공개되었습니다. 사월의 일상을 가까이 들여다본 인터뷰! 사월의 레시피와 쿠킹 플레이리스트, 사월이 직접 이야기하는 그의 둥그런 세계를 지금 바로 확인해보세요. \n\n🔗 https://t.co/cWH7CQsuY5\n\n#김사월 #매거진맛 #매거진 #요기요매거진 #maat",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "김사월",
+					"indices": [
+						146,
+						150
+					]
+				},
+				{
+					"text": "매거진맛",
+					"indices": [
+						151,
+						156
+					]
+				},
+				{
+					"text": "매거진",
+					"indices": [
+						157,
+						161
+					]
+				},
+				{
+					"text": "요기요매거진",
+					"indices": [
+						162,
+						169
+					]
+				},
+				{
+					"text": "maat",
+					"indices": [
+						170,
+						175
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cWH7CQsuY5",
+					"expanded_url": "http://c11.kr/169ut",
+					"display_url": "c11.kr/169ut",
+					"indices": [
+						121,
+						144
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 your summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 슬릭, 아마도이자람밴드, 우주왕복선싸이드미러, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2295,
+			"friends_count": 20,
+			"listed_count": 12,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 637,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6589,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "김사월의 요기요 매거진 &lt;맛&gt; 인터뷰가 공개되었습니다. 사월의 일상을 가까이 들여다본 인터뷰! 사월의 레시피와 쿠킹 플레이리스트, 사월이 직접 이야기하는 그의 둥그런 세계를 지금 바로 확인해보세요. \n\n🔗 https://t.co/cWH7CQsuY5\n\n#김사월 #매거진맛 #매거진 #요기요매거진 #maat"
+	},
+	{
+		"created_at": "Fri Oct 07 05:29:34 +0000 2022",
+		"id": 1578253410951786500,
+		"id_str": "1578256196200534018",
+		"full_text": "T1 x @raidenmusic , THE BOYZ 'Last Man Standing' music video has been released!\n\nOfficial Music Release ➫ 2022.10.15\n\n📺 https://t.co/i2QRKve2ht\n\n#T1WIN #T1Fighting #LastManStanding #LMS #Raiden #레이든 #THEBOYZ #더보이즈",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			213
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "T1WIN",
+					"indices": [
+						145,
+						151
+					]
+				},
+				{
+					"text": "T1Fighting",
+					"indices": [
+						152,
+						163
+					]
+				},
+				{
+					"text": "LastManStanding",
+					"indices": [
+						164,
+						180
+					]
+				},
+				{
+					"text": "LMS",
+					"indices": [
+						181,
+						185
+					]
+				},
+				{
+					"text": "Raiden",
+					"indices": [
+						186,
+						193
+					]
+				},
+				{
+					"text": "레이든",
+					"indices": [
+						194,
+						198
+					]
+				},
+				{
+					"text": "THEBOYZ",
+					"indices": [
+						199,
+						207
+					]
+				},
+				{
+					"text": "더보이즈",
+					"indices": [
+						208,
+						213
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "raidenmusic",
+					"name": "Raiden",
+					"id": 2810956860,
+					"id_str": "2810956860",
+					"indices": [
+						5,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/i2QRKve2ht",
+					"expanded_url": "https://youtu.be/FYHpLDmM7kc",
+					"display_url": "youtu.be/FYHpLDmM7kc",
+					"indices": [
+						120,
+						143
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11212277,
+			"friends_count": 55,
+			"listed_count": 12627,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2091,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13022,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1113,
+		"favorite_count": 2302,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "T1 x @raidenmusic , THE BOYZ 'Last Man Standing' music video has been released!\n\nOfficial Music Release ➫ 2022.10.15\n\n📺 https://t.co/i2QRKve2ht\n\n#T1WIN #T1Fighting #LastManStanding #LMS #Raiden #레이든 #THEBOYZ #더보이즈"
+	},
+	{
 		"created_at": "Fri Oct 07 05:11:17 +0000 2022",
 		"id": 1578231154716483600,
 		"id_str": "1578251594352791552",
