@@ -1,6 +1,270 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Fri Oct 07 00:29:25 +0000 2022",
+		"id": 1578173271753003000,
+		"id_str": "1578180660652609538",
+		"full_text": "[#손태진] TV조선 '국가가 부른다' 완료✔️\n\n🍂손태진의 무대 덕분에 달콤했던 어젯밤!\n오늘 밤 10시 20분, MBN '아바타싱어'도 함께해요❤\n▶️ https://t.co/7DTLXIntGW\n\n#SONTAEJIN #TJSON #TV조선 #TVCHOSUN #국가가부른다 https://t.co/TkydZS03si",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "손태진",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "SONTAEJIN",
+					"indices": [
+						112,
+						122
+					]
+				},
+				{
+					"text": "TJSON",
+					"indices": [
+						123,
+						129
+					]
+				},
+				{
+					"text": "TV조선",
+					"indices": [
+						130,
+						135
+					]
+				},
+				{
+					"text": "TVCHOSUN",
+					"indices": [
+						136,
+						145
+					]
+				},
+				{
+					"text": "국가가부른다",
+					"indices": [
+						146,
+						153
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7DTLXIntGW",
+					"expanded_url": "https://tv.naver.com/v/29735752",
+					"display_url": "tv.naver.com/v/29735752",
+					"indices": [
+						87,
+						110
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1578173263590883300,
+					"id_str": "1578173263590883328",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/FebMOMJagAA-X-j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FebMOMJagAA-X-j.jpg",
+					"url": "https://t.co/TkydZS03si",
+					"display_url": "pic.twitter.com/TkydZS03si",
+					"expanded_url": "https://twitter.com/themysticstory/status/1578173271753003008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1578173263590883300,
+					"id_str": "1578173263590883328",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/FebMOMJagAA-X-j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FebMOMJagAA-X-j.jpg",
+					"url": "https://t.co/TkydZS03si",
+					"display_url": "pic.twitter.com/TkydZS03si",
+					"expanded_url": "https://twitter.com/themysticstory/status/1578173271753003008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1578173263108526000,
+					"id_str": "1578173263108526080",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/FebMOKWaUAAnq5Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FebMOKWaUAAnq5Q.jpg",
+					"url": "https://t.co/TkydZS03si",
+					"display_url": "pic.twitter.com/TkydZS03si",
+					"expanded_url": "https://twitter.com/themysticstory/status/1578173271753003008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/pgQyM4g8RF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pgQyM4g8RF",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37569,
+			"friends_count": 14,
+			"listed_count": 304,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 21,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7301,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1663804824",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#손태진] TV조선 '국가가 부른다' 완료✔️\n\n🍂손태진의 무대 덕분에 달콤했던 어젯밤!\n오늘 밤 10시 20분, MBN '아바타싱어'도 함께해요❤\n▶️ https://t.co/7DTLXIntGW\n\n#SONTAEJIN #TJSON #TV조선 #TVCHOSUN #국가가부른다 https://t.co/TkydZS03si"
+	},
+	{
 		"created_at": "Thu Oct 06 13:29:24 +0000 2022",
 		"id": 1578008972401209300,
 		"id_str": "1578014564616118273",
