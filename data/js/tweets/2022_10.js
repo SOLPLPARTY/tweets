@@ -1,6 +1,253 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Fri Oct 07 05:11:17 +0000 2022",
+		"id": 1578231154716483600,
+		"id_str": "1578251594352791552",
+		"full_text": "🌊2022 더베인 단독콘서트 [파란]🌊\n\n부산과 서울 두번의 밤\n다신 없을 우리의 첫 라이브\n찰나의 순간, 너의 마음 속 파란을 일으켜\n\n-\n10/16(일) 6PM\nKT&amp;G 상상마당 홍대 라이브홀\n멜론티켓 단독예매\n⠀ https://t.co/kPMtgzM6oM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1578227326348763100,
+					"id_str": "1578227326348763137",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/Feb9ZDnVIAEwX45.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Feb9ZDnVIAEwX45.jpg",
+					"url": "https://t.co/kPMtgzM6oM",
+					"display_url": "pic.twitter.com/kPMtgzM6oM",
+					"expanded_url": "https://twitter.com/SSmadang/status/1578231154716483589/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1128,
+							"h": 1406,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 963,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 546,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1578227326348763100,
+					"id_str": "1578227326348763137",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/Feb9ZDnVIAEwX45.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Feb9ZDnVIAEwX45.jpg",
+					"url": "https://t.co/kPMtgzM6oM",
+					"display_url": "pic.twitter.com/kPMtgzM6oM",
+					"expanded_url": "https://twitter.com/SSmadang/status/1578231154716483589/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1128,
+							"h": 1406,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 963,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 546,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1578227326357188600,
+					"id_str": "1578227326357188608",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/Feb9ZDpVsAA5OYH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Feb9ZDpVsAA5OYH.jpg",
+					"url": "https://t.co/kPMtgzM6oM",
+					"display_url": "pic.twitter.com/kPMtgzM6oM",
+					"expanded_url": "https://twitter.com/SSmadang/status/1578231154716483589/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 546,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1128,
+							"h": 1406,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 963,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1578227326348771300,
+					"id_str": "1578227326348771328",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/Feb9ZDnVQAAvyRB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Feb9ZDnVQAAvyRB.jpg",
+					"url": "https://t.co/kPMtgzM6oM",
+					"display_url": "pic.twitter.com/kPMtgzM6oM",
+					"expanded_url": "https://twitter.com/SSmadang/status/1578231154716483589/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 546,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 963,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1128,
+							"h": 1406,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110358280,
+			"id_str": "110358280",
+			"name": "KT&G 상상마당",
+			"screen_name": "SSmadang",
+			"location": "서울 홍대 (Hongdae, Seoul)",
+			"description": "[복합문화공간] #상상마당 영화ㅣ공연ㅣ디자인ㅣ전시ㅣ교육ㅣ카페",
+			"url": "https://t.co/dQStXHIksz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dQStXHIksz",
+							"expanded_url": "http://sangsangmadang.com",
+							"display_url": "sangsangmadang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17438,
+			"friends_count": 1830,
+			"listed_count": 285,
+			"created_at": "Mon Feb 01 07:45:21 +0000 2010",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9105,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1565171981581893632/v5xwQVrn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1565171981581893632/v5xwQVrn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110358280/1661994351",
+			"profile_link_color": "242D8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "595959",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🌊2022 더베인 단독콘서트 [파란]🌊\n\n부산과 서울 두번의 밤\n다신 없을 우리의 첫 라이브\n찰나의 순간, 너의 마음 속 파란을 일으켜\n\n-\n10/16(일) 6PM\nKT&amp;G 상상마당 홍대 라이브홀\n멜론티켓 단독예매\n⠀ https://t.co/kPMtgzM6oM"
+	},
+	{
 		"created_at": "Fri Oct 07 03:58:18 +0000 2022",
 		"id": 1578218836180242400,
 		"id_str": "1578233229559173121",
