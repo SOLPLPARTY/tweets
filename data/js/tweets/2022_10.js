@@ -1,6 +1,746 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Fri Oct 07 09:15:12 +0000 2022",
+		"id": 1578312979417686000,
+		"id_str": "1578312979417686016",
+		"full_text": "#워너뮤직코리아 #Warner_Music_Korea\nKCM - 아름답던 별들의 밤 [Music Video]\nhttps://t.co/1SMv0S2hhI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "워너뮤직코리아",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Warner_Music_Korea",
+					"indices": [
+						9,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1SMv0S2hhI",
+					"expanded_url": "https://youtu.be/bvrXxJaTv4w",
+					"display_url": "youtu.be/bvrXxJaTv4w",
+					"indices": [
+						60,
+						83
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 255,
+			"friends_count": 460,
+			"listed_count": 5,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 234,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 89343,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#워너뮤직코리아 #Warner_Music_Korea\nKCM - 아름답던 별들의 밤 [Music Video]\nhttps://t.co/1SMv0S2hhI"
+	},
+	{
+		"created_at": "Fri Oct 07 08:58:15 +0000 2022",
+		"id": 1578294059977740300,
+		"id_str": "1578308711659065345",
+		"full_text": "[AD][KCON 2022 JAPAN] #君の花になる\n\n10/15(土)のPRE-SHOWに\nTBS系火曜ドラマ『君の花になる』発ボーイズグループ\n#8LOOM の出演が決定!!💐\n\n10/14(金)~16(日) 展示ブースも出展!!\nぜひ遊びに来てください♪\n\n詳細→\nhttps://t.co/82LfXDqKMj\n\nLet's KCON\n2022.10.14-16 (JST)\n\n#KCON #KCON2022JAPAN https://t.co/HR4wJfOCUP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			216
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "君の花になる",
+					"indices": [
+						22,
+						29
+					]
+				},
+				{
+					"text": "8LOOM",
+					"indices": [
+						77,
+						83
+					]
+				},
+				{
+					"text": "KCON",
+					"indices": [
+						196,
+						201
+					]
+				},
+				{
+					"text": "KCON2022JAPAN",
+					"indices": [
+						202,
+						216
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/82LfXDqKMj",
+					"expanded_url": "https://bit.ly/3V99ucU",
+					"display_url": "bit.ly/3V99ucU",
+					"indices": [
+						139,
+						162
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1578201508172079000,
+					"id_str": "1578201508172079104",
+					"indices": [
+						217,
+						240
+					],
+					"media_url": "http://pbs.twimg.com/media/Febl6PaVIAANMG2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Febl6PaVIAANMG2.jpg",
+					"url": "https://t.co/HR4wJfOCUP",
+					"display_url": "pic.twitter.com/HR4wJfOCUP",
+					"expanded_url": "https://twitter.com/KCON_official/status/1578294059977740289/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1578201508172079000,
+					"id_str": "1578201508172079104",
+					"indices": [
+						217,
+						240
+					],
+					"media_url": "http://pbs.twimg.com/media/Febl6PaVIAANMG2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Febl6PaVIAANMG2.jpg",
+					"url": "https://t.co/HR4wJfOCUP",
+					"display_url": "pic.twitter.com/HR4wJfOCUP",
+					"expanded_url": "https://twitter.com/KCON_official/status/1578294059977740289/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER\n📍KCON 2022 JAPAN 10/14 ~ 10/16 (JST)",
+			"url": "https://t.co/IDnJhWoZ59",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWoZ59",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 468139,
+			"friends_count": 76,
+			"listed_count": 1138,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 191,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13258,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1567787455188987905/sAYoOtFz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1567787455188987905/sAYoOtFz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1664852417",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 115,
+		"favorite_count": 649,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "[AD][KCON 2022 JAPAN] #君の花になる\n\n10/15(土)のPRE-SHOWに\nTBS系火曜ドラマ『君の花になる』発ボーイズグループ\n#8LOOM の出演が決定!!💐\n\n10/14(金)~16(日) 展示ブースも出展!!\nぜひ遊びに来てください♪\n\n詳細→\nhttps://t.co/82LfXDqKMj\n\nLet's KCON\n2022.10.14-16 (JST)\n\n#KCON #KCON2022JAPAN https://t.co/HR4wJfOCUP"
+	},
+	{
+		"created_at": "Fri Oct 07 08:29:37 +0000 2022",
+		"id": 1578297553853915100,
+		"id_str": "1578301506251591686",
+		"full_text": "[VIDEO] [#인순이] [#이현승] #미스터리듀엣\n\n'아버지' 작곡가 이현승과 인순이의 만남│ MBN 미스터리 듀엣 #shorts\n\n👉 https://t.co/R4nrIFkqSX\n\n#INSOONI #TommyLee #휴맵컨텐츠 #HUMAPCONTENTS #MBN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "인순이",
+					"indices": [
+						9,
+						13
+					]
+				},
+				{
+					"text": "이현승",
+					"indices": [
+						16,
+						20
+					]
+				},
+				{
+					"text": "미스터리듀엣",
+					"indices": [
+						22,
+						29
+					]
+				},
+				{
+					"text": "shorts",
+					"indices": [
+						67,
+						74
+					]
+				},
+				{
+					"text": "INSOONI",
+					"indices": [
+						103,
+						111
+					]
+				},
+				{
+					"text": "TommyLee",
+					"indices": [
+						112,
+						121
+					]
+				},
+				{
+					"text": "휴맵컨텐츠",
+					"indices": [
+						122,
+						128
+					]
+				},
+				{
+					"text": "HUMAPCONTENTS",
+					"indices": [
+						129,
+						143
+					]
+				},
+				{
+					"text": "MBN",
+					"indices": [
+						144,
+						148
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/R4nrIFkqSX",
+					"expanded_url": "https://www.youtube.com/shorts/hm7jQxbfWho",
+					"display_url": "youtube.com/shorts/hm7jQxb…",
+					"indices": [
+						78,
+						101
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1219506842935513000,
+			"id_str": "1219506842935513088",
+			"name": "휴맵컨텐츠(HUMAP)",
+			"screen_name": "humap_official",
+			"location": "",
+			"description": "휴맵컨텐츠(HUMAP CONTENTS) Official Twitter",
+			"url": "https://t.co/fBZZK3SmX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fBZZK3SmX6",
+							"expanded_url": "http://www.humapcontents.com/",
+							"display_url": "humapcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 384,
+			"friends_count": 2,
+			"listed_count": 2,
+			"created_at": "Tue Jan 21 06:28:27 +0000 2020",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 939,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1219506842935513088/1579755898",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[VIDEO] [#인순이] [#이현승] #미스터리듀엣\n\n'아버지' 작곡가 이현승과 인순이의 만남│ MBN 미스터리 듀엣 #shorts\n\n👉 https://t.co/R4nrIFkqSX\n\n#INSOONI #TommyLee #휴맵컨텐츠 #HUMAPCONTENTS #MBN"
+	},
+	{
+		"created_at": "Fri Oct 07 08:29:34 +0000 2022",
+		"id": 1578294135374893000,
+		"id_str": "1578301493211439105",
+		"full_text": "SMTOWN LIVE 2022 : SMCU EXPRESS @ HUMAN CITY_SUWON Behind the Scenes\n\nhttps://t.co/JSL9BsgCth\n\n#SMTOWN\n#SMCU_EXPRESS\n#SMTOWNLIVE\n#SMTOWNLIVE2022_SUWON https://t.co/gr602tdECb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						95,
+						102
+					]
+				},
+				{
+					"text": "SMCU_EXPRESS",
+					"indices": [
+						103,
+						116
+					]
+				},
+				{
+					"text": "SMTOWNLIVE",
+					"indices": [
+						117,
+						128
+					]
+				},
+				{
+					"text": "SMTOWNLIVE2022_SUWON",
+					"indices": [
+						129,
+						150
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JSL9BsgCth",
+					"expanded_url": "https://youtu.be/gxwAZbJoyg4",
+					"display_url": "youtu.be/gxwAZbJoyg4",
+					"indices": [
+						70,
+						93
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1578294129867776000,
+					"id_str": "1578294129867776001",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/Fec6JiHaYAE98PM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fec6JiHaYAE98PM.jpg",
+					"url": "https://t.co/gr602tdECb",
+					"display_url": "pic.twitter.com/gr602tdECb",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1578294135374893058/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1578294129867776000,
+					"id_str": "1578294129867776001",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/Fec6JiHaYAE98PM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fec6JiHaYAE98PM.jpg",
+					"url": "https://t.co/gr602tdECb",
+					"display_url": "pic.twitter.com/gr602tdECb",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1578294135374893058/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11212599,
+			"friends_count": 55,
+			"listed_count": 12627,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2091,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13024,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11960,
+		"favorite_count": 25901,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "SMTOWN LIVE 2022 : SMCU EXPRESS @ HUMAN CITY_SUWON Behind the Scenes\n\nhttps://t.co/JSL9BsgCth\n\n#SMTOWN\n#SMCU_EXPRESS\n#SMTOWNLIVE\n#SMTOWNLIVE2022_SUWON https://t.co/gr602tdECb"
+	},
+	{
 		"created_at": "Fri Oct 07 08:14:57 +0000 2022",
 		"id": 1578297815234539500,
 		"id_str": "1578297815234539520",
