@@ -1,6 +1,423 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Fri Oct 07 03:11:23 +0000 2022",
+		"id": 1578219458924978200,
+		"id_str": "1578221420827615234",
+		"full_text": "jisokuryClub : 나랑 같이 놀...아주라\n\n🔔 티켓오픈\n2022.10.07(FRI) 7PM\n\n빈티지한 인디팝, 서프록 밴드\njisokuryClub의 '첫' 단독공연\n\n✅ 공연일시\n2022.10.30(SUN) 6PM\n\n✅ 공연장소\nKT&amp;G 상상마당 라이브홀\n\n✅ 티켓가격\n25,000원 / 멜론티켓\n\n▼자세히 보러가기\nhttps://t.co/EbLz5ezrdF https://t.co/5elHPWFYr7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			210
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EbLz5ezrdF",
+					"expanded_url": "https://ticket.melon.com/performance/index.htm?prodId=207384",
+					"display_url": "ticket.melon.com/performance/in…",
+					"indices": [
+						187,
+						210
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1578219108184662000,
+					"id_str": "1578219108184662017",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/Feb16skUoAE5PhQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Feb16skUoAE5PhQ.jpg",
+					"url": "https://t.co/5elHPWFYr7",
+					"display_url": "pic.twitter.com/5elHPWFYr7",
+					"expanded_url": "https://twitter.com/SSmadang/status/1578219458924978176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1018,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1578219108184662000,
+					"id_str": "1578219108184662017",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/Feb16skUoAE5PhQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Feb16skUoAE5PhQ.jpg",
+					"url": "https://t.co/5elHPWFYr7",
+					"display_url": "pic.twitter.com/5elHPWFYr7",
+					"expanded_url": "https://twitter.com/SSmadang/status/1578219458924978176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1018,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110358280,
+			"id_str": "110358280",
+			"name": "KT&G 상상마당",
+			"screen_name": "SSmadang",
+			"location": "서울 홍대 (Hongdae, Seoul)",
+			"description": "[복합문화공간] #상상마당 영화ㅣ공연ㅣ디자인ㅣ전시ㅣ교육ㅣ카페",
+			"url": "https://t.co/dQStXHIksz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dQStXHIksz",
+							"expanded_url": "http://sangsangmadang.com",
+							"display_url": "sangsangmadang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17440,
+			"friends_count": 1830,
+			"listed_count": 285,
+			"created_at": "Mon Feb 01 07:45:21 +0000 2010",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9104,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1565171981581893632/v5xwQVrn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1565171981581893632/v5xwQVrn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110358280/1661994351",
+			"profile_link_color": "242D8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "595959",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "jisokuryClub : 나랑 같이 놀...아주라\n\n🔔 티켓오픈\n2022.10.07(FRI) 7PM\n\n빈티지한 인디팝, 서프록 밴드\njisokuryClub의 '첫' 단독공연\n\n✅ 공연일시\n2022.10.30(SUN) 6PM\n\n✅ 공연장소\nKT&amp;G 상상마당 라이브홀\n\n✅ 티켓가격\n25,000원 / 멜론티켓\n\n▼자세히 보러가기\nhttps://t.co/EbLz5ezrdF https://t.co/5elHPWFYr7"
+	},
+	{
+		"created_at": "Fri Oct 07 03:11:17 +0000 2022",
+		"id": 1578219244046598100,
+		"id_str": "1578221395183636480",
+		"full_text": "이번주 클럽빵 공연일정입니다 이번주는 내부사정으로 수목금 공연은 쉽니다\n#클럽빵 #스몰타운1 #트리키네코 #사람또사람 #변화무쌍 #미내리 #론울프엔리지클럽 #콘트라젤리 https://t.co/nkNpxPHFQQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "클럽빵",
+					"indices": [
+						40,
+						44
+					]
+				},
+				{
+					"text": "스몰타운1",
+					"indices": [
+						45,
+						51
+					]
+				},
+				{
+					"text": "트리키네코",
+					"indices": [
+						52,
+						58
+					]
+				},
+				{
+					"text": "사람또사람",
+					"indices": [
+						59,
+						65
+					]
+				},
+				{
+					"text": "변화무쌍",
+					"indices": [
+						66,
+						71
+					]
+				},
+				{
+					"text": "미내리",
+					"indices": [
+						72,
+						76
+					]
+				},
+				{
+					"text": "론울프엔리지클럽",
+					"indices": [
+						77,
+						86
+					]
+				},
+				{
+					"text": "콘트라젤리",
+					"indices": [
+						87,
+						93
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1578219235569897500,
+					"id_str": "1578219235569897472",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/Feb2CHHVEAAgRqL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Feb2CHHVEAAgRqL.jpg",
+					"url": "https://t.co/nkNpxPHFQQ",
+					"display_url": "pic.twitter.com/nkNpxPHFQQ",
+					"expanded_url": "https://twitter.com/club_bbang/status/1578219244046598144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1578219235569897500,
+					"id_str": "1578219235569897472",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/Feb2CHHVEAAgRqL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Feb2CHHVEAAgRqL.jpg",
+					"url": "https://t.co/nkNpxPHFQQ",
+					"display_url": "pic.twitter.com/nkNpxPHFQQ",
+					"expanded_url": "https://twitter.com/club_bbang/status/1578219244046598144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1387140522,
+			"id_str": "1387140522",
+			"name": "클럽 빵",
+			"screen_name": "club_bbang",
+			"location": "서울 마포 서교동 327-18 지하",
+			"description": "모던록 라이브클럽 빵, 공연일정을 알려드려요! 문의 010-8910-1089, cafebbang@hanmail.net",
+			"url": "https://t.co/ZROqsiLHaK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZROqsiLHaK",
+							"expanded_url": "http://cafe.daum.net/cafebbang",
+							"display_url": "cafe.daum.net/cafebbang",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2536,
+			"friends_count": 901,
+			"listed_count": 34,
+			"created_at": "Sun Apr 28 14:57:43 +0000 2013",
+			"favourites_count": 91,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1905,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3617429436/49aa1ea87a3bdf4e12ef8ab826e7b229_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3617429436/49aa1ea87a3bdf4e12ef8ab826e7b229_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1387140522/1367815826",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이번주 클럽빵 공연일정입니다 이번주는 내부사정으로 수목금 공연은 쉽니다\n#클럽빵 #스몰타운1 #트리키네코 #사람또사람 #변화무쌍 #미내리 #론울프엔리지클럽 #콘트라젤리 https://t.co/nkNpxPHFQQ"
+	},
+	{
 		"created_at": "Fri Oct 07 01:58:18 +0000 2022",
 		"id": 1578190129411240000,
 		"id_str": "1578203029781856257",
