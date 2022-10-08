@@ -1,6 +1,565 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Sat Oct 08 06:58:27 +0000 2022",
+		"id": 1578633793413546000,
+		"id_str": "1578640952629002240",
+		"full_text": "[KCON 2022 SAUDI ARABIA | DAY 1]\nCLOSING w/‘POPPIA’ Signature Song😎🎵\n\nOur thrilling day at KCON 2022 SAUDI ARABIA💎\nThank you KCON-ers for joining us💚\n\nSEE YOU AT KCON 2022 JAPAN❤️\n\n#KCON #KCON2022SAUDIARABIA https://t.co/lCKt9cPGzh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			207
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						181,
+						186
+					]
+				},
+				{
+					"text": "KCON2022SAUDIARABIA",
+					"indices": [
+						187,
+						207
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1577988104916390000,
+					"id_str": "1577988104916389888",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1577988104916389888/img/SB7l6N252PcLEhRe.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1577988104916389888/img/SB7l6N252PcLEhRe.jpg",
+					"url": "https://t.co/lCKt9cPGzh",
+					"display_url": "pic.twitter.com/lCKt9cPGzh",
+					"expanded_url": "https://twitter.com/KCON_official/status/1578633793413545987/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1577988104916390000,
+					"id_str": "1577988104916389888",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1577988104916389888/img/SB7l6N252PcLEhRe.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1577988104916389888/img/SB7l6N252PcLEhRe.jpg",
+					"url": "https://t.co/lCKt9cPGzh",
+					"display_url": "pic.twitter.com/lCKt9cPGzh",
+					"expanded_url": "https://twitter.com/KCON_official/status/1578633793413545987/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 277477,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1577988104916389888/vid/1280x720/cWHtIY3DApELHBfT.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1577988104916389888/vid/640x360/APbYMusC3AQdCmyo.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1577988104916389888/pl/49vRzifk7VRp6oQM.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1577988104916389888/vid/480x270/Ot5kvjZyR0BpEg6H.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER\n📍KCON 2022 JAPAN 10/14 ~ 10/16 (JST)",
+			"url": "https://t.co/IDnJhWoZ59",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWoZ59",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 468410,
+			"friends_count": 76,
+			"listed_count": 1137,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 191,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13273,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1567787455188987905/sAYoOtFz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1567787455188987905/sAYoOtFz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1664852417",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 115,
+		"favorite_count": 283,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[KCON 2022 SAUDI ARABIA | DAY 1]\nCLOSING w/‘POPPIA’ Signature Song😎🎵\n\nOur thrilling day at KCON 2022 SAUDI ARABIA💎\nThank you KCON-ers for joining us💚\n\nSEE YOU AT KCON 2022 JAPAN❤️\n\n#KCON #KCON2022SAUDIARABIA https://t.co/lCKt9cPGzh"
+	},
+	{
+		"created_at": "Sat Oct 08 06:58:20 +0000 2022",
+		"id": 1578629548534472700,
+		"id_str": "1578640922715328512",
+		"full_text": "💚KCON SIGNATURE SONG - PENTAGON Full ver.❤️\n\nPENTAGON과 함께해 색다른 매력을 느낄 수 있는\nKCON 2022 Signature Song의 Full ver.을 감상해보세요😎\n\nAND..\n\nWHO'S THE NEXT SIGNATURE SONG ARTIST?\nSEE YOU AT KCON 2022 JAPAN😍\n\n#KCON #KCON2022SAUDIARABIA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			221
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						195,
+						200
+					]
+				},
+				{
+					"text": "KCON2022SAUDIARABIA",
+					"indices": [
+						201,
+						221
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1578626245272576000,
+		"in_reply_to_status_id_str": "1578626245272576000",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER\n📍KCON 2022 JAPAN 10/14 ~ 10/16 (JST)",
+			"url": "https://t.co/IDnJhWoZ59",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWoZ59",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 468410,
+			"friends_count": 76,
+			"listed_count": 1137,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 191,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13273,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1567787455188987905/sAYoOtFz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1567787455188987905/sAYoOtFz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1664852417",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "💚KCON SIGNATURE SONG - PENTAGON Full ver.❤️\n\nPENTAGON과 함께해 색다른 매력을 느낄 수 있는\nKCON 2022 Signature Song의 Full ver.을 감상해보세요😎\n\nAND..\n\nWHO'S THE NEXT SIGNATURE SONG ARTIST?\nSEE YOU AT KCON 2022 JAPAN😍\n\n#KCON #KCON2022SAUDIARABIA"
+	},
+	{
+		"created_at": "Sat Oct 08 06:58:15 +0000 2022",
+		"id": 1578626245272576000,
+		"id_str": "1578640901286641664",
+		"full_text": "💚KCON SIGNATURE SONG - PENTAGON Full ver.❤️\n\nHave a listen to the full ver. of KCON 2022 Signature Song with PENTAGON's charming voices 😎\n\nAND..\n\nWHO'S THE NEXT SIGNATURE SONG ARTIST?\nSEE YOU AT KCON 2022 JAPAN😍\n\n#KCON #KCON2022SAUDIARABIA https://t.co/TyjrG93UMt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			239
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						213,
+						218
+					]
+				},
+				{
+					"text": "KCON2022SAUDIARABIA",
+					"indices": [
+						219,
+						239
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1578362548990402600,
+					"id_str": "1578362548990402560",
+					"indices": [
+						240,
+						263
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1578362548990402560/img/1cZSSYwvEY2SRdzy.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1578362548990402560/img/1cZSSYwvEY2SRdzy.jpg",
+					"url": "https://t.co/TyjrG93UMt",
+					"display_url": "pic.twitter.com/TyjrG93UMt",
+					"expanded_url": "https://twitter.com/KCON_official/status/1578626245272576000/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1578362548990402600,
+					"id_str": "1578362548990402560",
+					"indices": [
+						240,
+						263
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1578362548990402560/img/1cZSSYwvEY2SRdzy.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1578362548990402560/img/1cZSSYwvEY2SRdzy.jpg",
+					"url": "https://t.co/TyjrG93UMt",
+					"display_url": "pic.twitter.com/TyjrG93UMt",
+					"expanded_url": "https://twitter.com/KCON_official/status/1578626245272576000/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 183783,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1578362548990402560/vid/1280x720/4ZJKZSj5iBXRIPcm.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1578362548990402560/vid/480x270/aGsOPdn8QfkA15Lj.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1578362548990402560/vid/640x360/0uPhNxOnY4wbfv8j.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1578362548990402560/pl/2WhblyU3VTWzj7JQ.m3u8?tag=14&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER\n📍KCON 2022 JAPAN 10/14 ~ 10/16 (JST)",
+			"url": "https://t.co/IDnJhWoZ59",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWoZ59",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 468410,
+			"friends_count": 76,
+			"listed_count": 1137,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 191,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13273,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1567787455188987905/sAYoOtFz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1567787455188987905/sAYoOtFz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1664852417",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 111,
+		"favorite_count": 246,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "💚KCON SIGNATURE SONG - PENTAGON Full ver.❤️\n\nHave a listen to the full ver. of KCON 2022 Signature Song with PENTAGON's charming voices 😎\n\nAND..\n\nWHO'S THE NEXT SIGNATURE SONG ARTIST?\nSEE YOU AT KCON 2022 JAPAN😍\n\n#KCON #KCON2022SAUDIARABIA https://t.co/TyjrG93UMt"
+	},
+	{
 		"created_at": "Sat Oct 08 05:29:37 +0000 2022",
 		"id": 1578618450918150100,
 		"id_str": "1578618597781405697",
