@@ -1,6 +1,273 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Sun Oct 09 11:32:02 +0000 2022",
+		"id": 1579061887341559800,
+		"id_str": "1579072188128563200",
+		"full_text": "✨Brand New Reasons 🐿🐻\n\n#시우민 #XIUMIN \n#엑소 #EXO #weareoneEXO\n#슬기 #SEULGI\n#레드벨벳 #RedVelvet\n#BrandNew #XIUMIN_BrandNew \n#SEULGI_28Reasons #28Reasons https://t.co/5SXlIc1p0U",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "시우민",
+					"indices": [
+						23,
+						27
+					]
+				},
+				{
+					"text": "XIUMIN",
+					"indices": [
+						28,
+						35
+					]
+				},
+				{
+					"text": "엑소",
+					"indices": [
+						37,
+						40
+					]
+				},
+				{
+					"text": "EXO",
+					"indices": [
+						41,
+						45
+					]
+				},
+				{
+					"text": "weareoneEXO",
+					"indices": [
+						46,
+						58
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						59,
+						62
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						63,
+						70
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						71,
+						76
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						77,
+						87
+					]
+				},
+				{
+					"text": "BrandNew",
+					"indices": [
+						88,
+						97
+					]
+				},
+				{
+					"text": "XIUMIN_BrandNew",
+					"indices": [
+						98,
+						114
+					]
+				},
+				{
+					"text": "SEULGI_28Reasons",
+					"indices": [
+						116,
+						133
+					]
+				},
+				{
+					"text": "28Reasons",
+					"indices": [
+						134,
+						144
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1579061645233787000,
+					"id_str": "1579061645233786881",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/Fen0MzqakAELAwg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fen0MzqakAELAwg.jpg",
+					"url": "https://t.co/5SXlIc1p0U",
+					"display_url": "pic.twitter.com/5SXlIc1p0U",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1579061887341559811/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1579061645233787000,
+					"id_str": "1579061645233786881",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/Fen0MzqakAELAwg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fen0MzqakAELAwg.jpg",
+					"url": "https://t.co/5SXlIc1p0U",
+					"display_url": "pic.twitter.com/5SXlIc1p0U",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1579061887341559811/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11215732,
+			"friends_count": 55,
+			"listed_count": 12635,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2091,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13026,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8880,
+		"favorite_count": 24040,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "✨Brand New Reasons 🐿🐻\n\n#시우민 #XIUMIN \n#엑소 #EXO #weareoneEXO\n#슬기 #SEULGI\n#레드벨벳 #RedVelvet\n#BrandNew #XIUMIN_BrandNew \n#SEULGI_28Reasons #28Reasons https://t.co/5SXlIc1p0U"
+	},
+	{
 		"created_at": "Sun Oct 09 11:11:17 +0000 2022",
 		"id": 1579064131369549800,
 		"id_str": "1579066966710419462",
