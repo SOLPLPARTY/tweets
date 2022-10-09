@@ -1,6 +1,268 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Sun Oct 09 09:29:28 +0000 2022",
+		"id": 1579033934750285800,
+		"id_str": "1579041345490268161",
+		"full_text": "[#김영철] '막가리' 스페셜 클립 (스피닝 챌린지 ver.) \n\n🚲김영철 '막가리' 스페셜 클립 (스피닝 챌린지 ver.)🔥\n1000kcal 태울 때까지 '막'가리🎵\n🔗https://t.co/nYxkhdDQnm\n\n#KimYoungchul #디지털싱글 #막가리 #막가리챌린지 #스피닝 https://t.co/Ru7MGNQjoZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "김영철",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "KimYoungchul",
+					"indices": [
+						120,
+						133
+					]
+				},
+				{
+					"text": "디지털싱글",
+					"indices": [
+						134,
+						140
+					]
+				},
+				{
+					"text": "막가리",
+					"indices": [
+						141,
+						145
+					]
+				},
+				{
+					"text": "막가리챌린지",
+					"indices": [
+						146,
+						153
+					]
+				},
+				{
+					"text": "스피닝",
+					"indices": [
+						154,
+						158
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nYxkhdDQnm",
+					"expanded_url": "https://youtu.be/Ki_vUpTEvxY",
+					"display_url": "youtu.be/Ki_vUpTEvxY",
+					"indices": [
+						95,
+						118
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1578976799211475000,
+					"id_str": "1578976799211474945",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/FemnQfXVUAE4SMj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FemnQfXVUAE4SMj.jpg",
+					"url": "https://t.co/Ru7MGNQjoZ",
+					"display_url": "pic.twitter.com/Ru7MGNQjoZ",
+					"expanded_url": "https://twitter.com/themysticstory/status/1579033934750285825/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1578976799211475000,
+					"id_str": "1578976799211474945",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/FemnQfXVUAE4SMj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FemnQfXVUAE4SMj.jpg",
+					"url": "https://t.co/Ru7MGNQjoZ",
+					"display_url": "pic.twitter.com/Ru7MGNQjoZ",
+					"expanded_url": "https://twitter.com/themysticstory/status/1579033934750285825/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 57599,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1578976799211474945/vid/1280x720/JCgj5E2G5UMxF3Sw.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1578976799211474945/vid/640x360/2q6X_L9X77zJklDm.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1578976799211474945/vid/480x270/1MbpSyUxD-bUko0_.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1578976799211474945/pl/rSHBaigdb5PabAI4.m3u8?tag=14&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "김영철 Kim YoungChul - '막가리' 스페셜 클립 (스피닝 챌린지 ver.) ",
+						"description": "[#김영철] '막가리' 스페셜 클립 (스피닝 챌린지 ver.) \n\n🚲김영철 '막가리' 스페셜 클립 (스피닝 챌린지 ver.)🔥\n1000kcal 태울 때까지 '막'가리🎵\n🔗MYSTIC STORY YouTube\n\n#KimYoungchul #디지털싱글 #막가리 #막가리챌린지 #스피닝",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/pgQyM4g8RF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pgQyM4g8RF",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37562,
+			"friends_count": 14,
+			"listed_count": 304,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 12,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7306,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1663804824",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#김영철] '막가리' 스페셜 클립 (스피닝 챌린지 ver.) \n\n🚲김영철 '막가리' 스페셜 클립 (스피닝 챌린지 ver.)🔥\n1000kcal 태울 때까지 '막'가리🎵\n🔗https://t.co/nYxkhdDQnm\n\n#KimYoungchul #디지털싱글 #막가리 #막가리챌린지 #스피닝 https://t.co/Ru7MGNQjoZ"
+	},
+	{
 		"created_at": "Sun Oct 09 05:29:31 +0000 2022",
 		"id": 1578971252899053600,
 		"id_str": "1578980959885488128",
