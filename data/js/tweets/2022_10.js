@@ -1,6 +1,363 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Mon Oct 10 09:29:37 +0000 2022",
+		"id": 1579397387944362000,
+		"id_str": "1579403772799090689",
+		"full_text": "치얼업 OST Part.2\n샘김 (Sam Kim) ‘고백’\n\nMelon https://t.co/jJYLXPNVQq \nGenie https://t.co/V63tr5nyfu \nBugs https://t.co/TiZ9OGOuz6 \nFLO https://t.co/2006iNXRDA \n\n@LeegitItsSam\n#SamKim\n#치얼업 #고백",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SamKim",
+					"indices": [
+						170,
+						177
+					]
+				},
+				{
+					"text": "치얼업",
+					"indices": [
+						178,
+						182
+					]
+				},
+				{
+					"text": "고백",
+					"indices": [
+						183,
+						186
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LeegitItsSam",
+					"name": "Sam Kim 샘김",
+					"id": 1202716135,
+					"id_str": "1202716135",
+					"indices": [
+						156,
+						169
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/jJYLXPNVQq",
+					"expanded_url": "http://bit.ly/3ehELKb",
+					"display_url": "bit.ly/3ehELKb",
+					"indices": [
+						40,
+						63
+					]
+				},
+				{
+					"url": "https://t.co/V63tr5nyfu",
+					"expanded_url": "http://bit.ly/3fU2wIK",
+					"display_url": "bit.ly/3fU2wIK",
+					"indices": [
+						71,
+						94
+					]
+				},
+				{
+					"url": "https://t.co/TiZ9OGOuz6",
+					"expanded_url": "http://bit.ly/3s1zdqJ",
+					"display_url": "bit.ly/3s1zdqJ",
+					"indices": [
+						101,
+						124
+					]
+				},
+				{
+					"url": "https://t.co/2006iNXRDA",
+					"expanded_url": "http://bit.ly/3RN39kM",
+					"display_url": "bit.ly/3RN39kM",
+					"indices": [
+						130,
+						153
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1579397384840548400,
+		"in_reply_to_status_id_str": "1579397384840548353",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 권진아 DS ‘진심이었던 사람만 바보가 돼’ 2022. 10. 13. 6PM Release",
+			"url": "https://t.co/XSWWwEx210",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEx210",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40491,
+			"friends_count": 12,
+			"listed_count": 376,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 19,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5435,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1664877607",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "치얼업 OST Part.2\n샘김 (Sam Kim) ‘고백’\n\nMelon https://t.co/jJYLXPNVQq \nGenie https://t.co/V63tr5nyfu \nBugs https://t.co/TiZ9OGOuz6 \nFLO https://t.co/2006iNXRDA \n\n@LeegitItsSam\n#SamKim\n#치얼업 #고백"
+	},
+	{
+		"created_at": "Mon Oct 10 09:29:32 +0000 2022",
+		"id": 1579397384840548400,
+		"id_str": "1579403749680087040",
+		"full_text": "[#Release] #샘김\n\n치얼업 OST Part.2\n샘김 (Sam Kim) ‘고백’\n\nLyrics by 신재평 \nComposed by 신재평 \nArranged by 권영찬\n\n샘김이 가창으로 참여한 SBS 새 월화드라마 ‘치얼업’ OST Part.2 ‘고백’은 지금 모든 음원 사이트에서 감상하실 수 있습니다🎧 https://t.co/Z67YrNOeqg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Release",
+					"indices": [
+						1,
+						9
+					]
+				},
+				{
+					"text": "샘김",
+					"indices": [
+						11,
+						14
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1579397375646265300,
+					"id_str": "1579397375646265344",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/Fesli46UcAArGrB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fesli46UcAArGrB.jpg",
+					"url": "https://t.co/Z67YrNOeqg",
+					"display_url": "pic.twitter.com/Z67YrNOeqg",
+					"expanded_url": "https://twitter.com/antennamusic/status/1579397384840548353/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1579397375646265300,
+					"id_str": "1579397375646265344",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/Fesli46UcAArGrB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fesli46UcAArGrB.jpg",
+					"url": "https://t.co/Z67YrNOeqg",
+					"display_url": "pic.twitter.com/Z67YrNOeqg",
+					"expanded_url": "https://twitter.com/antennamusic/status/1579397384840548353/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 권진아 DS ‘진심이었던 사람만 바보가 돼’ 2022. 10. 13. 6PM Release",
+			"url": "https://t.co/XSWWwEx210",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEx210",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40491,
+			"friends_count": 12,
+			"listed_count": 376,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 19,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5435,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1664877607",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 53,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Release] #샘김\n\n치얼업 OST Part.2\n샘김 (Sam Kim) ‘고백’\n\nLyrics by 신재평 \nComposed by 신재평 \nArranged by 권영찬\n\n샘김이 가창으로 참여한 SBS 새 월화드라마 ‘치얼업’ OST Part.2 ‘고백’은 지금 모든 음원 사이트에서 감상하실 수 있습니다🎧 https://t.co/Z67YrNOeqg"
+	},
+	{
 		"created_at": "Mon Oct 10 09:15:16 +0000 2022",
 		"id": 1579400157703000000,
 		"id_str": "1579400157703000064",
