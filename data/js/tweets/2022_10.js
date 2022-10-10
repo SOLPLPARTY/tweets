@@ -1,6 +1,289 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Mon Oct 10 12:11:17 +0000 2022",
+		"id": 1579418192891760600,
+		"id_str": "1579444455282614272",
+		"full_text": "[시공간집 5 : 시 놀이공원]에 참여하셨던 관객분들 주목📣\n\n🎩시 도슨트는 [시공간집 5]부터 시작하는 새로운 시도로, 필사를 통해 만났던 시를 도슨트 시인의 해설과 함께 다시 읽어보는 프로그램입니다. 올해는 김현, 김복희 시인이 함께해주실 예정이니 많은 관심과 참여 부탁드립니다! https://t.co/G0dkQGHzQF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1579418181130600400,
+					"id_str": "1579418181130600454",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/Fes4d7YVQAYFzC9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fes4d7YVQAYFzC9.jpg",
+					"url": "https://t.co/G0dkQGHzQF",
+					"display_url": "pic.twitter.com/G0dkQGHzQF",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1579418192891760640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1579418181130600400,
+					"id_str": "1579418181130600454",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/Fes4d7YVQAYFzC9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fes4d7YVQAYFzC9.jpg",
+					"url": "https://t.co/G0dkQGHzQF",
+					"display_url": "pic.twitter.com/G0dkQGHzQF",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1579418192891760640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1579418181122211800,
+					"id_str": "1579418181122211841",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/Fes4d7WVQAEOvte.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fes4d7WVQAEOvte.jpg",
+					"url": "https://t.co/G0dkQGHzQF",
+					"display_url": "pic.twitter.com/G0dkQGHzQF",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1579418192891760640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1712,
+							"h": 1712,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1579418181122199600,
+					"id_str": "1579418181122199552",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/Fes4d7WVEAAh5mM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fes4d7WVEAAh5mM.jpg",
+					"url": "https://t.co/G0dkQGHzQF",
+					"display_url": "pic.twitter.com/G0dkQGHzQF",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1579418192891760640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1579418181155709000,
+					"id_str": "1579418181155708929",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/Fes4d7eUYAENzhc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fes4d7eUYAENzhc.jpg",
+					"url": "https://t.co/G0dkQGHzQF",
+					"display_url": "pic.twitter.com/G0dkQGHzQF",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1579418192891760640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1569959584055586800,
+		"in_reply_to_status_id_str": "1569959584055586816",
+		"in_reply_to_user_id": 282449618,
+		"in_reply_to_user_id_str": "282449618",
+		"in_reply_to_screen_name": "studio_zemi",
+		"user": {
+			"id": 282449618,
+			"id_str": "282449618",
+			"name": "재미공작소",
+			"screen_name": "studio_zemi",
+			"location": "서울시 영등포구 문래동 3가 58-84 1층 왼편",
+			"description": "재미공작소는 서울 문래동에 위치한 문화예술공간입니다. (Since 2011) 공연, 문학 행사, 팝업숍, 전시, 창작 워크숍, 출판, 캘린더 갤러리 등 '재미있는 일'을 기획하고 진행합니다. 재미공작소의 일정 및 예약 관련 정보는 아래 홈블로그 링크에서 바로 확인하실 수 있습니다.",
+			"url": "https://t.co/aLQQKE9ltK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aLQQKE9ltK",
+							"expanded_url": "http://blog.naver.com/studiozemi",
+							"display_url": "blog.naver.com/studiozemi",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8310,
+			"friends_count": 549,
+			"listed_count": 75,
+			"created_at": "Fri Apr 15 07:08:52 +0000 2011",
+			"favourites_count": 2411,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14860,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/282449618/1398647875",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[시공간집 5 : 시 놀이공원]에 참여하셨던 관객분들 주목📣\n\n🎩시 도슨트는 [시공간집 5]부터 시작하는 새로운 시도로, 필사를 통해 만났던 시를 도슨트 시인의 해설과 함께 다시 읽어보는 프로그램입니다. 올해는 김현, 김복희 시인이 함께해주실 예정이니 많은 관심과 참여 부탁드립니다! https://t.co/G0dkQGHzQF"
+	},
+	{
 		"created_at": "Mon Oct 10 09:29:37 +0000 2022",
 		"id": 1579397387944362000,
 		"id_str": "1579403772799090689",
