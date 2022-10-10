@@ -1,6 +1,239 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Mon Oct 10 15:29:25 +0000 2022",
+		"id": 1579486906332909600,
+		"id_str": "1579494316333932545",
+		"full_text": "📻 Jaram Lee in Session\n@ BBC Radio 3 / MUSIC PLANET\n\n⏰ SAT. 29 OCT, 2022 / 4PM https://t.co/kdDtYopYrJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1579486885084565500,
+					"id_str": "1579486885084565505",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/Fet29BjakAE7NlZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fet29BjakAE7NlZ.jpg",
+					"url": "https://t.co/kdDtYopYrJ",
+					"display_url": "pic.twitter.com/kdDtYopYrJ",
+					"expanded_url": "https://twitter.com/blueboy_kr/status/1579486906332909569/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1579486885084565500,
+					"id_str": "1579486885084565505",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/Fet29BjakAE7NlZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fet29BjakAE7NlZ.jpg",
+					"url": "https://t.co/kdDtYopYrJ",
+					"display_url": "pic.twitter.com/kdDtYopYrJ",
+					"expanded_url": "https://twitter.com/blueboy_kr/status/1579486906332909569/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1579486885097111600,
+					"id_str": "1579486885097111552",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/Fet29BmaAAAkY6a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fet29BmaAAAkY6a.jpg",
+					"url": "https://t.co/kdDtYopYrJ",
+					"display_url": "pic.twitter.com/kdDtYopYrJ",
+					"expanded_url": "https://twitter.com/blueboy_kr/status/1579486906332909569/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1579486885080334300,
+					"id_str": "1579486885080334337",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/Fet29BiaAAEXRft.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fet29BiaAAEXRft.jpg",
+					"url": "https://t.co/kdDtYopYrJ",
+					"display_url": "pic.twitter.com/kdDtYopYrJ",
+					"expanded_url": "https://twitter.com/blueboy_kr/status/1579486906332909569/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 613235782,
+			"id_str": "613235782",
+			"name": "BLUE BOY",
+			"screen_name": "blueboy_kr",
+			"location": "",
+			"description": "언니네 이발관 / Wouter Hamel / 이자람 판소리 / 한승석&정재일 / [info.blueboy@gmail.com]",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1262,
+			"friends_count": 181,
+			"listed_count": 14,
+			"created_at": "Wed Jun 20 07:48:47 +0000 2012",
+			"favourites_count": 121,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1858,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2341430994/loegdwbpnd5j4vueh8iz_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2341430994/loegdwbpnd5j4vueh8iz_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "📻 Jaram Lee in Session\n@ BBC Radio 3 / MUSIC PLANET\n\n⏰ SAT. 29 OCT, 2022 / 4PM https://t.co/kdDtYopYrJ"
+	},
+	{
 		"created_at": "Mon Oct 10 14:11:17 +0000 2022",
 		"id": 1579452752073486300,
 		"id_str": "1579474654569582593",
