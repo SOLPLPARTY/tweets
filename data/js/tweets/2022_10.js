@@ -1,6 +1,217 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Mon Oct 10 14:11:17 +0000 2022",
+		"id": 1579452752073486300,
+		"id_str": "1579474654569582593",
+		"full_text": "[시공간집 5 : 시 놀이공원]\n\n일곱째 날의 아름다운 풍경\n\n변화무쌍했던 날씨 속 \n순간 빛으로 가득했던 시공간집✨\n\n#재미공작소 #시공간집\n#시공간집5\n#시공간집5_시놀이공원\n#2022예술생태랩 https://t.co/ujWDb2dS5R",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "재미공작소",
+					"indices": [
+						67,
+						73
+					]
+				},
+				{
+					"text": "시공간집",
+					"indices": [
+						74,
+						79
+					]
+				},
+				{
+					"text": "시공간집5",
+					"indices": [
+						80,
+						86
+					]
+				},
+				{
+					"text": "시공간집5_시놀이공원",
+					"indices": [
+						87,
+						99
+					]
+				},
+				{
+					"text": "2022예술생태랩",
+					"indices": [
+						100,
+						110
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1579452722088054800,
+					"id_str": "1579452722088054784",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/FetX4eeVEAAZlE4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FetX4eeVEAAZlE4.jpg",
+					"url": "https://t.co/ujWDb2dS5R",
+					"display_url": "pic.twitter.com/ujWDb2dS5R",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1579452752073486339/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1712,
+							"h": 1712,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1579452722088054800,
+					"id_str": "1579452722088054784",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/FetX4eeVEAAZlE4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FetX4eeVEAAZlE4.jpg",
+					"url": "https://t.co/ujWDb2dS5R",
+					"display_url": "pic.twitter.com/ujWDb2dS5R",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1579452752073486339/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1712,
+							"h": 1712,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1579118119771340800,
+		"in_reply_to_status_id_str": "1579118119771340802",
+		"in_reply_to_user_id": 282449618,
+		"in_reply_to_user_id_str": "282449618",
+		"in_reply_to_screen_name": "studio_zemi",
+		"user": {
+			"id": 282449618,
+			"id_str": "282449618",
+			"name": "재미공작소",
+			"screen_name": "studio_zemi",
+			"location": "서울시 영등포구 문래동 3가 58-84 1층 왼편",
+			"description": "재미공작소는 서울 문래동에 위치한 문화예술공간입니다. (Since 2011) 공연, 문학 행사, 팝업숍, 전시, 창작 워크숍, 출판, 캘린더 갤러리 등 '재미있는 일'을 기획하고 진행합니다. 재미공작소의 일정 및 예약 관련 정보는 아래 홈블로그 링크에서 바로 확인하실 수 있습니다.",
+			"url": "https://t.co/aLQQKE9ltK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aLQQKE9ltK",
+							"expanded_url": "http://blog.naver.com/studiozemi",
+							"display_url": "blog.naver.com/studiozemi",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8309,
+			"friends_count": 549,
+			"listed_count": 75,
+			"created_at": "Fri Apr 15 07:08:52 +0000 2011",
+			"favourites_count": 2411,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14861,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/282449618/1398647875",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[시공간집 5 : 시 놀이공원]\n\n일곱째 날의 아름다운 풍경\n\n변화무쌍했던 날씨 속 \n순간 빛으로 가득했던 시공간집✨\n\n#재미공작소 #시공간집\n#시공간집5\n#시공간집5_시놀이공원\n#2022예술생태랩 https://t.co/ujWDb2dS5R"
+	},
+	{
 		"created_at": "Mon Oct 10 12:29:34 +0000 2022",
 		"id": 1579440711178784800,
 		"id_str": "1579449055691780096",
