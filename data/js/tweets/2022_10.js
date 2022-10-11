@@ -1,6 +1,355 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Tue Oct 11 12:58:15 +0000 2022",
+		"id": 1579804108072317000,
+		"id_str": "1579818661279588353",
+		"full_text": "KCON 2022 JAPAN ❤️D-3💙\n\nHave you received an invitation for KCON-ers?💌\n10/14~16(JST), see you at KCON 2022 JAPAN🥰\n\nKCON-ers에게 보내는 초대장 모두 받으셨나요?💌\n10/14~16(JST), KCON 2022 JAPAN에서 만나요🥰\n\n#KCON #KCON2022JAPAN https://t.co/sDPpsdxJCJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			204
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						184,
+						189
+					]
+				},
+				{
+					"text": "KCON2022JAPAN",
+					"indices": [
+						190,
+						204
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sDPpsdxJCJ",
+					"expanded_url": "https://twitter.com/kconjapan/status/1579804072114548737",
+					"display_url": "twitter.com/kconjapan/stat…",
+					"indices": [
+						205,
+						228
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER\n📍KCON 2022 JAPAN 10/14 ~ 10/16 (JST)",
+			"url": "https://t.co/IDnJhWoZ59",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWoZ59",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 468947,
+			"friends_count": 76,
+			"listed_count": 1136,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 191,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13292,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1567787455188987905/sAYoOtFz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1567787455188987905/sAYoOtFz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1664852417",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1579804072114548700,
+		"quoted_status_id_str": "1579804072114548737",
+		"quoted_status_permalink": {
+			"url": "https://t.co/sDPpsdxJCJ",
+			"expanded": "https://twitter.com/kconjapan/status/1579804072114548737",
+			"display": "twitter.com/kconjapan/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Oct 11 12:00:16 +0000 2022",
+			"id": 1579804072114548700,
+			"id_str": "1579804072114548737",
+			"full_text": "KCON 2022 JAPAN ❤️D-3💙\n\nKCON-ersに送る招待状はみんな受け取りましたか？💌\n10/14~16(JST)、KCON 2022 JAPANで会いましょう🥰\n\n#KCON #KCON2022JAPAN https://t.co/INhqyb800E",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				112
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "KCON",
+						"indices": [
+							92,
+							97
+						]
+					},
+					{
+						"text": "KCON2022JAPAN",
+						"indices": [
+							98,
+							112
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1579804036932329500,
+						"id_str": "1579804036932329472",
+						"indices": [
+							113,
+							136
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1579804036932329472/pu/img/JJWrDt7RSEau16xh.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1579804036932329472/pu/img/JJWrDt7RSEau16xh.jpg",
+						"url": "https://t.co/INhqyb800E",
+						"display_url": "pic.twitter.com/INhqyb800E",
+						"expanded_url": "https://twitter.com/kconjapan/status/1579804072114548737/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1579804036932329500,
+						"id_str": "1579804036932329472",
+						"indices": [
+							113,
+							136
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1579804036932329472/pu/img/JJWrDt7RSEau16xh.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1579804036932329472/pu/img/JJWrDt7RSEau16xh.jpg",
+						"url": "https://t.co/INhqyb800E",
+						"display_url": "pic.twitter.com/INhqyb800E",
+						"expanded_url": "https://twitter.com/kconjapan/status/1579804072114548737/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								9,
+								16
+							],
+							"duration_millis": 9108,
+							"variants": [
+								{
+									"bitrate": 950000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1579804036932329472/pu/vid/480x852/CXMWCULEBbX9RuSy.mp4?tag=12"
+								},
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1579804036932329472/pu/vid/320x568/ADG8p9BC3r9MonTE.mp4?tag=12"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1579804036932329472/pu/vid/720x1280/bbOWDkA6KEGwcOA2.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1579804036932329472/pu/pl/03N3pDots0cjwoOH.m3u8?tag=12&container=fmp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3017029196,
+				"id_str": "3017029196",
+				"name": "KCON Japan",
+				"screen_name": "kconjapan",
+				"location": "",
+				"description": "世界最大級のK-Cultureフェスティバル\n『KCON JAPAN』の公式Twitterです！\n📍10/14（金） ~ 10/16(日）/ 東京・有明アリーナ",
+				"url": "https://t.co/sCRhaGCzOM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/sCRhaGCzOM",
+								"expanded_url": "http://kconjapan.com",
+								"display_url": "kconjapan.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 245947,
+				"friends_count": 158,
+				"listed_count": 488,
+				"created_at": "Thu Feb 12 06:02:55 +0000 2015",
+				"favourites_count": 193,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 6812,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5ABB5",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1554285876041367553/Z3_Jgigb_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1554285876041367553/Z3_Jgigb_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3017029196/1662617121",
+				"profile_link_color": "F5ABB5",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 56,
+			"favorite_count": 430,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"retweet_count": 4,
+		"favorite_count": 56,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "KCON 2022 JAPAN ❤️D-3💙\n\nHave you received an invitation for KCON-ers?💌\n10/14~16(JST), see you at KCON 2022 JAPAN🥰\n\nKCON-ers에게 보내는 초대장 모두 받으셨나요?💌\n10/14~16(JST), KCON 2022 JAPAN에서 만나요🥰\n\n#KCON #KCON2022JAPAN https://t.co/sDPpsdxJCJ"
+	},
+	{
 		"created_at": "Tue Oct 11 11:58:15 +0000 2022",
 		"id": 1579789057936486400,
 		"id_str": "1579803561898086401",
@@ -2511,7 +2860,7 @@ Grailbird.data.tweets_2022_10 =
 		"created_at": "Tue Oct 11 09:58:21 +0000 2022",
 		"id": 1579759109208842200,
 		"id_str": "1579773390415462400",
-		"full_text": "#KCONers_굿즈_자랑대회\n\nKCON-ers 여러분만의 KCON 현장 즐기는 방법은 무엇인가요?🤔\n담당자는 DIY 굿즈와 함께 현장의 곳곳을 사진📸으로 기록한답니다✌️\n\n이번 현장에 방문해 굿즈 사진과 2가지 해시태그를 포함해 업로드해주세요!\n추첨을 통해 아티스트 사인 CD를 드립니다💿❤️‍🔥\n\n#KCON2022JAPAN https://t.co/TCFA2DcH9m",
+		"full_text": "#KCONers_굿즈_자랑대회\n\nKCON-ers 여러분만의 KCON 현장 즐기는 방법은 무엇인가요?🤔\n담당자는 DIY 굿즈와 함께 현장의 곳곳을 사진📸으로 기록한답니다✌️\n\n이번 현장에 방문해 굿즈 사진과 2가지 해시태그를 포함해 업로드해주세요!\n추첨을 통해 아티스트 사인 CD를 드립니다💿❤️🔥\n\n#KCON2022JAPAN https://t.co/TCFA2DcH9m",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -2695,13 +3044,13 @@ Grailbird.data.tweets_2022_10 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "#KCONers_굿즈_자랑대회\n\nKCON-ers 여러분만의 KCON 현장 즐기는 방법은 무엇인가요?🤔\n담당자는 DIY 굿즈와 함께 현장의 곳곳을 사진📸으로 기록한답니다✌️\n\n이번 현장에 방문해 굿즈 사진과 2가지 해시태그를 포함해 업로드해주세요!\n추첨을 통해 아티스트 사인 CD를 드립니다💿❤️‍🔥\n\n#KCON2022JAPAN https://t.co/TCFA2DcH9m"
+		"text": "#KCONers_굿즈_자랑대회\n\nKCON-ers 여러분만의 KCON 현장 즐기는 방법은 무엇인가요?🤔\n담당자는 DIY 굿즈와 함께 현장의 곳곳을 사진📸으로 기록한답니다✌️\n\n이번 현장에 방문해 굿즈 사진과 2가지 해시태그를 포함해 업로드해주세요!\n추첨을 통해 아티스트 사인 CD를 드립니다💿❤️🔥\n\n#KCON2022JAPAN https://t.co/TCFA2DcH9m"
 	},
 	{
 		"created_at": "Tue Oct 11 09:58:15 +0000 2022",
 		"id": 1579759099725893600,
 		"id_str": "1579773364339896321",
-		"full_text": "#KCONers_굿즈_자랑대회\n\nWhat's KCON-ers' way of enjoying KCON?🤔\nFor us, we try to take as many photos📸 as possible of the site with DIY merch✌️\n\nUpload a photo of your DIY merch taken at the site with two hashtags!\nYou are likely to win an artist's signed CD💿❤️‍🔥\n\n#KCON2022JAPAN https://t.co/xILa93ypi3 https://t.co/rsKcrNXxXh",
+		"full_text": "#KCONers_굿즈_자랑대회\n\nWhat's KCON-ers' way of enjoying KCON?🤔\nFor us, we try to take as many photos📸 as possible of the site with DIY merch✌️\n\nUpload a photo of your DIY merch taken at the site with two hashtags!\nYou are likely to win an artist's signed CD💿❤️🔥\n\n#KCON2022JAPAN https://t.co/xILa93ypi3 https://t.co/rsKcrNXxXh",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -2900,7 +3249,7 @@ Grailbird.data.tweets_2022_10 =
 			"created_at": "Tue Oct 11 09:00:01 +0000 2022",
 			"id": 1579758711341449200,
 			"id_str": "1579758711341449221",
-			"full_text": "#KCONers_굿즈_자랑대회\n\nKCON-ersだけのKCONの会場を楽しむ方法は何ですか？🤔\n担当者はDIYグッズと一緒に会場の所々を写真📸で記録するんです✌️\n\n今回、会場に訪れてグッズ写真と2つのハッシュタグを含めて投稿してください！\n抽選でアーティストのサインCDをプレゼントします💿❤️‍🔥\n\n#KCON2022JAPAN https://t.co/Ms7l68cMm8",
+			"full_text": "#KCONers_굿즈_자랑대회\n\nKCON-ersだけのKCONの会場を楽しむ方法は何ですか？🤔\n担当者はDIYグッズと一緒に会場の所々を写真📸で記録するんです✌️\n\n今回、会場に訪れてグッズ写真と2つのハッシュタグを含めて投稿してください！\n抽選でアーティストのサインCDをプレゼントします💿❤️🔥\n\n#KCON2022JAPAN https://t.co/Ms7l68cMm8",
 			"truncated": false,
 			"display_text_range": [
 				0,
@@ -3091,7 +3440,7 @@ Grailbird.data.tweets_2022_10 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "#KCONers_굿즈_자랑대회\n\nWhat's KCON-ers' way of enjoying KCON?🤔\nFor us, we try to take as many photos📸 as possible of the site with DIY merch✌️\n\nUpload a photo of your DIY merch taken at the site with two hashtags!\nYou are likely to win an artist's signed CD💿❤️‍🔥\n\n#KCON2022JAPAN https://t.co/xILa93ypi3 https://t.co/rsKcrNXxXh"
+		"text": "#KCONers_굿즈_자랑대회\n\nWhat's KCON-ers' way of enjoying KCON?🤔\nFor us, we try to take as many photos📸 as possible of the site with DIY merch✌️\n\nUpload a photo of your DIY merch taken at the site with two hashtags!\nYou are likely to win an artist's signed CD💿❤️🔥\n\n#KCON2022JAPAN https://t.co/xILa93ypi3 https://t.co/rsKcrNXxXh"
 	},
 	{
 		"created_at": "Tue Oct 11 09:29:40 +0000 2022",
