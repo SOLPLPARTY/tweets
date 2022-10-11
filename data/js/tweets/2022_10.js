@@ -1,6 +1,3843 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Tue Oct 11 11:58:15 +0000 2022",
+		"id": 1579789057936486400,
+		"id_str": "1579803561898086401",
+		"full_text": "Let's meet the vivid sites of KCON 2022 JAPAN through LIVE STREAMING!\n\nTIME: 2022.10.14-16 (FRI-SUN)\n👉 [KCON official] https://t.co/Y5rnyrVQFe\n👉 [Mnet K-POP] https://t.co/NPY9mochg3\n\n* Live streaming content may vary depending on YouTube Membership tiers. \n\n#KCON #KCON2022JAPAN https://t.co/pn3VmiKajV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						258,
+						263
+					]
+				},
+				{
+					"text": "KCON2022JAPAN",
+					"indices": [
+						264,
+						278
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Y5rnyrVQFe",
+					"expanded_url": "http://youtube.com/kcon/join",
+					"display_url": "youtube.com/kcon/join",
+					"indices": [
+						119,
+						142
+					]
+				},
+				{
+					"url": "https://t.co/NPY9mochg3",
+					"expanded_url": "http://youtube.com/mnet/join",
+					"display_url": "youtube.com/mnet/join",
+					"indices": [
+						158,
+						181
+					]
+				},
+				{
+					"url": "https://t.co/pn3VmiKajV",
+					"expanded_url": "https://twitter.com/kconjapan/status/1579788907230547968",
+					"display_url": "twitter.com/kconjapan/stat…",
+					"indices": [
+						279,
+						302
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER\n📍KCON 2022 JAPAN 10/14 ~ 10/16 (JST)",
+			"url": "https://t.co/IDnJhWoZ59",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWoZ59",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 468942,
+			"friends_count": 76,
+			"listed_count": 1136,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 191,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13292,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1567787455188987905/sAYoOtFz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1567787455188987905/sAYoOtFz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1664852417",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1579788907230548000,
+		"quoted_status_id_str": "1579788907230547968",
+		"quoted_status_permalink": {
+			"url": "https://t.co/pn3VmiKajV",
+			"expanded": "https://twitter.com/kconjapan/status/1579788907230547968",
+			"display": "twitter.com/kconjapan/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Oct 11 11:00:01 +0000 2022",
+			"id": 1579788907230548000,
+			"id_str": "1579788907230547968",
+			"full_text": "KCON 2022 JAPANのリアルな様子をライブストリーミングで感じてください！\n\n2022.10.14-16\n👉KCON official https://t.co/JuLvgDG7xW\n👉Mnet K-POP https://t.co/2V4AV0UKCh\n\n* YouTubeメンバーシップのレベルによってライブストリーミングコンテンツが異なる可能性があります。\n\n#KCON #KCON2022JAPAN https://t.co/7XQvkbRZ1w",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				208
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "KCON",
+						"indices": [
+							188,
+							193
+						]
+					},
+					{
+						"text": "KCON2022JAPAN",
+						"indices": [
+							194,
+							208
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/JuLvgDG7xW",
+						"expanded_url": "http://youtube.com/kcon/join",
+						"display_url": "youtube.com/kcon/join",
+						"indices": [
+							73,
+							96
+						]
+					},
+					{
+						"url": "https://t.co/2V4AV0UKCh",
+						"expanded_url": "http://youtube.com/mnet/join",
+						"display_url": "youtube.com/mnet/join",
+						"indices": [
+							109,
+							132
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1579722705083207700,
+						"id_str": "1579722705083207680",
+						"indices": [
+							209,
+							232
+						],
+						"media_url": "http://pbs.twimg.com/media/FexNbjgakAAmhPV.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FexNbjgakAAmhPV.jpg",
+						"url": "https://t.co/7XQvkbRZ1w",
+						"display_url": "pic.twitter.com/7XQvkbRZ1w",
+						"expanded_url": "https://twitter.com/kconjapan/status/1579788907230547968/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1579722705083207700,
+						"id_str": "1579722705083207680",
+						"indices": [
+							209,
+							232
+						],
+						"media_url": "http://pbs.twimg.com/media/FexNbjgakAAmhPV.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FexNbjgakAAmhPV.jpg",
+						"url": "https://t.co/7XQvkbRZ1w",
+						"display_url": "pic.twitter.com/7XQvkbRZ1w",
+						"expanded_url": "https://twitter.com/kconjapan/status/1579788907230547968/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1579722719842951200,
+						"id_str": "1579722719842951168",
+						"indices": [
+							209,
+							232
+						],
+						"media_url": "http://pbs.twimg.com/media/FexNcafaYAAWhL6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FexNcafaYAAWhL6.jpg",
+						"url": "https://t.co/7XQvkbRZ1w",
+						"display_url": "pic.twitter.com/7XQvkbRZ1w",
+						"expanded_url": "https://twitter.com/kconjapan/status/1579788907230547968/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1579722734711767000,
+						"id_str": "1579722734711767042",
+						"indices": [
+							209,
+							232
+						],
+						"media_url": "http://pbs.twimg.com/media/FexNdR4agAIS_kk.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FexNdR4agAIS_kk.jpg",
+						"url": "https://t.co/7XQvkbRZ1w",
+						"display_url": "pic.twitter.com/7XQvkbRZ1w",
+						"expanded_url": "https://twitter.com/kconjapan/status/1579788907230547968/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1579722757243560000,
+						"id_str": "1579722757243559937",
+						"indices": [
+							209,
+							232
+						],
+						"media_url": "http://pbs.twimg.com/media/FexNel0aYAEM5RZ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FexNel0aYAEM5RZ.jpg",
+						"url": "https://t.co/7XQvkbRZ1w",
+						"display_url": "pic.twitter.com/7XQvkbRZ1w",
+						"expanded_url": "https://twitter.com/kconjapan/status/1579788907230547968/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3017029196,
+				"id_str": "3017029196",
+				"name": "KCON Japan",
+				"screen_name": "kconjapan",
+				"location": "",
+				"description": "世界最大級のK-Cultureフェスティバル\n『KCON JAPAN』の公式Twitterです！\n📍10/14（金） ~ 10/16(日）/ 東京・有明アリーナ",
+				"url": "https://t.co/sCRhaGCzOM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/sCRhaGCzOM",
+								"expanded_url": "http://kconjapan.com",
+								"display_url": "kconjapan.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 245927,
+				"friends_count": 158,
+				"listed_count": 489,
+				"created_at": "Thu Feb 12 06:02:55 +0000 2015",
+				"favourites_count": 193,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 6812,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5ABB5",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1554285876041367553/Z3_Jgigb_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1554285876041367553/Z3_Jgigb_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3017029196/1662617121",
+				"profile_link_color": "F5ABB5",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1397,
+			"favorite_count": 4547,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"retweet_count": 26,
+		"favorite_count": 59,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Let's meet the vivid sites of KCON 2022 JAPAN through LIVE STREAMING!\n\nTIME: 2022.10.14-16 (FRI-SUN)\n👉 [KCON official] https://t.co/Y5rnyrVQFe\n👉 [Mnet K-POP] https://t.co/NPY9mochg3\n\n* Live streaming content may vary depending on YouTube Membership tiers. \n\n#KCON #KCON2022JAPAN https://t.co/pn3VmiKajV"
+	},
+	{
+		"created_at": "Tue Oct 11 11:29:27 +0000 2022",
+		"id": 1579793514497724400,
+		"id_str": "1579796315646484482",
+		"full_text": "[SURL | 발매 공지]\n\nSURL 1st Album [of us] will be released on October 25, 12PM (KST)\n\nSURL의 첫번째 정규앨범 [of us] 2022.10.25. 화요일 낮 12시 발매됩니다.\n\n첫 정규앨범 주요 콘텐츠 일정은 두번째 이미지를 참고해주세요🔥\n\n#SURL #설 #밴드설🌵 #說 #ofus https://t.co/brDak1kuJa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SURL",
+					"indices": [
+						172,
+						177
+					]
+				},
+				{
+					"text": "설",
+					"indices": [
+						178,
+						180
+					]
+				},
+				{
+					"text": "밴드설",
+					"indices": [
+						181,
+						185
+					]
+				},
+				{
+					"text": "說",
+					"indices": [
+						187,
+						189
+					]
+				},
+				{
+					"text": "ofus",
+					"indices": [
+						190,
+						195
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1579793330585890800,
+					"id_str": "1579793330585890817",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/FeyNqgAacAEpkNZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeyNqgAacAEpkNZ.jpg",
+					"url": "https://t.co/brDak1kuJa",
+					"display_url": "pic.twitter.com/brDak1kuJa",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1579793514497724418/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1579793330585890800,
+					"id_str": "1579793330585890817",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/FeyNqgAacAEpkNZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeyNqgAacAEpkNZ.jpg",
+					"url": "https://t.co/brDak1kuJa",
+					"display_url": "pic.twitter.com/brDak1kuJa",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1579793514497724418/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1579793330585862100,
+					"id_str": "1579793330585862144",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/FeyNqgAaAAAHs2p.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeyNqgAaAAAHs2p.jpg",
+					"url": "https://t.co/brDak1kuJa",
+					"display_url": "pic.twitter.com/brDak1kuJa",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1579793514497724418/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "구만(9.10000), 노리플라이, 데이브레이크, Lacuna(라쿠나), SURL(설), 소란, 솔루션스, 쏜애플, OurR(아월)",
+			"url": "https://t.co/BIvBmbtJjn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BIvBmbtJjn",
+							"expanded_url": "https://mpmgmusic.com/",
+							"display_url": "mpmgmusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12896,
+			"friends_count": 1894,
+			"listed_count": 250,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 209,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13588,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1626843310",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[SURL | 발매 공지]\n\nSURL 1st Album [of us] will be released on October 25, 12PM (KST)\n\nSURL의 첫번째 정규앨범 [of us] 2022.10.25. 화요일 낮 12시 발매됩니다.\n\n첫 정규앨범 주요 콘텐츠 일정은 두번째 이미지를 참고해주세요🔥\n\n#SURL #설 #밴드설🌵 #說 #ofus https://t.co/brDak1kuJa"
+	},
+	{
+		"created_at": "Tue Oct 11 11:29:25 +0000 2022",
+		"id": 1579788913371070500,
+		"id_str": "1579796306402627586",
+		"full_text": "#UnderHouse : JAMIE (제이미) – Bedtime Story (feat.GEMINI), Honesty (0822) (With DJ YENA)\n\n🔗https://t.co/nULLgE0zMT\n\n#언더하우스 #WarnerMusicKPOP #JAMIE #제이미 #OneBadNight #3DWoman #BedtimeStory #Honesty @jiminpark07 https://t.co/LYpVuI3my1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			207
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "UnderHouse",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"text": "언더하우스",
+					"indices": [
+						114,
+						120
+					]
+				},
+				{
+					"text": "WarnerMusicKPOP",
+					"indices": [
+						121,
+						137
+					]
+				},
+				{
+					"text": "JAMIE",
+					"indices": [
+						138,
+						144
+					]
+				},
+				{
+					"text": "제이미",
+					"indices": [
+						145,
+						149
+					]
+				},
+				{
+					"text": "OneBadNight",
+					"indices": [
+						150,
+						162
+					]
+				},
+				{
+					"text": "3DWoman",
+					"indices": [
+						163,
+						171
+					]
+				},
+				{
+					"text": "BedtimeStory",
+					"indices": [
+						172,
+						185
+					]
+				},
+				{
+					"text": "Honesty",
+					"indices": [
+						186,
+						194
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jiminpark07",
+					"name": "JIMINxJAMIE",
+					"id": 220195175,
+					"id_str": "220195175",
+					"indices": [
+						195,
+						207
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/nULLgE0zMT",
+					"expanded_url": "http://youtu.be/ex90FE70ZwQ",
+					"display_url": "youtu.be/ex90FE70ZwQ",
+					"indices": [
+						89,
+						112
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1579763059639603200,
+					"id_str": "1579763059639603201",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1579763059639603201/pu/img/jYiz2yCHw1b5wbjX.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1579763059639603201/pu/img/jYiz2yCHw1b5wbjX.jpg",
+					"url": "https://t.co/LYpVuI3my1",
+					"display_url": "pic.twitter.com/LYpVuI3my1",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1579788913371070465/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1579763059639603200,
+					"id_str": "1579763059639603201",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1579763059639603201/pu/img/jYiz2yCHw1b5wbjX.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1579763059639603201/pu/img/jYiz2yCHw1b5wbjX.jpg",
+					"url": "https://t.co/LYpVuI3my1",
+					"display_url": "pic.twitter.com/LYpVuI3my1",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1579788913371070465/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 30530,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1579763059639603201/pu/vid/720x1280/niu4Dgu5Pdhrk4Ue.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1579763059639603201/pu/pl/1QiKMjlttAvEp1gY.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1579763059639603201/pu/vid/480x852/cqIF9zFc_2NPC5bH.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1579763059639603201/pu/vid/320x568/uDwFXCJW9FmkAU-z.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 90701,
+			"friends_count": 491,
+			"listed_count": 223,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1583,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 12050,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1664247457",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 36,
+		"favorite_count": 51,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#UnderHouse : JAMIE (제이미) – Bedtime Story (feat.GEMINI), Honesty (0822) (With DJ YENA)\n\n🔗https://t.co/nULLgE0zMT\n\n#언더하우스 #WarnerMusicKPOP #JAMIE #제이미 #OneBadNight #3DWoman #BedtimeStory #Honesty @jiminpark07 https://t.co/LYpVuI3my1"
+	},
+	{
+		"created_at": "Tue Oct 11 11:07:34 +0000 2022",
+		"id": 1579790807946576000,
+		"id_str": "1579790807946575873",
+		"full_text": "#워너뮤직코리아 #Warner_Music_Korea\n[LIVE] #UnderHouse : JAMIE (제이미) – Bedtime Story (feat.GEMINI), Honesty (0822) (With DJ YENA)\nhttps://t.co/krVOWPpI9g",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "워너뮤직코리아",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Warner_Music_Korea",
+					"indices": [
+						9,
+						28
+					]
+				},
+				{
+					"text": "UnderHouse",
+					"indices": [
+						36,
+						47
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/krVOWPpI9g",
+					"expanded_url": "https://youtu.be/ex90FE70ZwQ",
+					"display_url": "youtu.be/ex90FE70ZwQ",
+					"indices": [
+						123,
+						146
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 255,
+			"friends_count": 460,
+			"listed_count": 5,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 234,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 89459,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#워너뮤직코리아 #Warner_Music_Korea\n[LIVE] #UnderHouse : JAMIE (제이미) – Bedtime Story (feat.GEMINI), Honesty (0822) (With DJ YENA)\nhttps://t.co/krVOWPpI9g"
+	},
+	{
+		"created_at": "Tue Oct 11 10:58:27 +0000 2022",
+		"id": 1579783075651014700,
+		"id_str": "1579788514912178176",
+		"full_text": "[AD] [KCON 2022 JAPAN] \n프로미스나인(fromis_9)과 함께하는 &lt;K-COLLECTION with KCON 2022 JAPAN&gt;!\n대한민국의 인기 K-뷰티 / K-패션 / K-라이프스타일을 만나보세요!\n\n🔗온라인 기획전 : https://t.co/sFY1W9ZuvE\n\n2022.10.14-16 (JST) 10:00 ~ 18:00\nARIAKE ARENA ; K-Collection booth",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			234
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sFY1W9ZuvE",
+					"expanded_url": "https://bit.ly/3eauCz9",
+					"display_url": "bit.ly/3eauCz9",
+					"indices": [
+						142,
+						165
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1579783071293124600,
+		"in_reply_to_status_id_str": "1579783071293124608",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER\n📍KCON 2022 JAPAN 10/14 ~ 10/16 (JST)",
+			"url": "https://t.co/IDnJhWoZ59",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWoZ59",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 468942,
+			"friends_count": 76,
+			"listed_count": 1136,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 191,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13292,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1567787455188987905/sAYoOtFz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1567787455188987905/sAYoOtFz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1664852417",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[AD] [KCON 2022 JAPAN] \n프로미스나인(fromis_9)과 함께하는 &lt;K-COLLECTION with KCON 2022 JAPAN&gt;!\n대한민국의 인기 K-뷰티 / K-패션 / K-라이프스타일을 만나보세요!\n\n🔗온라인 기획전 : https://t.co/sFY1W9ZuvE\n\n2022.10.14-16 (JST) 10:00 ~ 18:00\nARIAKE ARENA ; K-Collection booth"
+	},
+	{
+		"created_at": "Tue Oct 11 10:58:23 +0000 2022",
+		"id": 1579783071293124600,
+		"id_str": "1579788497346449408",
+		"full_text": "[AD] K-COLLECTION with KCON 2022 JAPAN is Coming!\n\nA K-culture exhibition with fromis_9 by small and medium-sized enterprises\nDiscover K-beauty, K-fashion &amp; K-Lifestyle at K-Collection convention &amp; on Kmall24!\n\n🔗SHOP Online (Kmall24) : https://t.co/sFY1W9ZuvE https://t.co/jdwqhUK1Yx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			267
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sFY1W9ZuvE",
+					"expanded_url": "https://bit.ly/3eauCz9",
+					"display_url": "bit.ly/3eauCz9",
+					"indices": [
+						244,
+						267
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1579782420291022800,
+					"id_str": "1579782420291022848",
+					"indices": [
+						268,
+						291
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1579782420291022848/pu/img/jlMke78iXkKuHlbD.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1579782420291022848/pu/img/jlMke78iXkKuHlbD.jpg",
+					"url": "https://t.co/jdwqhUK1Yx",
+					"display_url": "pic.twitter.com/jdwqhUK1Yx",
+					"expanded_url": "https://twitter.com/KCON_official/status/1579783071293124608/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1579782420291022800,
+					"id_str": "1579782420291022848",
+					"indices": [
+						268,
+						291
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1579782420291022848/pu/img/jlMke78iXkKuHlbD.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1579782420291022848/pu/img/jlMke78iXkKuHlbD.jpg",
+					"url": "https://t.co/jdwqhUK1Yx",
+					"display_url": "pic.twitter.com/jdwqhUK1Yx",
+					"expanded_url": "https://twitter.com/KCON_official/status/1579783071293124608/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 73266,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1579782420291022848/pu/vid/1280x720/3m19HXwUVSGcWRwA.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1579782420291022848/pu/vid/480x270/eUvXeNuB0_C-JtHy.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1579782420291022848/pu/pl/OobQKYcXZ_lwHMUN.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1579782420291022848/pu/vid/640x360/vjjfihHVp6ndfh6Y.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER\n📍KCON 2022 JAPAN 10/14 ~ 10/16 (JST)",
+			"url": "https://t.co/IDnJhWoZ59",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWoZ59",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 468942,
+			"friends_count": 76,
+			"listed_count": 1136,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 191,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13292,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1567787455188987905/sAYoOtFz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1567787455188987905/sAYoOtFz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1664852417",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 69,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[AD] K-COLLECTION with KCON 2022 JAPAN is Coming!\n\nA K-culture exhibition with fromis_9 by small and medium-sized enterprises\nDiscover K-beauty, K-fashion &amp; K-Lifestyle at K-Collection convention &amp; on Kmall24!\n\n🔗SHOP Online (Kmall24) : https://t.co/sFY1W9ZuvE https://t.co/jdwqhUK1Yx"
+	},
+	{
+		"created_at": "Tue Oct 11 10:58:17 +0000 2022",
+		"id": 1579781593790828500,
+		"id_str": "1579788471379849217",
+		"full_text": "[AD] [KCON 2022 JAPAN] \n프로미스나인(fromis_9)과 함께하는 &lt;K-COLLECTION with KCON 2022 JAPAN&gt;!\n대한민국의 인기 K-뷰티 / K-패션 / K-라이프스타일을 만나보세요!\n\n🔗온라인 기획전 : https://t.co/sFY1W9ZuvE\n\n2022.10.14-16 (JST) 10:00 ~ 18:00\nARIAKE ARENA ; K-Collection booth",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			234
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sFY1W9ZuvE",
+					"expanded_url": "https://bit.ly/3eauCz9",
+					"display_url": "bit.ly/3eauCz9",
+					"indices": [
+						142,
+						165
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1579781590896775200,
+		"in_reply_to_status_id_str": "1579781590896775169",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER\n📍KCON 2022 JAPAN 10/14 ~ 10/16 (JST)",
+			"url": "https://t.co/IDnJhWoZ59",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWoZ59",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 468942,
+			"friends_count": 76,
+			"listed_count": 1136,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 191,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13292,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1567787455188987905/sAYoOtFz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1567787455188987905/sAYoOtFz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1664852417",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 28,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[AD] [KCON 2022 JAPAN] \n프로미스나인(fromis_9)과 함께하는 &lt;K-COLLECTION with KCON 2022 JAPAN&gt;!\n대한민국의 인기 K-뷰티 / K-패션 / K-라이프스타일을 만나보세요!\n\n🔗온라인 기획전 : https://t.co/sFY1W9ZuvE\n\n2022.10.14-16 (JST) 10:00 ~ 18:00\nARIAKE ARENA ; K-Collection booth"
+	},
+	{
+		"created_at": "Tue Oct 11 10:58:15 +0000 2022",
+		"id": 1579781590896775200,
+		"id_str": "1579788462093258752",
+		"full_text": "[AD] K-COLLECTION with KCON 2022 JAPAN is Coming!\n\nA K-culture exhibition with fromis_9 by small and medium-sized enterprises\nDiscover K-beauty, K-fashion &amp; K-Lifestyle at K-Collection convention &amp; on Kmall24!\n\n🔗SHOP Online (Kmall24) : https://t.co/sFY1W9ZuvE https://t.co/D3KyMgfcCJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			267
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sFY1W9ZuvE",
+					"expanded_url": "https://bit.ly/3eauCz9",
+					"display_url": "bit.ly/3eauCz9",
+					"indices": [
+						244,
+						267
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1579781584781090800,
+					"id_str": "1579781584781090816",
+					"indices": [
+						268,
+						291
+					],
+					"media_url": "http://pbs.twimg.com/media/FeyC-zeUoAAR6Nm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeyC-zeUoAAR6Nm.jpg",
+					"url": "https://t.co/D3KyMgfcCJ",
+					"display_url": "pic.twitter.com/D3KyMgfcCJ",
+					"expanded_url": "https://twitter.com/KCON_official/status/1579781590896775169/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1579781584781090800,
+					"id_str": "1579781584781090816",
+					"indices": [
+						268,
+						291
+					],
+					"media_url": "http://pbs.twimg.com/media/FeyC-zeUoAAR6Nm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeyC-zeUoAAR6Nm.jpg",
+					"url": "https://t.co/D3KyMgfcCJ",
+					"display_url": "pic.twitter.com/D3KyMgfcCJ",
+					"expanded_url": "https://twitter.com/KCON_official/status/1579781590896775169/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER\n📍KCON 2022 JAPAN 10/14 ~ 10/16 (JST)",
+			"url": "https://t.co/IDnJhWoZ59",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWoZ59",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 468942,
+			"friends_count": 76,
+			"listed_count": 1136,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 191,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13292,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1567787455188987905/sAYoOtFz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1567787455188987905/sAYoOtFz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1664852417",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 39,
+		"favorite_count": 161,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[AD] K-COLLECTION with KCON 2022 JAPAN is Coming!\n\nA K-culture exhibition with fromis_9 by small and medium-sized enterprises\nDiscover K-beauty, K-fashion &amp; K-Lifestyle at K-Collection convention &amp; on Kmall24!\n\n🔗SHOP Online (Kmall24) : https://t.co/sFY1W9ZuvE https://t.co/D3KyMgfcCJ"
+	},
+	{
+		"created_at": "Tue Oct 11 10:29:43 +0000 2022",
+		"id": 1579774943017209900,
+		"id_str": "1579781282405699584",
+		"full_text": "[#Teaser] #권진아\n\n권진아 DS ‘진심이었던 사람만 바보가 돼’\nKwon Jin Ah DS ‘Stupid Love’\n\n🖤 LIVE FILM Teaser\nhttps://t.co/Gc5fkbKa8d\n\n2022. 10. 13. 6PM Release\n\n#KwonJinAh\n#진심이었던사람만바보가돼\n#StupidLove\n#20221013_6PM https://t.co/rCKRWuSWBb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Teaser",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "권진아",
+					"indices": [
+						10,
+						14
+					]
+				},
+				{
+					"text": "KwonJinAh",
+					"indices": [
+						142,
+						152
+					]
+				},
+				{
+					"text": "진심이었던사람만바보가돼",
+					"indices": [
+						153,
+						166
+					]
+				},
+				{
+					"text": "StupidLove",
+					"indices": [
+						167,
+						178
+					]
+				},
+				{
+					"text": "20221013_6PM",
+					"indices": [
+						179,
+						192
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Gc5fkbKa8d",
+					"expanded_url": "https://youtu.be/rRzvyqgPbG8",
+					"display_url": "youtu.be/rRzvyqgPbG8",
+					"indices": [
+						90,
+						113
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1579774848825294800,
+					"id_str": "1579774848825294848",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1579774848825294848/pu/img/0zrL5oo__YBW1Y9P.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1579774848825294848/pu/img/0zrL5oo__YBW1Y9P.jpg",
+					"url": "https://t.co/rCKRWuSWBb",
+					"display_url": "pic.twitter.com/rCKRWuSWBb",
+					"expanded_url": "https://twitter.com/antennamusic/status/1579774943017209856/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1579774848825294800,
+					"id_str": "1579774848825294848",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1579774848825294848/pu/img/0zrL5oo__YBW1Y9P.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1579774848825294848/pu/img/0zrL5oo__YBW1Y9P.jpg",
+					"url": "https://t.co/rCKRWuSWBb",
+					"display_url": "pic.twitter.com/rCKRWuSWBb",
+					"expanded_url": "https://twitter.com/antennamusic/status/1579774943017209856/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 26235,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1579774848825294848/pu/vid/1280x720/rB8STO7BEmqTu9JJ.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1579774848825294848/pu/pl/d4Q3I5XCXC8S22jJ.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1579774848825294848/pu/vid/640x360/aDaqUtnLcLEPJcFL.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1579774848825294848/pu/vid/480x270/-t-QEa7zTi8ZQYg2.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 권진아 DS ‘진심이었던 사람만 바보가 돼’ 2022. 10. 13. 6PM Release",
+			"url": "https://t.co/XSWWwEx210",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEx210",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40491,
+			"friends_count": 12,
+			"listed_count": 376,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 19,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5436,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1664877607",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 51,
+		"favorite_count": 65,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Teaser] #권진아\n\n권진아 DS ‘진심이었던 사람만 바보가 돼’\nKwon Jin Ah DS ‘Stupid Love’\n\n🖤 LIVE FILM Teaser\nhttps://t.co/Gc5fkbKa8d\n\n2022. 10. 13. 6PM Release\n\n#KwonJinAh\n#진심이었던사람만바보가돼\n#StupidLove\n#20221013_6PM https://t.co/rCKRWuSWBb"
+	},
+	{
+		"created_at": "Tue Oct 11 10:29:34 +0000 2022",
+		"id": 1579767512304128000,
+		"id_str": "1579781243838685184",
+		"full_text": "#찰리푸스 🤠Loser🤠\nLoser,, lose her.. 라임 어쩔,,⛓\n🎧음원듣기 https://t.co/Y1vuxIceX8\n🎞자막뮤비 https://t.co/rZGp96FE2Q https://t.co/AXTuGhjaeF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "찰리푸스",
+					"indices": [
+						0,
+						5
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Y1vuxIceX8",
+					"expanded_url": "https://WMK.lnk.to/v6pUgcef",
+					"display_url": "WMK.lnk.to/v6pUgcef",
+					"indices": [
+						48,
+						71
+					]
+				},
+				{
+					"url": "https://t.co/rZGp96FE2Q",
+					"expanded_url": "https://youtu.be/4oFXShFkv7w",
+					"display_url": "youtu.be/4oFXShFkv7w",
+					"indices": [
+						78,
+						101
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1579725275742412800,
+					"id_str": "1579725275742412800",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1579725275742412800/pu/img/X6OPQ-aX-T_pLEoJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1579725275742412800/pu/img/X6OPQ-aX-T_pLEoJ.jpg",
+					"url": "https://t.co/AXTuGhjaeF",
+					"display_url": "pic.twitter.com/AXTuGhjaeF",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1579767512304128000/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1579725275742412800,
+					"id_str": "1579725275742412800",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1579725275742412800/pu/img/X6OPQ-aX-T_pLEoJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1579725275742412800/pu/img/X6OPQ-aX-T_pLEoJ.jpg",
+					"url": "https://t.co/AXTuGhjaeF",
+					"display_url": "pic.twitter.com/AXTuGhjaeF",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1579767512304128000/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 22439,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1579725275742412800/pu/vid/720x1280/qEzTc6IwYU9rm76u.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1579725275742412800/pu/vid/480x852/U_5QLbD_Z_CvMQWQ.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1579725275742412800/pu/pl/t7vqBJhKoLQJh7Gp.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1579725275742412800/pu/vid/320x568/2nbiFVBXNYYYFP7-.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 90701,
+			"friends_count": 491,
+			"listed_count": 223,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1583,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 12050,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1664247457",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#찰리푸스 🤠Loser🤠\nLoser,, lose her.. 라임 어쩔,,⛓\n🎧음원듣기 https://t.co/Y1vuxIceX8\n🎞자막뮤비 https://t.co/rZGp96FE2Q https://t.co/AXTuGhjaeF"
+	},
+	{
+		"created_at": "Tue Oct 11 10:29:25 +0000 2022",
+		"id": 1579767096875307000,
+		"id_str": "1579781209529274368",
+		"full_text": "[Bugs-ker]\n⠀\n보라미유 - '널 좋아해' 옥상 Ver. Live\n▷ https://t.co/vTcy7uxfvM\n⠀\n2022.09.28. 6PM Release\n⠀\n#보라미유 #BORAMIYU \n#널좋아해 #I_Like_You",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "보라미유",
+					"indices": [
+						95,
+						100
+					]
+				},
+				{
+					"text": "BORAMIYU",
+					"indices": [
+						101,
+						110
+					]
+				},
+				{
+					"text": "널좋아해",
+					"indices": [
+						112,
+						117
+					]
+				},
+				{
+					"text": "I_Like_You",
+					"indices": [
+						118,
+						129
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vTcy7uxfvM",
+					"expanded_url": "http://youtu.be/88lN-TZRRm0",
+					"display_url": "youtu.be/88lN-TZRRm0",
+					"indices": [
+						43,
+						66
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 265792818,
+			"id_str": "265792818",
+			"name": "쇼파르엔터테인먼트",
+			"screen_name": "shofar_ent",
+			"location": "",
+			"description": "SHOFAR ENTERTAINMENT Official Twitter",
+			"url": "https://t.co/zzQk2ihRbI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zzQk2ihRbI",
+							"expanded_url": "http://shofar-ent.com/",
+							"display_url": "shofar-ent.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7639,
+			"friends_count": 4,
+			"listed_count": 64,
+			"created_at": "Mon Mar 14 04:31:00 +0000 2011",
+			"favourites_count": 52,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4920,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/265792818/1664357663",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Bugs-ker]\n⠀\n보라미유 - '널 좋아해' 옥상 Ver. Live\n▷ https://t.co/vTcy7uxfvM\n⠀\n2022.09.28. 6PM Release\n⠀\n#보라미유 #BORAMIYU \n#널좋아해 #I_Like_You"
+	},
+	{
+		"created_at": "Tue Oct 11 10:02:32 +0000 2022",
+		"id": 1579774441201934300,
+		"id_str": "1579774441201934337",
+		"full_text": "#워너뮤직코리아 #Warner_Music_Korea\n리오 (RIO) - 그린옐로 [Teaser]\nhttps://t.co/Aaxrt6CcFZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "워너뮤직코리아",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Warner_Music_Korea",
+					"indices": [
+						9,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Aaxrt6CcFZ",
+					"expanded_url": "https://youtu.be/nDvvIDyULSc",
+					"display_url": "youtu.be/nDvvIDyULSc",
+					"indices": [
+						54,
+						77
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 255,
+			"friends_count": 460,
+			"listed_count": 5,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 234,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 89459,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#워너뮤직코리아 #Warner_Music_Korea\n리오 (RIO) - 그린옐로 [Teaser]\nhttps://t.co/Aaxrt6CcFZ"
+	},
+	{
+		"created_at": "Tue Oct 11 09:58:21 +0000 2022",
+		"id": 1579759109208842200,
+		"id_str": "1579773390415462400",
+		"full_text": "#KCONers_굿즈_자랑대회\n\nKCON-ers 여러분만의 KCON 현장 즐기는 방법은 무엇인가요?🤔\n담당자는 DIY 굿즈와 함께 현장의 곳곳을 사진📸으로 기록한답니다✌️\n\n이번 현장에 방문해 굿즈 사진과 2가지 해시태그를 포함해 업로드해주세요!\n추첨을 통해 아티스트 사인 CD를 드립니다💿❤️‍🔥\n\n#KCON2022JAPAN https://t.co/TCFA2DcH9m",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCONers_굿즈_자랑대회",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"text": "KCON2022JAPAN",
+					"indices": [
+						168,
+						182
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1579759104322465800,
+					"id_str": "1579759104322465792",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/FexuiRPUcAAFjWo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FexuiRPUcAAFjWo.jpg",
+					"url": "https://t.co/TCFA2DcH9m",
+					"display_url": "pic.twitter.com/TCFA2DcH9m",
+					"expanded_url": "https://twitter.com/KCON_official/status/1579759109208842240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1579759104322465800,
+					"id_str": "1579759104322465792",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/FexuiRPUcAAFjWo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FexuiRPUcAAFjWo.jpg",
+					"url": "https://t.co/TCFA2DcH9m",
+					"display_url": "pic.twitter.com/TCFA2DcH9m",
+					"expanded_url": "https://twitter.com/KCON_official/status/1579759109208842240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1579759099725893600,
+		"in_reply_to_status_id_str": "1579759099725893632",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER\n📍KCON 2022 JAPAN 10/14 ~ 10/16 (JST)",
+			"url": "https://t.co/IDnJhWoZ59",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWoZ59",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 468942,
+			"friends_count": 76,
+			"listed_count": 1136,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 191,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13292,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1567787455188987905/sAYoOtFz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1567787455188987905/sAYoOtFz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1664852417",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#KCONers_굿즈_자랑대회\n\nKCON-ers 여러분만의 KCON 현장 즐기는 방법은 무엇인가요?🤔\n담당자는 DIY 굿즈와 함께 현장의 곳곳을 사진📸으로 기록한답니다✌️\n\n이번 현장에 방문해 굿즈 사진과 2가지 해시태그를 포함해 업로드해주세요!\n추첨을 통해 아티스트 사인 CD를 드립니다💿❤️‍🔥\n\n#KCON2022JAPAN https://t.co/TCFA2DcH9m"
+	},
+	{
+		"created_at": "Tue Oct 11 09:58:15 +0000 2022",
+		"id": 1579759099725893600,
+		"id_str": "1579773364339896321",
+		"full_text": "#KCONers_굿즈_자랑대회\n\nWhat's KCON-ers' way of enjoying KCON?🤔\nFor us, we try to take as many photos📸 as possible of the site with DIY merch✌️\n\nUpload a photo of your DIY merch taken at the site with two hashtags!\nYou are likely to win an artist's signed CD💿❤️‍🔥\n\n#KCON2022JAPAN https://t.co/xILa93ypi3 https://t.co/rsKcrNXxXh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			297
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCONers_굿즈_자랑대회",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"text": "KCON2022JAPAN",
+					"indices": [
+						259,
+						273
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xILa93ypi3",
+					"expanded_url": "https://twitter.com/kconjapan/status/1579758711341449221",
+					"display_url": "twitter.com/kconjapan/stat…",
+					"indices": [
+						274,
+						297
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1579759092762964000,
+					"id_str": "1579759092762963969",
+					"indices": [
+						298,
+						321
+					],
+					"media_url": "http://pbs.twimg.com/media/FexuhmLUcAE35eM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FexuhmLUcAE35eM.jpg",
+					"url": "https://t.co/rsKcrNXxXh",
+					"display_url": "pic.twitter.com/rsKcrNXxXh",
+					"expanded_url": "https://twitter.com/KCON_official/status/1579759099725893632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1579759092762964000,
+					"id_str": "1579759092762963969",
+					"indices": [
+						298,
+						321
+					],
+					"media_url": "http://pbs.twimg.com/media/FexuhmLUcAE35eM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FexuhmLUcAE35eM.jpg",
+					"url": "https://t.co/rsKcrNXxXh",
+					"display_url": "pic.twitter.com/rsKcrNXxXh",
+					"expanded_url": "https://twitter.com/KCON_official/status/1579759099725893632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER\n📍KCON 2022 JAPAN 10/14 ~ 10/16 (JST)",
+			"url": "https://t.co/IDnJhWoZ59",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWoZ59",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 468942,
+			"friends_count": 76,
+			"listed_count": 1136,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 191,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13292,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1567787455188987905/sAYoOtFz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1567787455188987905/sAYoOtFz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1664852417",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1579758711341449200,
+		"quoted_status_id_str": "1579758711341449221",
+		"quoted_status_permalink": {
+			"url": "https://t.co/xILa93ypi3",
+			"expanded": "https://twitter.com/kconjapan/status/1579758711341449221",
+			"display": "twitter.com/kconjapan/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Oct 11 09:00:01 +0000 2022",
+			"id": 1579758711341449200,
+			"id_str": "1579758711341449221",
+			"full_text": "#KCONers_굿즈_자랑대회\n\nKCON-ersだけのKCONの会場を楽しむ方法は何ですか？🤔\n担当者はDIYグッズと一緒に会場の所々を写真📸で記録するんです✌️\n\n今回、会場に訪れてグッズ写真と2つのハッシュタグを含めて投稿してください！\n抽選でアーティストのサインCDをプレゼントします💿❤️‍🔥\n\n#KCON2022JAPAN https://t.co/Ms7l68cMm8",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				168
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "KCONers_굿즈_자랑대회",
+						"indices": [
+							0,
+							16
+						]
+					},
+					{
+						"text": "KCON2022JAPAN",
+						"indices": [
+							154,
+							168
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1578420703833239600,
+						"id_str": "1578420703833239555",
+						"indices": [
+							169,
+							192
+						],
+						"media_url": "http://pbs.twimg.com/media/FeetRG4aMAMV6xH.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FeetRG4aMAMV6xH.jpg",
+						"url": "https://t.co/Ms7l68cMm8",
+						"display_url": "pic.twitter.com/Ms7l68cMm8",
+						"expanded_url": "https://twitter.com/kconjapan/status/1579758711341449221/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1578420703833239600,
+						"id_str": "1578420703833239555",
+						"indices": [
+							169,
+							192
+						],
+						"media_url": "http://pbs.twimg.com/media/FeetRG4aMAMV6xH.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FeetRG4aMAMV6xH.jpg",
+						"url": "https://t.co/Ms7l68cMm8",
+						"display_url": "pic.twitter.com/Ms7l68cMm8",
+						"expanded_url": "https://twitter.com/kconjapan/status/1579758711341449221/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3017029196,
+				"id_str": "3017029196",
+				"name": "KCON Japan",
+				"screen_name": "kconjapan",
+				"location": "",
+				"description": "世界最大級のK-Cultureフェスティバル\n『KCON JAPAN』の公式Twitterです！\n📍10/14（金） ~ 10/16(日）/ 東京・有明アリーナ",
+				"url": "https://t.co/sCRhaGCzOM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/sCRhaGCzOM",
+								"expanded_url": "http://kconjapan.com",
+								"display_url": "kconjapan.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 245927,
+				"friends_count": 158,
+				"listed_count": 489,
+				"created_at": "Thu Feb 12 06:02:55 +0000 2015",
+				"favourites_count": 193,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 6812,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5ABB5",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1554285876041367553/Z3_Jgigb_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1554285876041367553/Z3_Jgigb_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3017029196/1662617121",
+				"profile_link_color": "F5ABB5",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 91,
+			"favorite_count": 478,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"retweet_count": 5,
+		"favorite_count": 42,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#KCONers_굿즈_자랑대회\n\nWhat's KCON-ers' way of enjoying KCON?🤔\nFor us, we try to take as many photos📸 as possible of the site with DIY merch✌️\n\nUpload a photo of your DIY merch taken at the site with two hashtags!\nYou are likely to win an artist's signed CD💿❤️‍🔥\n\n#KCON2022JAPAN https://t.co/xILa93ypi3 https://t.co/rsKcrNXxXh"
+	},
+	{
+		"created_at": "Tue Oct 11 09:29:40 +0000 2022",
+		"id": 1579763015758798800,
+		"id_str": "1579766172509425665",
+		"full_text": "💿NEW MUSIC TODAY💿\n“벤 - 늘..(Waiting..)” 을 지금 바로 음원 사이트에서 만나보세요!\n\n#warnerkpop #warnermusic #KPOP #벤 #BEN #늘 #Rebornproject #리본프로젝트 #보아 #BoA @major9_official https://t.co/q71aJkrBD1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "warnerkpop",
+					"indices": [
+						64,
+						75
+					]
+				},
+				{
+					"text": "warnermusic",
+					"indices": [
+						76,
+						88
+					]
+				},
+				{
+					"text": "KPOP",
+					"indices": [
+						89,
+						94
+					]
+				},
+				{
+					"text": "벤",
+					"indices": [
+						95,
+						97
+					]
+				},
+				{
+					"text": "BEN",
+					"indices": [
+						98,
+						102
+					]
+				},
+				{
+					"text": "늘",
+					"indices": [
+						103,
+						105
+					]
+				},
+				{
+					"text": "Rebornproject",
+					"indices": [
+						106,
+						120
+					]
+				},
+				{
+					"text": "리본프로젝트",
+					"indices": [
+						121,
+						128
+					]
+				},
+				{
+					"text": "보아",
+					"indices": [
+						129,
+						132
+					]
+				},
+				{
+					"text": "BoA",
+					"indices": [
+						133,
+						137
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "major9_official",
+					"name": "메이저나인[MAJOR9]",
+					"id": 1633656210,
+					"id_str": "1633656210",
+					"indices": [
+						138,
+						154
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1579762972817490000,
+					"id_str": "1579762972817489920",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1579762972817489920/pu/img/RsT--mJbuycNjNVO.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1579762972817489920/pu/img/RsT--mJbuycNjNVO.jpg",
+					"url": "https://t.co/q71aJkrBD1",
+					"display_url": "pic.twitter.com/q71aJkrBD1",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1579763015758798848/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1579762972817490000,
+					"id_str": "1579762972817489920",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1579762972817489920/pu/img/RsT--mJbuycNjNVO.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1579762972817489920/pu/img/RsT--mJbuycNjNVO.jpg",
+					"url": "https://t.co/q71aJkrBD1",
+					"display_url": "pic.twitter.com/q71aJkrBD1",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1579763015758798848/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 38405,
+						"variants": [
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1579762972817489920/pu/vid/480x600/LQnfxLEo-HiLdTU2.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1579762972817489920/pu/vid/720x900/3D0ofg7ygoC8KaMD.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1579762972817489920/pu/pl/s_GIVMorcDphI1iR.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1579762972817489920/pu/vid/320x400/4A4ey5-jcAXbnHsz.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 90701,
+			"friends_count": 491,
+			"listed_count": 223,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1583,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 12050,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1664247457",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💿NEW MUSIC TODAY💿\n“벤 - 늘..(Waiting..)” 을 지금 바로 음원 사이트에서 만나보세요!\n\n#warnerkpop #warnermusic #KPOP #벤 #BEN #늘 #Rebornproject #리본프로젝트 #보아 #BoA @major9_official https://t.co/q71aJkrBD1"
+	},
+	{
+		"created_at": "Tue Oct 11 09:29:34 +0000 2022",
+		"id": 1579760338769436700,
+		"id_str": "1579766146332442624",
+		"full_text": "HINT : 🐿👓🎸\n\n지금 이벤트 참여하러 가기▼\nhttps://t.co/lYJ84v9aJQ\n\n10월 13일(목) 18시\n모든 음원사이트에서 확인가능\n\n#진검승부 #BadProsecutor #작은별 #warnerkpop https://t.co/wWKlIpBH8N",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "진검승부",
+					"indices": [
+						85,
+						90
+					]
+				},
+				{
+					"text": "BadProsecutor",
+					"indices": [
+						91,
+						105
+					]
+				},
+				{
+					"text": "작은별",
+					"indices": [
+						106,
+						110
+					]
+				},
+				{
+					"text": "warnerkpop",
+					"indices": [
+						111,
+						122
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lYJ84v9aJQ",
+					"expanded_url": "https://www.instagram.com/p/CjkVGN8rbAP/?utm_source=ig_web_copy_link",
+					"display_url": "instagram.com/p/CjkVGN8rbAP/…",
+					"indices": [
+						28,
+						51
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1579760169093075000,
+					"id_str": "1579760169093074944",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1579760169093074944/pu/img/yByOx7HAz1JCDALK.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1579760169093074944/pu/img/yByOx7HAz1JCDALK.jpg",
+					"url": "https://t.co/wWKlIpBH8N",
+					"display_url": "pic.twitter.com/wWKlIpBH8N",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1579760338769436673/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1579760169093075000,
+					"id_str": "1579760169093074944",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1579760169093074944/pu/img/yByOx7HAz1JCDALK.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1579760169093074944/pu/img/yByOx7HAz1JCDALK.jpg",
+					"url": "https://t.co/wWKlIpBH8N",
+					"display_url": "pic.twitter.com/wWKlIpBH8N",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1579760338769436673/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 14247,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1579760169093074944/pu/vid/320x320/4pFivZmeH6OsB3IS.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1579760169093074944/pu/vid/540x540/JNy48M6E-CCG6APy.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1579760169093074944/pu/pl/xvysALKH_ge6hp48.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1579760169093074944/pu/vid/720x720/agd6nreJua43DC6q.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1579760120367820800,
+		"in_reply_to_status_id_str": "1579760120367820801",
+		"in_reply_to_user_id": 206117108,
+		"in_reply_to_user_id_str": "206117108",
+		"in_reply_to_screen_name": "Warner_Music_Kr",
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 90701,
+			"friends_count": 491,
+			"listed_count": 223,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1583,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 12050,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1664247457",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 289,
+		"favorite_count": 380,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "HINT : 🐿👓🎸\n\n지금 이벤트 참여하러 가기▼\nhttps://t.co/lYJ84v9aJQ\n\n10월 13일(목) 18시\n모든 음원사이트에서 확인가능\n\n#진검승부 #BadProsecutor #작은별 #warnerkpop https://t.co/wWKlIpBH8N"
+	},
+	{
+		"created_at": "Tue Oct 11 09:29:32 +0000 2022",
+		"id": 1579760120367820800,
+		"id_str": "1579766137167880196",
+		"full_text": "비트 듣고 벅차오르는 중✨\n\n드라마 &lt;진검승부&gt;의 OST를 부른 힌트 영상 속 청량미 가득한 아티스트의 정체는?!\n\n추첨을 통해 아티스트 친필 싸인 폴라로이드를 선물로 드립니다.\n\n지금 이벤트 참여하러 가기▼\nhttps://t.co/lYJ84v9aJQ\n\n#진검승부 #BadProsecutor #작은별 #warnerkpop https://t.co/8FKY30Xitu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "진검승부",
+					"indices": [
+						148,
+						153
+					]
+				},
+				{
+					"text": "BadProsecutor",
+					"indices": [
+						154,
+						168
+					]
+				},
+				{
+					"text": "작은별",
+					"indices": [
+						169,
+						173
+					]
+				},
+				{
+					"text": "warnerkpop",
+					"indices": [
+						174,
+						185
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lYJ84v9aJQ",
+					"expanded_url": "https://www.instagram.com/p/CjkVGN8rbAP/?utm_source=ig_web_copy_link",
+					"display_url": "instagram.com/p/CjkVGN8rbAP/…",
+					"indices": [
+						123,
+						146
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1579760017804505000,
+					"id_str": "1579760017804505088",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/FexvXcOaMAAj5HN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FexvXcOaMAAj5HN.jpg",
+					"url": "https://t.co/8FKY30Xitu",
+					"display_url": "pic.twitter.com/8FKY30Xitu",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1579760120367820801/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1579760017804505000,
+					"id_str": "1579760017804505088",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/FexvXcOaMAAj5HN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FexvXcOaMAAj5HN.jpg",
+					"url": "https://t.co/8FKY30Xitu",
+					"display_url": "pic.twitter.com/8FKY30Xitu",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1579760120367820801/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1579760017951318000,
+					"id_str": "1579760017951318016",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/FexvXcxaYAA59Cw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FexvXcxaYAA59Cw.jpg",
+					"url": "https://t.co/8FKY30Xitu",
+					"display_url": "pic.twitter.com/8FKY30Xitu",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1579760120367820801/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 90701,
+			"friends_count": 491,
+			"listed_count": 223,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1583,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 12050,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1664247457",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 377,
+		"favorite_count": 699,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "비트 듣고 벅차오르는 중✨\n\n드라마 &lt;진검승부&gt;의 OST를 부른 힌트 영상 속 청량미 가득한 아티스트의 정체는?!\n\n추첨을 통해 아티스트 친필 싸인 폴라로이드를 선물로 드립니다.\n\n지금 이벤트 참여하러 가기▼\nhttps://t.co/lYJ84v9aJQ\n\n#진검승부 #BadProsecutor #작은별 #warnerkpop https://t.co/8FKY30Xitu"
+	},
+	{
 		"created_at": "Tue Oct 11 09:12:31 +0000 2022",
 		"id": 1579761853323845600,
 		"id_str": "1579761853323845632",
