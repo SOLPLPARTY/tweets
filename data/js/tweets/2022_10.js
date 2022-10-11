@@ -1,6 +1,413 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Tue Oct 11 05:58:15 +0000 2022",
+		"id": 1579698436055920600,
+		"id_str": "1579712964688388096",
+		"full_text": "[IVE CHECK IN]\nKCON has been awaiting IVE for 1201 years..⏳\nCheck out the message from IVE💌\n\n케이콘이 IVE 기다린지 어연 1201년...⏳\n꿈은 이루어진다(R=IVED)💕 짱이브의 메세지 확인하기💌\n\n📺YouTube Membership: https://t.co/Ii6iQ9JXAM \n\n#KCON #KCONJAPAN #KCON2022JAPAN @IVEstarship https://t.co/o9SBWqzFZE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			245
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						201,
+						206
+					]
+				},
+				{
+					"text": "KCONJAPAN",
+					"indices": [
+						207,
+						217
+					]
+				},
+				{
+					"text": "KCON2022JAPAN",
+					"indices": [
+						218,
+						232
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "IVEstarship",
+					"name": "IVE OFFICIAL",
+					"id": 1402182579265048600,
+					"id_str": "1402182579265048598",
+					"indices": [
+						233,
+						245
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Ii6iQ9JXAM",
+					"expanded_url": "http://youtube.com/kcon/join/",
+					"display_url": "youtube.com/kcon/join/",
+					"indices": [
+						175,
+						198
+					]
+				},
+				{
+					"url": "https://t.co/o9SBWqzFZE",
+					"expanded_url": "https://twitter.com/kconjapan/status/1579698310310346753",
+					"display_url": "twitter.com/kconjapan/stat…",
+					"indices": [
+						246,
+						269
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER\n📍KCON 2022 JAPAN 10/14 ~ 10/16 (JST)",
+			"url": "https://t.co/IDnJhWoZ59",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWoZ59",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 469157,
+			"friends_count": 76,
+			"listed_count": 1138,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 191,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13281,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1567787455188987905/sAYoOtFz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1567787455188987905/sAYoOtFz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1664852417",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1579698310310346800,
+		"quoted_status_id_str": "1579698310310346753",
+		"quoted_status_permalink": {
+			"url": "https://t.co/o9SBWqzFZE",
+			"expanded": "https://twitter.com/kconjapan/status/1579698310310346753",
+			"display": "twitter.com/kconjapan/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Oct 11 05:00:01 +0000 2022",
+			"id": 1579698310310346800,
+			"id_str": "1579698310310346753",
+			"full_text": "[IVE CHECK IN]\nKCONがIVEを待っていた時間ももう1201年くらい…⏳\nやっと夢が叶いました(R=IVED)💕 IVEのメッセージを確認する💌\n\n📺YouTube Membership: https://t.co/8h80nZsqs4 \n\n#KCON #KCONJAPAN #KCON2022JAPAN @IVEstarship https://t.co/tOFQnZijwI",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				173
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "KCON",
+						"indices": [
+							129,
+							134
+						]
+					},
+					{
+						"text": "KCONJAPAN",
+						"indices": [
+							135,
+							145
+						]
+					},
+					{
+						"text": "KCON2022JAPAN",
+						"indices": [
+							146,
+							160
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "IVEstarship",
+						"name": "IVE OFFICIAL",
+						"id": 1402182579265048600,
+						"id_str": "1402182579265048598",
+						"indices": [
+							161,
+							173
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/8h80nZsqs4",
+						"expanded_url": "http://youtube.com/kcon/join/",
+						"display_url": "youtube.com/kcon/join/",
+						"indices": [
+							103,
+							126
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1579650667568062500,
+						"id_str": "1579650667568062464",
+						"indices": [
+							174,
+							197
+						],
+						"media_url": "http://pbs.twimg.com/media/FewMREeagAArH7h.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FewMREeagAArH7h.jpg",
+						"url": "https://t.co/tOFQnZijwI",
+						"display_url": "pic.twitter.com/tOFQnZijwI",
+						"expanded_url": "https://twitter.com/kconjapan/status/1579698310310346753/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 320,
+								"h": 568,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 320,
+								"h": 568,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 320,
+								"h": 568,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1579650667568062500,
+						"id_str": "1579650667568062464",
+						"indices": [
+							174,
+							197
+						],
+						"media_url": "http://pbs.twimg.com/media/FewMREeagAArH7h.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FewMREeagAArH7h.jpg",
+						"url": "https://t.co/tOFQnZijwI",
+						"display_url": "pic.twitter.com/tOFQnZijwI",
+						"expanded_url": "https://twitter.com/kconjapan/status/1579698310310346753/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 320,
+								"h": 568,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 320,
+								"h": 568,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 320,
+								"h": 568,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								9,
+								16
+							],
+							"duration_millis": 99232,
+							"variants": [
+								{
+									"bitrate": 950000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1579650667568062464/vid/480x852/0srw9jagl_kfYhl3.mp4?tag=14"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1579650667568062464/vid/720x1280/uA7vsL86jKsr_Kfl.mp4?tag=14"
+								},
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1579650667568062464/vid/320x568/BojR9BT3DvEI3jnS.mp4?tag=14"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1579650667568062464/pl/IwYVsen8K1FMBy3z.m3u8?tag=14&container=fmp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3017029196,
+				"id_str": "3017029196",
+				"name": "KCON Japan",
+				"screen_name": "kconjapan",
+				"location": "",
+				"description": "世界最大級のK-Cultureフェスティバル\n『KCON JAPAN』の公式Twitterです！\n📍10/14（金） ~ 10/16(日）/ 東京・有明アリーナ",
+				"url": "https://t.co/sCRhaGCzOM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/sCRhaGCzOM",
+								"expanded_url": "http://kconjapan.com",
+								"display_url": "kconjapan.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 246359,
+				"friends_count": 158,
+				"listed_count": 487,
+				"created_at": "Thu Feb 12 06:02:55 +0000 2015",
+				"favourites_count": 193,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 6805,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5ABB5",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1554285876041367553/Z3_Jgigb_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1554285876041367553/Z3_Jgigb_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3017029196/1662617121",
+				"profile_link_color": "F5ABB5",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 352,
+			"favorite_count": 820,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"retweet_count": 243,
+		"favorite_count": 913,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[IVE CHECK IN]\nKCON has been awaiting IVE for 1201 years..⏳\nCheck out the message from IVE💌\n\n케이콘이 IVE 기다린지 어연 1201년...⏳\n꿈은 이루어진다(R=IVED)💕 짱이브의 메세지 확인하기💌\n\n📺YouTube Membership: https://t.co/Ii6iQ9JXAM \n\n#KCON #KCONJAPAN #KCON2022JAPAN @IVEstarship https://t.co/o9SBWqzFZE"
+	},
+	{
 		"created_at": "Tue Oct 11 04:29:25 +0000 2022",
 		"id": 1579681590178812000,
 		"id_str": "1579690609891155970",
