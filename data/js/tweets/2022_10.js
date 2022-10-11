@@ -1,6 +1,311 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Tue Oct 11 03:58:15 +0000 2022",
+		"id": 1579668109606080500,
+		"id_str": "1579682766798860290",
+		"full_text": "[AD]KCON 2022 JAPAN with MOVE✨\n\nCheck out the new fashion shopping experience at Qoo10's MOVE booth!\nQoo10의 MOVE부스에서 새로운 패션쇼핑의 체험을 기대해주세요!\n\nLet's KCON\n2022.10.14-16 (JST)\n\n#KCON #KCON2022JAPAN #MovebyQoo10 https://t.co/RpY6a6EBnI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			205
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						172,
+						177
+					]
+				},
+				{
+					"text": "KCON2022JAPAN",
+					"indices": [
+						178,
+						192
+					]
+				},
+				{
+					"text": "MovebyQoo10",
+					"indices": [
+						193,
+						205
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1579650113328545800,
+					"id_str": "1579650113328545792",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/FewLaKJagAAKXN1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FewLaKJagAAKXN1.jpg",
+					"url": "https://t.co/RpY6a6EBnI",
+					"display_url": "pic.twitter.com/RpY6a6EBnI",
+					"expanded_url": "https://twitter.com/KCON_official/status/1579668109606080513/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1579650113328545800,
+					"id_str": "1579650113328545792",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/FewLaKJagAAKXN1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FewLaKJagAAKXN1.jpg",
+					"url": "https://t.co/RpY6a6EBnI",
+					"display_url": "pic.twitter.com/RpY6a6EBnI",
+					"expanded_url": "https://twitter.com/KCON_official/status/1579668109606080513/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1579650113328537600,
+					"id_str": "1579650113328537600",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/FewLaKJaYAAYYqg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FewLaKJaYAAYYqg.jpg",
+					"url": "https://t.co/RpY6a6EBnI",
+					"display_url": "pic.twitter.com/RpY6a6EBnI",
+					"expanded_url": "https://twitter.com/KCON_official/status/1579668109606080513/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1579650113345319000,
+					"id_str": "1579650113345318912",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/FewLaKNacAAJ6D-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FewLaKNacAAJ6D-.jpg",
+					"url": "https://t.co/RpY6a6EBnI",
+					"display_url": "pic.twitter.com/RpY6a6EBnI",
+					"expanded_url": "https://twitter.com/KCON_official/status/1579668109606080513/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1579650113345310700,
+					"id_str": "1579650113345310721",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/FewLaKNaUAEVH0X.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FewLaKNaUAEVH0X.jpg",
+					"url": "https://t.co/RpY6a6EBnI",
+					"display_url": "pic.twitter.com/RpY6a6EBnI",
+					"expanded_url": "https://twitter.com/KCON_official/status/1579668109606080513/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER\n📍KCON 2022 JAPAN 10/14 ~ 10/16 (JST)",
+			"url": "https://t.co/IDnJhWoZ59",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWoZ59",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 469140,
+			"friends_count": 76,
+			"listed_count": 1137,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 191,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13279,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1567787455188987905/sAYoOtFz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1567787455188987905/sAYoOtFz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1664852417",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 34,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[AD]KCON 2022 JAPAN with MOVE✨\n\nCheck out the new fashion shopping experience at Qoo10's MOVE booth!\nQoo10의 MOVE부스에서 새로운 패션쇼핑의 체험을 기대해주세요!\n\nLet's KCON\n2022.10.14-16 (JST)\n\n#KCON #KCON2022JAPAN #MovebyQoo10 https://t.co/RpY6a6EBnI"
+	},
+	{
 		"created_at": "Tue Oct 11 03:07:23 +0000 2022",
 		"id": 1579669965325508600,
 		"id_str": "1579669965325508608",
