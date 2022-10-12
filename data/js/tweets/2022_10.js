@@ -1,6 +1,413 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Wed Oct 12 01:58:15 +0000 2022",
+		"id": 1580000415642710000,
+		"id_str": "1580014954714800128",
+		"full_text": "[HWANG MIN HYUN CHECK IN]\nShhh🤫 Secrets between MIN HYUN and Hwangdo...👉👈\nCheck it out now😘\n\n쉿🤫 이건 민현과 황도만의 비밀인데...👉👈\n🍑대장 시크릿톡 황도한테만 특.별.히 알랴줌😘\n\n📺YouTube Membership: https://t.co/Ii6iQ9JXAM \n\n#KCON #KCONJAPAN #KCON2022JAPAN @MINHYUN_PLEDIS https://t.co/mirS5pXNsL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			239
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						192,
+						197
+					]
+				},
+				{
+					"text": "KCONJAPAN",
+					"indices": [
+						198,
+						208
+					]
+				},
+				{
+					"text": "KCON2022JAPAN",
+					"indices": [
+						209,
+						223
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MINHYUN_PLEDIS",
+					"name": "황민현(HWANG MIN HYUN)",
+					"id": 1507317518490554400,
+					"id_str": "1507317518490554368",
+					"indices": [
+						224,
+						239
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Ii6iQ9JXAM",
+					"expanded_url": "http://youtube.com/kcon/join/",
+					"display_url": "youtube.com/kcon/join/",
+					"indices": [
+						166,
+						189
+					]
+				},
+				{
+					"url": "https://t.co/mirS5pXNsL",
+					"expanded_url": "https://twitter.com/kconjapan/status/1580000297379893249",
+					"display_url": "twitter.com/kconjapan/stat…",
+					"indices": [
+						240,
+						263
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER\n📍KCON 2022 JAPAN 10/14 ~ 10/16 (JST)",
+			"url": "https://t.co/IDnJhWoZ59",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWoZ59",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 469270,
+			"friends_count": 76,
+			"listed_count": 1137,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 191,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13293,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1567787455188987905/sAYoOtFz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1567787455188987905/sAYoOtFz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1664852417",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1580000297379893200,
+		"quoted_status_id_str": "1580000297379893249",
+		"quoted_status_permalink": {
+			"url": "https://t.co/mirS5pXNsL",
+			"expanded": "https://twitter.com/kconjapan/status/1580000297379893249",
+			"display": "twitter.com/kconjapan/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Oct 12 01:00:00 +0000 2022",
+			"id": 1580000297379893200,
+			"id_str": "1580000297379893249",
+			"full_text": "[HWANG MIN HYUN CHECK IN]\nシー🤫これはMIN HYUNとHwangdoだけの内緒だけど…👉👈\n🍑の隊長のSecret TalkをHwangdoだけ特別に教えるよ😘\n\n📺YouTube Membership: https://t.co/8h80nZK1QE \n\n#KCON #KCONJAPAN #KCON2022JAPAN @MINHYUN_PLEDIS https://t.co/tufsXpCqY0",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				190
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "KCON",
+						"indices": [
+							143,
+							148
+						]
+					},
+					{
+						"text": "KCONJAPAN",
+						"indices": [
+							149,
+							159
+						]
+					},
+					{
+						"text": "KCON2022JAPAN",
+						"indices": [
+							160,
+							174
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "MINHYUN_PLEDIS",
+						"name": "황민현(HWANG MIN HYUN)",
+						"id": 1507317518490554400,
+						"id_str": "1507317518490554368",
+						"indices": [
+							175,
+							190
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/8h80nZK1QE",
+						"expanded_url": "http://youtube.com/kcon/join/",
+						"display_url": "youtube.com/kcon/join/",
+						"indices": [
+							117,
+							140
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1579860224210796500,
+						"id_str": "1579860224210796545",
+						"indices": [
+							191,
+							214
+						],
+						"media_url": "http://pbs.twimg.com/media/FezQ3HvakAM9XG-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FezQ3HvakAM9XG-.jpg",
+						"url": "https://t.co/tufsXpCqY0",
+						"display_url": "pic.twitter.com/tufsXpCqY0",
+						"expanded_url": "https://twitter.com/kconjapan/status/1580000297379893249/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 320,
+								"h": 568,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 320,
+								"h": 568,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 320,
+								"h": 568,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1579860224210796500,
+						"id_str": "1579860224210796545",
+						"indices": [
+							191,
+							214
+						],
+						"media_url": "http://pbs.twimg.com/media/FezQ3HvakAM9XG-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FezQ3HvakAM9XG-.jpg",
+						"url": "https://t.co/tufsXpCqY0",
+						"display_url": "pic.twitter.com/tufsXpCqY0",
+						"expanded_url": "https://twitter.com/kconjapan/status/1580000297379893249/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 320,
+								"h": 568,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 320,
+								"h": 568,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 320,
+								"h": 568,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								9,
+								16
+							],
+							"duration_millis": 96296,
+							"variants": [
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1579860224210796545/vid/320x568/X-8JRL7iXXkOTb3c.mp4?tag=14"
+								},
+								{
+									"bitrate": 950000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1579860224210796545/vid/480x852/cvtLlH5gYwDBIIXG.mp4?tag=14"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1579860224210796545/vid/720x1280/BwUOKQNN6qQm_Yu1.mp4?tag=14"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1579860224210796545/pl/hg4zogjNNGiSBVs7.m3u8?tag=14&container=fmp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3017029196,
+				"id_str": "3017029196",
+				"name": "KCON Japan",
+				"screen_name": "kconjapan",
+				"location": "",
+				"description": "世界最大級のK-Cultureフェスティバル\n『KCON JAPAN』の公式Twitterです！\n📍10/14（金） ~ 10/16(日）/ 東京・有明アリーナ",
+				"url": "https://t.co/sCRhaGCzOM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/sCRhaGCzOM",
+								"expanded_url": "http://kconjapan.com",
+								"display_url": "kconjapan.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 246659,
+				"friends_count": 158,
+				"listed_count": 487,
+				"created_at": "Thu Feb 12 06:02:55 +0000 2015",
+				"favourites_count": 193,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 6814,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5ABB5",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1554285876041367553/Z3_Jgigb_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1554285876041367553/Z3_Jgigb_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3017029196/1662617121",
+				"profile_link_color": "F5ABB5",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 503,
+			"favorite_count": 648,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"retweet_count": 173,
+		"favorite_count": 185,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[HWANG MIN HYUN CHECK IN]\nShhh🤫 Secrets between MIN HYUN and Hwangdo...👉👈\nCheck it out now😘\n\n쉿🤫 이건 민현과 황도만의 비밀인데...👉👈\n🍑대장 시크릿톡 황도한테만 특.별.히 알랴줌😘\n\n📺YouTube Membership: https://t.co/Ii6iQ9JXAM \n\n#KCON #KCONJAPAN #KCON2022JAPAN @MINHYUN_PLEDIS https://t.co/mirS5pXNsL"
+	},
+	{
 		"created_at": "Tue Oct 11 18:29:25 +0000 2022",
 		"id": 1579895756018061300,
 		"id_str": "1579902001982251008",
