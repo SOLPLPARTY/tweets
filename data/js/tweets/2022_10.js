@@ -1,6 +1,277 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Wed Oct 12 12:29:25 +0000 2022",
+		"id": 1580170418266439700,
+		"id_str": "1580173794337230851",
+		"full_text": "[#김영철] MBC M '쇼! 챔피언'&amp;네이버 NOW. '걍나와' 완료✔️\n\n'쇼! 챔피언'부터 '걍나와'까지 \n김영철과 함께해 즐거웠던 수요일 밤🌙\n음악 방송은 끝났지만 김영철의 '막가리'는 계속 '막'가리🕺💃\n▶️ https://t.co/kb28fCz12z\n\n#KimYoungchul #막가리 #MBCM #쇼챔피언 #네이버NOW #걍나와 https://t.co/vwikgpDgws",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "김영철",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "KimYoungchul",
+					"indices": [
+						151,
+						164
+					]
+				},
+				{
+					"text": "막가리",
+					"indices": [
+						165,
+						169
+					]
+				},
+				{
+					"text": "MBCM",
+					"indices": [
+						170,
+						175
+					]
+				},
+				{
+					"text": "쇼챔피언",
+					"indices": [
+						176,
+						181
+					]
+				},
+				{
+					"text": "네이버NOW",
+					"indices": [
+						182,
+						189
+					]
+				},
+				{
+					"text": "걍나와",
+					"indices": [
+						190,
+						194
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kb28fCz12z",
+					"expanded_url": "https://tv.naver.com/v/29869808",
+					"display_url": "tv.naver.com/v/29869808",
+					"indices": [
+						126,
+						149
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1580170409261273000,
+					"id_str": "1580170409261273089",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe3knXiaEAEQMy1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe3knXiaEAEQMy1.jpg",
+					"url": "https://t.co/vwikgpDgws",
+					"display_url": "pic.twitter.com/vwikgpDgws",
+					"expanded_url": "https://twitter.com/themysticstory/status/1580170418266439681/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1580170409261273000,
+					"id_str": "1580170409261273089",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe3knXiaEAEQMy1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe3knXiaEAEQMy1.jpg",
+					"url": "https://t.co/vwikgpDgws",
+					"display_url": "pic.twitter.com/vwikgpDgws",
+					"expanded_url": "https://twitter.com/themysticstory/status/1580170418266439681/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1580170409278050300,
+					"id_str": "1580170409278050306",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe3knXmaEAIqZjx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe3knXmaEAIqZjx.jpg",
+					"url": "https://t.co/vwikgpDgws",
+					"display_url": "pic.twitter.com/vwikgpDgws",
+					"expanded_url": "https://twitter.com/themysticstory/status/1580170418266439681/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/pgQyM4g8RF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pgQyM4g8RF",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37557,
+			"friends_count": 14,
+			"listed_count": 308,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 12,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7311,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1663804824",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#김영철] MBC M '쇼! 챔피언'&amp;네이버 NOW. '걍나와' 완료✔️\n\n'쇼! 챔피언'부터 '걍나와'까지 \n김영철과 함께해 즐거웠던 수요일 밤🌙\n음악 방송은 끝났지만 김영철의 '막가리'는 계속 '막'가리🕺💃\n▶️ https://t.co/kb28fCz12z\n\n#KimYoungchul #막가리 #MBCM #쇼챔피언 #네이버NOW #걍나와 https://t.co/vwikgpDgws"
+	},
+	{
 		"created_at": "Wed Oct 12 10:29:45 +0000 2022",
 		"id": 1580136191856353300,
 		"id_str": "1580143678005579776",
