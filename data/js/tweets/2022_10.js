@@ -1,6 +1,502 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Wed Oct 12 04:29:33 +0000 2022",
+		"id": 1580051764547489800,
+		"id_str": "1580053033983291392",
+		"full_text": "자세한 내용은 @k.music.pyeongchang 에서 확인하실 수 있습니다. ❄\n\n#2022K뮤직평창 #K뮤직평창 #페스티벌 https://t.co/qaBmfH7oww",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "2022K뮤직평창",
+					"indices": [
+						48,
+						58
+					]
+				},
+				{
+					"text": "K뮤직평창",
+					"indices": [
+						59,
+						65
+					]
+				},
+				{
+					"text": "페스티벌",
+					"indices": [
+						66,
+						71
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "k",
+					"name": "Kevin Cheng (kev/null)",
+					"id": 11222,
+					"id_str": "11222",
+					"indices": [
+						8,
+						10
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1580051465066143700,
+					"id_str": "1580051465066143745",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe14b54aYAE6fwG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe14b54aYAE6fwG.jpg",
+					"url": "https://t.co/qaBmfH7oww",
+					"display_url": "pic.twitter.com/qaBmfH7oww",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1580051764547489792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1580051465066143700,
+					"id_str": "1580051465066143745",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe14b54aYAE6fwG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe14b54aYAE6fwG.jpg",
+					"url": "https://t.co/qaBmfH7oww",
+					"display_url": "pic.twitter.com/qaBmfH7oww",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1580051764547489792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1580051465187782700,
+					"id_str": "1580051465187782656",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe14b6VacAAMiaq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe14b6VacAAMiaq.jpg",
+					"url": "https://t.co/qaBmfH7oww",
+					"display_url": "pic.twitter.com/qaBmfH7oww",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1580051764547489792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1580051465296826400,
+					"id_str": "1580051465296826368",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe14b6vaUAAyv69.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe14b6vaUAAyv69.jpg",
+					"url": "https://t.co/qaBmfH7oww",
+					"display_url": "pic.twitter.com/qaBmfH7oww",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1580051764547489792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1580051755986886700,
+		"in_reply_to_status_id_str": "1580051755986886658",
+		"in_reply_to_user_id": 63414926,
+		"in_reply_to_user_id_str": "63414926",
+		"in_reply_to_screen_name": "HappyRobotKR",
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "구만(9.10000), 노리플라이, 데이브레이크, Lacuna(라쿠나), SURL(설), 소란, 솔루션스, 쏜애플, OurR(아월)",
+			"url": "https://t.co/BIvBmbtJjn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BIvBmbtJjn",
+							"expanded_url": "https://mpmgmusic.com/",
+							"display_url": "mpmgmusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12895,
+			"friends_count": 1894,
+			"listed_count": 250,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 209,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13590,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1626843310",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "자세한 내용은 @k.music.pyeongchang 에서 확인하실 수 있습니다. ❄\n\n#2022K뮤직평창 #K뮤직평창 #페스티벌 https://t.co/qaBmfH7oww"
+	},
+	{
+		"created_at": "Wed Oct 12 04:29:30 +0000 2022",
+		"id": 1580051755986886700,
+		"id_str": "1580053020561199104",
+		"full_text": "[2022 K-뮤직, 평창 | 페스티벌]\n\n2022. 11. 03 - 06 일 강원도 평창군 알펜시아 일대에서 펼쳐지는 2022 K-뮤직, 평창에 소란(@band_soran), 쏜애플(@thornapple_official), 솔루션스(@the_solutions),설(@surlofficial), 라쿠나(@band_lacuna), 구만(@9.10000official)이 출연합니다. https://t.co/w8kxJaao0E",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			212
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "band_SORAN",
+					"name": "소란(SORAN)_오피셜",
+					"id": 3235980565,
+					"id_str": "3235980565",
+					"indices": [
+						85,
+						96
+					]
+				},
+				{
+					"screen_name": "the_solutions",
+					"name": "Virtual Learning",
+					"id": 3107372809,
+					"id_str": "3107372809",
+					"indices": [
+						131,
+						145
+					]
+				},
+				{
+					"screen_name": "SURLofficial",
+					"name": "SURL",
+					"id": 1007177110077632500,
+					"id_str": "1007177110077632512",
+					"indices": [
+						149,
+						162
+					]
+				},
+				{
+					"screen_name": "band_lacuna",
+					"name": "Lacuna (라쿠나)",
+					"id": 1315546063781027800,
+					"id_str": "1315546063781027840",
+					"indices": [
+						169,
+						181
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1580051403766366200,
+					"id_str": "1580051403766366209",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe14YVhaAAEyjmJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe14YVhaAAEyjmJ.jpg",
+					"url": "https://t.co/w8kxJaao0E",
+					"display_url": "pic.twitter.com/w8kxJaao0E",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1580051755986886658/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1580051403766366200,
+					"id_str": "1580051403766366209",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe14YVhaAAEyjmJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe14YVhaAAEyjmJ.jpg",
+					"url": "https://t.co/w8kxJaao0E",
+					"display_url": "pic.twitter.com/w8kxJaao0E",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1580051755986886658/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "구만(9.10000), 노리플라이, 데이브레이크, Lacuna(라쿠나), SURL(설), 소란, 솔루션스, 쏜애플, OurR(아월)",
+			"url": "https://t.co/BIvBmbtJjn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BIvBmbtJjn",
+							"expanded_url": "https://mpmgmusic.com/",
+							"display_url": "mpmgmusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12895,
+			"friends_count": 1894,
+			"listed_count": 250,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 209,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13590,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1626843310",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[2022 K-뮤직, 평창 | 페스티벌]\n\n2022. 11. 03 - 06 일 강원도 평창군 알펜시아 일대에서 펼쳐지는 2022 K-뮤직, 평창에 소란(@band_soran), 쏜애플(@thornapple_official), 솔루션스(@the_solutions),설(@surlofficial), 라쿠나(@band_lacuna), 구만(@9.10000official)이 출연합니다. https://t.co/w8kxJaao0E"
+	},
+	{
 		"created_at": "Wed Oct 12 03:58:18 +0000 2022",
 		"id": 1580030685917909000,
 		"id_str": "1580045167918055424",
