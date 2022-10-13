@@ -1,10 +1,1580 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Thu Oct 13 06:11:42 +0000 2022",
+		"id": 1580440644618576000,
+		"id_str": "1580441126426681345",
+		"full_text": "신인 발굴 프로젝트 밴드디스커버리🎸🎵\n1차 심사를 통과한 TOP6의 🌟인터뷰 대공개!🌟\n⠀\n유튜브 &lt;KT&amp;G 상상마당&gt;에서-👀💜\nhttps://t.co/quroXzqWJ2\n\n#극동아시아타이거즈\n#김새녘\n#모스크바서핑클럽\n#OVerdrivePhilosophy\n#OAH!\n#오헬렌\n\n당신의 원픽은 누구인가요~? https://t.co/KVY82Ijzxs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "극동아시아타이거즈",
+					"indices": [
+						107,
+						117
+					]
+				},
+				{
+					"text": "김새녘",
+					"indices": [
+						118,
+						122
+					]
+				},
+				{
+					"text": "모스크바서핑클럽",
+					"indices": [
+						123,
+						132
+					]
+				},
+				{
+					"text": "OVerdrivePhilosophy",
+					"indices": [
+						133,
+						153
+					]
+				},
+				{
+					"text": "OAH",
+					"indices": [
+						154,
+						158
+					]
+				},
+				{
+					"text": "오헬렌",
+					"indices": [
+						160,
+						164
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/quroXzqWJ2",
+					"expanded_url": "http://www.youtube.com/channel/UCYYIYzVd-pW6V8hMeYDS1zw",
+					"display_url": "youtube.com/channel/UCYYIY…",
+					"indices": [
+						82,
+						105
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1580440318536622000,
+					"id_str": "1580440318536622080",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe7aGJ8UoAAyPpy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe7aGJ8UoAAyPpy.jpg",
+					"url": "https://t.co/KVY82Ijzxs",
+					"display_url": "pic.twitter.com/KVY82Ijzxs",
+					"expanded_url": "https://twitter.com/SSmadang/status/1580440644618575873/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1128,
+							"h": 1406,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 963,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 546,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1580440318536622000,
+					"id_str": "1580440318536622080",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe7aGJ8UoAAyPpy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe7aGJ8UoAAyPpy.jpg",
+					"url": "https://t.co/KVY82Ijzxs",
+					"display_url": "pic.twitter.com/KVY82Ijzxs",
+					"expanded_url": "https://twitter.com/SSmadang/status/1580440644618575873/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1128,
+							"h": 1406,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 963,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 546,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110358280,
+			"id_str": "110358280",
+			"name": "KT&G 상상마당",
+			"screen_name": "SSmadang",
+			"location": "서울 홍대 (Hongdae, Seoul)",
+			"description": "[복합문화공간] #상상마당 영화ㅣ공연ㅣ디자인ㅣ전시ㅣ교육ㅣ카페",
+			"url": "https://t.co/dQStXHIksz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dQStXHIksz",
+							"expanded_url": "http://sangsangmadang.com",
+							"display_url": "sangsangmadang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17427,
+			"friends_count": 1829,
+			"listed_count": 285,
+			"created_at": "Mon Feb 01 07:45:21 +0000 2010",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9107,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1565171981581893632/v5xwQVrn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1565171981581893632/v5xwQVrn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110358280/1661994351",
+			"profile_link_color": "242D8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "595959",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "신인 발굴 프로젝트 밴드디스커버리🎸🎵\n1차 심사를 통과한 TOP6의 🌟인터뷰 대공개!🌟\n⠀\n유튜브 &lt;KT&amp;G 상상마당&gt;에서-👀💜\nhttps://t.co/quroXzqWJ2\n\n#극동아시아타이거즈\n#김새녘\n#모스크바서핑클럽\n#OVerdrivePhilosophy\n#OAH!\n#오헬렌\n\n당신의 원픽은 누구인가요~? https://t.co/KVY82Ijzxs"
+	},
+	{
+		"created_at": "Thu Oct 13 06:11:39 +0000 2022",
+		"id": 1580422960548311000,
+		"id_str": "1580441113063669762",
+		"full_text": "[티켓오픈공지]\nAre You Happy? 지소쿠리x나의 노랑말들\nhttps://t.co/wx5AZ6BLXc\n————————————\n* 티켓오픈일 : 2022년 10월 17일(월) 오후 7시\n* 공연일 : 2022년 11월 7일(월) 오후 8시\n————————————\n1. 예매 35,000원\n\n#프리즘홀 #prismhall #지소쿠리 #나의노랑말들 #멜론티켓 #홍대공연 #공연추천",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			213
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "프리즘홀",
+					"indices": [
+						165,
+						170
+					]
+				},
+				{
+					"text": "prismhall",
+					"indices": [
+						171,
+						181
+					]
+				},
+				{
+					"text": "지소쿠리",
+					"indices": [
+						182,
+						187
+					]
+				},
+				{
+					"text": "나의노랑말들",
+					"indices": [
+						188,
+						195
+					]
+				},
+				{
+					"text": "멜론티켓",
+					"indices": [
+						196,
+						201
+					]
+				},
+				{
+					"text": "홍대공연",
+					"indices": [
+						202,
+						207
+					]
+				},
+				{
+					"text": "공연추천",
+					"indices": [
+						208,
+						213
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wx5AZ6BLXc",
+					"expanded_url": "https://ticket.melon.com/csoon/detail.htm?csoonId=6585",
+					"display_url": "ticket.melon.com/csoon/detail.h…",
+					"indices": [
+						37,
+						60
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 491231175,
+			"id_str": "491231175",
+			"name": "PrismHall",
+			"screen_name": "prismhall",
+			"location": "Mapo Seokyo-Dong",
+			"description": "최상급 무대장비와 시설. 엄청난 높이의 천고와 광활한 객석. 각종 파티,힙합,댄스,밴드 등 all_round concert, 실내페스티벌 등 모든 게 가능한 공연장입니다!",
+			"url": "https://t.co/VTKFWeLxvh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VTKFWeLxvh",
+							"expanded_url": "http://www.prismhall.com",
+							"display_url": "prismhall.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2028,
+			"friends_count": 1102,
+			"listed_count": 28,
+			"created_at": "Mon Feb 13 12:03:08 +0000 2012",
+			"favourites_count": 76,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2161,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/942698829089869824/bkVw2sYC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/942698829089869824/bkVw2sYC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/491231175/1513591891",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "1104338421d4e001",
+			"url": "https://api.twitter.com/1.1/geo/id/1104338421d4e001.json",
+			"place_type": "poi",
+			"name": "프리즘홀",
+			"full_name": "프리즘홀",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.917463,
+							37.551686
+						],
+						[
+							126.917463,
+							37.551686
+						],
+						[
+							126.917463,
+							37.551686
+						],
+						[
+							126.917463,
+							37.551686
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[티켓오픈공지]\nAre You Happy? 지소쿠리x나의 노랑말들\nhttps://t.co/wx5AZ6BLXc\n————————————\n* 티켓오픈일 : 2022년 10월 17일(월) 오후 7시\n* 공연일 : 2022년 11월 7일(월) 오후 8시\n————————————\n1. 예매 35,000원\n\n#프리즘홀 #prismhall #지소쿠리 #나의노랑말들 #멜론티켓 #홍대공연 #공연추천"
+	},
+	{
+		"created_at": "Thu Oct 13 06:11:31 +0000 2022",
+		"id": 1580413813152940000,
+		"id_str": "1580441078733295619",
+		"full_text": "[소스 리스트 : 김리윤 &lt;투명도 혼합 공간&gt; 편] 2022.11.03(목) PM 8:00 2022년 11월 재미공작소 소스 리스트는 김리윤 시인과 함께 합니다. https://t.co/LqlbvQeBnd #소스리스트 #김리윤 #영감의원천 #투명도혼합공간 https://t.co/pVTKwtuvhd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "소스리스트",
+					"indices": [
+						121,
+						127
+					]
+				},
+				{
+					"text": "김리윤",
+					"indices": [
+						128,
+						132
+					]
+				},
+				{
+					"text": "영감의원천",
+					"indices": [
+						133,
+						139
+					]
+				},
+				{
+					"text": "투명도혼합공간",
+					"indices": [
+						140,
+						148
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LqlbvQeBnd",
+					"expanded_url": "https://m.blog.naver.com/studiozemi/222898255671",
+					"display_url": "m.blog.naver.com/studiozemi/222…",
+					"indices": [
+						97,
+						120
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1580413805384695800,
+					"id_str": "1580413805384695808",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe7B-4wUAAAM-aL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe7B-4wUAAAM-aL.jpg",
+					"url": "https://t.co/pVTKwtuvhd",
+					"display_url": "pic.twitter.com/pVTKwtuvhd",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1580413813152940032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1580413805384695800,
+					"id_str": "1580413805384695808",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe7B-4wUAAAM-aL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe7B-4wUAAAM-aL.jpg",
+					"url": "https://t.co/pVTKwtuvhd",
+					"display_url": "pic.twitter.com/pVTKwtuvhd",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1580413813152940032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1565615074445693000,
+		"in_reply_to_status_id_str": "1565615074445692928",
+		"in_reply_to_user_id": 282449618,
+		"in_reply_to_user_id_str": "282449618",
+		"in_reply_to_screen_name": "studio_zemi",
+		"user": {
+			"id": 282449618,
+			"id_str": "282449618",
+			"name": "재미공작소",
+			"screen_name": "studio_zemi",
+			"location": "서울시 영등포구 문래동 3가 58-84 1층 왼편",
+			"description": "재미공작소는 서울 문래동에 위치한 문화예술공간입니다. (Since 2011) 공연, 문학 행사, 팝업숍, 전시, 창작 워크숍, 출판, 캘린더 갤러리 등 '재미있는 일'을 기획하고 진행합니다. 재미공작소의 일정 및 예약 관련 정보는 아래 홈블로그 링크에서 바로 확인하실 수 있습니다.",
+			"url": "https://t.co/aLQQKE9ltK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aLQQKE9ltK",
+							"expanded_url": "http://blog.naver.com/studiozemi",
+							"display_url": "blog.naver.com/studiozemi",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8307,
+			"friends_count": 549,
+			"listed_count": 75,
+			"created_at": "Fri Apr 15 07:08:52 +0000 2011",
+			"favourites_count": 2413,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14864,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/282449618/1398647875",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[소스 리스트 : 김리윤 &lt;투명도 혼합 공간&gt; 편] 2022.11.03(목) PM 8:00 2022년 11월 재미공작소 소스 리스트는 김리윤 시인과 함께 합니다. https://t.co/LqlbvQeBnd #소스리스트 #김리윤 #영감의원천 #투명도혼합공간 https://t.co/pVTKwtuvhd"
+	},
+	{
+		"created_at": "Thu Oct 13 06:11:22 +0000 2022",
+		"id": 1580404673479336000,
+		"id_str": "1580441044319338497",
+		"full_text": "▪블라인드 티켓 오픈 공지 ▪\n- 예매 오픈 : 2022년 10월 13일(목) 오후 2시\n- 예매처 : 멜론티켓\n- 블라인드 티켓 20,000원\n\n@liveclubday \n\n#liveishere #liveclubday #LCD #라이브클럽데이 #라클데 #멜론 #Melon #트랙제로 https://t.co/dnxLbsIhdp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "liveishere",
+					"indices": [
+						97,
+						108
+					]
+				},
+				{
+					"text": "liveclubday",
+					"indices": [
+						109,
+						121
+					]
+				},
+				{
+					"text": "LCD",
+					"indices": [
+						122,
+						126
+					]
+				},
+				{
+					"text": "라이브클럽데이",
+					"indices": [
+						127,
+						135
+					]
+				},
+				{
+					"text": "라클데",
+					"indices": [
+						136,
+						140
+					]
+				},
+				{
+					"text": "멜론",
+					"indices": [
+						141,
+						144
+					]
+				},
+				{
+					"text": "Melon",
+					"indices": [
+						145,
+						151
+					]
+				},
+				{
+					"text": "트랙제로",
+					"indices": [
+						152,
+						157
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "liveclubday",
+					"name": "라이브 클럽 데이",
+					"id": 2984929856,
+					"id_str": "2984929856",
+					"indices": [
+						82,
+						94
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1580404663995994000,
+					"id_str": "1580404663995994113",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe65qybaEAExJHW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe65qybaEAExJHW.jpg",
+					"url": "https://t.co/dnxLbsIhdp",
+					"display_url": "pic.twitter.com/dnxLbsIhdp",
+					"expanded_url": "https://twitter.com/prismhall/status/1580404673479335936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1580404663995994000,
+					"id_str": "1580404663995994113",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe65qybaEAExJHW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe65qybaEAExJHW.jpg",
+					"url": "https://t.co/dnxLbsIhdp",
+					"display_url": "pic.twitter.com/dnxLbsIhdp",
+					"expanded_url": "https://twitter.com/prismhall/status/1580404673479335936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1580404661215191000,
+		"in_reply_to_status_id_str": "1580404661215191040",
+		"in_reply_to_user_id": 491231175,
+		"in_reply_to_user_id_str": "491231175",
+		"in_reply_to_screen_name": "prismhall",
+		"user": {
+			"id": 491231175,
+			"id_str": "491231175",
+			"name": "PrismHall",
+			"screen_name": "prismhall",
+			"location": "Mapo Seokyo-Dong",
+			"description": "최상급 무대장비와 시설. 엄청난 높이의 천고와 광활한 객석. 각종 파티,힙합,댄스,밴드 등 all_round concert, 실내페스티벌 등 모든 게 가능한 공연장입니다!",
+			"url": "https://t.co/VTKFWeLxvh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VTKFWeLxvh",
+							"expanded_url": "http://www.prismhall.com",
+							"display_url": "prismhall.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2028,
+			"friends_count": 1102,
+			"listed_count": 28,
+			"created_at": "Mon Feb 13 12:03:08 +0000 2012",
+			"favourites_count": 76,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2161,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/942698829089869824/bkVw2sYC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/942698829089869824/bkVw2sYC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/491231175/1513591891",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "1104338421d4e001",
+			"url": "https://api.twitter.com/1.1/geo/id/1104338421d4e001.json",
+			"place_type": "poi",
+			"name": "프리즘홀",
+			"full_name": "프리즘홀",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.917463,
+							37.551686
+						],
+						[
+							126.917463,
+							37.551686
+						],
+						[
+							126.917463,
+							37.551686
+						],
+						[
+							126.917463,
+							37.551686
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "▪블라인드 티켓 오픈 공지 ▪\n- 예매 오픈 : 2022년 10월 13일(목) 오후 2시\n- 예매처 : 멜론티켓\n- 블라인드 티켓 20,000원\n\n@liveclubday \n\n#liveishere #liveclubday #LCD #라이브클럽데이 #라클데 #멜론 #Melon #트랙제로 https://t.co/dnxLbsIhdp"
+	},
+	{
+		"created_at": "Thu Oct 13 06:11:17 +0000 2022",
+		"id": 1580404661215191000,
+		"id_str": "1580441022601261056",
+		"full_text": "10월, 제55회 #라이브클럽데이가 진행됩니다. 이번 라이브 클럽 데이는 #멜론 🍈 #트랙제로얼라이브 🎤🎶 와 함께 합니다🔥 \n\n오늘 오후 2시부터 100장 한정 블라인드 티켓이 오픈되니 많관부 ❤ 👀❤ https://t.co/M4IivytCjZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "라이브클럽데이가",
+					"indices": [
+						10,
+						19
+					]
+				},
+				{
+					"text": "멜론",
+					"indices": [
+						41,
+						44
+					]
+				},
+				{
+					"text": "트랙제로얼라이브",
+					"indices": [
+						47,
+						56
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1580404653778669600,
+					"id_str": "1580404653778669569",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe65qMXaEAE9Maq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe65qMXaEAE9Maq.jpg",
+					"url": "https://t.co/M4IivytCjZ",
+					"display_url": "pic.twitter.com/M4IivytCjZ",
+					"expanded_url": "https://twitter.com/prismhall/status/1580404661215191040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1580404653778669600,
+					"id_str": "1580404653778669569",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe65qMXaEAE9Maq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe65qMXaEAE9Maq.jpg",
+					"url": "https://t.co/M4IivytCjZ",
+					"display_url": "pic.twitter.com/M4IivytCjZ",
+					"expanded_url": "https://twitter.com/prismhall/status/1580404661215191040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 491231175,
+			"id_str": "491231175",
+			"name": "PrismHall",
+			"screen_name": "prismhall",
+			"location": "Mapo Seokyo-Dong",
+			"description": "최상급 무대장비와 시설. 엄청난 높이의 천고와 광활한 객석. 각종 파티,힙합,댄스,밴드 등 all_round concert, 실내페스티벌 등 모든 게 가능한 공연장입니다!",
+			"url": "https://t.co/VTKFWeLxvh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VTKFWeLxvh",
+							"expanded_url": "http://www.prismhall.com",
+							"display_url": "prismhall.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2028,
+			"friends_count": 1102,
+			"listed_count": 28,
+			"created_at": "Mon Feb 13 12:03:08 +0000 2012",
+			"favourites_count": 76,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2161,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/942698829089869824/bkVw2sYC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/942698829089869824/bkVw2sYC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/491231175/1513591891",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "1104338421d4e001",
+			"url": "https://api.twitter.com/1.1/geo/id/1104338421d4e001.json",
+			"place_type": "poi",
+			"name": "프리즘홀",
+			"full_name": "프리즘홀",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.917463,
+							37.551686
+						],
+						[
+							126.917463,
+							37.551686
+						],
+						[
+							126.917463,
+							37.551686
+						],
+						[
+							126.917463,
+							37.551686
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "10월, 제55회 #라이브클럽데이가 진행됩니다. 이번 라이브 클럽 데이는 #멜론 🍈 #트랙제로얼라이브 🎤🎶 와 함께 합니다🔥 \n\n오늘 오후 2시부터 100장 한정 블라인드 티켓이 오픈되니 많관부 ❤ 👀❤ https://t.co/M4IivytCjZ"
+	},
+	{
+		"created_at": "Thu Oct 13 05:58:15 +0000 2022",
+		"id": 1580423084854550500,
+		"id_str": "1580437740822220802",
+		"full_text": "[AD]KCON 2022 JAPAN with #Qoo10 💗\n\nHashtag #Qoo10LiveStudio ! Get 1000yen Giftcard!\n#Qoo10LiveStudio 업로드하고 1,000엔 기프트권의 찬스!\n\nLet's KCON\n2022.10.14-16 (JST)\n\n#KCON #KCON2022JAPAN https://t.co/pZ9lINNH9i",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Qoo10",
+					"indices": [
+						25,
+						31
+					]
+				},
+				{
+					"text": "Qoo10LiveStudio",
+					"indices": [
+						43,
+						59
+					]
+				},
+				{
+					"text": "Qoo10LiveStudio",
+					"indices": [
+						84,
+						100
+					]
+				},
+				{
+					"text": "KCON",
+					"indices": [
+						157,
+						162
+					]
+				},
+				{
+					"text": "KCON2022JAPAN",
+					"indices": [
+						163,
+						177
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1580370852775743500,
+					"id_str": "1580370852775743488",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe6a6t0UUAA4cKo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe6a6t0UUAA4cKo.jpg",
+					"url": "https://t.co/pZ9lINNH9i",
+					"display_url": "pic.twitter.com/pZ9lINNH9i",
+					"expanded_url": "https://twitter.com/KCON_official/status/1580423084854550528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1580370852775743500,
+					"id_str": "1580370852775743488",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe6a6t0UUAA4cKo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe6a6t0UUAA4cKo.jpg",
+					"url": "https://t.co/pZ9lINNH9i",
+					"display_url": "pic.twitter.com/pZ9lINNH9i",
+					"expanded_url": "https://twitter.com/KCON_official/status/1580423084854550528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1580370852788326400,
+					"id_str": "1580370852788326400",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe6a6t3UUAARVjW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe6a6t3UUAARVjW.jpg",
+					"url": "https://t.co/pZ9lINNH9i",
+					"display_url": "pic.twitter.com/pZ9lINNH9i",
+					"expanded_url": "https://twitter.com/KCON_official/status/1580423084854550528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER\n📍KCON 2022 JAPAN 10/14 ~ 10/16 (JST)",
+			"url": "https://t.co/IDnJhWoZ59",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWoZ59",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 469490,
+			"friends_count": 76,
+			"listed_count": 1136,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 191,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13310,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1567787455188987905/sAYoOtFz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1567787455188987905/sAYoOtFz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1664852417",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 44,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[AD]KCON 2022 JAPAN with #Qoo10 💗\n\nHashtag #Qoo10LiveStudio ! Get 1000yen Giftcard!\n#Qoo10LiveStudio 업로드하고 1,000엔 기프트권의 찬스!\n\nLet's KCON\n2022.10.14-16 (JST)\n\n#KCON #KCON2022JAPAN https://t.co/pZ9lINNH9i"
+	},
+	{
+		"created_at": "Thu Oct 13 05:29:27 +0000 2022",
+		"id": 1580419368902852600,
+		"id_str": "1580430493707022337",
+		"full_text": "*빌리카터\n경기인디뮤직페스티벌 2022\n빌리카터는 10월 15일 오후 3시30분⭐️\n\n예매는 여기!\nhttps://t.co/faE8z9SsOE\n\n경기인디뮤직페스티벌 2022\nGYENGGI INDIE MUSIC FESTIVAL 2022\n10.15.(토) ~ 10.16.(일)\n경인아라뱃길  아라마리나 https://t.co/OxPwsCslAZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/faE8z9SsOE",
+					"expanded_url": "https://booking.naver.com/booking/12/bizes/755690",
+					"display_url": "booking.naver.com/booking/12/biz…",
+					"indices": [
+						56,
+						79
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1580419363089227800,
+					"id_str": "1580419363089227776",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe7HCY0VIAATVO3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe7HCY0VIAATVO3.jpg",
+					"url": "https://t.co/OxPwsCslAZ",
+					"display_url": "pic.twitter.com/OxPwsCslAZ",
+					"expanded_url": "https://twitter.com/electric_muse/status/1580419368902852608/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1580419363089227800,
+					"id_str": "1580419363089227776",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe7HCY0VIAATVO3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe7HCY0VIAATVO3.jpg",
+					"url": "https://t.co/OxPwsCslAZ",
+					"display_url": "pic.twitter.com/OxPwsCslAZ",
+					"expanded_url": "https://twitter.com/electric_muse/status/1580419368902852608/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 49219598,
+			"id_str": "49219598",
+			"name": "Electric Muse",
+			"screen_name": "electric_muse",
+			"location": "",
+			"description": "We're indie record label in Seoul since 2006 / Contact electricmuse@naver.com",
+			"url": "https://t.co/Xm46jXAPqj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Xm46jXAPqj",
+							"expanded_url": "http://electricmuse.bandcamp.com",
+							"display_url": "electricmuse.bandcamp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3300,
+			"friends_count": 1290,
+			"listed_count": 106,
+			"created_at": "Sun Jun 21 03:37:47 +0000 2009",
+			"favourites_count": 6806,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26264,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1345631035782909952/HMJD1AoS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1345631035782909952/HMJD1AoS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/49219598/1502256266",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "*빌리카터\n경기인디뮤직페스티벌 2022\n빌리카터는 10월 15일 오후 3시30분⭐️\n\n예매는 여기!\nhttps://t.co/faE8z9SsOE\n\n경기인디뮤직페스티벌 2022\nGYENGGI INDIE MUSIC FESTIVAL 2022\n10.15.(토) ~ 10.16.(일)\n경인아라뱃길  아라마리나 https://t.co/OxPwsCslAZ"
+	},
+	{
 		"created_at": "Thu Oct 13 04:58:18 +0000 2022",
 		"id": 1580413118701654000,
 		"id_str": "1580422654535733248",
-		"full_text": "KCON 2022 JAPAN 🌟STAR SQUARE🌟 LINEUP\nKCON STUDIO LIVE from JAPAN\n\nEnjoy the CONVENTION with various influencers and artists!\n인플루언서와 아티스트 등 함께 더욱 다양한 컨벤션을 즐겨보세요!\n\n10/14~16(JST) See you at KCON 2022 JAPAN❤️‍🔥\n\n#KCON #KCONJAPAN #KCON2022JAPAN https://t.co/7EzWntrelj",
+		"full_text": "KCON 2022 JAPAN 🌟STAR SQUARE🌟 LINEUP\nKCON STUDIO LIVE from JAPAN\n\nEnjoy the CONVENTION with various influencers and artists!\n인플루언서와 아티스트 등 함께 더욱 다양한 컨벤션을 즐겨보세요!\n\n10/14~16(JST) See you at KCON 2022 JAPAN❤️🔥\n\n#KCON #KCONJAPAN #KCON2022JAPAN https://t.co/7EzWntrelj",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -132,7 +1702,7 @@ Grailbird.data.tweets_2022_10 =
 			"created_at": "Thu Oct 13 04:20:00 +0000 2022",
 			"id": 1580413015530389500,
 			"id_str": "1580413015530389506",
-			"full_text": "KCON 2022 JAPAN 🌟STAR SQUARE🌟 LINEUP\nKCON STUDIO LIVE from JAPAN\n\nインフルエンサーとアーティストなど、一緒に様々なコンベンションをお楽しみください！\n10/14~16(JST)、KCON 2022 JAPANで会いましょう❤️‍🔥\n\n#KCON #KCONJAPAN #KCON2022JAPAN https://t.co/fLNynb8K7d",
+			"full_text": "KCON 2022 JAPAN 🌟STAR SQUARE🌟 LINEUP\nKCON STUDIO LIVE from JAPAN\n\nインフルエンサーとアーティストなど、一緒に様々なコンベンションをお楽しみください！\n10/14~16(JST)、KCON 2022 JAPANで会いましょう❤️🔥\n\n#KCON #KCONJAPAN #KCON2022JAPAN https://t.co/fLNynb8K7d",
 			"truncated": false,
 			"display_text_range": [
 				0,
@@ -438,13 +2008,13 @@ Grailbird.data.tweets_2022_10 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "KCON 2022 JAPAN 🌟STAR SQUARE🌟 LINEUP\nKCON STUDIO LIVE from JAPAN\n\nEnjoy the CONVENTION with various influencers and artists!\n인플루언서와 아티스트 등 함께 더욱 다양한 컨벤션을 즐겨보세요!\n\n10/14~16(JST) See you at KCON 2022 JAPAN❤️‍🔥\n\n#KCON #KCONJAPAN #KCON2022JAPAN https://t.co/7EzWntrelj"
+		"text": "KCON 2022 JAPAN 🌟STAR SQUARE🌟 LINEUP\nKCON STUDIO LIVE from JAPAN\n\nEnjoy the CONVENTION with various influencers and artists!\n인플루언서와 아티스트 등 함께 더욱 다양한 컨벤션을 즐겨보세요!\n\n10/14~16(JST) See you at KCON 2022 JAPAN❤️🔥\n\n#KCON #KCONJAPAN #KCON2022JAPAN https://t.co/7EzWntrelj"
 	},
 	{
 		"created_at": "Thu Oct 13 04:58:15 +0000 2022",
 		"id": 1580408123629527000,
 		"id_str": "1580422640879009792",
-		"full_text": "KCON 2022 JAPAN 🌟STAR SQUARE🌟 LINEUP\nKCON POP-UP TALK\n\nFind out the STAR SQUARE LINEUP!\n10/14~16(JST), See you at KCON 2022 JAPAN❤️‍🔥\n\nSTAR SQUARE에서 만날 수 있는 아티스트 프로그램 라인업을 확인해 보세요!\n10/14~16(JST), KCON 2022 JAPAN에서 만나요❤️‍🔥\n\n#KCON #KCON2022JAPAN https://t.co/gGZW9uIJcG",
+		"full_text": "KCON 2022 JAPAN 🌟STAR SQUARE🌟 LINEUP\nKCON POP-UP TALK\n\nFind out the STAR SQUARE LINEUP!\n10/14~16(JST), See you at KCON 2022 JAPAN❤️🔥\n\nSTAR SQUARE에서 만날 수 있는 아티스트 프로그램 라인업을 확인해 보세요!\n10/14~16(JST), KCON 2022 JAPAN에서 만나요❤️🔥\n\n#KCON #KCON2022JAPAN https://t.co/gGZW9uIJcG",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -565,7 +2135,7 @@ Grailbird.data.tweets_2022_10 =
 			"created_at": "Thu Oct 13 04:00:00 +0000 2022",
 			"id": 1580407982684340200,
 			"id_str": "1580407982684340226",
-			"full_text": "KCON 2022 JAPAN 🌟STAR SQUARE🌟 LINEUP\nKCON POP-UP TALK\n\nSTAR SQUAREで会えるアーティストプログラムのラインナップをご確認ください！\n10/14~16(JST)、KCON 2022 JAPANで会いましょう❤️‍🔥\n\n#KCON #KCONJAPAN #KCON2022JAPAN https://t.co/MaRbg2RDns",
+			"full_text": "KCON 2022 JAPAN 🌟STAR SQUARE🌟 LINEUP\nKCON POP-UP TALK\n\nSTAR SQUAREで会えるアーティストプログラムのラインナップをご確認ください！\n10/14~16(JST)、KCON 2022 JAPANで会いましょう❤️🔥\n\n#KCON #KCONJAPAN #KCON2022JAPAN https://t.co/MaRbg2RDns",
 			"truncated": false,
 			"display_text_range": [
 				0,
@@ -871,7 +2441,7 @@ Grailbird.data.tweets_2022_10 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "KCON 2022 JAPAN 🌟STAR SQUARE🌟 LINEUP\nKCON POP-UP TALK\n\nFind out the STAR SQUARE LINEUP!\n10/14~16(JST), See you at KCON 2022 JAPAN❤️‍🔥\n\nSTAR SQUARE에서 만날 수 있는 아티스트 프로그램 라인업을 확인해 보세요!\n10/14~16(JST), KCON 2022 JAPAN에서 만나요❤️‍🔥\n\n#KCON #KCON2022JAPAN https://t.co/gGZW9uIJcG"
+		"text": "KCON 2022 JAPAN 🌟STAR SQUARE🌟 LINEUP\nKCON POP-UP TALK\n\nFind out the STAR SQUARE LINEUP!\n10/14~16(JST), See you at KCON 2022 JAPAN❤️🔥\n\nSTAR SQUARE에서 만날 수 있는 아티스트 프로그램 라인업을 확인해 보세요!\n10/14~16(JST), KCON 2022 JAPAN에서 만나요❤️🔥\n\n#KCON #KCON2022JAPAN https://t.co/gGZW9uIJcG"
 	},
 	{
 		"created_at": "Thu Oct 13 04:09:52 +0000 2022",
