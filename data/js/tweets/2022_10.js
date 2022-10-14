@@ -1,6 +1,1286 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Fri Oct 14 06:58:44 +0000 2022",
+		"id": 1580808121143918600,
+		"id_str": "1580815349918101504",
+		"full_text": "🔊YouTube Live Streaming will start shortly!\n\n❤️MEET&amp;GREET TO1💙\n\n🔗https://t.co/KUUXOf9yOF\n\n✔️It is available to YouTube KCON official 'ALL ACCESS' membership tier.\n✔️YouTube KCON official 'ALL ACCESS' 멤버십 등급에 한해 시청이 가능합니다.\n\n#KCON #KCONJAPAN #KCON2022JAPAN https://t.co/zBGyGbiu04",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			258
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						227,
+						232
+					]
+				},
+				{
+					"text": "KCONJAPAN",
+					"indices": [
+						233,
+						243
+					]
+				},
+				{
+					"text": "KCON2022JAPAN",
+					"indices": [
+						244,
+						258
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KUUXOf9yOF",
+					"expanded_url": "https://youtu.be/FASU32v2E7M",
+					"display_url": "youtu.be/FASU32v2E7M",
+					"indices": [
+						69,
+						92
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1580512639419003000,
+					"id_str": "1580512639419002883",
+					"indices": [
+						259,
+						282
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe8b3yOVsAMNLud.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe8b3yOVsAMNLud.jpg",
+					"url": "https://t.co/zBGyGbiu04",
+					"display_url": "pic.twitter.com/zBGyGbiu04",
+					"expanded_url": "https://twitter.com/KCON_official/status/1580808121143918592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1580512639419003000,
+					"id_str": "1580512639419002883",
+					"indices": [
+						259,
+						282
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe8b3yOVsAMNLud.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe8b3yOVsAMNLud.jpg",
+					"url": "https://t.co/zBGyGbiu04",
+					"display_url": "pic.twitter.com/zBGyGbiu04",
+					"expanded_url": "https://twitter.com/KCON_official/status/1580808121143918592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER\n📍KCON 2022 JAPAN 10/14 ~ 10/16 (JST)",
+			"url": "https://t.co/IDnJhWoZ59",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWoZ59",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 470074,
+			"friends_count": 76,
+			"listed_count": 1137,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 191,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13346,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1567787455188987905/sAYoOtFz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1567787455188987905/sAYoOtFz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1664852417",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 41,
+		"favorite_count": 165,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🔊YouTube Live Streaming will start shortly!\n\n❤️MEET&amp;GREET TO1💙\n\n🔗https://t.co/KUUXOf9yOF\n\n✔️It is available to YouTube KCON official 'ALL ACCESS' membership tier.\n✔️YouTube KCON official 'ALL ACCESS' 멤버십 등급에 한해 시청이 가능합니다.\n\n#KCON #KCONJAPAN #KCON2022JAPAN https://t.co/zBGyGbiu04"
+	},
+	{
+		"created_at": "Fri Oct 14 06:58:39 +0000 2022",
+		"id": 1580800689147900000,
+		"id_str": "1580815332196831233",
+		"full_text": "KCON 2022 JAPAN SPECIAL Pre-Show✨\n\n✔10/14(금) Pre-Show\nwoo!ah!\n\n오늘, KCON 2022 JAPAN에서 만나요❤️\n\n*Pre-Show는 Show 시작 전, 현장을 찾아주신 관객 분들께 선보이는 무대입니다.\n공연장은 18시에 오픈되니 입장을 서둘러 주세요!\n\n#KCON #KCON2022JAPAN https://t.co/MoAXKaEOoB https://t.co/cl5Mo9pVT6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			215
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						171,
+						176
+					]
+				},
+				{
+					"text": "KCON2022JAPAN",
+					"indices": [
+						177,
+						191
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MoAXKaEOoB",
+					"expanded_url": "https://twitter.com/kconjapan/status/1580800569924456448",
+					"display_url": "twitter.com/kconjapan/stat…",
+					"indices": [
+						192,
+						215
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1580800652191887400,
+					"id_str": "1580800652191887361",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/media/FfAh0VaacAE9kMI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfAh0VaacAE9kMI.jpg",
+					"url": "https://t.co/cl5Mo9pVT6",
+					"display_url": "pic.twitter.com/cl5Mo9pVT6",
+					"expanded_url": "https://twitter.com/KCON_official/status/1580800689147899904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1580800652191887400,
+					"id_str": "1580800652191887361",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/media/FfAh0VaacAE9kMI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfAh0VaacAE9kMI.jpg",
+					"url": "https://t.co/cl5Mo9pVT6",
+					"display_url": "pic.twitter.com/cl5Mo9pVT6",
+					"expanded_url": "https://twitter.com/KCON_official/status/1580800689147899904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER\n📍KCON 2022 JAPAN 10/14 ~ 10/16 (JST)",
+			"url": "https://t.co/IDnJhWoZ59",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWoZ59",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 470074,
+			"friends_count": 76,
+			"listed_count": 1137,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 191,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13346,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1567787455188987905/sAYoOtFz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1567787455188987905/sAYoOtFz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1664852417",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1580800569924456400,
+		"quoted_status_id_str": "1580800569924456448",
+		"quoted_status_permalink": {
+			"url": "https://t.co/MoAXKaEOoB",
+			"expanded": "https://twitter.com/kconjapan/status/1580800569924456448",
+			"display": "twitter.com/kconjapan/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Oct 14 06:00:00 +0000 2022",
+			"id": 1580800569924456400,
+			"id_str": "1580800569924456448",
+			"full_text": "KCON 2022 JAPAN SPECIAL Pre-Show✨\n\n✔10/14(金) Pre-Show\nwoo!ah!\n\n今日、KCON 2022 JAPANで会いましょう❤️\n\n*Pre-ShowはShowが始まる前、現場に来ていただいた観客の方々に披露するステージです。会場は18時にオープンしますので、入場をお急ぎください！\n\n#KCON #KCON2022JAPAN https://t.co/42WEvJbEVP",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				189
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "KCON",
+						"indices": [
+							169,
+							174
+						]
+					},
+					{
+						"text": "KCON2022JAPAN",
+						"indices": [
+							175,
+							189
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1580741175324991500,
+						"id_str": "1580741175324991488",
+						"indices": [
+							190,
+							213
+						],
+						"media_url": "http://pbs.twimg.com/media/Fe_ruU0UYAAXDSU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Fe_ruU0UYAAXDSU.jpg",
+						"url": "https://t.co/42WEvJbEVP",
+						"display_url": "pic.twitter.com/42WEvJbEVP",
+						"expanded_url": "https://twitter.com/kconjapan/status/1580800569924456448/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1580741175324991500,
+						"id_str": "1580741175324991488",
+						"indices": [
+							190,
+							213
+						],
+						"media_url": "http://pbs.twimg.com/media/Fe_ruU0UYAAXDSU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Fe_ruU0UYAAXDSU.jpg",
+						"url": "https://t.co/42WEvJbEVP",
+						"display_url": "pic.twitter.com/42WEvJbEVP",
+						"expanded_url": "https://twitter.com/kconjapan/status/1580800569924456448/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3017029196,
+				"id_str": "3017029196",
+				"name": "KCON Japan",
+				"screen_name": "kconjapan",
+				"location": "",
+				"description": "世界最大級のK-Cultureフェスティバル\n『KCON JAPAN』の公式Twitterです！\n📍10/14（金） ~ 10/16(日）/ 東京・有明アリーナ",
+				"url": "https://t.co/sCRhaGCzOM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/sCRhaGCzOM",
+								"expanded_url": "http://kconjapan.com",
+								"display_url": "kconjapan.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 247692,
+				"friends_count": 158,
+				"listed_count": 490,
+				"created_at": "Thu Feb 12 06:02:55 +0000 2015",
+				"favourites_count": 193,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 6869,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5ABB5",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1554285876041367553/Z3_Jgigb_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1554285876041367553/Z3_Jgigb_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3017029196/1662617121",
+				"profile_link_color": "F5ABB5",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 74,
+			"favorite_count": 380,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"retweet_count": 6,
+		"favorite_count": 28,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "KCON 2022 JAPAN SPECIAL Pre-Show✨\n\n✔10/14(금) Pre-Show\nwoo!ah!\n\n오늘, KCON 2022 JAPAN에서 만나요❤️\n\n*Pre-Show는 Show 시작 전, 현장을 찾아주신 관객 분들께 선보이는 무대입니다.\n공연장은 18시에 오픈되니 입장을 서둘러 주세요!\n\n#KCON #KCON2022JAPAN https://t.co/MoAXKaEOoB https://t.co/cl5Mo9pVT6"
+	},
+	{
+		"created_at": "Fri Oct 14 06:58:36 +0000 2022",
+		"id": 1580800160099025000,
+		"id_str": "1580815318905409539",
+		"full_text": "#부산국제록페스티벌 #부산록페 #부산락페 #부락 #록페스티벌 #페스티벌 #부산축제 #락페 #BusanRockFestival #BusanInternationalRockFestival #BusanRock #BuRock #BIRF #Festival #Busan",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "부산국제록페스티벌",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "부산록페",
+					"indices": [
+						11,
+						16
+					]
+				},
+				{
+					"text": "부산락페",
+					"indices": [
+						17,
+						22
+					]
+				},
+				{
+					"text": "부락",
+					"indices": [
+						23,
+						26
+					]
+				},
+				{
+					"text": "록페스티벌",
+					"indices": [
+						27,
+						33
+					]
+				},
+				{
+					"text": "페스티벌",
+					"indices": [
+						34,
+						39
+					]
+				},
+				{
+					"text": "부산축제",
+					"indices": [
+						40,
+						45
+					]
+				},
+				{
+					"text": "락페",
+					"indices": [
+						46,
+						49
+					]
+				},
+				{
+					"text": "BusanRockFestival",
+					"indices": [
+						50,
+						68
+					]
+				},
+				{
+					"text": "BusanInternationalRockFestival",
+					"indices": [
+						69,
+						100
+					]
+				},
+				{
+					"text": "BusanRock",
+					"indices": [
+						101,
+						111
+					]
+				},
+				{
+					"text": "BuRock",
+					"indices": [
+						112,
+						119
+					]
+				},
+				{
+					"text": "BIRF",
+					"indices": [
+						120,
+						125
+					]
+				},
+				{
+					"text": "Festival",
+					"indices": [
+						126,
+						135
+					]
+				},
+				{
+					"text": "Busan",
+					"indices": [
+						136,
+						142
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1580800157087506400,
+		"in_reply_to_status_id_str": "1580800157087506433",
+		"in_reply_to_user_id": 3116631529,
+		"in_reply_to_user_id_str": "3116631529",
+		"in_reply_to_screen_name": "busan_rock",
+		"user": {
+			"id": 3116631529,
+			"id_str": "3116631529",
+			"name": "BusanRockFest Official",
+			"screen_name": "busan_rock",
+			"location": "",
+			"description": "라인업 관련 글은 따로 답글을 드리지 않습니다. 양해 부탁드립니다.",
+			"url": "https://t.co/NorUCNrrZA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/NorUCNrrZA",
+							"expanded_url": "https://linktr.ee/busanrockfest",
+							"display_url": "linktr.ee/busanrockfest",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2147,
+			"friends_count": 0,
+			"listed_count": 6,
+			"created_at": "Mon Mar 30 07:04:06 +0000 2015",
+			"favourites_count": 16,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 753,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227400250001780736/hUySDDes_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227400250001780736/hUySDDes_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3116631529/1658801341",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "qht",
+		"text": "#부산국제록페스티벌 #부산록페 #부산락페 #부락 #록페스티벌 #페스티벌 #부산축제 #락페 #BusanRockFestival #BusanInternationalRockFestival #BusanRock #BuRock #BIRF #Festival #Busan"
+	},
+	{
+		"created_at": "Fri Oct 14 06:58:27 +0000 2022",
+		"id": 1580800157087506400,
+		"id_str": "1580815280410066946",
+		"full_text": "TOP 1 SKIPJACK \nTOP 2 Band Batu\nTOP 3 jisokuryClub\n\nThank you for all participation artists' support for the 'Busan International Rock Festival - First Step Rock Festival'.\nand we sincerely support your precious first step.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			223
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1580800155032293400,
+		"in_reply_to_status_id_str": "1580800155032293376",
+		"in_reply_to_user_id": 3116631529,
+		"in_reply_to_user_id_str": "3116631529",
+		"in_reply_to_screen_name": "busan_rock",
+		"user": {
+			"id": 3116631529,
+			"id_str": "3116631529",
+			"name": "BusanRockFest Official",
+			"screen_name": "busan_rock",
+			"location": "",
+			"description": "라인업 관련 글은 따로 답글을 드리지 않습니다. 양해 부탁드립니다.",
+			"url": "https://t.co/NorUCNrrZA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/NorUCNrrZA",
+							"expanded_url": "https://linktr.ee/busanrockfest",
+							"display_url": "linktr.ee/busanrockfest",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2147,
+			"friends_count": 0,
+			"listed_count": 6,
+			"created_at": "Mon Mar 30 07:04:06 +0000 2015",
+			"favourites_count": 16,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 753,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227400250001780736/hUySDDes_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227400250001780736/hUySDDes_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3116631529/1658801341",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "TOP 1 SKIPJACK \nTOP 2 Band Batu\nTOP 3 jisokuryClub\n\nThank you for all participation artists' support for the 'Busan International Rock Festival - First Step Rock Festival'.\nand we sincerely support your precious first step."
+	},
+	{
+		"created_at": "Fri Oct 14 06:58:20 +0000 2022",
+		"id": 1580800155032293400,
+		"id_str": "1580815250378850304",
+		"full_text": "🔥2022 Busan International Rock Festival-First Step Rock Festival! Rising Stage Contest🔥\nOut of a total of 111 participation teams, 10 teams advanced to the final stage through fierce competition.\nAnnouncing the final top 3 winning teams!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			237
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1580800150284271600,
+		"in_reply_to_status_id_str": "1580800150284271617",
+		"in_reply_to_user_id": 3116631529,
+		"in_reply_to_user_id_str": "3116631529",
+		"in_reply_to_screen_name": "busan_rock",
+		"user": {
+			"id": 3116631529,
+			"id_str": "3116631529",
+			"name": "BusanRockFest Official",
+			"screen_name": "busan_rock",
+			"location": "",
+			"description": "라인업 관련 글은 따로 답글을 드리지 않습니다. 양해 부탁드립니다.",
+			"url": "https://t.co/NorUCNrrZA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/NorUCNrrZA",
+							"expanded_url": "https://linktr.ee/busanrockfest",
+							"display_url": "linktr.ee/busanrockfest",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2147,
+			"friends_count": 0,
+			"listed_count": 6,
+			"created_at": "Mon Mar 30 07:04:06 +0000 2015",
+			"favourites_count": 16,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 753,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227400250001780736/hUySDDes_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227400250001780736/hUySDDes_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3116631529/1658801341",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "🔥2022 Busan International Rock Festival-First Step Rock Festival! Rising Stage Contest🔥\nOut of a total of 111 participation teams, 10 teams advanced to the final stage through fierce competition.\nAnnouncing the final top 3 winning teams!"
+	},
+	{
+		"created_at": "Fri Oct 14 06:58:15 +0000 2022",
+		"id": 1580800150284271600,
+		"id_str": "1580815228312649730",
+		"full_text": "다시 한번 '부산국제록페스티벌-첫걸음 돌잔치'에 지원해주신\n모든 아티스트분들께 감사드리며, 소중한 첫걸음을 진심으로 응원합니다. https://t.co/5H6wlcNJU9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1580799682053218300,
+					"id_str": "1580799682053218304",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/FfAg73XVIAANSQI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfAg73XVIAANSQI.jpg",
+					"url": "https://t.co/5H6wlcNJU9",
+					"display_url": "pic.twitter.com/5H6wlcNJU9",
+					"expanded_url": "https://twitter.com/busan_rock/status/1580800150284271617/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1580799682053218300,
+					"id_str": "1580799682053218304",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/FfAg73XVIAANSQI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfAg73XVIAANSQI.jpg",
+					"url": "https://t.co/5H6wlcNJU9",
+					"display_url": "pic.twitter.com/5H6wlcNJU9",
+					"expanded_url": "https://twitter.com/busan_rock/status/1580800150284271617/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1580799701065953300,
+					"id_str": "1580799701065953281",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/FfAg8-MUcAEQG74.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfAg8-MUcAEQG74.jpg",
+					"url": "https://t.co/5H6wlcNJU9",
+					"display_url": "pic.twitter.com/5H6wlcNJU9",
+					"expanded_url": "https://twitter.com/busan_rock/status/1580800150284271617/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2047,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1580799725480988700,
+					"id_str": "1580799725480988673",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/FfAg-ZJUUAEwYUE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfAg-ZJUUAEwYUE.jpg",
+					"url": "https://t.co/5H6wlcNJU9",
+					"display_url": "pic.twitter.com/5H6wlcNJU9",
+					"expanded_url": "https://twitter.com/busan_rock/status/1580800150284271617/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1580799750533546000,
+					"id_str": "1580799750533545984",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/FfAg_2eUAAAXVwJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfAg_2eUAAAXVwJ.jpg",
+					"url": "https://t.co/5H6wlcNJU9",
+					"display_url": "pic.twitter.com/5H6wlcNJU9",
+					"expanded_url": "https://twitter.com/busan_rock/status/1580800150284271617/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1580800138502496300,
+		"in_reply_to_status_id_str": "1580800138502496256",
+		"in_reply_to_user_id": 3116631529,
+		"in_reply_to_user_id_str": "3116631529",
+		"in_reply_to_screen_name": "busan_rock",
+		"user": {
+			"id": 3116631529,
+			"id_str": "3116631529",
+			"name": "BusanRockFest Official",
+			"screen_name": "busan_rock",
+			"location": "",
+			"description": "라인업 관련 글은 따로 답글을 드리지 않습니다. 양해 부탁드립니다.",
+			"url": "https://t.co/NorUCNrrZA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/NorUCNrrZA",
+							"expanded_url": "https://linktr.ee/busanrockfest",
+							"display_url": "linktr.ee/busanrockfest",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2147,
+			"friends_count": 0,
+			"listed_count": 6,
+			"created_at": "Mon Mar 30 07:04:06 +0000 2015",
+			"favourites_count": 16,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 753,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227400250001780736/hUySDDes_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227400250001780736/hUySDDes_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3116631529/1658801341",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "다시 한번 '부산국제록페스티벌-첫걸음 돌잔치'에 지원해주신\n모든 아티스트분들께 감사드리며, 소중한 첫걸음을 진심으로 응원합니다. https://t.co/5H6wlcNJU9"
+	},
+	{
 		"created_at": "Fri Oct 14 05:58:15 +0000 2022",
 		"id": 1580785472602837000,
 		"id_str": "1580800129195380737",
