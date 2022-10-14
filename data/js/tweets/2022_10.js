@@ -1,6 +1,215 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Thu Oct 13 23:58:18 +0000 2022",
+		"id": 1580699906158698500,
+		"id_str": "1580709545273622528",
+		"full_text": "KCON 2022 JAPAN 🌟STAR SQUARE🌟 TIMETABLE\n\n📺 PIA ➯ https://t.co/1rNQfyRM7d\n📺 Mnet Smart+ ➯ https://t.co/3pORlBJijm\n\n#KCON #KCON2022JAPAN https://t.co/1UKJecO7Qo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						114,
+						119
+					]
+				},
+				{
+					"text": "KCON2022JAPAN",
+					"indices": [
+						120,
+						134
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1rNQfyRM7d",
+					"expanded_url": "https://bit.ly/3VnTaW7",
+					"display_url": "bit.ly/3VnTaW7",
+					"indices": [
+						49,
+						72
+					]
+				},
+				{
+					"url": "https://t.co/3pORlBJijm",
+					"expanded_url": "https://bit.ly/3fY61On",
+					"display_url": "bit.ly/3fY61On",
+					"indices": [
+						89,
+						112
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1580684291545370600,
+					"id_str": "1580684291545370625",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe-3_QOaEAEpwOi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe-3_QOaEAEpwOi.jpg",
+					"url": "https://t.co/1UKJecO7Qo",
+					"display_url": "pic.twitter.com/1UKJecO7Qo",
+					"expanded_url": "https://twitter.com/KCON_official/status/1580699906158698496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1580684291545370600,
+					"id_str": "1580684291545370625",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe-3_QOaEAEpwOi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe-3_QOaEAEpwOi.jpg",
+					"url": "https://t.co/1UKJecO7Qo",
+					"display_url": "pic.twitter.com/1UKJecO7Qo",
+					"expanded_url": "https://twitter.com/KCON_official/status/1580699906158698496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER\n📍KCON 2022 JAPAN 10/14 ~ 10/16 (JST)",
+			"url": "https://t.co/IDnJhWoZ59",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWoZ59",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 469761,
+			"friends_count": 76,
+			"listed_count": 1136,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 191,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13321,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1567787455188987905/sAYoOtFz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1567787455188987905/sAYoOtFz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1664852417",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 94,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "KCON 2022 JAPAN 🌟STAR SQUARE🌟 TIMETABLE\n\n📺 PIA ➯ https://t.co/1rNQfyRM7d\n📺 Mnet Smart+ ➯ https://t.co/3pORlBJijm\n\n#KCON #KCON2022JAPAN https://t.co/1UKJecO7Qo"
+	},
+	{
 		"created_at": "Thu Oct 13 16:11:17 +0000 2022",
 		"id": 1580585191655231500,
 		"id_str": "1580592015410331648",
