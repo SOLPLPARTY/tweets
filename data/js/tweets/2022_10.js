@@ -1,6 +1,885 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Fri Oct 14 05:58:15 +0000 2022",
+		"id": 1580785472602837000,
+		"id_str": "1580800129195380737",
+		"full_text": "🔊YouTube Live Streaming will start shortly!\n\n❤️MEET&amp;GREET KIHYUN💙\n\n🔗https://t.co/iZF1F9GH1Q\n\n✔️It is available to YouTube KCON official 'ALL ACCESS' membership tier.\n✔️YouTube KCON official 'ALL ACCESS' 멤버십 등급에 한해 시청이 가능합니다.\n\n#KCON #KCONJAPAN #KCON2022JAPAN https://t.co/knCu5VpSkg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			261
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						230,
+						235
+					]
+				},
+				{
+					"text": "KCONJAPAN",
+					"indices": [
+						236,
+						246
+					]
+				},
+				{
+					"text": "KCON2022JAPAN",
+					"indices": [
+						247,
+						261
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iZF1F9GH1Q",
+					"expanded_url": "https://youtu.be/QEk6JP_vYsU",
+					"display_url": "youtu.be/QEk6JP_vYsU",
+					"indices": [
+						72,
+						95
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1580512413165621200,
+					"id_str": "1580512413165621250",
+					"indices": [
+						262,
+						285
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe8bqnXVEAIpl7X.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe8bqnXVEAIpl7X.jpg",
+					"url": "https://t.co/knCu5VpSkg",
+					"display_url": "pic.twitter.com/knCu5VpSkg",
+					"expanded_url": "https://twitter.com/KCON_official/status/1580785472602836995/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1580512413165621200,
+					"id_str": "1580512413165621250",
+					"indices": [
+						262,
+						285
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe8bqnXVEAIpl7X.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe8bqnXVEAIpl7X.jpg",
+					"url": "https://t.co/knCu5VpSkg",
+					"display_url": "pic.twitter.com/knCu5VpSkg",
+					"expanded_url": "https://twitter.com/KCON_official/status/1580785472602836995/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER\n📍KCON 2022 JAPAN 10/14 ~ 10/16 (JST)",
+			"url": "https://t.co/IDnJhWoZ59",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWoZ59",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 470010,
+			"friends_count": 76,
+			"listed_count": 1137,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 191,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13344,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1567787455188987905/sAYoOtFz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1567787455188987905/sAYoOtFz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1664852417",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 147,
+		"favorite_count": 247,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🔊YouTube Live Streaming will start shortly!\n\n❤️MEET&amp;GREET KIHYUN💙\n\n🔗https://t.co/iZF1F9GH1Q\n\n✔️It is available to YouTube KCON official 'ALL ACCESS' membership tier.\n✔️YouTube KCON official 'ALL ACCESS' 멤버십 등급에 한해 시청이 가능합니다.\n\n#KCON #KCONJAPAN #KCON2022JAPAN https://t.co/knCu5VpSkg"
+	},
+	{
+		"created_at": "Fri Oct 14 05:29:34 +0000 2022",
+		"id": 1580786009171640300,
+		"id_str": "1580792909724807168",
+		"full_text": "1집 [11111101] 발매 11주년 기념,\n이디오테잎 단독  콘서트 [11111101 11th] - 티켓 오픈 공지\n⠀\n💾티켓 오픈\n- 일시 : 2022.10.20(목) 8pm\n- 예매처 : 멜론티켓 (https://t.co/UVQV6lQDpL)⠀\n\n💾 공연일시\n- 2022.11.11(금) 8pm\n\n💾 공연장소\n- OHHO (서울시 성동구 아차산로17길63)\n\n#이디오테잎 https://t.co/jj5NTe3EId",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			211
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이디오테잎",
+					"indices": [
+						205,
+						211
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UVQV6lQDpL",
+					"expanded_url": "http://ticket.melon.com",
+					"display_url": "ticket.melon.com",
+					"indices": [
+						115,
+						138
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1580786003651879000,
+					"id_str": "1580786003651878912",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/FfAUfrWUYAAB4VE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfAUfrWUYAAB4VE.jpg",
+					"url": "https://t.co/jj5NTe3EId",
+					"display_url": "pic.twitter.com/jj5NTe3EId",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1580786009171640322/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1580786003651879000,
+					"id_str": "1580786003651878912",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/FfAUfrWUYAAB4VE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfAUfrWUYAAB4VE.jpg",
+					"url": "https://t.co/jj5NTe3EId",
+					"display_url": "pic.twitter.com/jj5NTe3EId",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1580786009171640322/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1580786003660316700,
+					"id_str": "1580786003660316672",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/FfAUfrYVIAAjJUY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfAUfrYVIAAjJUY.jpg",
+					"url": "https://t.co/jj5NTe3EId",
+					"display_url": "pic.twitter.com/jj5NTe3EId",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1580786009171640322/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1192,
+							"h": 1192,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1192,
+							"h": 1192,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 240145508,
+			"id_str": "240145508",
+			"name": "DooRooDooRoo Artist Company",
+			"screen_name": "DRDRacompany",
+			"location": "대한민국 서울",
+			"description": "두루두루 아티스트 컴퍼니",
+			"url": "https://t.co/y5yKgWQtSS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y5yKgWQtSS",
+							"expanded_url": "http://www.drdr.ac",
+							"display_url": "drdr.ac",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4035,
+			"friends_count": 11,
+			"listed_count": 83,
+			"created_at": "Wed Jan 19 07:40:00 +0000 2011",
+			"favourites_count": 84,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3068,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/240145508/1517471917",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "1집 [11111101] 발매 11주년 기념,\n이디오테잎 단독  콘서트 [11111101 11th] - 티켓 오픈 공지\n⠀\n💾티켓 오픈\n- 일시 : 2022.10.20(목) 8pm\n- 예매처 : 멜론티켓 (https://t.co/UVQV6lQDpL)⠀\n\n💾 공연일시\n- 2022.11.11(금) 8pm\n\n💾 공연장소\n- OHHO (서울시 성동구 아차산로17길63)\n\n#이디오테잎 https://t.co/jj5NTe3EId"
+	},
+	{
+		"created_at": "Fri Oct 14 05:29:30 +0000 2022",
+		"id": 1580780057454604300,
+		"id_str": "1580792896349147137",
+		"full_text": "In the latest episodes of ‘Bad Prosecutor’, #DOHKYUNGSOO shows off his smarts by successfully controlling the scene at the crematorium! His lively acting and presence on the show draw the audience into his character!\n\n#도경수\n#디오 #DO(D.O.)\n#엑소 #EXO #weareoneEXO \n#진검승부 https://t.co/Pp8drBo1uL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			265
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DOHKYUNGSOO",
+					"indices": [
+						44,
+						56
+					]
+				},
+				{
+					"text": "도경수",
+					"indices": [
+						218,
+						222
+					]
+				},
+				{
+					"text": "디오",
+					"indices": [
+						223,
+						226
+					]
+				},
+				{
+					"text": "DO",
+					"indices": [
+						227,
+						230
+					]
+				},
+				{
+					"text": "엑소",
+					"indices": [
+						237,
+						240
+					]
+				},
+				{
+					"text": "EXO",
+					"indices": [
+						241,
+						245
+					]
+				},
+				{
+					"text": "weareoneEXO",
+					"indices": [
+						246,
+						258
+					]
+				},
+				{
+					"text": "진검승부",
+					"indices": [
+						260,
+						265
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1580780049820577800,
+					"id_str": "1580780049820577793",
+					"indices": [
+						266,
+						289
+					],
+					"media_url": "http://pbs.twimg.com/media/FfAPFHmUcAEYfzF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfAPFHmUcAEYfzF.jpg",
+					"url": "https://t.co/Pp8drBo1uL",
+					"display_url": "pic.twitter.com/Pp8drBo1uL",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1580780057454604288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 722,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 423,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 240,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1580780049820577800,
+					"id_str": "1580780049820577793",
+					"indices": [
+						266,
+						289
+					],
+					"media_url": "http://pbs.twimg.com/media/FfAPFHmUcAEYfzF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfAPFHmUcAEYfzF.jpg",
+					"url": "https://t.co/Pp8drBo1uL",
+					"display_url": "pic.twitter.com/Pp8drBo1uL",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1580780057454604288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 722,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 423,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 240,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11221928,
+			"friends_count": 55,
+			"listed_count": 12634,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2091,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13042,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4171,
+		"favorite_count": 9227,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In the latest episodes of ‘Bad Prosecutor’, #DOHKYUNGSOO shows off his smarts by successfully controlling the scene at the crematorium! His lively acting and presence on the show draw the audience into his character!\n\n#도경수\n#디오 #DO(D.O.)\n#엑소 #EXO #weareoneEXO \n#진검승부 https://t.co/Pp8drBo1uL"
+	},
+	{
+		"created_at": "Fri Oct 14 05:29:28 +0000 2022",
+		"id": 1580778234459074600,
+		"id_str": "1580792887201390593",
+		"full_text": "'Love is for Suckers' CHOI SIWON goes from ‘confusion → confidence → regret’ as he comes to realize his love for his long-time friend! He is fully immersed in the character and portrays a wide range of emotions!\n\n#CHOISIWON #최시원 \n#SUPERJUNIOR #슈퍼주니어 \n#얼어죽을연애따위 https://t.co/77wcq5sb4m",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			260
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CHOISIWON",
+					"indices": [
+						213,
+						223
+					]
+				},
+				{
+					"text": "최시원",
+					"indices": [
+						224,
+						228
+					]
+				},
+				{
+					"text": "SUPERJUNIOR",
+					"indices": [
+						230,
+						242
+					]
+				},
+				{
+					"text": "슈퍼주니어",
+					"indices": [
+						243,
+						249
+					]
+				},
+				{
+					"text": "얼어죽을연애따위",
+					"indices": [
+						251,
+						260
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1580778226707705900,
+					"id_str": "1580778226707705856",
+					"indices": [
+						261,
+						284
+					],
+					"media_url": "http://pbs.twimg.com/media/FfANa_-VsAAh8Ts.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfANa_-VsAAh8Ts.jpg",
+					"url": "https://t.co/77wcq5sb4m",
+					"display_url": "pic.twitter.com/77wcq5sb4m",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1580778234459074561/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 241,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 425,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 726,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1580778226707705900,
+					"id_str": "1580778226707705856",
+					"indices": [
+						261,
+						284
+					],
+					"media_url": "http://pbs.twimg.com/media/FfANa_-VsAAh8Ts.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfANa_-VsAAh8Ts.jpg",
+					"url": "https://t.co/77wcq5sb4m",
+					"display_url": "pic.twitter.com/77wcq5sb4m",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1580778234459074561/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 241,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 425,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 726,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11221928,
+			"friends_count": 55,
+			"listed_count": 12634,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2091,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13042,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 254,
+		"favorite_count": 1120,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "'Love is for Suckers' CHOI SIWON goes from ‘confusion → confidence → regret’ as he comes to realize his love for his long-time friend! He is fully immersed in the character and portrays a wide range of emotions!\n\n#CHOISIWON #최시원 \n#SUPERJUNIOR #슈퍼주니어 \n#얼어죽을연애따위 https://t.co/77wcq5sb4m"
+	},
+	{
 		"created_at": "Fri Oct 14 05:11:17 +0000 2022",
 		"id": 1580784754592723000,
 		"id_str": "1580788309047246849",
@@ -573,7 +1452,7 @@ Grailbird.data.tweets_2022_10 =
 			"created_at": "Tue Oct 11 09:01:34 +0000 2022",
 			"id": 1579759099725893600,
 			"id_str": "1579759099725893632",
-			"full_text": "#KCONers_굿즈_자랑대회\n\nWhat's KCON-ers' way of enjoying KCON?🤔\nFor us, we try to take as many photos📸 as possible of the site with DIY merch✌️\n\nUpload a photo of your DIY merch taken at the site with two hashtags!\nYou are likely to win an artist's signed CD💿❤️‍🔥\n\n#KCON2022JAPAN https://t.co/xILa93ypi3 https://t.co/rsKcrNXxXh",
+			"full_text": "#KCONers_굿즈_자랑대회\n\nWhat's KCON-ers' way of enjoying KCON?🤔\nFor us, we try to take as many photos📸 as possible of the site with DIY merch✌️\n\nUpload a photo of your DIY merch taken at the site with two hashtags!\nYou are likely to win an artist's signed CD💿❤️🔥\n\n#KCON2022JAPAN https://t.co/xILa93ypi3 https://t.co/rsKcrNXxXh",
 			"truncated": false,
 			"display_text_range": [
 				0,
