@@ -1,6 +1,213 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Sat Oct 15 04:58:18 +0000 2022",
+		"id": 1581140308724678700,
+		"id_str": "1581147430699290630",
+		"full_text": "🔊YouTube Live Streaming will start shortly!\n\n❤️KCON POP UP TALK DKZ💙\n\n🔗https://t.co/ikb1p8F5MN\n\n✔️You can watch it on YouTube KCON official, Mnet K-POP channels for free.\n✔️YouTube KCON official, Mnet K-POP에서 무료로 시청 가능합니다.\n\n#KCON #KCONJAPAN #KCON2022JAPAN https://t.co/51efVkYTve",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			255
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						224,
+						229
+					]
+				},
+				{
+					"text": "KCONJAPAN",
+					"indices": [
+						230,
+						240
+					]
+				},
+				{
+					"text": "KCON2022JAPAN",
+					"indices": [
+						241,
+						255
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ikb1p8F5MN",
+					"expanded_url": "https://youtu.be/QPzn_npAoYY",
+					"display_url": "youtu.be/QPzn_npAoYY",
+					"indices": [
+						71,
+						94
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1580824037655466000,
+					"id_str": "1580824037655465985",
+					"indices": [
+						256,
+						279
+					],
+					"media_url": "http://pbs.twimg.com/media/FfA3FjDaUAE7QXK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfA3FjDaUAE7QXK.jpg",
+					"url": "https://t.co/51efVkYTve",
+					"display_url": "pic.twitter.com/51efVkYTve",
+					"expanded_url": "https://twitter.com/KCON_official/status/1581140308724678658/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1334,
+							"h": 750,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1580824037655466000,
+					"id_str": "1580824037655465985",
+					"indices": [
+						256,
+						279
+					],
+					"media_url": "http://pbs.twimg.com/media/FfA3FjDaUAE7QXK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfA3FjDaUAE7QXK.jpg",
+					"url": "https://t.co/51efVkYTve",
+					"display_url": "pic.twitter.com/51efVkYTve",
+					"expanded_url": "https://twitter.com/KCON_official/status/1581140308724678658/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1334,
+							"h": 750,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER\n📍KCON 2022 JAPAN 10/14 ~ 10/16 (JST)",
+			"url": "https://t.co/IDnJhWoZ59",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWoZ59",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 471019,
+			"friends_count": 76,
+			"listed_count": 1138,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 182,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13436,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1567787455188987905/sAYoOtFz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1567787455188987905/sAYoOtFz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1664852417",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 318,
+		"favorite_count": 555,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🔊YouTube Live Streaming will start shortly!\n\n❤️KCON POP UP TALK DKZ💙\n\n🔗https://t.co/ikb1p8F5MN\n\n✔️You can watch it on YouTube KCON official, Mnet K-POP channels for free.\n✔️YouTube KCON official, Mnet K-POP에서 무료로 시청 가능합니다.\n\n#KCON #KCONJAPAN #KCON2022JAPAN https://t.co/51efVkYTve"
+	},
+	{
 		"created_at": "Sat Oct 15 03:58:34 +0000 2022",
 		"id": 1581127725024268300,
 		"id_str": "1581132400301854720",
@@ -211,7 +418,7 @@ Grailbird.data.tweets_2022_10 =
 		"created_at": "Sat Oct 15 03:58:26 +0000 2022",
 		"id": 1581126324659187700,
 		"id_str": "1581132364956454913",
-		"full_text": "❤️KCON 2022 JAPAN CONVENTION💙\n\n이제 곧 점심시간 ! FOOD STREET로 달려가세요~! \nもうすぐ昼休み😋 FOOD STREETにダッシュで行きましょう 🏃‍♀️🏃‍♂️\n\n#KCON #KCONJAPAN #KCON2022JAPAN https://t.co/xTFajwIXdP",
+		"full_text": "❤️KCON 2022 JAPAN CONVENTION💙\n\n이제 곧 점심시간 ! FOOD STREET로 달려가세요~! \nもうすぐ昼休み😋 FOOD STREETにダッシュで行きましょう 🏃♀️🏃♂️\n\n#KCON #KCONJAPAN #KCON2022JAPAN https://t.co/xTFajwIXdP",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -339,7 +546,7 @@ Grailbird.data.tweets_2022_10 =
 			"created_at": "Sat Oct 15 03:33:53 +0000 2022",
 			"id": 1581126187442503700,
 			"id_str": "1581126187442503680",
-			"full_text": "❤️KCON 2022 JAPAN CONVENTION💙\n\nもうすぐ昼休み😋 FOOD STREETにダッシュで行きましょう 🏃‍♀️🏃‍♂️\n\n#KCON #KCONJAPAN #KCON2022JAPAN https://t.co/HRVlEHXsEt",
+			"full_text": "❤️KCON 2022 JAPAN CONVENTION💙\n\nもうすぐ昼休み😋 FOOD STREETにダッシュで行きましょう 🏃♀️🏃♂️\n\n#KCON #KCONJAPAN #KCON2022JAPAN https://t.co/HRVlEHXsEt",
 			"truncated": false,
 			"display_text_range": [
 				0,
@@ -645,7 +852,7 @@ Grailbird.data.tweets_2022_10 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ja",
-		"text": "❤️KCON 2022 JAPAN CONVENTION💙\n\n이제 곧 점심시간 ! FOOD STREET로 달려가세요~! \nもうすぐ昼休み😋 FOOD STREETにダッシュで行きましょう 🏃‍♀️🏃‍♂️\n\n#KCON #KCONJAPAN #KCON2022JAPAN https://t.co/xTFajwIXdP"
+		"text": "❤️KCON 2022 JAPAN CONVENTION💙\n\n이제 곧 점심시간 ! FOOD STREET로 달려가세요~! \nもうすぐ昼休み😋 FOOD STREETにダッシュで行きましょう 🏃♀️🏃♂️\n\n#KCON #KCONJAPAN #KCON2022JAPAN https://t.co/xTFajwIXdP"
 	},
 	{
 		"created_at": "Sat Oct 15 03:58:24 +0000 2022",
