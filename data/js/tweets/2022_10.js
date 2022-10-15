@@ -1,6 +1,217 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Sat Oct 15 15:29:25 +0000 2022",
+		"id": 1581300872017244200,
+		"id_str": "1581306256408866817",
+		"full_text": "[#Notice] #이미주 \n\n이미주가 함께하는 KBS2 &lt;배틀트립 2&gt;가 매주 토요일 오후 10시 40분 방송됩니다🛩\n\n#LeeMiJoo\n#KBS2 #배틀트립2 https://t.co/cJqfjKfyts",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Notice",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "이미주",
+					"indices": [
+						10,
+						14
+					]
+				},
+				{
+					"text": "LeeMiJoo",
+					"indices": [
+						74,
+						83
+					]
+				},
+				{
+					"text": "KBS2",
+					"indices": [
+						84,
+						89
+					]
+				},
+				{
+					"text": "배틀트립2",
+					"indices": [
+						90,
+						96
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1581300866555867100,
+					"id_str": "1581300866555867139",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/FfHowpIUcAMKWZ6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfHowpIUcAMKWZ6.jpg",
+					"url": "https://t.co/cJqfjKfyts",
+					"display_url": "pic.twitter.com/cJqfjKfyts",
+					"expanded_url": "https://twitter.com/antennamusic/status/1581300872017244160/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 797,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 451,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 916,
+							"h": 1380,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1581300866555867100,
+					"id_str": "1581300866555867139",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/FfHowpIUcAMKWZ6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfHowpIUcAMKWZ6.jpg",
+					"url": "https://t.co/cJqfjKfyts",
+					"display_url": "pic.twitter.com/cJqfjKfyts",
+					"expanded_url": "https://twitter.com/antennamusic/status/1581300872017244160/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 797,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 451,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 916,
+							"h": 1380,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 권진아 DS ‘진심이었던 사람만 바보가 돼’ 2022. 10. 13. 6PM Release",
+			"url": "https://t.co/XSWWwEx210",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEx210",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40486,
+			"friends_count": 12,
+			"listed_count": 379,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 18,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5457,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1664877607",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 47,
+		"favorite_count": 69,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Notice] #이미주 \n\n이미주가 함께하는 KBS2 &lt;배틀트립 2&gt;가 매주 토요일 오후 10시 40분 방송됩니다🛩\n\n#LeeMiJoo\n#KBS2 #배틀트립2 https://t.co/cJqfjKfyts"
+	},
+	{
 		"created_at": "Sat Oct 15 13:29:30 +0000 2022",
 		"id": 1581261638023671800,
 		"id_str": "1581276077988622338",
