@@ -1,6 +1,2340 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Sat Oct 15 12:58:38 +0000 2022",
+		"id": 1581267758246899700,
+		"id_str": "1581268311991468032",
+		"full_text": "❤️KCON 2022 JAPAN DAY2 SELFIE💙\n\n앗 케이콘!! 이 소리는 짱바투 용안보고 놀란 케떤담당자의 소리입니다.\n순우리말 감탄사 \"케이콘\" 교과서에서 다들 배웠잖아요. 모아 우리 그랬잖아요.\n\n#KCON #KCON2022JAPAN @TXT_bighit https://t.co/FiwZzBoZse",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						117,
+						122
+					]
+				},
+				{
+					"text": "KCON2022JAPAN",
+					"indices": [
+						123,
+						137
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TXT_bighit",
+					"name": "TXT OFFICIAL",
+					"id": 1083198663424237600,
+					"id_str": "1083198663424237569",
+					"indices": [
+						138,
+						149
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/FiwZzBoZse",
+					"expanded_url": "https://twitter.com/kconjapan/status/1581267143152148480",
+					"display_url": "twitter.com/kconjapan/stat…",
+					"indices": [
+						150,
+						173
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER\n📍KCON 2022 JAPAN 10/14 ~ 10/16 (JST)",
+			"url": "https://t.co/IDnJhWoZ59",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWoZ59",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 471886,
+			"friends_count": 76,
+			"listed_count": 1140,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 182,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13494,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1567787455188987905/sAYoOtFz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1567787455188987905/sAYoOtFz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1664852417",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1581267143152148500,
+		"quoted_status_id_str": "1581267143152148480",
+		"quoted_status_permalink": {
+			"url": "https://t.co/FiwZzBoZse",
+			"expanded": "https://twitter.com/kconjapan/status/1581267143152148480",
+			"display": "twitter.com/kconjapan/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Oct 15 12:54:00 +0000 2022",
+			"id": 1581267143152148500,
+			"id_str": "1581267143152148480",
+			"full_text": "❤️KCON 2022 JAPAN DAY2 SELFIE💙\n\n@TXT_bighit の写真を見たんで\nご飯を食べなくても寝てなくても\nビタミンを飲まなくても息を吸わなくても…生きられる💪🥹\n\n#KCON #KCONJAPAN #KCON2022JAPAN https://t.co/sDIhkEQ75h",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				129
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "KCON",
+						"indices": [
+							98,
+							103
+						]
+					},
+					{
+						"text": "KCONJAPAN",
+						"indices": [
+							104,
+							114
+						]
+					},
+					{
+						"text": "KCON2022JAPAN",
+						"indices": [
+							115,
+							129
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "TXT_bighit",
+						"name": "TXT OFFICIAL",
+						"id": 1083198663424237600,
+						"id_str": "1083198663424237569",
+						"indices": [
+							32,
+							43
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1581267086864633900,
+						"id_str": "1581267086864633856",
+						"indices": [
+							130,
+							153
+						],
+						"media_url": "http://pbs.twimg.com/media/FfHKCZ-VUAAAml5.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FfHKCZ-VUAAAml5.jpg",
+						"url": "https://t.co/sDIhkEQ75h",
+						"display_url": "pic.twitter.com/sDIhkEQ75h",
+						"expanded_url": "https://twitter.com/kconjapan/status/1581267143152148480/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 1600,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1581267086864633900,
+						"id_str": "1581267086864633856",
+						"indices": [
+							130,
+							153
+						],
+						"media_url": "http://pbs.twimg.com/media/FfHKCZ-VUAAAml5.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FfHKCZ-VUAAAml5.jpg",
+						"url": "https://t.co/sDIhkEQ75h",
+						"display_url": "pic.twitter.com/sDIhkEQ75h",
+						"expanded_url": "https://twitter.com/kconjapan/status/1581267143152148480/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 1600,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1581267086847881200,
+						"id_str": "1581267086847881217",
+						"indices": [
+							130,
+							153
+						],
+						"media_url": "http://pbs.twimg.com/media/FfHKCZ6VsAEWNt_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FfHKCZ6VsAEWNt_.jpg",
+						"url": "https://t.co/sDIhkEQ75h",
+						"display_url": "pic.twitter.com/sDIhkEQ75h",
+						"expanded_url": "https://twitter.com/kconjapan/status/1581267143152148480/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1200,
+								"h": 1600,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3017029196,
+				"id_str": "3017029196",
+				"name": "KCON Japan",
+				"screen_name": "kconjapan",
+				"location": "",
+				"description": "世界最大級のK-Cultureフェスティバル\n『KCON JAPAN』の公式Twitterです！\n📍10/14（金） ~ 10/16(日）/ 東京・有明アリーナ",
+				"url": "https://t.co/sCRhaGCzOM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/sCRhaGCzOM",
+								"expanded_url": "http://kconjapan.com",
+								"display_url": "kconjapan.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 251645,
+				"friends_count": 158,
+				"listed_count": 505,
+				"created_at": "Thu Feb 12 06:02:55 +0000 2015",
+				"favourites_count": 187,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 7016,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5ABB5",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1554285876041367553/Z3_Jgigb_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1554285876041367553/Z3_Jgigb_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3017029196/1662617121",
+				"profile_link_color": "F5ABB5",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6725,
+			"favorite_count": 17648,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"retweet_count": 92,
+		"favorite_count": 255,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "❤️KCON 2022 JAPAN DAY2 SELFIE💙\n\n앗 케이콘!! 이 소리는 짱바투 용안보고 놀란 케떤담당자의 소리입니다.\n순우리말 감탄사 \"케이콘\" 교과서에서 다들 배웠잖아요. 모아 우리 그랬잖아요.\n\n#KCON #KCON2022JAPAN @TXT_bighit https://t.co/FiwZzBoZse"
+	},
+	{
+		"created_at": "Sat Oct 15 12:58:31 +0000 2022",
+		"id": 1581267705272799200,
+		"id_str": "1581268281117536262",
+		"full_text": "❤️KCON 2022 JAPAN DAY2 SELFIE💙\n\n갓진스 귀엽고멋지고아름답고골져스하고케담당자인생에서행복찾아주는 거 그만하는 법, 힘들지 않을까 생각했는데\n역시나 힘들었다.~\n\n#KCON #KCON2022JAPAN @NewJeans_ADOR https://t.co/cXIWEyI9VT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						102,
+						107
+					]
+				},
+				{
+					"text": "KCON2022JAPAN",
+					"indices": [
+						108,
+						122
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NewJeans_ADOR",
+					"name": "NewJeans",
+					"id": 1476476838180696000,
+					"id_str": "1476476838180696073",
+					"indices": [
+						123,
+						137
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/cXIWEyI9VT",
+					"expanded_url": "https://twitter.com/kconjapan/status/1581267038391062529",
+					"display_url": "twitter.com/kconjapan/stat…",
+					"indices": [
+						138,
+						161
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER\n📍KCON 2022 JAPAN 10/14 ~ 10/16 (JST)",
+			"url": "https://t.co/IDnJhWoZ59",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWoZ59",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 471886,
+			"friends_count": 76,
+			"listed_count": 1140,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 182,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13494,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1567787455188987905/sAYoOtFz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1567787455188987905/sAYoOtFz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1664852417",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1581267038391062500,
+		"quoted_status_id_str": "1581267038391062529",
+		"quoted_status_permalink": {
+			"url": "https://t.co/cXIWEyI9VT",
+			"expanded": "https://twitter.com/kconjapan/status/1581267038391062529",
+			"display": "twitter.com/kconjapan/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Oct 15 12:53:35 +0000 2022",
+			"id": 1581267038391062500,
+			"id_str": "1581267038391062529",
+			"full_text": "❤️KCON 2022 JAPAN DAY2 SELFIE💙\n\n@NewJeans_ADOR の写真を見たんで\nご飯を食べなくても寝てなくても\nビタミンを飲まなくても息を吸わなくても…生きられる💪🥹\n\n#KCON #KCONJAPAN #KCON2022JAPAN https://t.co/KmQuTzROSG",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				132
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "KCON",
+						"indices": [
+							101,
+							106
+						]
+					},
+					{
+						"text": "KCONJAPAN",
+						"indices": [
+							107,
+							117
+						]
+					},
+					{
+						"text": "KCON2022JAPAN",
+						"indices": [
+							118,
+							132
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "NewJeans_ADOR",
+						"name": "NewJeans",
+						"id": 1476476838180696000,
+						"id_str": "1476476838180696073",
+						"indices": [
+							32,
+							46
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1581267011669135400,
+						"id_str": "1581267011669135360",
+						"indices": [
+							133,
+							156
+						],
+						"media_url": "http://pbs.twimg.com/media/FfHJ-B2VEAA6lQr.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FfHJ-B2VEAA6lQr.jpg",
+						"url": "https://t.co/KmQuTzROSG",
+						"display_url": "pic.twitter.com/KmQuTzROSG",
+						"expanded_url": "https://twitter.com/kconjapan/status/1581267038391062529/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1600,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1581267011669135400,
+						"id_str": "1581267011669135360",
+						"indices": [
+							133,
+							156
+						],
+						"media_url": "http://pbs.twimg.com/media/FfHJ-B2VEAA6lQr.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FfHJ-B2VEAA6lQr.jpg",
+						"url": "https://t.co/KmQuTzROSG",
+						"display_url": "pic.twitter.com/KmQuTzROSG",
+						"expanded_url": "https://twitter.com/kconjapan/status/1581267038391062529/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1600,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3017029196,
+				"id_str": "3017029196",
+				"name": "KCON Japan",
+				"screen_name": "kconjapan",
+				"location": "",
+				"description": "世界最大級のK-Cultureフェスティバル\n『KCON JAPAN』の公式Twitterです！\n📍10/14（金） ~ 10/16(日）/ 東京・有明アリーナ",
+				"url": "https://t.co/sCRhaGCzOM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/sCRhaGCzOM",
+								"expanded_url": "http://kconjapan.com",
+								"display_url": "kconjapan.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 251645,
+				"friends_count": 158,
+				"listed_count": 505,
+				"created_at": "Thu Feb 12 06:02:55 +0000 2015",
+				"favourites_count": 187,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 7016,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5ABB5",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1554285876041367553/Z3_Jgigb_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1554285876041367553/Z3_Jgigb_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3017029196/1662617121",
+				"profile_link_color": "F5ABB5",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 401,
+			"favorite_count": 1363,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"retweet_count": 5,
+		"favorite_count": 35,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "❤️KCON 2022 JAPAN DAY2 SELFIE💙\n\n갓진스 귀엽고멋지고아름답고골져스하고케담당자인생에서행복찾아주는 거 그만하는 법, 힘들지 않을까 생각했는데\n역시나 힘들었다.~\n\n#KCON #KCON2022JAPAN @NewJeans_ADOR https://t.co/cXIWEyI9VT"
+	},
+	{
+		"created_at": "Sat Oct 15 12:58:26 +0000 2022",
+		"id": 1581267651636052000,
+		"id_str": "1581268259134840833",
+		"full_text": "❤️KCON 2022 JAPAN DAY2 SELFIE💙\n\nJ : JO1\nO : 오래볼수록...\n1 : 원없이 보고싶을 정도로 잘생김. (진심).\n\n이상입니다. 감사합니다(◡ ‿ ◡)\n\n#KCON #KCON2022JAPAN @official_jo1 https://t.co/ioPq6lotVt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						103,
+						108
+					]
+				},
+				{
+					"text": "KCON2022JAPAN",
+					"indices": [
+						109,
+						123
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "official_jo1",
+					"name": "JO1",
+					"id": 1204439457073488000,
+					"id_str": "1204439457073487872",
+					"indices": [
+						124,
+						137
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ioPq6lotVt",
+					"expanded_url": "https://twitter.com/kconjapan/status/1581266973765181441",
+					"display_url": "twitter.com/kconjapan/stat…",
+					"indices": [
+						138,
+						161
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER\n📍KCON 2022 JAPAN 10/14 ~ 10/16 (JST)",
+			"url": "https://t.co/IDnJhWoZ59",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWoZ59",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 471886,
+			"friends_count": 76,
+			"listed_count": 1140,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 182,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13494,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1567787455188987905/sAYoOtFz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1567787455188987905/sAYoOtFz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1664852417",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1581266973765181400,
+		"quoted_status_id_str": "1581266973765181441",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ioPq6lotVt",
+			"expanded": "https://twitter.com/kconjapan/status/1581266973765181441",
+			"display": "twitter.com/kconjapan/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Oct 15 12:53:19 +0000 2022",
+			"id": 1581266973765181400,
+			"id_str": "1581266973765181441",
+			"full_text": "❤️KCON 2022 JAPAN DAY2 SELFIE💙\n\n@official_jo1 の写真を見たんで\nご飯を食べなくても寝てなくても\nビタミンを飲まなくても息を吸わなくても…生きられる💪🥹\n\n#KCON #KCONJAPAN #KCON2022JAPAN https://t.co/fQ9ZdXh2fc",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				131
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "KCON",
+						"indices": [
+							100,
+							105
+						]
+					},
+					{
+						"text": "KCONJAPAN",
+						"indices": [
+							106,
+							116
+						]
+					},
+					{
+						"text": "KCON2022JAPAN",
+						"indices": [
+							117,
+							131
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "official_jo1",
+						"name": "JO1",
+						"id": 1204439457073488000,
+						"id_str": "1204439457073487872",
+						"indices": [
+							32,
+							45
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1581266895914737700,
+						"id_str": "1581266895914737664",
+						"indices": [
+							132,
+							155
+						],
+						"media_url": "http://pbs.twimg.com/media/FfHJ3SoVIAACWnm.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FfHJ3SoVIAACWnm.jpg",
+						"url": "https://t.co/fQ9ZdXh2fc",
+						"display_url": "pic.twitter.com/fQ9ZdXh2fc",
+						"expanded_url": "https://twitter.com/kconjapan/status/1581266973765181441/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1200,
+								"h": 1600,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1581266895914737700,
+						"id_str": "1581266895914737664",
+						"indices": [
+							132,
+							155
+						],
+						"media_url": "http://pbs.twimg.com/media/FfHJ3SoVIAACWnm.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FfHJ3SoVIAACWnm.jpg",
+						"url": "https://t.co/fQ9ZdXh2fc",
+						"display_url": "pic.twitter.com/fQ9ZdXh2fc",
+						"expanded_url": "https://twitter.com/kconjapan/status/1581266973765181441/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1200,
+								"h": 1600,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1581266895902081000,
+						"id_str": "1581266895902081024",
+						"indices": [
+							132,
+							155
+						],
+						"media_url": "http://pbs.twimg.com/media/FfHJ3SlUAAABP1_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FfHJ3SlUAAABP1_.jpg",
+						"url": "https://t.co/fQ9ZdXh2fc",
+						"display_url": "pic.twitter.com/fQ9ZdXh2fc",
+						"expanded_url": "https://twitter.com/kconjapan/status/1581266973765181441/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 1600,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1581266896019546000,
+						"id_str": "1581266896019546112",
+						"indices": [
+							132,
+							155
+						],
+						"media_url": "http://pbs.twimg.com/media/FfHJ3TBUYAAsqGn.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FfHJ3TBUYAAsqGn.jpg",
+						"url": "https://t.co/fQ9ZdXh2fc",
+						"display_url": "pic.twitter.com/fQ9ZdXh2fc",
+						"expanded_url": "https://twitter.com/kconjapan/status/1581266973765181441/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1200,
+								"h": 1600,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3017029196,
+				"id_str": "3017029196",
+				"name": "KCON Japan",
+				"screen_name": "kconjapan",
+				"location": "",
+				"description": "世界最大級のK-Cultureフェスティバル\n『KCON JAPAN』の公式Twitterです！\n📍10/14（金） ~ 10/16(日）/ 東京・有明アリーナ",
+				"url": "https://t.co/sCRhaGCzOM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/sCRhaGCzOM",
+								"expanded_url": "http://kconjapan.com",
+								"display_url": "kconjapan.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 251645,
+				"friends_count": 158,
+				"listed_count": 505,
+				"created_at": "Thu Feb 12 06:02:55 +0000 2015",
+				"favourites_count": 187,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 7016,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5ABB5",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1554285876041367553/Z3_Jgigb_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1554285876041367553/Z3_Jgigb_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3017029196/1662617121",
+				"profile_link_color": "F5ABB5",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5162,
+			"favorite_count": 11598,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"retweet_count": 913,
+		"favorite_count": 1772,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "❤️KCON 2022 JAPAN DAY2 SELFIE💙\n\nJ : JO1\nO : 오래볼수록...\n1 : 원없이 보고싶을 정도로 잘생김. (진심).\n\n이상입니다. 감사합니다(◡ ‿ ◡)\n\n#KCON #KCON2022JAPAN @official_jo1 https://t.co/ioPq6lotVt"
+	},
+	{
+		"created_at": "Sat Oct 15 12:58:21 +0000 2022",
+		"id": 1581267579527520300,
+		"id_str": "1581268240231469056",
+		"full_text": "❤️KCON 2022 JAPAN DAY2 SELFIE💙\n\n두 번 세 번 피곤하게 자꾸 질문하지마~\n케이콘 장점이 뭔지 알아?\n바로 짱이브와 함께인거야☺\nL 다음 O 다음 tto인 이상황 계속되길,,☆★\n\n#KCON #KCON2022JAPAN @IVEstarship https://t.co/0JVAcH5Phc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						114,
+						119
+					]
+				},
+				{
+					"text": "KCON2022JAPAN",
+					"indices": [
+						120,
+						134
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "IVEstarship",
+					"name": "IVE OFFICIAL",
+					"id": 1402182579265048600,
+					"id_str": "1402182579265048598",
+					"indices": [
+						135,
+						147
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/0JVAcH5Phc",
+					"expanded_url": "https://twitter.com/kconjapan/status/1581266810908729344",
+					"display_url": "twitter.com/kconjapan/stat…",
+					"indices": [
+						148,
+						171
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER\n📍KCON 2022 JAPAN 10/14 ~ 10/16 (JST)",
+			"url": "https://t.co/IDnJhWoZ59",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWoZ59",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 471886,
+			"friends_count": 76,
+			"listed_count": 1140,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 182,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13494,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1567787455188987905/sAYoOtFz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1567787455188987905/sAYoOtFz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1664852417",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1581266810908729300,
+		"quoted_status_id_str": "1581266810908729344",
+		"quoted_status_permalink": {
+			"url": "https://t.co/0JVAcH5Phc",
+			"expanded": "https://twitter.com/kconjapan/status/1581266810908729344",
+			"display": "twitter.com/kconjapan/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Oct 15 12:52:40 +0000 2022",
+			"id": 1581266810908729300,
+			"id_str": "1581266810908729344",
+			"full_text": "❤️KCON 2022 JAPAN DAY2 SELFIE💙\n\n@IVEstarship の写真を見たんで\nご飯を食べなくても寝てなくても\nビタミンを飲まなくても息を吸わなくても…生きられる💪🥹\n\n#KCON #KCONJAPAN #KCON2022JAPAN https://t.co/8u3pdmkuQz",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				130
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "KCON",
+						"indices": [
+							99,
+							104
+						]
+					},
+					{
+						"text": "KCONJAPAN",
+						"indices": [
+							105,
+							115
+						]
+					},
+					{
+						"text": "KCON2022JAPAN",
+						"indices": [
+							116,
+							130
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "IVEstarship",
+						"name": "IVE OFFICIAL",
+						"id": 1402182579265048600,
+						"id_str": "1402182579265048598",
+						"indices": [
+							32,
+							44
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1581266716218138600,
+						"id_str": "1581266716218138624",
+						"indices": [
+							131,
+							154
+						],
+						"media_url": "http://pbs.twimg.com/media/FfHJs1NUoAARUfp.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FfHJs1NUoAARUfp.jpg",
+						"url": "https://t.co/8u3pdmkuQz",
+						"display_url": "pic.twitter.com/8u3pdmkuQz",
+						"expanded_url": "https://twitter.com/kconjapan/status/1581266810908729344/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 1600,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1581266716218138600,
+						"id_str": "1581266716218138624",
+						"indices": [
+							131,
+							154
+						],
+						"media_url": "http://pbs.twimg.com/media/FfHJs1NUoAARUfp.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FfHJs1NUoAARUfp.jpg",
+						"url": "https://t.co/8u3pdmkuQz",
+						"display_url": "pic.twitter.com/8u3pdmkuQz",
+						"expanded_url": "https://twitter.com/kconjapan/status/1581266810908729344/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 1600,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1581266716209709000,
+						"id_str": "1581266716209709058",
+						"indices": [
+							131,
+							154
+						],
+						"media_url": "http://pbs.twimg.com/media/FfHJs1LUAAIYPET.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FfHJs1LUAAIYPET.jpg",
+						"url": "https://t.co/8u3pdmkuQz",
+						"display_url": "pic.twitter.com/8u3pdmkuQz",
+						"expanded_url": "https://twitter.com/kconjapan/status/1581266810908729344/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 1600,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1581266716209709000,
+						"id_str": "1581266716209709057",
+						"indices": [
+							131,
+							154
+						],
+						"media_url": "http://pbs.twimg.com/media/FfHJs1LUAAE8Wzx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FfHJs1LUAAE8Wzx.jpg",
+						"url": "https://t.co/8u3pdmkuQz",
+						"display_url": "pic.twitter.com/8u3pdmkuQz",
+						"expanded_url": "https://twitter.com/kconjapan/status/1581266810908729344/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1200,
+								"h": 1600,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3017029196,
+				"id_str": "3017029196",
+				"name": "KCON Japan",
+				"screen_name": "kconjapan",
+				"location": "",
+				"description": "世界最大級のK-Cultureフェスティバル\n『KCON JAPAN』の公式Twitterです！\n📍10/14（金） ~ 10/16(日）/ 東京・有明アリーナ",
+				"url": "https://t.co/sCRhaGCzOM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/sCRhaGCzOM",
+								"expanded_url": "http://kconjapan.com",
+								"display_url": "kconjapan.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 251645,
+				"friends_count": 158,
+				"listed_count": 505,
+				"created_at": "Thu Feb 12 06:02:55 +0000 2015",
+				"favourites_count": 187,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 7016,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5ABB5",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1554285876041367553/Z3_Jgigb_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1554285876041367553/Z3_Jgigb_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3017029196/1662617121",
+				"profile_link_color": "F5ABB5",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1870,
+			"favorite_count": 5998,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"retweet_count": 12,
+		"favorite_count": 57,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "❤️KCON 2022 JAPAN DAY2 SELFIE💙\n\n두 번 세 번 피곤하게 자꾸 질문하지마~\n케이콘 장점이 뭔지 알아?\n바로 짱이브와 함께인거야☺\nL 다음 O 다음 tto인 이상황 계속되길,,☆★\n\n#KCON #KCON2022JAPAN @IVEstarship https://t.co/0JVAcH5Phc"
+	},
+	{
+		"created_at": "Sat Oct 15 12:58:17 +0000 2022",
+		"id": 1581267521730097200,
+		"id_str": "1581268222296616965",
+		"full_text": "❤️KCON 2022 JAPAN DAY2 SELFIE💙\n\n프떤여자들.. 얼굴, 노래, 춤, 유머 다 가진 그룹..\n하지만 상암 케씨 32대손인 나 케떤 담당자를 가지지 못했지.\n\n#KCON #KCON2022JAPAN @realfromis_9 https://t.co/oMzbxxpnGo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						100,
+						105
+					]
+				},
+				{
+					"text": "KCON2022JAPAN",
+					"indices": [
+						106,
+						120
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "realfromis_9",
+					"name": "fromis_9 [프로미스나인]",
+					"id": 844819971582574600,
+					"id_str": "844819971582574593",
+					"indices": [
+						121,
+						134
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/oMzbxxpnGo",
+					"expanded_url": "https://twitter.com/kconjapan/status/1581266642742321153",
+					"display_url": "twitter.com/kconjapan/stat…",
+					"indices": [
+						135,
+						158
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER\n📍KCON 2022 JAPAN 10/14 ~ 10/16 (JST)",
+			"url": "https://t.co/IDnJhWoZ59",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWoZ59",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 471886,
+			"friends_count": 76,
+			"listed_count": 1140,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 182,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13494,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1567787455188987905/sAYoOtFz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1567787455188987905/sAYoOtFz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1664852417",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1581266642742321200,
+		"quoted_status_id_str": "1581266642742321153",
+		"quoted_status_permalink": {
+			"url": "https://t.co/oMzbxxpnGo",
+			"expanded": "https://twitter.com/kconjapan/status/1581266642742321153",
+			"display": "twitter.com/kconjapan/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Oct 15 12:52:00 +0000 2022",
+			"id": 1581266642742321200,
+			"id_str": "1581266642742321153",
+			"full_text": "❤️KCON 2022 JAPAN DAY2 SELFIE💙\n\n@realfromis_9 の写真を見たんで\nご飯を食べなくても寝てなくても\nビタミンを飲まなくても息を吸わなくても…生きられる💪🥹\n\n#KCON #KCONJAPAN #KCON2022JAPAN https://t.co/nnyHcxGzeI",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				131
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "KCON",
+						"indices": [
+							100,
+							105
+						]
+					},
+					{
+						"text": "KCONJAPAN",
+						"indices": [
+							106,
+							116
+						]
+					},
+					{
+						"text": "KCON2022JAPAN",
+						"indices": [
+							117,
+							131
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "realfromis_9",
+						"name": "fromis_9 [프로미스나인]",
+						"id": 844819971582574600,
+						"id_str": "844819971582574593",
+						"indices": [
+							32,
+							45
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1581266615286390800,
+						"id_str": "1581266615286390784",
+						"indices": [
+							132,
+							155
+						],
+						"media_url": "http://pbs.twimg.com/media/FfHJm9NUYAAz5kk.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FfHJm9NUYAAz5kk.jpg",
+						"url": "https://t.co/nnyHcxGzeI",
+						"display_url": "pic.twitter.com/nnyHcxGzeI",
+						"expanded_url": "https://twitter.com/kconjapan/status/1581266642742321153/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1581266615286390800,
+						"id_str": "1581266615286390784",
+						"indices": [
+							132,
+							155
+						],
+						"media_url": "http://pbs.twimg.com/media/FfHJm9NUYAAz5kk.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FfHJm9NUYAAz5kk.jpg",
+						"url": "https://t.co/nnyHcxGzeI",
+						"display_url": "pic.twitter.com/nnyHcxGzeI",
+						"expanded_url": "https://twitter.com/kconjapan/status/1581266642742321153/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1581266615286440000,
+						"id_str": "1581266615286439936",
+						"indices": [
+							132,
+							155
+						],
+						"media_url": "http://pbs.twimg.com/media/FfHJm9NVIAAD2h1.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FfHJm9NVIAAD2h1.jpg",
+						"url": "https://t.co/nnyHcxGzeI",
+						"display_url": "pic.twitter.com/nnyHcxGzeI",
+						"expanded_url": "https://twitter.com/kconjapan/status/1581266642742321153/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1581266615651299300,
+						"id_str": "1581266615651299328",
+						"indices": [
+							132,
+							155
+						],
+						"media_url": "http://pbs.twimg.com/media/FfHJm-kUcAAhQsN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FfHJm-kUcAAhQsN.jpg",
+						"url": "https://t.co/nnyHcxGzeI",
+						"display_url": "pic.twitter.com/nnyHcxGzeI",
+						"expanded_url": "https://twitter.com/kconjapan/status/1581266642742321153/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3017029196,
+				"id_str": "3017029196",
+				"name": "KCON Japan",
+				"screen_name": "kconjapan",
+				"location": "",
+				"description": "世界最大級のK-Cultureフェスティバル\n『KCON JAPAN』の公式Twitterです！\n📍10/14（金） ~ 10/16(日）/ 東京・有明アリーナ",
+				"url": "https://t.co/sCRhaGCzOM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/sCRhaGCzOM",
+								"expanded_url": "http://kconjapan.com",
+								"display_url": "kconjapan.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 251645,
+				"friends_count": 158,
+				"listed_count": 505,
+				"created_at": "Thu Feb 12 06:02:55 +0000 2015",
+				"favourites_count": 187,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 7016,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5ABB5",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1554285876041367553/Z3_Jgigb_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1554285876041367553/Z3_Jgigb_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3017029196/1662617121",
+				"profile_link_color": "F5ABB5",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 531,
+			"favorite_count": 1589,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"retweet_count": 8,
+		"favorite_count": 34,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "❤️KCON 2022 JAPAN DAY2 SELFIE💙\n\n프떤여자들.. 얼굴, 노래, 춤, 유머 다 가진 그룹..\n하지만 상암 케씨 32대손인 나 케떤 담당자를 가지지 못했지.\n\n#KCON #KCON2022JAPAN @realfromis_9 https://t.co/oMzbxxpnGo"
+	},
+	{
+		"created_at": "Sat Oct 15 12:58:15 +0000 2022",
+		"id": 1581267451144069000,
+		"id_str": "1581268212855234561",
+		"full_text": "❤️KCON 2022 JAPAN DAY2 SELFIE💙\n\n이거 완전 현대판 떡 하나 주면 안 잡아먹지 아니야!!\n오잉또잉?! 케떤담당자 방금 눈뜨고 떡 뺏김??\n떡도 마음도 뺏겼지만 기분 확 좋아져부렀으\n\n#KCON #KCON2022JAPAN @dkz_dy https://t.co/Vbm2DrPYQb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						115,
+						120
+					]
+				},
+				{
+					"text": "KCON2022JAPAN",
+					"indices": [
+						121,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dkz_dy",
+					"name": "DKZ_OFFICIAL",
+					"id": 3128856264,
+					"id_str": "3128856264",
+					"indices": [
+						136,
+						143
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Vbm2DrPYQb",
+					"expanded_url": "https://twitter.com/kconjapan/status/1581266556662661120",
+					"display_url": "twitter.com/kconjapan/stat…",
+					"indices": [
+						144,
+						167
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER\n📍KCON 2022 JAPAN 10/14 ~ 10/16 (JST)",
+			"url": "https://t.co/IDnJhWoZ59",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWoZ59",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 471886,
+			"friends_count": 76,
+			"listed_count": 1140,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 182,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13494,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1567787455188987905/sAYoOtFz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1567787455188987905/sAYoOtFz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1664852417",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1581266556662661000,
+		"quoted_status_id_str": "1581266556662661120",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Vbm2DrPYQb",
+			"expanded": "https://twitter.com/kconjapan/status/1581266556662661120",
+			"display": "twitter.com/kconjapan/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Oct 15 12:51:40 +0000 2022",
+			"id": 1581266556662661000,
+			"id_str": "1581266556662661120",
+			"full_text": "❤️KCON 2022 JAPAN DAY2 SELFIE💙\n\n@dkz_dy の写真を見たんで\nご飯を食べなくても寝てなくても\nビタミンを飲まなくても息を吸わなくても…生きられる💪🥹\n\n#KCON #KCONJAPAN #KCON2022JAPAN https://t.co/IMesgELuj9",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				125
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "KCON",
+						"indices": [
+							94,
+							99
+						]
+					},
+					{
+						"text": "KCONJAPAN",
+						"indices": [
+							100,
+							110
+						]
+					},
+					{
+						"text": "KCON2022JAPAN",
+						"indices": [
+							111,
+							125
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "dkz_dy",
+						"name": "DKZ_OFFICIAL",
+						"id": 3128856264,
+						"id_str": "3128856264",
+						"indices": [
+							32,
+							39
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1581266538119630800,
+						"id_str": "1581266538119630848",
+						"indices": [
+							126,
+							149
+						],
+						"media_url": "http://pbs.twimg.com/media/FfHJidvVEAASd0C.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FfHJidvVEAASd0C.jpg",
+						"url": "https://t.co/IMesgELuj9",
+						"display_url": "pic.twitter.com/IMesgELuj9",
+						"expanded_url": "https://twitter.com/kconjapan/status/1581266556662661120/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1600,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1581266538119630800,
+						"id_str": "1581266538119630848",
+						"indices": [
+							126,
+							149
+						],
+						"media_url": "http://pbs.twimg.com/media/FfHJidvVEAASd0C.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FfHJidvVEAASd0C.jpg",
+						"url": "https://t.co/IMesgELuj9",
+						"display_url": "pic.twitter.com/IMesgELuj9",
+						"expanded_url": "https://twitter.com/kconjapan/status/1581266556662661120/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1600,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3017029196,
+				"id_str": "3017029196",
+				"name": "KCON Japan",
+				"screen_name": "kconjapan",
+				"location": "",
+				"description": "世界最大級のK-Cultureフェスティバル\n『KCON JAPAN』の公式Twitterです！\n📍10/14（金） ~ 10/16(日）/ 東京・有明アリーナ",
+				"url": "https://t.co/sCRhaGCzOM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/sCRhaGCzOM",
+								"expanded_url": "http://kconjapan.com",
+								"display_url": "kconjapan.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 251645,
+				"friends_count": 158,
+				"listed_count": 505,
+				"created_at": "Thu Feb 12 06:02:55 +0000 2015",
+				"favourites_count": 187,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 7016,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5ABB5",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1554285876041367553/Z3_Jgigb_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1554285876041367553/Z3_Jgigb_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3017029196/1662617121",
+				"profile_link_color": "F5ABB5",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 651,
+			"favorite_count": 1250,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"retweet_count": 59,
+		"favorite_count": 104,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "❤️KCON 2022 JAPAN DAY2 SELFIE💙\n\n이거 완전 현대판 떡 하나 주면 안 잡아먹지 아니야!!\n오잉또잉?! 케떤담당자 방금 눈뜨고 떡 뺏김??\n떡도 마음도 뺏겼지만 기분 확 좋아져부렀으\n\n#KCON #KCON2022JAPAN @dkz_dy https://t.co/Vbm2DrPYQb"
+	},
+	{
 		"created_at": "Sat Oct 15 12:11:17 +0000 2022",
 		"id": 1581246945343209500,
 		"id_str": "1581256394426421250",
