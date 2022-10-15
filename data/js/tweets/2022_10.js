@@ -1,6 +1,181 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Sat Oct 15 12:11:17 +0000 2022",
+		"id": 1581246945343209500,
+		"id_str": "1581256394426421250",
+		"full_text": "https://t.co/XQfswhYit2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1581246938292179000,
+					"id_str": "1581246938292178946",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FfG3tmsUUAIKIBn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfG3tmsUUAIKIBn.jpg",
+					"url": "https://t.co/XQfswhYit2",
+					"display_url": "pic.twitter.com/XQfswhYit2",
+					"expanded_url": "https://twitter.com/seendosi/status/1581246945343209473/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1413,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 955,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1581246938292179000,
+					"id_str": "1581246938292178946",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FfG3tmsUUAIKIBn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfG3tmsUUAIKIBn.jpg",
+					"url": "https://t.co/XQfswhYit2",
+					"display_url": "pic.twitter.com/XQfswhYit2",
+					"expanded_url": "https://twitter.com/seendosi/status/1581246945343209473/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1413,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 955,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3225907891,
+			"id_str": "3225907891",
+			"name": "신도시",
+			"screen_name": "seendosi",
+			"location": "서울시 중구 수표동 11-2, 5층",
+			"description": "맥주.양주.커피.식사 /송년회•신년회•돌잔치•회갑연•상견례•생일연•피로연회석완비 /서울시 중구 수표동 11-2 5층 /평일 6PM-2AM /금 6PM-3AM /토 3PM-3AM /일 휴무 /070-8631-4557",
+			"url": "https://t.co/o9mzPvptV6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o9mzPvptV6",
+							"expanded_url": "http://seendosi.com",
+							"display_url": "seendosi.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3795,
+			"friends_count": 669,
+			"listed_count": 24,
+			"created_at": "Mon May 25 05:15:01 +0000 2015",
+			"favourites_count": 2828,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7740,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1242419878239170560/pBD26VQm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1242419878239170560/pBD26VQm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3225907891/1442843307",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zxx",
+		"text": "https://t.co/XQfswhYit2"
+	},
+	{
 		"created_at": "Sat Oct 15 10:58:15 +0000 2022",
 		"id": 1581228971504853000,
 		"id_str": "1581238014419734531",
