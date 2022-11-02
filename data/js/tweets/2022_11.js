@@ -1,6 +1,217 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Wed Nov 02 07:29:25 +0000 2022",
+		"id": 1587700633196380200,
+		"id_str": "1587708442243997697",
+		"full_text": "오는 11월 4일(금)부터 5일(토)까지 양일간 개최 예정이었던 '2022 인순이 전국투어 콘서트' 전주 공연은 이태원 사고에 따른 국가 애도 기간으로 12월로 연기됨을 알려드립니다. \n공연을 기다려주신 팬분들과 관객분들께 죄송한 마음을 담아 사과드리며, 너른 마음으로 양해 부탁드립니다. https://t.co/PA2T1Rcttn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1587700153208623000,
+					"id_str": "1587700153208623104",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/Fgik4JnVUAApPSk.png",
+					"media_url_https": "https://pbs.twimg.com/media/Fgik4JnVUAApPSk.png",
+					"url": "https://t.co/PA2T1Rcttn",
+					"display_url": "pic.twitter.com/PA2T1Rcttn",
+					"expanded_url": "https://twitter.com/humap_official/status/1587700633196380161/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1587700153208623000,
+					"id_str": "1587700153208623104",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/Fgik4JnVUAApPSk.png",
+					"media_url_https": "https://pbs.twimg.com/media/Fgik4JnVUAApPSk.png",
+					"url": "https://t.co/PA2T1Rcttn",
+					"display_url": "pic.twitter.com/PA2T1Rcttn",
+					"expanded_url": "https://twitter.com/humap_official/status/1587700633196380161/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1587700596575916000,
+					"id_str": "1587700596575916052",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/FgilR9SVUBQasq1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FgilR9SVUBQasq1.jpg",
+					"url": "https://t.co/PA2T1Rcttn",
+					"display_url": "pic.twitter.com/PA2T1Rcttn",
+					"expanded_url": "https://twitter.com/humap_official/status/1587700633196380161/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1219506842935513000,
+			"id_str": "1219506842935513088",
+			"name": "휴맵컨텐츠(HUMAP)",
+			"screen_name": "humap_official",
+			"location": "",
+			"description": "휴맵컨텐츠(HUMAP CONTENTS) Official Twitter",
+			"url": "https://t.co/fBZZK3SmX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fBZZK3SmX6",
+							"expanded_url": "http://www.humapcontents.com/",
+							"display_url": "humapcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 384,
+			"friends_count": 2,
+			"listed_count": 2,
+			"created_at": "Tue Jan 21 06:28:27 +0000 2020",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 965,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1219506842935513088/1579755898",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오는 11월 4일(금)부터 5일(토)까지 양일간 개최 예정이었던 '2022 인순이 전국투어 콘서트' 전주 공연은 이태원 사고에 따른 국가 애도 기간으로 12월로 연기됨을 알려드립니다. \n공연을 기다려주신 팬분들과 관객분들께 죄송한 마음을 담아 사과드리며, 너른 마음으로 양해 부탁드립니다. https://t.co/PA2T1Rcttn"
+	},
+	{
 		"created_at": "Wed Nov 02 07:14:23 +0000 2022",
 		"id": 1587704659619106800,
 		"id_str": "1587704659619106816",
