@@ -1,6 +1,195 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Wed Nov 02 16:29:25 +0000 2022",
+		"id": 1587830952549810200,
+		"id_str": "1587844335852208130",
+		"full_text": "처음엔 가벼운 마음으로 시작 했었는데 \n매번 모임때마다 준비가 남다른걸 보면서 \n점점 어깨가 무거워졌다\n오늘은 그 정점을 찍은 시상식!\n공연쟁이들도 쉽지 않은 일인데...대단하다\n콘서트 부문에선 세븐틴이 최우수상!\n내년엔 또 어떤 공연들이 등장할지 기대된다\n#이데일리문화대상 #심사위원 https://t.co/notAClNkET",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이데일리문화대상",
+					"indices": [
+						144,
+						153
+					]
+				},
+				{
+					"text": "심사위원",
+					"indices": [
+						154,
+						159
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1587830949399888000,
+					"id_str": "1587830949399887872",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/Fgkb1fZaAAAAd9A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fgkb1fZaAAAAd9A.jpg",
+					"url": "https://t.co/notAClNkET",
+					"display_url": "pic.twitter.com/notAClNkET",
+					"expanded_url": "https://twitter.com/messenger_yoon/status/1587830952549810177/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 666,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1176,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2007,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1587830949399888000,
+					"id_str": "1587830949399887872",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/Fgkb1fZaAAAAd9A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fgkb1fZaAAAAd9A.jpg",
+					"url": "https://t.co/notAClNkET",
+					"display_url": "pic.twitter.com/notAClNkET",
+					"expanded_url": "https://twitter.com/messenger_yoon/status/1587830952549810177/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 666,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1176,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2007,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 150566482,
+			"id_str": "150566482",
+			"name": "메신져윤(Messenger_Yoon)",
+			"screen_name": "messenger_yoon",
+			"location": "대한민국",
+			"description": "CEO/ 정준일, 낭만유랑악단, 나인(Nine9), 디어클라우드, 권영찬, 위아영(WeAreYoung)/ mymusicent@naver.com",
+			"url": "https://t.co/hvpc0ZvCMw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hvpc0ZvCMw",
+							"expanded_url": "https://youtube.com/channel/UCVCr77USl1_3GTbOhqUMACQ",
+							"display_url": "youtube.com/channel/UCVCr7…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2539,
+			"friends_count": 313,
+			"listed_count": 29,
+			"created_at": "Tue Jun 01 07:29:53 +0000 2010",
+			"favourites_count": 23343,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5868,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1504319027790852100/f3alenoq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1504319027790852100/f3alenoq_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "처음엔 가벼운 마음으로 시작 했었는데 \n매번 모임때마다 준비가 남다른걸 보면서 \n점점 어깨가 무거워졌다\n오늘은 그 정점을 찍은 시상식!\n공연쟁이들도 쉽지 않은 일인데...대단하다\n콘서트 부문에선 세븐틴이 최우수상!\n내년엔 또 어떤 공연들이 등장할지 기대된다\n#이데일리문화대상 #심사위원 https://t.co/notAClNkET"
+	},
+	{
 		"created_at": "Wed Nov 02 10:29:25 +0000 2022",
 		"id": 1587748719130472400,
 		"id_str": "1587753739548491776",
