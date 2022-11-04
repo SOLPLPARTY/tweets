@@ -1,6 +1,181 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Fri Nov 04 11:29:25 +0000 2022",
+		"id": 1588479020622295000,
+		"id_str": "1588493615562620928",
+		"full_text": "[공기남 단독 콘서트 티켓오픈 D-3]\n\n티켓 오픈: 2022.11.07 / PM6시 / 멜론티켓\n티켓 값: 77,000원\n장소: art B project (삼청동)\n주관: 에어뮤직\n------------------------------------------\n선선한 가을, 도심 속 힐링 플레이스\n'삼청동 갤러리'에서 전해질 감성 콘서트 \n[Heal The Body And Soul] https://t.co/Sx5s2yN9m8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			214
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1588479018252218400,
+					"id_str": "1588479018252218371",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/FgtpQEAVsAM6FYg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FgtpQEAVsAM6FYg.jpg",
+					"url": "https://t.co/Sx5s2yN9m8",
+					"display_url": "pic.twitter.com/Sx5s2yN9m8",
+					"expanded_url": "https://twitter.com/misterkkowk/status/1588479020622295040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1358,
+							"h": 1698,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1588479018252218400,
+					"id_str": "1588479018252218371",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/FgtpQEAVsAM6FYg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FgtpQEAVsAM6FYg.jpg",
+					"url": "https://t.co/Sx5s2yN9m8",
+					"display_url": "pic.twitter.com/Sx5s2yN9m8",
+					"expanded_url": "https://twitter.com/misterkkowk/status/1588479020622295040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1358,
+							"h": 1698,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 255994608,
+			"id_str": "255994608",
+			"name": "에어뮤직(Airmusic)",
+			"screen_name": "misterkkowk",
+			"location": "",
+			"description": "공기남(AIRAMN)_Singer Songwriter",
+			"url": "https://t.co/8brmSjSfbN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8brmSjSfbN",
+							"expanded_url": "https://www.youtube.com/channel/UCQu7HT9yzlDacTpi1J6ZuMA",
+							"display_url": "youtube.com/channel/UCQu7H…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 927,
+			"friends_count": 416,
+			"listed_count": 9,
+			"created_at": "Tue Feb 22 12:54:03 +0000 2011",
+			"favourites_count": 5317,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 614,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1429040115871993858/QPqYM-Jl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1429040115871993858/QPqYM-Jl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/255994608/1667556998",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[공기남 단독 콘서트 티켓오픈 D-3]\n\n티켓 오픈: 2022.11.07 / PM6시 / 멜론티켓\n티켓 값: 77,000원\n장소: art B project (삼청동)\n주관: 에어뮤직\n------------------------------------------\n선선한 가을, 도심 속 힐링 플레이스\n'삼청동 갤러리'에서 전해질 감성 콘서트 \n[Heal The Body And Soul] https://t.co/Sx5s2yN9m8"
+	},
+	{
 		"created_at": "Fri Nov 04 11:01:40 +0000 2022",
 		"id": 1588486631295574000,
 		"id_str": "1588486631295574018",
@@ -1286,7 +1461,7 @@ Grailbird.data.tweets_2022_11 =
 		"created_at": "Fri Nov 04 09:55:17 +0000 2022",
 		"id": 1588469926896971800,
 		"id_str": "1588469926896971776",
-		"full_text": "#딩고뮤직 #dingo_music\n[D-1]#디에이드 ‘헤어지지 말자’ 발매 인사 영상❤️‍🔥\nhttps://t.co/6i6ccm6tVh",
+		"full_text": "#딩고뮤직 #dingo_music\n[D-1]#디에이드 ‘헤어지지 말자’ 발매 인사 영상❤️🔥\nhttps://t.co/6i6ccm6tVh",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -1428,7 +1603,7 @@ Grailbird.data.tweets_2022_11 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "#딩고뮤직 #dingo_music\n[D-1]#디에이드 ‘헤어지지 말자’ 발매 인사 영상❤️‍🔥\nhttps://t.co/6i6ccm6tVh"
+		"text": "#딩고뮤직 #dingo_music\n[D-1]#디에이드 ‘헤어지지 말자’ 발매 인사 영상❤️🔥\nhttps://t.co/6i6ccm6tVh"
 	},
 	{
 		"created_at": "Fri Nov 04 09:55:17 +0000 2022",
@@ -2759,7 +2934,7 @@ Grailbird.data.tweets_2022_11 =
 		"created_at": "Fri Nov 04 09:55:17 +0000 2022",
 		"id": 1588469926150275000,
 		"id_str": "1588469926150275073",
-		"full_text": "#딩고뮤직 #dingo_music\n[이슬라이브2] EXID - 불이나, 위아래, IDK(I Don’t Know), 앵콜곡❤️‍🔥ㅣ딩고뮤직ㅣDingo Music\nhttps://t.co/t9bKrRMijt",
+		"full_text": "#딩고뮤직 #dingo_music\n[이슬라이브2] EXID - 불이나, 위아래, IDK(I Don’t Know), 앵콜곡❤️🔥ㅣ딩고뮤직ㅣDingo Music\nhttps://t.co/t9bKrRMijt",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -2894,7 +3069,7 @@ Grailbird.data.tweets_2022_11 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "#딩고뮤직 #dingo_music\n[이슬라이브2] EXID - 불이나, 위아래, IDK(I Don’t Know), 앵콜곡❤️‍🔥ㅣ딩고뮤직ㅣDingo Music\nhttps://t.co/t9bKrRMijt"
+		"text": "#딩고뮤직 #dingo_music\n[이슬라이브2] EXID - 불이나, 위아래, IDK(I Don’t Know), 앵콜곡❤️🔥ㅣ딩고뮤직ㅣDingo Music\nhttps://t.co/t9bKrRMijt"
 	},
 	{
 		"created_at": "Fri Nov 04 09:55:17 +0000 2022",
