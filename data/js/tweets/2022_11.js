@@ -1,6 +1,465 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Fri Nov 04 14:11:19 +0000 2022",
+		"id": 1588529379952689200,
+		"id_str": "1588534359321198592",
+		"full_text": "판매 앨범 리스트를 비롯한 상세 정보는 아래 포스팅을 참고해주세요. \n\nhttps://t.co/g0Ll2kTp5G",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/g0Ll2kTp5G",
+					"expanded_url": "https://m.blog.naver.com/studiozemi/222920006634",
+					"display_url": "m.blog.naver.com/studiozemi/222…",
+					"indices": [
+						40,
+						63
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1588528654791106600,
+		"in_reply_to_status_id_str": "1588528654791106560",
+		"in_reply_to_user_id": 282449618,
+		"in_reply_to_user_id_str": "282449618",
+		"in_reply_to_screen_name": "studio_zemi",
+		"user": {
+			"id": 282449618,
+			"id_str": "282449618",
+			"name": "재미공작소",
+			"screen_name": "studio_zemi",
+			"location": "서울시 영등포구 문래동 3가 58-84 1층 왼편",
+			"description": "재미공작소는 서울 문래동에 위치한 문화예술공간입니다. (Since 2011) 공연, 문학 행사, 팝업숍, 전시, 창작 워크숍, 출판, 캘린더 갤러리 등 '재미있는 일'을 기획하고 진행합니다. 재미공작소의 일정 및 예약 관련 정보는 아래 홈블로그 링크에서 바로 확인하실 수 있습니다.",
+			"url": "https://t.co/aLQQKE9ltK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aLQQKE9ltK",
+							"expanded_url": "http://blog.naver.com/studiozemi",
+							"display_url": "blog.naver.com/studiozemi",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8307,
+			"friends_count": 533,
+			"listed_count": 76,
+			"created_at": "Fri Apr 15 07:08:52 +0000 2011",
+			"favourites_count": 2407,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14872,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/282449618/1398647875",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "판매 앨범 리스트를 비롯한 상세 정보는 아래 포스팅을 참고해주세요. \n\nhttps://t.co/g0Ll2kTp5G"
+	},
+	{
+		"created_at": "Fri Nov 04 14:11:17 +0000 2022",
+		"id": 1588528654791106600,
+		"id_str": "1588534350357954560",
+		"full_text": "📣재미공작소가 이번 주말(11.5~6) 문화역서울284에서 열리는 제11회 서울레코드페어에 참여합니다. \n\n재미공작소 부스(2층 F13)에서는 재미공작소 출간 음악 관련 도서들, 재미공작소에서 입고 판매 중인 음반 중 시중 온라인 판매처에서 구하기 힘든 국내 인디 앨범들이 판매됩니다. https://t.co/QO5gNKruJE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1588528570007097300,
+					"id_str": "1588528570007097344",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/FguWUWrVEAAxXFZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FguWUWrVEAAxXFZ.jpg",
+					"url": "https://t.co/QO5gNKruJE",
+					"display_url": "pic.twitter.com/QO5gNKruJE",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1588528654791106560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1588528570007097300,
+					"id_str": "1588528570007097344",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/FguWUWrVEAAxXFZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FguWUWrVEAAxXFZ.jpg",
+					"url": "https://t.co/QO5gNKruJE",
+					"display_url": "pic.twitter.com/QO5gNKruJE",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1588528654791106560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1588528570007027700,
+					"id_str": "1588528570007027713",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/FguWUWrUAAE-Plk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FguWUWrUAAE-Plk.jpg",
+					"url": "https://t.co/QO5gNKruJE",
+					"display_url": "pic.twitter.com/QO5gNKruJE",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1588528654791106560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1712,
+							"h": 1712,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 282449618,
+			"id_str": "282449618",
+			"name": "재미공작소",
+			"screen_name": "studio_zemi",
+			"location": "서울시 영등포구 문래동 3가 58-84 1층 왼편",
+			"description": "재미공작소는 서울 문래동에 위치한 문화예술공간입니다. (Since 2011) 공연, 문학 행사, 팝업숍, 전시, 창작 워크숍, 출판, 캘린더 갤러리 등 '재미있는 일'을 기획하고 진행합니다. 재미공작소의 일정 및 예약 관련 정보는 아래 홈블로그 링크에서 바로 확인하실 수 있습니다.",
+			"url": "https://t.co/aLQQKE9ltK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aLQQKE9ltK",
+							"expanded_url": "http://blog.naver.com/studiozemi",
+							"display_url": "blog.naver.com/studiozemi",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8307,
+			"friends_count": 533,
+			"listed_count": 76,
+			"created_at": "Fri Apr 15 07:08:52 +0000 2011",
+			"favourites_count": 2407,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14872,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/282449618/1398647875",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📣재미공작소가 이번 주말(11.5~6) 문화역서울284에서 열리는 제11회 서울레코드페어에 참여합니다. \n\n재미공작소 부스(2층 F13)에서는 재미공작소 출간 음악 관련 도서들, 재미공작소에서 입고 판매 중인 음반 중 시중 온라인 판매처에서 구하기 힘든 국내 인디 앨범들이 판매됩니다. https://t.co/QO5gNKruJE"
+	},
+	{
+		"created_at": "Fri Nov 04 13:37:26 +0000 2022",
+		"id": 1588525834129887200,
+		"id_str": "1588525834129887241",
+		"full_text": "#서울뮤직 #SEOUL_MUSIC\n[MV] 스윗소로우 (SWEET SORROW) - 러브 드라이브 (Love Drive) (Feat. meenoi) / Official Music Video\nhttps://t.co/Fz0Ptt2fRH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "서울뮤직",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "SEOUL_MUSIC",
+					"indices": [
+						6,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Fz0Ptt2fRH",
+					"expanded_url": "https://youtu.be/KZYXv88DhMQ",
+					"display_url": "youtu.be/KZYXv88DhMQ",
+					"indices": [
+						106,
+						129
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 258,
+			"friends_count": 460,
+			"listed_count": 5,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 234,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 90594,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1585495630180683776/k-0BAl3I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1585495630180683776/k-0BAl3I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#서울뮤직 #SEOUL_MUSIC\n[MV] 스윗소로우 (SWEET SORROW) - 러브 드라이브 (Love Drive) (Feat. meenoi) / Official Music Video\nhttps://t.co/Fz0Ptt2fRH"
+	},
+	{
 		"created_at": "Fri Nov 04 11:29:25 +0000 2022",
 		"id": 1588479020622295000,
 		"id_str": "1588493615562620928",
