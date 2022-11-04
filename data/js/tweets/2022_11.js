@@ -1,6 +1,409 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Fri Nov 04 06:29:48 +0000 2022",
+		"id": 1588416461638246400,
+		"id_str": "1588418214622633986",
+		"full_text": "지난 밤 김새녘의 조부께서 영면하셨습니다. 삼가 고인의 명복을 빕니다. 이에 11월 6일 예정되었던 'fall in scent'의 공연은 참여하지 못하게 됐습니다. 양해 부탁드립니다. 이 글 보는 분들도 짧게나마 명복을 빌어 주세요. 감사합니다. https://t.co/gmEqvA9GpA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1588416450187837400,
+					"id_str": "1588416450187837440",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/FgswWHzVQAAXe5z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FgswWHzVQAAXe5z.jpg",
+					"url": "https://t.co/gmEqvA9GpA",
+					"display_url": "pic.twitter.com/gmEqvA9GpA",
+					"expanded_url": "https://twitter.com/YOUNGGIFTEDWACK/status/1588416461638246401/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1588416450187837400,
+					"id_str": "1588416450187837440",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/FgswWHzVQAAXe5z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FgswWHzVQAAXe5z.jpg",
+					"url": "https://t.co/gmEqvA9GpA",
+					"display_url": "pic.twitter.com/gmEqvA9GpA",
+					"expanded_url": "https://twitter.com/YOUNGGIFTEDWACK/status/1588416461638246401/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1588416450179391500,
+					"id_str": "1588416450179391488",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/FgswWHxUYAAhpDO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FgswWHxUYAAhpDO.jpg",
+					"url": "https://t.co/gmEqvA9GpA",
+					"display_url": "pic.twitter.com/gmEqvA9GpA",
+					"expanded_url": "https://twitter.com/YOUNGGIFTEDWACK/status/1588416461638246401/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 602961088,
+			"id_str": "602961088",
+			"name": "영기획YOUNG,GIFTED&WACK",
+			"screen_name": "YOUNGGIFTEDWACK",
+			"location": "contact@younggiftedwack.com",
+			"description": "영기획 또는 영기프티드앤왝YOUNG,GIFTED&WACK이라 부릅니다. 👁✨🔥🌈🌊🍬한 음악가의 음반을 발매하고 함께 일합니다. 한국 유일의 일렉트로닉 음악 페어 ⚡️암페어Amfair⚡️를 주최하기도 했네요.",
+			"url": "https://t.co/GrmXeBFIAu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GrmXeBFIAu",
+							"expanded_url": "http://youtube.com/younggiftedwack",
+							"display_url": "youtube.com/younggiftedwack",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3492,
+			"friends_count": 1181,
+			"listed_count": 51,
+			"created_at": "Fri Jun 08 18:17:47 +0000 2012",
+			"favourites_count": 635,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11116,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/711579321974927362/OySoIaFL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/711579321974927362/OySoIaFL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/602961088/1570678223",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "지난 밤 김새녘의 조부께서 영면하셨습니다. 삼가 고인의 명복을 빕니다. 이에 11월 6일 예정되었던 'fall in scent'의 공연은 참여하지 못하게 됐습니다. 양해 부탁드립니다. 이 글 보는 분들도 짧게나마 명복을 빌어 주세요. 감사합니다. https://t.co/gmEqvA9GpA"
+	},
+	{
+		"created_at": "Fri Nov 04 06:29:40 +0000 2022",
+		"id": 1588410794731253800,
+		"id_str": "1588418180204167168",
+		"full_text": "▪페퍼톤스 [2022 PEPPERTONES CONCERT ‘THOUSAND UMBRELLAS’]\n- 티켓 오픈 : 2022. 11. 09. (수) 8PM\n- 예매처 : YES24 공연, 인터파크 티켓\n\n감사합니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1588410792700891100,
+		"in_reply_to_status_id_str": "1588410792700891136",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official",
+			"url": "https://t.co/XSWWwEx210",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEx210",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40493,
+			"friends_count": 12,
+			"listed_count": 0,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5567,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1666692231",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "▪페퍼톤스 [2022 PEPPERTONES CONCERT ‘THOUSAND UMBRELLAS’]\n- 티켓 오픈 : 2022. 11. 09. (수) 8PM\n- 예매처 : YES24 공연, 인터파크 티켓\n\n감사합니다."
+	},
+	{
+		"created_at": "Fri Nov 04 06:29:34 +0000 2022",
+		"id": 1588410792700891100,
+		"id_str": "1588418154203697152",
+		"full_text": "▪적재 정규 2집 [The LIGHTS] \n- 앨범 발매 : 2022. 11. 09. (수) 6PM\n- 팬사인회 당첨자 발표 및 일정 안내 : 2022. 11. 09. (수) 5PM\n\n▪루시드폴 정규 10집 [목소리와 기타]\n- LP / 카세트 테이프 예약 판매 : 2022. 11. 08. (화) 2PM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1588410790008062000,
+		"in_reply_to_status_id_str": "1588410790008061952",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official",
+			"url": "https://t.co/XSWWwEx210",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEx210",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40493,
+			"friends_count": 12,
+			"listed_count": 0,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5567,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1666692231",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "▪적재 정규 2집 [The LIGHTS] \n- 앨범 발매 : 2022. 11. 09. (수) 6PM\n- 팬사인회 당첨자 발표 및 일정 안내 : 2022. 11. 09. (수) 5PM\n\n▪루시드폴 정규 10집 [목소리와 기타]\n- LP / 카세트 테이프 예약 판매 : 2022. 11. 08. (화) 2PM"
+	},
+	{
 		"created_at": "Fri Nov 04 05:50:10 +0000 2022",
 		"id": 1588408240781394000,
 		"id_str": "1588408240781393921",
@@ -145,7 +548,7 @@ Grailbird.data.tweets_2022_11 =
 		"created_at": "Fri Nov 04 05:50:10 +0000 2022",
 		"id": 1588408240483709000,
 		"id_str": "1588408240483708929",
-		"full_text": "#딩고뮤직 #dingo_music\n카더가든 킬링보이스 기다리는 사람?? 🙋‍♀️\nhttps://t.co/BtR8L20Qor",
+		"full_text": "#딩고뮤직 #dingo_music\n카더가든 킬링보이스 기다리는 사람?? 🙋♀️\nhttps://t.co/BtR8L20Qor",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -280,7 +683,7 @@ Grailbird.data.tweets_2022_11 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "#딩고뮤직 #dingo_music\n카더가든 킬링보이스 기다리는 사람?? 🙋‍♀️\nhttps://t.co/BtR8L20Qor"
+		"text": "#딩고뮤직 #dingo_music\n카더가든 킬링보이스 기다리는 사람?? 🙋♀️\nhttps://t.co/BtR8L20Qor"
 	},
 	{
 		"created_at": "Fri Nov 04 05:50:10 +0000 2022",
