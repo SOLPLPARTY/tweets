@@ -1,6 +1,113 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Sat Nov 05 07:29:29 +0000 2022",
+		"id": 1588792078192234500,
+		"id_str": "1588795622840274944",
+		"full_text": "구매 링크 \nhttps://t.co/9nzdbh5JdS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			30
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9nzdbh5JdS",
+					"expanded_url": "http://linktr.ee/rulooralarecords",
+					"display_url": "linktr.ee/rulooralarecor…",
+					"indices": [
+						7,
+						30
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1588107083085668400,
+		"in_reply_to_status_id_str": "1588107083085668353",
+		"in_reply_to_user_id": 1491651207051415600,
+		"in_reply_to_user_id_str": "1491651207051415556",
+		"in_reply_to_screen_name": "rulooralarecord",
+		"user": {
+			"id": 1491651207051415600,
+			"id_str": "1491651207051415556",
+			"name": "한장의 룰루랄라",
+			"screen_name": "rulooralarecord",
+			"location": "",
+			"description": "음악의 결을 붙잡아 마음에 새기는 일",
+			"url": "https://t.co/UlPV4ZIrJA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UlPV4ZIrJA",
+							"expanded_url": "https://linktr.ee/rulooralarecords",
+							"display_url": "linktr.ee/rulooralarecor…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 126,
+			"friends_count": 17,
+			"listed_count": 4,
+			"created_at": "Thu Feb 10 05:52:27 +0000 2022",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 85,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1491651436332994560/QI62onIq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1491651436332994560/QI62onIq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1491651207051415556/1667469251",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "구매 링크 \nhttps://t.co/9nzdbh5JdS"
+	},
+	{
 		"created_at": "Sat Nov 05 05:29:25 +0000 2022",
 		"id": 1588752433681137700,
 		"id_str": "1588765405992165381",
