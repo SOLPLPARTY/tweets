@@ -1,6 +1,217 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Sat Nov 05 05:29:25 +0000 2022",
+		"id": 1588752433681137700,
+		"id_str": "1588765405992165381",
+		"full_text": "오늘내일 서울레코드페어에 오시면 재미공작소 부스에서 김목인, 다정의 바이닐/시디를 판매합니다. 재미공작소에서 시중에서 구입할 수 없는 일뮤 음반도 다수 판매하고 있습니다🎉 문화역서울284 본관2층 https://t.co/7xNOj0wkVV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1588752421324324900,
+					"id_str": "1588752421324324864",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/Fgxh6N0UAAA9nEc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fgxh6N0UAAA9nEc.jpg",
+					"url": "https://t.co/7xNOj0wkVV",
+					"display_url": "pic.twitter.com/7xNOj0wkVV",
+					"expanded_url": "https://twitter.com/electric_muse/status/1588752433681137665/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1588752421324324900,
+					"id_str": "1588752421324324864",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/Fgxh6N0UAAA9nEc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fgxh6N0UAAA9nEc.jpg",
+					"url": "https://t.co/7xNOj0wkVV",
+					"display_url": "pic.twitter.com/7xNOj0wkVV",
+					"expanded_url": "https://twitter.com/electric_muse/status/1588752433681137665/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1588752421328588800,
+					"id_str": "1588752421328588800",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/Fgxh6N1VEAAdDqJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fgxh6N1VEAAdDqJ.jpg",
+					"url": "https://t.co/7xNOj0wkVV",
+					"display_url": "pic.twitter.com/7xNOj0wkVV",
+					"expanded_url": "https://twitter.com/electric_muse/status/1588752433681137665/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 49219598,
+			"id_str": "49219598",
+			"name": "Electric Muse",
+			"screen_name": "electric_muse",
+			"location": "",
+			"description": "We're indie record label in Seoul since 2006 / Contact electricmuse@naver.com",
+			"url": "https://t.co/Xm46jXAPqj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Xm46jXAPqj",
+							"expanded_url": "http://electricmuse.bandcamp.com",
+							"display_url": "electricmuse.bandcamp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3302,
+			"friends_count": 1287,
+			"listed_count": 106,
+			"created_at": "Sun Jun 21 03:37:47 +0000 2009",
+			"favourites_count": 6845,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26284,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1345631035782909952/HMJD1AoS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1345631035782909952/HMJD1AoS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/49219598/1502256266",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘내일 서울레코드페어에 오시면 재미공작소 부스에서 김목인, 다정의 바이닐/시디를 판매합니다. 재미공작소에서 시중에서 구입할 수 없는 일뮤 음반도 다수 판매하고 있습니다🎉 문화역서울284 본관2층 https://t.co/7xNOj0wkVV"
+	},
+	{
 		"created_at": "Sat Nov 05 03:50:41 +0000 2022",
 		"id": 1588740558368829400,
 		"id_str": "1588740558368829440",
@@ -5002,7 +5213,7 @@ Grailbird.data.tweets_2022_11 =
 		"created_at": "Sat Nov 05 03:27:20 +0000 2022",
 		"id": 1588734683235291100,
 		"id_str": "1588734683235291137",
-		"full_text": "#유니버설뮤직코리아 #Universal_Music_Korea\n사랑하는 사람에게 혹시나 짐이 될까.. 하고 싶은 말을 삼켜본 적 있다면❤‍🩹 | 이담 (Etham) - Hurts Out Loud (Feat. Danni) (가사/한글/해석)\nhttps://t.co/NiI19jQvYn",
+		"full_text": "#유니버설뮤직코리아 #Universal_Music_Korea\n사랑하는 사람에게 혹시나 짐이 될까.. 하고 싶은 말을 삼켜본 적 있다면❤🩹 | 이담 (Etham) - Hurts Out Loud (Feat. Danni) (가사/한글/해석)\nhttps://t.co/NiI19jQvYn",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -5137,7 +5348,7 @@ Grailbird.data.tweets_2022_11 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "#유니버설뮤직코리아 #Universal_Music_Korea\n사랑하는 사람에게 혹시나 짐이 될까.. 하고 싶은 말을 삼켜본 적 있다면❤‍🩹 | 이담 (Etham) - Hurts Out Loud (Feat. Danni) (가사/한글/해석)\nhttps://t.co/NiI19jQvYn"
+		"text": "#유니버설뮤직코리아 #Universal_Music_Korea\n사랑하는 사람에게 혹시나 짐이 될까.. 하고 싶은 말을 삼켜본 적 있다면❤🩹 | 이담 (Etham) - Hurts Out Loud (Feat. Danni) (가사/한글/해석)\nhttps://t.co/NiI19jQvYn"
 	},
 	{
 		"created_at": "Sat Nov 05 03:27:20 +0000 2022",
