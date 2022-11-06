@@ -1,6 +1,203 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Sun Nov 06 01:29:25 +0000 2022",
+		"id": 1589061395064422400,
+		"id_str": "1589067395888562178",
+		"full_text": "#HappyKANGTADay 🎂🎉⠀⠀⠀⠀⠀⠀⠀\n#221103 #강타 #KANGTA https://t.co/4yg9OWrBJz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HappyKANGTADay",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"text": "강타",
+					"indices": [
+						34,
+						37
+					]
+				},
+				{
+					"text": "KANGTA",
+					"indices": [
+						38,
+						45
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1589061382674083800,
+					"id_str": "1589061382674083840",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/Fg166IiUcAAdpax.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fg166IiUcAAdpax.jpg",
+					"url": "https://t.co/4yg9OWrBJz",
+					"display_url": "pic.twitter.com/4yg9OWrBJz",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1589061395064422400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1589061382674083800,
+					"id_str": "1589061382674083840",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/Fg166IiUcAAdpax.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fg166IiUcAAdpax.jpg",
+					"url": "https://t.co/4yg9OWrBJz",
+					"display_url": "pic.twitter.com/4yg9OWrBJz",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1589061395064422400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11266672,
+			"friends_count": 55,
+			"listed_count": 12663,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2043,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13113,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1586422828147974144/eRSNnR48_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1586422828147974144/eRSNnR48_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1667067652",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 315,
+		"favorite_count": 2242,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#HappyKANGTADay 🎂🎉⠀⠀⠀⠀⠀⠀⠀\n#221103 #강타 #KANGTA https://t.co/4yg9OWrBJz"
+	},
+	{
 		"created_at": "Sat Nov 05 11:11:17 +0000 2022",
 		"id": 1588848607548973000,
 		"id_str": "1588851440914661377",
