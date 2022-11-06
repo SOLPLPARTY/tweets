@@ -1,6 +1,227 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Sun Nov 06 10:29:31 +0000 2022",
+		"id": 1589198034638078000,
+		"id_str": "1589203316868874240",
+		"full_text": "요조 NEW EP '이름들(Names)'\n2022. 11. 11. 6PM\n\n요조의 새 EP '이름들(Names)'. 이번 앨범 작업에는 프로듀서이자 작곡가로서 언니네이발관의 이능룡 님이 함께 해주셨답니다. 두 사람이 함께 완성한 7개 트랙. 전체 음원은 11/11 (금) 저녁 6시부터 주요 음원 사이트에서 감상할 수 있습니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1589197731981324300,
+		"in_reply_to_status_id_str": "1589197731981324288",
+		"in_reply_to_user_id": 263751129,
+		"in_reply_to_user_id_str": "263751129",
+		"in_reply_to_screen_name": "msbsound",
+		"user": {
+			"id": 263751129,
+			"id_str": "263751129",
+			"name": "매직스트로베리사운드",
+			"screen_name": "msbsound",
+			"location": "Republic of Korea",
+			"description": "매직스트로베리사운드 MAGIC STRAWBERRY SOUND / Music label based in Korea",
+			"url": "https://t.co/2ZpTkjSqKw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2ZpTkjSqKw",
+							"expanded_url": "http://www.msbsound.com/",
+							"display_url": "msbsound.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9021,
+			"friends_count": 24,
+			"listed_count": 103,
+			"created_at": "Thu Mar 10 17:31:19 +0000 2011",
+			"favourites_count": 90,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6509,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477118678395420674/4eouOYtl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477118678395420674/4eouOYtl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/263751129/1641007512",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "요조 NEW EP '이름들(Names)'\n2022. 11. 11. 6PM\n\n요조의 새 EP '이름들(Names)'. 이번 앨범 작업에는 프로듀서이자 작곡가로서 언니네이발관의 이능룡 님이 함께 해주셨답니다. 두 사람이 함께 완성한 7개 트랙. 전체 음원은 11/11 (금) 저녁 6시부터 주요 음원 사이트에서 감상할 수 있습니다."
+	},
+	{
+		"created_at": "Sun Nov 06 10:29:27 +0000 2022",
+		"id": 1589196338004381700,
+		"id_str": "1589203299651166208",
+		"full_text": "요조가 쓰고, 읽고, 생각하고, 꿈꾸는 동안 마주친 &lt;이름들&gt;, Coming Soon.  \n\n#Yozoh #요조 #이름들 #Names",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Yozoh",
+					"indices": [
+						58,
+						64
+					]
+				},
+				{
+					"text": "요조",
+					"indices": [
+						65,
+						68
+					]
+				},
+				{
+					"text": "이름들",
+					"indices": [
+						69,
+						73
+					]
+				},
+				{
+					"text": "Names",
+					"indices": [
+						74,
+						80
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1589196233243230200,
+		"in_reply_to_status_id_str": "1589196233243230209",
+		"in_reply_to_user_id": 263751129,
+		"in_reply_to_user_id_str": "263751129",
+		"in_reply_to_screen_name": "msbsound",
+		"user": {
+			"id": 263751129,
+			"id_str": "263751129",
+			"name": "매직스트로베리사운드",
+			"screen_name": "msbsound",
+			"location": "Republic of Korea",
+			"description": "매직스트로베리사운드 MAGIC STRAWBERRY SOUND / Music label based in Korea",
+			"url": "https://t.co/2ZpTkjSqKw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2ZpTkjSqKw",
+							"expanded_url": "http://www.msbsound.com/",
+							"display_url": "msbsound.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9021,
+			"friends_count": 24,
+			"listed_count": 103,
+			"created_at": "Thu Mar 10 17:31:19 +0000 2011",
+			"favourites_count": 90,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6509,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477118678395420674/4eouOYtl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477118678395420674/4eouOYtl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/263751129/1641007512",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "요조가 쓰고, 읽고, 생각하고, 꿈꾸는 동안 마주친 &lt;이름들&gt;, Coming Soon.  \n\n#Yozoh #요조 #이름들 #Names"
+	},
+	{
 		"created_at": "Sun Nov 06 09:29:34 +0000 2022",
 		"id": 1589184137570975700,
 		"id_str": "1589188230271959040",
