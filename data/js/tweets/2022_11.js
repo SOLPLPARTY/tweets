@@ -1,6 +1,243 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Sun Nov 06 15:29:27 +0000 2022",
+		"id": 1589271611605409800,
+		"id_str": "1589278797966229504",
+		"full_text": "#JUKJAE\n#TheLIGHTS \n#SAY #빛 #너나나나 #바람이불어오네 \n#그대 #Berklee #사라질까봐 \n#Runaway #나일테니까 #TheLights #LightsOn \n#Lights #SameSame #BlowsInMyMind \n#YOU #Disappear #InTheEnd\n#20221109_6PM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JUKJAE",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "TheLIGHTS",
+					"indices": [
+						8,
+						18
+					]
+				},
+				{
+					"text": "SAY",
+					"indices": [
+						20,
+						24
+					]
+				},
+				{
+					"text": "빛",
+					"indices": [
+						25,
+						27
+					]
+				},
+				{
+					"text": "너나나나",
+					"indices": [
+						28,
+						33
+					]
+				},
+				{
+					"text": "바람이불어오네",
+					"indices": [
+						34,
+						42
+					]
+				},
+				{
+					"text": "그대",
+					"indices": [
+						44,
+						47
+					]
+				},
+				{
+					"text": "Berklee",
+					"indices": [
+						48,
+						56
+					]
+				},
+				{
+					"text": "사라질까봐",
+					"indices": [
+						57,
+						63
+					]
+				},
+				{
+					"text": "Runaway",
+					"indices": [
+						65,
+						73
+					]
+				},
+				{
+					"text": "나일테니까",
+					"indices": [
+						74,
+						80
+					]
+				},
+				{
+					"text": "TheLights",
+					"indices": [
+						81,
+						91
+					]
+				},
+				{
+					"text": "LightsOn",
+					"indices": [
+						92,
+						101
+					]
+				},
+				{
+					"text": "Lights",
+					"indices": [
+						103,
+						110
+					]
+				},
+				{
+					"text": "SameSame",
+					"indices": [
+						111,
+						120
+					]
+				},
+				{
+					"text": "BlowsInMyMind",
+					"indices": [
+						121,
+						135
+					]
+				},
+				{
+					"text": "YOU",
+					"indices": [
+						137,
+						141
+					]
+				},
+				{
+					"text": "Disappear",
+					"indices": [
+						142,
+						152
+					]
+				},
+				{
+					"text": "InTheEnd",
+					"indices": [
+						153,
+						162
+					]
+				},
+				{
+					"text": "20221109_6PM",
+					"indices": [
+						163,
+						176
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1589271393329246200,
+		"in_reply_to_status_id_str": "1589271393329246208",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 적재 정규 2집 'The LIGHTS' 2022. 11. 09. 6PM Release",
+			"url": "https://t.co/XSWWwEx210",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEx210",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40476,
+			"friends_count": 12,
+			"listed_count": 377,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5569,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1666692231",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "qht",
+		"text": "#JUKJAE\n#TheLIGHTS \n#SAY #빛 #너나나나 #바람이불어오네 \n#그대 #Berklee #사라질까봐 \n#Runaway #나일테니까 #TheLights #LightsOn \n#Lights #SameSame #BlowsInMyMind \n#YOU #Disappear #InTheEnd\n#20221109_6PM"
+	},
+	{
 		"created_at": "Sun Nov 06 10:29:31 +0000 2022",
 		"id": 1589198034638078000,
 		"id_str": "1589203316868874240",
