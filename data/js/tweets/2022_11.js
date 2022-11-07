@@ -1,6 +1,488 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Mon Nov 07 15:29:35 +0000 2022",
+		"id": 1589634237061566500,
+		"id_str": "1589641220019539968",
+		"full_text": "#JUKJAE\n#백예린 #yerinbaek\n#TheLIGHTS #빛 #Lights\n#SAY #너나나나 #바람이불어오네 \n#그대 #Berklee #사라질까봐 \n#Runaway #나일테니까 #TheLights #LightsOn \n#SameSame #BlowsInMyMind \n#YOU #Disappear #InTheEnd\n#20221109_6PM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			191
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JUKJAE",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "백예린",
+					"indices": [
+						8,
+						12
+					]
+				},
+				{
+					"text": "yerinbaek",
+					"indices": [
+						13,
+						23
+					]
+				},
+				{
+					"text": "TheLIGHTS",
+					"indices": [
+						24,
+						34
+					]
+				},
+				{
+					"text": "빛",
+					"indices": [
+						35,
+						37
+					]
+				},
+				{
+					"text": "Lights",
+					"indices": [
+						38,
+						45
+					]
+				},
+				{
+					"text": "SAY",
+					"indices": [
+						46,
+						50
+					]
+				},
+				{
+					"text": "너나나나",
+					"indices": [
+						51,
+						56
+					]
+				},
+				{
+					"text": "바람이불어오네",
+					"indices": [
+						57,
+						65
+					]
+				},
+				{
+					"text": "그대",
+					"indices": [
+						67,
+						70
+					]
+				},
+				{
+					"text": "Berklee",
+					"indices": [
+						71,
+						79
+					]
+				},
+				{
+					"text": "사라질까봐",
+					"indices": [
+						80,
+						86
+					]
+				},
+				{
+					"text": "Runaway",
+					"indices": [
+						88,
+						96
+					]
+				},
+				{
+					"text": "나일테니까",
+					"indices": [
+						97,
+						103
+					]
+				},
+				{
+					"text": "TheLights",
+					"indices": [
+						104,
+						114
+					]
+				},
+				{
+					"text": "LightsOn",
+					"indices": [
+						115,
+						124
+					]
+				},
+				{
+					"text": "SameSame",
+					"indices": [
+						126,
+						135
+					]
+				},
+				{
+					"text": "BlowsInMyMind",
+					"indices": [
+						136,
+						150
+					]
+				},
+				{
+					"text": "YOU",
+					"indices": [
+						152,
+						156
+					]
+				},
+				{
+					"text": "Disappear",
+					"indices": [
+						157,
+						167
+					]
+				},
+				{
+					"text": "InTheEnd",
+					"indices": [
+						168,
+						177
+					]
+				},
+				{
+					"text": "20221109_6PM",
+					"indices": [
+						178,
+						191
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1589634232984686600,
+		"in_reply_to_status_id_str": "1589634232984686592",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 적재 정규 2집 'The LIGHTS' 2022. 11. 09. 6PM Release",
+			"url": "https://t.co/XSWWwEx210",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEx210",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40478,
+			"friends_count": 12,
+			"listed_count": 377,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5573,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1666692231",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "qht",
+		"text": "#JUKJAE\n#백예린 #yerinbaek\n#TheLIGHTS #빛 #Lights\n#SAY #너나나나 #바람이불어오네 \n#그대 #Berklee #사라질까봐 \n#Runaway #나일테니까 #TheLights #LightsOn \n#SameSame #BlowsInMyMind \n#YOU #Disappear #InTheEnd\n#20221109_6PM"
+	},
+	{
+		"created_at": "Mon Nov 07 15:29:27 +0000 2022",
+		"id": 1589634232984686600,
+		"id_str": "1589641185802567681",
+		"full_text": "[#Teaser] #적재\n\n적재 정규 2집 [The LIGHTS]\nJUKJAE 2nd Full Album [The LIGHTS]\n\n✨ ‘빛 (Feat. 백예린)' Moving Poster\nhttps://t.co/TgwBaY8oW3\n\n2022. 11. 09. 6PM Release https://t.co/Ch6rqjtIDE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Teaser",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "적재",
+					"indices": [
+						10,
+						13
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TgwBaY8oW3",
+					"expanded_url": "https://youtube.com/shorts/i_EN3_HnyBY?feature=share",
+					"display_url": "youtube.com/shorts/i_EN3_H…",
+					"indices": [
+						105,
+						128
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1589634197517308000,
+					"id_str": "1589634197517307904",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1589634197517307904/pu/img/buDglpiBzJg9oN8d.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1589634197517307904/pu/img/buDglpiBzJg9oN8d.jpg",
+					"url": "https://t.co/Ch6rqjtIDE",
+					"display_url": "pic.twitter.com/Ch6rqjtIDE",
+					"expanded_url": "https://twitter.com/antennamusic/status/1589634232984686592/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1589634197517308000,
+					"id_str": "1589634197517307904",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1589634197517307904/pu/img/buDglpiBzJg9oN8d.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1589634197517307904/pu/img/buDglpiBzJg9oN8d.jpg",
+					"url": "https://t.co/Ch6rqjtIDE",
+					"display_url": "pic.twitter.com/Ch6rqjtIDE",
+					"expanded_url": "https://twitter.com/antennamusic/status/1589634232984686592/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 8216,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1589634197517307904/pu/pl/A7QxBiYyNICQoX-U.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1589634197517307904/pu/vid/720x1280/Pkz28GImKnoxj0nR.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1589634197517307904/pu/vid/320x568/UbhX0ACxSu6BqJ07.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1589634197517307904/pu/vid/480x852/YwPBQ0IyVdiZcelT.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 적재 정규 2집 'The LIGHTS' 2022. 11. 09. 6PM Release",
+			"url": "https://t.co/XSWWwEx210",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEx210",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40478,
+			"friends_count": 12,
+			"listed_count": 377,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5573,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1666692231",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 127,
+		"favorite_count": 134,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Teaser] #적재\n\n적재 정규 2집 [The LIGHTS]\nJUKJAE 2nd Full Album [The LIGHTS]\n\n✨ ‘빛 (Feat. 백예린)' Moving Poster\nhttps://t.co/TgwBaY8oW3\n\n2022. 11. 09. 6PM Release https://t.co/Ch6rqjtIDE"
+	},
+	{
 		"created_at": "Mon Nov 07 14:11:29 +0000 2022",
 		"id": 1589561046284615700,
 		"id_str": "1589621566257733633",
