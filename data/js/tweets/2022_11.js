@@ -1,6 +1,849 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Mon Nov 07 06:11:22 +0000 2022",
+		"id": 1589495781199052800,
+		"id_str": "1589500739981901825",
+		"full_text": "✔️행사 일정 : 2022.11.12.(토) \n\n#맵맵클럽라이브 #MapMapClubLive #매핑마포맵맵 #문화로드맵 #마포문화재단 #마포구청 #축제 #이벤트 #홍대입구 #벨로주 #벨로주홍대 #컨벤트 #클럽FF #클럽에프에프 #에프에프 #프리즘홀 #라이브클럽",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "맵맵클럽라이브",
+					"indices": [
+						27,
+						35
+					]
+				},
+				{
+					"text": "MapMapClubLive",
+					"indices": [
+						36,
+						51
+					]
+				},
+				{
+					"text": "매핑마포맵맵",
+					"indices": [
+						52,
+						59
+					]
+				},
+				{
+					"text": "문화로드맵",
+					"indices": [
+						60,
+						66
+					]
+				},
+				{
+					"text": "마포문화재단",
+					"indices": [
+						67,
+						74
+					]
+				},
+				{
+					"text": "마포구청",
+					"indices": [
+						75,
+						80
+					]
+				},
+				{
+					"text": "축제",
+					"indices": [
+						81,
+						84
+					]
+				},
+				{
+					"text": "이벤트",
+					"indices": [
+						85,
+						89
+					]
+				},
+				{
+					"text": "홍대입구",
+					"indices": [
+						90,
+						95
+					]
+				},
+				{
+					"text": "벨로주",
+					"indices": [
+						96,
+						100
+					]
+				},
+				{
+					"text": "벨로주홍대",
+					"indices": [
+						101,
+						107
+					]
+				},
+				{
+					"text": "컨벤트",
+					"indices": [
+						108,
+						112
+					]
+				},
+				{
+					"text": "클럽FF",
+					"indices": [
+						113,
+						118
+					]
+				},
+				{
+					"text": "클럽에프에프",
+					"indices": [
+						119,
+						126
+					]
+				},
+				{
+					"text": "에프에프",
+					"indices": [
+						127,
+						132
+					]
+				},
+				{
+					"text": "프리즘홀",
+					"indices": [
+						133,
+						138
+					]
+				},
+				{
+					"text": "라이브클럽",
+					"indices": [
+						139,
+						145
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1589495779512971300,
+		"in_reply_to_status_id_str": "1589495779512971264",
+		"in_reply_to_user_id": 491231175,
+		"in_reply_to_user_id_str": "491231175",
+		"in_reply_to_screen_name": "prismhall",
+		"user": {
+			"id": 491231175,
+			"id_str": "491231175",
+			"name": "PrismHall",
+			"screen_name": "prismhall",
+			"location": "Mapo Seokyo-Dong",
+			"description": "최상급 무대장비와 시설. 엄청난 높이의 천고와 광활한 객석. 각종 파티,힙합,댄스,밴드 등 all_round concert, 실내페스티벌 등 모든 게 가능한 공연장입니다!",
+			"url": "https://t.co/VTKFWeLxvh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VTKFWeLxvh",
+							"expanded_url": "http://www.prismhall.com",
+							"display_url": "prismhall.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2035,
+			"friends_count": 1101,
+			"listed_count": 28,
+			"created_at": "Mon Feb 13 12:03:08 +0000 2012",
+			"favourites_count": 76,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2179,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/942698829089869824/bkVw2sYC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/942698829089869824/bkVw2sYC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/491231175/1513591891",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "1104338421d4e001",
+			"url": "https://api.twitter.com/1.1/geo/id/1104338421d4e001.json",
+			"place_type": "poi",
+			"name": "프리즘홀",
+			"full_name": "프리즘홀",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.917463,
+							37.551686
+						],
+						[
+							126.917463,
+							37.551686
+						],
+						[
+							126.917463,
+							37.551686
+						],
+						[
+							126.917463,
+							37.551686
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "✔️행사 일정 : 2022.11.12.(토) \n\n#맵맵클럽라이브 #MapMapClubLive #매핑마포맵맵 #문화로드맵 #마포문화재단 #마포구청 #축제 #이벤트 #홍대입구 #벨로주 #벨로주홍대 #컨벤트 #클럽FF #클럽에프에프 #에프에프 #프리즘홀 #라이브클럽"
+	},
+	{
+		"created_at": "Mon Nov 07 06:11:20 +0000 2022",
+		"id": 1589495779512971300,
+		"id_str": "1589500731073220608",
+		"full_text": "다복길을 재조명해 새로운 장소의 발견을 진행한 2021년에 이어 기존 인디문화의 중심공간을 지켜내자는 의미를 담았습니다. 🍀\n\n🎤라이브클럽 벨로주, 컨벤트, 클럽 FF, 프리즘홀에서 다양한 장르의 생생한 음악들을 만나보세요! 🎶\n\n✔️참여 라이브클럽 : 벨로주(홍대), 컨벤트, 클럽 FF, 프리즘홀",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1589495777373868000,
+		"in_reply_to_status_id_str": "1589495777373868033",
+		"in_reply_to_user_id": 491231175,
+		"in_reply_to_user_id_str": "491231175",
+		"in_reply_to_screen_name": "prismhall",
+		"user": {
+			"id": 491231175,
+			"id_str": "491231175",
+			"name": "PrismHall",
+			"screen_name": "prismhall",
+			"location": "Mapo Seokyo-Dong",
+			"description": "최상급 무대장비와 시설. 엄청난 높이의 천고와 광활한 객석. 각종 파티,힙합,댄스,밴드 등 all_round concert, 실내페스티벌 등 모든 게 가능한 공연장입니다!",
+			"url": "https://t.co/VTKFWeLxvh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VTKFWeLxvh",
+							"expanded_url": "http://www.prismhall.com",
+							"display_url": "prismhall.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2035,
+			"friends_count": 1101,
+			"listed_count": 28,
+			"created_at": "Mon Feb 13 12:03:08 +0000 2012",
+			"favourites_count": 76,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2179,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/942698829089869824/bkVw2sYC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/942698829089869824/bkVw2sYC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/491231175/1513591891",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "1104338421d4e001",
+			"url": "https://api.twitter.com/1.1/geo/id/1104338421d4e001.json",
+			"place_type": "poi",
+			"name": "프리즘홀",
+			"full_name": "프리즘홀",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.917463,
+							37.551686
+						],
+						[
+							126.917463,
+							37.551686
+						],
+						[
+							126.917463,
+							37.551686
+						],
+						[
+							126.917463,
+							37.551686
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "다복길을 재조명해 새로운 장소의 발견을 진행한 2021년에 이어 기존 인디문화의 중심공간을 지켜내자는 의미를 담았습니다. 🍀\n\n🎤라이브클럽 벨로주, 컨벤트, 클럽 FF, 프리즘홀에서 다양한 장르의 생생한 음악들을 만나보세요! 🎶\n\n✔️참여 라이브클럽 : 벨로주(홍대), 컨벤트, 클럽 FF, 프리즘홀"
+	},
+	{
+		"created_at": "Mon Nov 07 06:11:18 +0000 2022",
+		"id": 1589495777373868000,
+		"id_str": "1589500722034491394",
+		"full_text": "🎸&lt;2022 매핑마포 맵맵 – 맵맵 클럽 라이브&gt;🥁\n\n🎹2022년 11월 12일(토) 열리는 &lt;맵맵 클럽 라이브&gt;에서는 인디 라이브 문화의 상징이자 홍대앞 문화를 이끌어온 홍대 인근 음악공간들을 소개합니다. https://t.co/1yle3ElTeg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1589495769320804400,
+					"id_str": "1589495769320804357",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/Fg8F-w5aUAU9RXl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fg8F-w5aUAU9RXl.jpg",
+					"url": "https://t.co/1yle3ElTeg",
+					"display_url": "pic.twitter.com/1yle3ElTeg",
+					"expanded_url": "https://twitter.com/prismhall/status/1589495777373868033/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 724,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 724,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1589495769320804400,
+					"id_str": "1589495769320804357",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/Fg8F-w5aUAU9RXl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fg8F-w5aUAU9RXl.jpg",
+					"url": "https://t.co/1yle3ElTeg",
+					"display_url": "pic.twitter.com/1yle3ElTeg",
+					"expanded_url": "https://twitter.com/prismhall/status/1589495777373868033/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 724,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 724,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1589495769337565200,
+					"id_str": "1589495769337565184",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/Fg8F-w9aEAAzwt_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fg8F-w9aEAAzwt_.jpg",
+					"url": "https://t.co/1yle3ElTeg",
+					"display_url": "pic.twitter.com/1yle3ElTeg",
+					"expanded_url": "https://twitter.com/prismhall/status/1589495777373868033/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1589495769316601900,
+					"id_str": "1589495769316601861",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/Fg8F-w4aMAU_VZ-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fg8F-w4aMAU_VZ-.jpg",
+					"url": "https://t.co/1yle3ElTeg",
+					"display_url": "pic.twitter.com/1yle3ElTeg",
+					"expanded_url": "https://twitter.com/prismhall/status/1589495777373868033/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 491231175,
+			"id_str": "491231175",
+			"name": "PrismHall",
+			"screen_name": "prismhall",
+			"location": "Mapo Seokyo-Dong",
+			"description": "최상급 무대장비와 시설. 엄청난 높이의 천고와 광활한 객석. 각종 파티,힙합,댄스,밴드 등 all_round concert, 실내페스티벌 등 모든 게 가능한 공연장입니다!",
+			"url": "https://t.co/VTKFWeLxvh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VTKFWeLxvh",
+							"expanded_url": "http://www.prismhall.com",
+							"display_url": "prismhall.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2035,
+			"friends_count": 1101,
+			"listed_count": 28,
+			"created_at": "Mon Feb 13 12:03:08 +0000 2012",
+			"favourites_count": 76,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2179,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/942698829089869824/bkVw2sYC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/942698829089869824/bkVw2sYC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/491231175/1513591891",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "1104338421d4e001",
+			"url": "https://api.twitter.com/1.1/geo/id/1104338421d4e001.json",
+			"place_type": "poi",
+			"name": "프리즘홀",
+			"full_name": "프리즘홀",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.917463,
+							37.551686
+						],
+						[
+							126.917463,
+							37.551686
+						],
+						[
+							126.917463,
+							37.551686
+						],
+						[
+							126.917463,
+							37.551686
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🎸&lt;2022 매핑마포 맵맵 – 맵맵 클럽 라이브&gt;🥁\n\n🎹2022년 11월 12일(토) 열리는 &lt;맵맵 클럽 라이브&gt;에서는 인디 라이브 문화의 상징이자 홍대앞 문화를 이끌어온 홍대 인근 음악공간들을 소개합니다. https://t.co/1yle3ElTeg"
+	},
+	{
+		"created_at": "Mon Nov 07 05:29:28 +0000 2022",
+		"id": 1589489389943804000,
+		"id_str": "1589490194834677761",
+		"full_text": "유라의 두 번째 단독 공연\n'이 옷에 구멍은 시간을 아우르는 공'의\n일정 및 티켓 판매 안내드립니다.\n\n밴드 ‘만동’과 함께 하는\n유라의 '이 옷에 구멍은 시간을 아우르는 공' 많은 관심 부탁드립니다.\n\n자세한 사항은 아래 링크를 참고해주세요.\nhttps://t.co/292XQVLmJt https://t.co/i2VJEaFVxf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/292XQVLmJt",
+					"expanded_url": "https://bit.ly/3UqLnVW",
+					"display_url": "bit.ly/3UqLnVW",
+					"indices": [
+						137,
+						160
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1589489163921133600,
+					"id_str": "1589489163921133568",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/Fg7_-R3aEAAn0Zn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fg7_-R3aEAAn0Zn.jpg",
+					"url": "https://t.co/i2VJEaFVxf",
+					"display_url": "pic.twitter.com/i2VJEaFVxf",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1589489389943803904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1018,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1589489163921133600,
+					"id_str": "1589489163921133568",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/Fg7_-R3aEAAn0Zn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fg7_-R3aEAAn0Zn.jpg",
+					"url": "https://t.co/i2VJEaFVxf",
+					"display_url": "pic.twitter.com/i2VJEaFVxf",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1589489389943803904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1018,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 743014855653752800,
+			"id_str": "743014855653752833",
+			"name": "문화인",
+			"screen_name": "munhwainkr",
+			"location": "",
+			"description": "🎧뮤직레이블 문화인의 공식트위터입니다. 윤현상/유라/로지/김우주/나히/허회경",
+			"url": "https://t.co/EWOG41NDnZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EWOG41NDnZ",
+							"expanded_url": "http://www.munhwain.kr",
+							"display_url": "munhwain.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 935,
+			"friends_count": 8,
+			"listed_count": 19,
+			"created_at": "Wed Jun 15 09:38:40 +0000 2016",
+			"favourites_count": 85,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1056,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1527524077572788226/HAmj0Af__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1527524077572788226/HAmj0Af__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/743014855653752833/1653271322",
+			"profile_link_color": "199B2B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "유라의 두 번째 단독 공연\n'이 옷에 구멍은 시간을 아우르는 공'의\n일정 및 티켓 판매 안내드립니다.\n\n밴드 ‘만동’과 함께 하는\n유라의 '이 옷에 구멍은 시간을 아우르는 공' 많은 관심 부탁드립니다.\n\n자세한 사항은 아래 링크를 참고해주세요.\nhttps://t.co/292XQVLmJt https://t.co/i2VJEaFVxf"
+	},
+	{
 		"created_at": "Mon Nov 07 05:11:17 +0000 2022",
 		"id": 1589472983269376000,
 		"id_str": "1589485619293655041",
