@@ -1,6 +1,258 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Mon Nov 07 05:11:17 +0000 2022",
+		"id": 1589472983269376000,
+		"id_str": "1589485619293655041",
+		"full_text": "[2022 THE SOLUTIONS CLUB TOUR : NAIVE]  11.18 (Fri) : 클럽 (@clubbbang )\n🎟예매 방법/ 예매 : 20,000원\n▫️카카오뱅크 3333-0811-27761 예금주: 김영*  ▫️010-8910-1089 문자 발송\n19:20 입장, 19:30 공연 시작\n✨Line up\n이디어츠 @idiots.band\n콘트라젤리 @kontrajelly\n솔루션스 @the_solutions https://t.co/8CyNIT9gVS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			235
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "clubbbang",
+					"name": "Kim young deung",
+					"id": 215784513,
+					"id_str": "215784513",
+					"indices": [
+						58,
+						68
+					]
+				},
+				{
+					"screen_name": "idiots",
+					"name": "idiots",
+					"id": 15582723,
+					"id_str": "15582723",
+					"indices": [
+						184,
+						191
+					]
+				},
+				{
+					"screen_name": "kontrajelly",
+					"name": "kontrajelly",
+					"id": 1408712848973308000,
+					"id_str": "1408712848973307905",
+					"indices": [
+						203,
+						215
+					]
+				},
+				{
+					"screen_name": "the_solutions",
+					"name": "Virtual Learning",
+					"id": 3107372809,
+					"id_str": "3107372809",
+					"indices": [
+						221,
+						235
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1589472973995487200,
+					"id_str": "1589472973995487232",
+					"indices": [
+						236,
+						259
+					],
+					"media_url": "http://pbs.twimg.com/media/Fg7xP5sVsAAELeg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fg7xP5sVsAAELeg.jpg",
+					"url": "https://t.co/8CyNIT9gVS",
+					"display_url": "pic.twitter.com/8CyNIT9gVS",
+					"expanded_url": "https://twitter.com/club_bbang/status/1589472983269376001/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 713,
+							"h": 713,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 713,
+							"h": 713,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1589472973995487200,
+					"id_str": "1589472973995487232",
+					"indices": [
+						236,
+						259
+					],
+					"media_url": "http://pbs.twimg.com/media/Fg7xP5sVsAAELeg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fg7xP5sVsAAELeg.jpg",
+					"url": "https://t.co/8CyNIT9gVS",
+					"display_url": "pic.twitter.com/8CyNIT9gVS",
+					"expanded_url": "https://twitter.com/club_bbang/status/1589472983269376001/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 713,
+							"h": 713,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 713,
+							"h": 713,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1589472974012153900,
+					"id_str": "1589472974012153858",
+					"indices": [
+						236,
+						259
+					],
+					"media_url": "http://pbs.twimg.com/media/Fg7xP5wUAAI7KN2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fg7xP5wUAAI7KN2.jpg",
+					"url": "https://t.co/8CyNIT9gVS",
+					"display_url": "pic.twitter.com/8CyNIT9gVS",
+					"expanded_url": "https://twitter.com/club_bbang/status/1589472983269376001/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1387140522,
+			"id_str": "1387140522",
+			"name": "클럽 빵",
+			"screen_name": "club_bbang",
+			"location": "서울 마포 서교동 327-18 지하",
+			"description": "모던록 라이브클럽 빵, 공연일정을 알려드려요! 문의 010-8910-1089, cafebbang@hanmail.net",
+			"url": "https://t.co/ZROqsiLHaK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZROqsiLHaK",
+							"expanded_url": "http://cafe.daum.net/cafebbang",
+							"display_url": "cafe.daum.net/cafebbang",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2539,
+			"friends_count": 902,
+			"listed_count": 34,
+			"created_at": "Sun Apr 28 14:57:43 +0000 2013",
+			"favourites_count": 91,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1913,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3617429436/49aa1ea87a3bdf4e12ef8ab826e7b229_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3617429436/49aa1ea87a3bdf4e12ef8ab826e7b229_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1387140522/1367815826",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[2022 THE SOLUTIONS CLUB TOUR : NAIVE]  11.18 (Fri) : 클럽 (@clubbbang )\n🎟예매 방법/ 예매 : 20,000원\n▫️카카오뱅크 3333-0811-27761 예금주: 김영*  ▫️010-8910-1089 문자 발송\n19:20 입장, 19:30 공연 시작\n✨Line up\n이디어츠 @idiots.band\n콘트라젤리 @kontrajelly\n솔루션스 @the_solutions https://t.co/8CyNIT9gVS"
+	},
+	{
 		"created_at": "Mon Nov 07 03:11:26 +0000 2022",
 		"id": 1589452584170954800,
 		"id_str": "1589455458582102017",
