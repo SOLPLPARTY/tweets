@@ -1,6 +1,507 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Mon Nov 07 07:11:17 +0000 2022",
+		"id": 1589515111617925000,
+		"id_str": "1589515818861268992",
+		"full_text": "📌『소스 리스트』 스마트스토어 판매 안내\n\n재미공작소 신간 『소스 리스트』 를 재미공작소 네이버 스마트스토어에서 온라인으로 구입하실 수 있습니다. \n\nhttps://t.co/Pn7AVpG1vN https://t.co/Re00Wax6tq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Pn7AVpG1vN",
+					"expanded_url": "https://smartstore.naver.com/studiozemi/products/7491359328",
+					"display_url": "smartstore.naver.com/studiozemi/pro…",
+					"indices": [
+						84,
+						107
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1589515104281759700,
+					"id_str": "1589515104281759744",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/Fg8XkNPVEAAiBVu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fg8XkNPVEAAiBVu.jpg",
+					"url": "https://t.co/Re00Wax6tq",
+					"display_url": "pic.twitter.com/Re00Wax6tq",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1589515111617925120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1589515104281759700,
+					"id_str": "1589515104281759744",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/Fg8XkNPVEAAiBVu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fg8XkNPVEAAiBVu.jpg",
+					"url": "https://t.co/Re00Wax6tq",
+					"display_url": "pic.twitter.com/Re00Wax6tq",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1589515111617925120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1581970588419383300,
+		"in_reply_to_status_id_str": "1581970588419383296",
+		"in_reply_to_user_id": 282449618,
+		"in_reply_to_user_id_str": "282449618",
+		"in_reply_to_screen_name": "studio_zemi",
+		"user": {
+			"id": 282449618,
+			"id_str": "282449618",
+			"name": "재미공작소",
+			"screen_name": "studio_zemi",
+			"location": "서울시 영등포구 문래동 3가 58-84 1층 왼편",
+			"description": "재미공작소는 서울 문래동에 위치한 문화예술공간입니다. (Since 2011) 공연, 문학 행사, 팝업숍, 전시, 창작 워크숍, 출판, 캘린더 갤러리 등 '재미있는 일'을 기획하고 진행합니다. 재미공작소의 일정 및 예약 관련 정보는 아래 홈블로그 링크에서 바로 확인하실 수 있습니다.",
+			"url": "https://t.co/aLQQKE9ltK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aLQQKE9ltK",
+							"expanded_url": "http://blog.naver.com/studiozemi",
+							"display_url": "blog.naver.com/studiozemi",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8307,
+			"friends_count": 533,
+			"listed_count": 76,
+			"created_at": "Fri Apr 15 07:08:52 +0000 2011",
+			"favourites_count": 2411,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14876,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/282449618/1398647875",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📌『소스 리스트』 스마트스토어 판매 안내\n\n재미공작소 신간 『소스 리스트』 를 재미공작소 네이버 스마트스토어에서 온라인으로 구입하실 수 있습니다. \n\nhttps://t.co/Pn7AVpG1vN https://t.co/Re00Wax6tq"
+	},
+	{
+		"created_at": "Mon Nov 07 06:58:22 +0000 2022",
+		"id": 1589498183423754200,
+		"id_str": "1589512566103019520",
+		"full_text": "✔YouTube KCON official 'ALL ACCESS'メンバーシップレベルに限ってご覧いただけます。",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			58
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1589497879047045000,
+		"in_reply_to_status_id_str": "1589497879047045120",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER, SEE YOU AT THE NEXT KCON❤️",
+			"url": "https://t.co/IDnJhWoZ59",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWoZ59",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 474982,
+			"friends_count": 76,
+			"listed_count": 1141,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 143,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13667,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1567787455188987905/sAYoOtFz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1567787455188987905/sAYoOtFz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1664852417",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja",
+		"text": "✔YouTube KCON official 'ALL ACCESS'メンバーシップレベルに限ってご覧いただけます。"
+	},
+	{
+		"created_at": "Mon Nov 07 06:58:15 +0000 2022",
+		"id": 1589497879047045000,
+		"id_str": "1589512536235311104",
+		"full_text": "📢KCON 2022 JAPAN MEET&amp;GREET❤️OPEN💙\n\n🔗https://t.co/pejx4uL3Bn\n\n✔️It is available to YouTube KCON official 'ALL ACCESS' membership tier. \n✔️YouTube KCON official 'ALL ACCESS' 멤버십 등급에 한해 시청이 가능합니다\n\n#KCON #KCONJAPAN #KCON2022JAPAN https://t.co/KlC77mOCbQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			230
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						199,
+						204
+					]
+				},
+				{
+					"text": "KCONJAPAN",
+					"indices": [
+						205,
+						215
+					]
+				},
+				{
+					"text": "KCON2022JAPAN",
+					"indices": [
+						216,
+						230
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pejx4uL3Bn",
+					"expanded_url": "https://bit.ly/KCON2022JAPAN_MG",
+					"display_url": "bit.ly/KCON2022JAPAN_…",
+					"indices": [
+						41,
+						64
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1589456413109420000,
+					"id_str": "1589456413109420032",
+					"indices": [
+						231,
+						254
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Fg7iL7lagAA6r7g.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Fg7iL7lagAA6r7g.jpg",
+					"url": "https://t.co/KlC77mOCbQ",
+					"display_url": "pic.twitter.com/KlC77mOCbQ",
+					"expanded_url": "https://twitter.com/KCON_official/status/1589497879047045120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 1600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1589456413109420000,
+					"id_str": "1589456413109420032",
+					"indices": [
+						231,
+						254
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Fg7iL7lagAA6r7g.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Fg7iL7lagAA6r7g.jpg",
+					"url": "https://t.co/KlC77mOCbQ",
+					"display_url": "pic.twitter.com/KlC77mOCbQ",
+					"expanded_url": "https://twitter.com/KCON_official/status/1589497879047045120/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 1600,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Fg7iL7lagAA6r7g.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER, SEE YOU AT THE NEXT KCON❤️",
+			"url": "https://t.co/IDnJhWoZ59",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWoZ59",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 474982,
+			"friends_count": 76,
+			"listed_count": 1141,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 143,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13667,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1567787455188987905/sAYoOtFz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1567787455188987905/sAYoOtFz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1664852417",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 178,
+		"favorite_count": 480,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📢KCON 2022 JAPAN MEET&amp;GREET❤️OPEN💙\n\n🔗https://t.co/pejx4uL3Bn\n\n✔️It is available to YouTube KCON official 'ALL ACCESS' membership tier. \n✔️YouTube KCON official 'ALL ACCESS' 멤버십 등급에 한해 시청이 가능합니다\n\n#KCON #KCONJAPAN #KCON2022JAPAN https://t.co/KlC77mOCbQ"
+	},
+	{
 		"created_at": "Mon Nov 07 06:11:22 +0000 2022",
 		"id": 1589495781199052800,
 		"id_str": "1589500739981901825",
