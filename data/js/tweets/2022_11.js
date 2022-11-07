@@ -1,6 +1,727 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Mon Nov 07 14:11:29 +0000 2022",
+		"id": 1589561046284615700,
+		"id_str": "1589621566257733633",
+		"full_text": "방금 사진을 게시했습니다 @Wonju https://t.co/rh1i1VJikW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wonju",
+					"name": "wonju",
+					"id": 63375709,
+					"id_str": "63375709",
+					"indices": [
+						14,
+						20
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/rh1i1VJikW",
+					"expanded_url": "https://www.instagram.com/p/Ckp-h0RJ4GE/?igshid=YTgzYjQ4ZTY=",
+					"display_url": "instagram.com/p/Ckp-h0RJ4GE/…",
+					"indices": [
+						21,
+						44
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 720862057243914200,
+			"id_str": "720862057243914240",
+			"name": "공상온도",
+			"screen_name": "gongsangondo",
+			"location": "대한민국 마포구 동교로23길 40",
+			"description": "카페를 기반으로 한 대안공간,갤러리,공연장,아트마켓의 복합문화공간! 서울시 마포구 동교로23길 40 아트마켓 입점,대관 : gongsangondo@gmail.com {ARTIST지원} 아티스트 증명시, 제조음료 30%할인",
+			"url": "https://t.co/GbMQgcSSJ2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GbMQgcSSJ2",
+							"expanded_url": "http://linktr.ee/gongsangondo",
+							"display_url": "linktr.ee/gongsangondo",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 433,
+			"friends_count": 217,
+			"listed_count": 7,
+			"created_at": "Fri Apr 15 06:31:22 +0000 2016",
+			"favourites_count": 1170,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3296,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/720863690283622400/Rh9cF7Fa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/720863690283622400/Rh9cF7Fa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/720862057243914240/1460702295",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				37.3514,
+				127.945
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				127.945,
+				37.3514
+			]
+		},
+		"place": {
+			"id": "01fc1c695b07d838",
+			"url": "https://api.twitter.com/1.1/geo/id/01fc1c695b07d838.json",
+			"place_type": "city",
+			"name": "원주시",
+			"full_name": "대한민국 원주시",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							127.744388345108,
+							37.1412820541627
+						],
+						[
+							128.218184318104,
+							37.1412820541627
+						],
+						[
+							128.218184318104,
+							37.5132663998339
+						],
+						[
+							127.744388345108,
+							37.5132663998339
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "방금 사진을 게시했습니다 @Wonju https://t.co/rh1i1VJikW"
+	},
+	{
+		"created_at": "Mon Nov 07 14:11:25 +0000 2022",
+		"id": 1589560249681432600,
+		"id_str": "1589621548964618240",
+		"full_text": "방금 사진을 게시했습니다 @강원도 원주 https://t.co/tcYAEDuNhr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tcYAEDuNhr",
+					"expanded_url": "https://www.instagram.com/p/Ckp-KiaJ-sV/?igshid=YTgzYjQ4ZTY=",
+					"display_url": "instagram.com/p/Ckp-KiaJ-sV/…",
+					"indices": [
+						22,
+						45
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 720862057243914200,
+			"id_str": "720862057243914240",
+			"name": "공상온도",
+			"screen_name": "gongsangondo",
+			"location": "대한민국 마포구 동교로23길 40",
+			"description": "카페를 기반으로 한 대안공간,갤러리,공연장,아트마켓의 복합문화공간! 서울시 마포구 동교로23길 40 아트마켓 입점,대관 : gongsangondo@gmail.com {ARTIST지원} 아티스트 증명시, 제조음료 30%할인",
+			"url": "https://t.co/GbMQgcSSJ2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GbMQgcSSJ2",
+							"expanded_url": "http://linktr.ee/gongsangondo",
+							"display_url": "linktr.ee/gongsangondo",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 433,
+			"friends_count": 217,
+			"listed_count": 7,
+			"created_at": "Fri Apr 15 06:31:22 +0000 2016",
+			"favourites_count": 1170,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3296,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/720863690283622400/Rh9cF7Fa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/720863690283622400/Rh9cF7Fa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/720862057243914240/1460702295",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				37.3514,
+				127.945
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				127.945,
+				37.3514
+			]
+		},
+		"place": {
+			"id": "01fc1c695b07d838",
+			"url": "https://api.twitter.com/1.1/geo/id/01fc1c695b07d838.json",
+			"place_type": "city",
+			"name": "원주시",
+			"full_name": "대한민국 원주시",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							127.744388345108,
+							37.1412820541627
+						],
+						[
+							128.218184318104,
+							37.1412820541627
+						],
+						[
+							128.218184318104,
+							37.5132663998339
+						],
+						[
+							127.744388345108,
+							37.5132663998339
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "방금 사진을 게시했습니다 @강원도 원주 https://t.co/tcYAEDuNhr"
+	},
+	{
+		"created_at": "Mon Nov 07 14:11:17 +0000 2022",
+		"id": 1589559064694067200,
+		"id_str": "1589621514885816321",
+		"full_text": "방금 사진을 게시했습니다 @Wonju https://t.co/cyp0hkla8K",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wonju",
+					"name": "wonju",
+					"id": 63375709,
+					"id_str": "63375709",
+					"indices": [
+						14,
+						20
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/cyp0hkla8K",
+					"expanded_url": "https://www.instagram.com/p/Ckp9oFWJJb9/?igshid=YTgzYjQ4ZTY=",
+					"display_url": "instagram.com/p/Ckp9oFWJJb9/…",
+					"indices": [
+						21,
+						44
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 720862057243914200,
+			"id_str": "720862057243914240",
+			"name": "공상온도",
+			"screen_name": "gongsangondo",
+			"location": "대한민국 마포구 동교로23길 40",
+			"description": "카페를 기반으로 한 대안공간,갤러리,공연장,아트마켓의 복합문화공간! 서울시 마포구 동교로23길 40 아트마켓 입점,대관 : gongsangondo@gmail.com {ARTIST지원} 아티스트 증명시, 제조음료 30%할인",
+			"url": "https://t.co/GbMQgcSSJ2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GbMQgcSSJ2",
+							"expanded_url": "http://linktr.ee/gongsangondo",
+							"display_url": "linktr.ee/gongsangondo",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 433,
+			"friends_count": 217,
+			"listed_count": 7,
+			"created_at": "Fri Apr 15 06:31:22 +0000 2016",
+			"favourites_count": 1170,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3296,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/720863690283622400/Rh9cF7Fa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/720863690283622400/Rh9cF7Fa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/720862057243914240/1460702295",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				37.3514,
+				127.945
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				127.945,
+				37.3514
+			]
+		},
+		"place": {
+			"id": "01fc1c695b07d838",
+			"url": "https://api.twitter.com/1.1/geo/id/01fc1c695b07d838.json",
+			"place_type": "city",
+			"name": "원주시",
+			"full_name": "대한민국 원주시",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							127.744388345108,
+							37.1412820541627
+						],
+						[
+							128.218184318104,
+							37.1412820541627
+						],
+						[
+							128.218184318104,
+							37.5132663998339
+						],
+						[
+							127.744388345108,
+							37.5132663998339
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "방금 사진을 게시했습니다 @Wonju https://t.co/cyp0hkla8K"
+	},
+	{
+		"created_at": "Mon Nov 07 13:29:29 +0000 2022",
+		"id": 1589602948581331000,
+		"id_str": "1589610995529416704",
+		"full_text": "SM UNIVERSE, 글로벌 아티스트로 성장할 ‘2023 SMU 프로그램’ 지원자 모집 \n‘프로듀싱, 보컬, 댄스, 모델, 연기’ 5개 전공 총 120명 선발 예고\n학부모 설명회도 개최! \n11월 12일까지 참가 신청 접수\n신청 링크 : https://t.co/uGopHu24XZ\n\n#SMU #SMUNIVERSE #2023SMU https://t.co/jKfAfokpgT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMU",
+					"indices": [
+						159,
+						163
+					]
+				},
+				{
+					"text": "SMUNIVERSE",
+					"indices": [
+						164,
+						175
+					]
+				},
+				{
+					"text": "2023SMU",
+					"indices": [
+						176,
+						184
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uGopHu24XZ",
+					"expanded_url": "http://smuniverse.com",
+					"display_url": "smuniverse.com",
+					"indices": [
+						134,
+						157
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1589602598666936300,
+					"id_str": "1589602598666936321",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/Fg9nJDOUoAEBZAI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fg9nJDOUoAEBZAI.jpg",
+					"url": "https://t.co/jKfAfokpgT",
+					"display_url": "pic.twitter.com/jKfAfokpgT",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1589602948581330946/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1589602598666936300,
+					"id_str": "1589602598666936321",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/Fg9nJDOUoAEBZAI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fg9nJDOUoAEBZAI.jpg",
+					"url": "https://t.co/jKfAfokpgT",
+					"display_url": "pic.twitter.com/jKfAfokpgT",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1589602948581330946/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1589602598658506800,
+					"id_str": "1589602598658506752",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/Fg9nJDMUAAAjbIw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fg9nJDMUAAAjbIw.jpg",
+					"url": "https://t.co/jKfAfokpgT",
+					"display_url": "pic.twitter.com/jKfAfokpgT",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1589602948581330946/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11272438,
+			"friends_count": 55,
+			"listed_count": 12681,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2043,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13117,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1586422828147974144/eRSNnR48_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1586422828147974144/eRSNnR48_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1667067652",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 439,
+		"favorite_count": 2007,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "SM UNIVERSE, 글로벌 아티스트로 성장할 ‘2023 SMU 프로그램’ 지원자 모집 \n‘프로듀싱, 보컬, 댄스, 모델, 연기’ 5개 전공 총 120명 선발 예고\n학부모 설명회도 개최! \n11월 12일까지 참가 신청 접수\n신청 링크 : https://t.co/uGopHu24XZ\n\n#SMU #SMUNIVERSE #2023SMU https://t.co/jKfAfokpgT"
+	},
+	{
 		"created_at": "Mon Nov 07 11:29:38 +0000 2022",
 		"id": 1589574786581397500,
 		"id_str": "1589580833681281025",
