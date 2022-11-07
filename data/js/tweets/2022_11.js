@@ -1,6 +1,277 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Mon Nov 07 08:29:33 +0000 2022",
+		"id": 1589533914519199700,
+		"id_str": "1589535513979092994",
+		"full_text": "[NEWS] ‘아바드림’ #인순이 X유회승, 30년 세대 뛰어넘은 우정 공개 \n\n👉 https://t.co/2oMRJknePt \n\n#INSOONI #휴맵컨텐츠 #HUMAPCONTENTS #아바드림 #AVADREAM #TV조선 #실리아",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "인순이",
+					"indices": [
+						14,
+						18
+					]
+				},
+				{
+					"text": "INSOONI",
+					"indices": [
+						73,
+						81
+					]
+				},
+				{
+					"text": "휴맵컨텐츠",
+					"indices": [
+						82,
+						88
+					]
+				},
+				{
+					"text": "HUMAPCONTENTS",
+					"indices": [
+						89,
+						103
+					]
+				},
+				{
+					"text": "아바드림",
+					"indices": [
+						104,
+						109
+					]
+				},
+				{
+					"text": "AVADREAM",
+					"indices": [
+						110,
+						119
+					]
+				},
+				{
+					"text": "TV조선",
+					"indices": [
+						120,
+						125
+					]
+				},
+				{
+					"text": "실리아",
+					"indices": [
+						126,
+						130
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2oMRJknePt",
+					"expanded_url": "https://naver.me/xbncFteg",
+					"display_url": "naver.me/xbncFteg",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1219506842935513000,
+			"id_str": "1219506842935513088",
+			"name": "휴맵컨텐츠(HUMAP)",
+			"screen_name": "humap_official",
+			"location": "",
+			"description": "휴맵컨텐츠(HUMAP CONTENTS) Official Twitter",
+			"url": "https://t.co/fBZZK3SmX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fBZZK3SmX6",
+							"expanded_url": "http://www.humapcontents.com/",
+							"display_url": "humapcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 384,
+			"friends_count": 2,
+			"listed_count": 2,
+			"created_at": "Tue Jan 21 06:28:27 +0000 2020",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 966,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1219506842935513088/1579755898",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[NEWS] ‘아바드림’ #인순이 X유회승, 30년 세대 뛰어넘은 우정 공개 \n\n👉 https://t.co/2oMRJknePt \n\n#INSOONI #휴맵컨텐츠 #HUMAPCONTENTS #아바드림 #AVADREAM #TV조선 #실리아"
+	},
+	{
+		"created_at": "Mon Nov 07 08:29:30 +0000 2022",
+		"id": 1589529583581552600,
+		"id_str": "1589535500859310081",
+		"full_text": "🎼 본 공연은 무료입장 자율기부 공연 입니다.\n※모금액은 전액 아티스트에게 전달됩니다.\n\n📢 예약 페이지\nhttps://t.co/SsUCvTVGHX\n\n📢 운영 안내\n-공연장이 협소한 관계로 20명 한정으로 예약을 진행합니다.\n-예매 페이지 상 작성시각 순서대로 예매 처리됩니다.\n-입장은 선착순으로 진행됩니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SsUCvTVGHX",
+					"expanded_url": "https://forms.gle/r39NQ3FKQSw2WMN2A",
+					"display_url": "forms.gle/r39NQ3FKQSw2WM…",
+					"indices": [
+						59,
+						82
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110930534,
+			"id_str": "110930534",
+			"name": "Ruby records",
+			"screen_name": "ruby_records",
+			"location": "대한민국 서울",
+			"description": "💎 루비레코드 #루비튜브 Rubytube #인천여관X루비살롱 rubysalon #스마일러브위크엔드 #모트 Motte #레인보우노트 RBN #우예린 yerin",
+			"url": "https://t.co/vLFrhW6ba0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vLFrhW6ba0",
+							"expanded_url": "http://youtube.com/user/rubysalon",
+							"display_url": "youtube.com/user/rubysalon",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7505,
+			"friends_count": 8145,
+			"listed_count": 195,
+			"created_at": "Wed Feb 03 07:13:24 +0000 2010",
+			"favourites_count": 1021,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7810,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1403718575479681030/-FWGVqIS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1403718575479681030/-FWGVqIS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110930534/1623507563",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🎼 본 공연은 무료입장 자율기부 공연 입니다.\n※모금액은 전액 아티스트에게 전달됩니다.\n\n📢 예약 페이지\nhttps://t.co/SsUCvTVGHX\n\n📢 운영 안내\n-공연장이 협소한 관계로 20명 한정으로 예약을 진행합니다.\n-예매 페이지 상 작성시각 순서대로 예매 처리됩니다.\n-입장은 선착순으로 진행됩니다."
+	},
+	{
 		"created_at": "Mon Nov 07 08:11:23 +0000 2022",
 		"id": 1589530857651544000,
 		"id_str": "1589530942649106433",
