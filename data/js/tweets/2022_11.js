@@ -1,6 +1,404 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Mon Nov 07 11:29:38 +0000 2022",
+		"id": 1589574786581397500,
+		"id_str": "1589580833681281025",
+		"full_text": "'이름들(Names)' 의 7가지 수록곡 중 1번 트랙인 'Tommy'를 뮤직비디오의 하이라이트 구간과 함께 선공개합니다. 'Tommy'는 이번 EP 앨범의 서브 타이틀곡이기도 합니다. 과연 Tommy라는 이름에는 어떤 이야기가 숨어있을까요? 풀버전 음원 및 뮤직비디오는 내일 저녁에 공개됩니다. #Yozoh #Names",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Yozoh",
+					"indices": [
+						166,
+						172
+					]
+				},
+				{
+					"text": "Names",
+					"indices": [
+						173,
+						179
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1589574269973192700,
+		"in_reply_to_status_id_str": "1589574269973192706",
+		"in_reply_to_user_id": 263751129,
+		"in_reply_to_user_id_str": "263751129",
+		"in_reply_to_screen_name": "msbsound",
+		"user": {
+			"id": 263751129,
+			"id_str": "263751129",
+			"name": "매직스트로베리사운드",
+			"screen_name": "msbsound",
+			"location": "Republic of Korea",
+			"description": "매직스트로베리사운드 MAGIC STRAWBERRY SOUND / Music label based in Korea",
+			"url": "https://t.co/2ZpTkjSqKw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2ZpTkjSqKw",
+							"expanded_url": "http://www.msbsound.com/",
+							"display_url": "msbsound.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9028,
+			"friends_count": 24,
+			"listed_count": 103,
+			"created_at": "Thu Mar 10 17:31:19 +0000 2011",
+			"favourites_count": 90,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6521,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477118678395420674/4eouOYtl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477118678395420674/4eouOYtl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/263751129/1641007512",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "'이름들(Names)' 의 7가지 수록곡 중 1번 트랙인 'Tommy'를 뮤직비디오의 하이라이트 구간과 함께 선공개합니다. 'Tommy'는 이번 EP 앨범의 서브 타이틀곡이기도 합니다. 과연 Tommy라는 이름에는 어떤 이야기가 숨어있을까요? 풀버전 음원 및 뮤직비디오는 내일 저녁에 공개됩니다. #Yozoh #Names"
+	},
+	{
+		"created_at": "Mon Nov 07 11:29:32 +0000 2022",
+		"id": 1589567940646801400,
+		"id_str": "1589580807995367424",
+		"full_text": "강렬한 라이브 퍼포먼스로 여러분들의 마음을 뒤흔들, 기분 좋은 악몽이 될 ‘dream:undefined'에서 같은 꿈을 꾸길 기다리겠습니다.\n\n더 자세한 사항은 @mpmgmusic 홈페이지에서 확인 가능합니다.\n\n#라쿠나 #Lacuna\n#단독콘서트 #dream_undefined https://t.co/M39QW0ZkOA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "라쿠나",
+					"indices": [
+						119,
+						123
+					]
+				},
+				{
+					"text": "Lacuna",
+					"indices": [
+						124,
+						131
+					]
+				},
+				{
+					"text": "단독콘서트",
+					"indices": [
+						132,
+						138
+					]
+				},
+				{
+					"text": "dream_undefined",
+					"indices": [
+						139,
+						155
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MPMGMusic",
+					"name": "Mad Pzo Music Group.",
+					"id": 4910641439,
+					"id_str": "4910641439",
+					"indices": [
+						90,
+						100
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1589567434683388000,
+					"id_str": "1589567434683387905",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/Fg9HKPLVEAEnMcU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fg9HKPLVEAEnMcU.jpg",
+					"url": "https://t.co/M39QW0ZkOA",
+					"display_url": "pic.twitter.com/M39QW0ZkOA",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1589567940646801408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1589567434683388000,
+					"id_str": "1589567434683387905",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/Fg9HKPLVEAEnMcU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fg9HKPLVEAEnMcU.jpg",
+					"url": "https://t.co/M39QW0ZkOA",
+					"display_url": "pic.twitter.com/M39QW0ZkOA",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1589567940646801408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1589567434880561200,
+					"id_str": "1589567434880561158",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/Fg9HKP6VsAYDuu5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fg9HKP6VsAYDuu5.jpg",
+					"url": "https://t.co/M39QW0ZkOA",
+					"display_url": "pic.twitter.com/M39QW0ZkOA",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1589567940646801408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1589567435035660300,
+					"id_str": "1589567435035660288",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/Fg9HKQfUUAADbka.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fg9HKQfUUAADbka.jpg",
+					"url": "https://t.co/M39QW0ZkOA",
+					"display_url": "pic.twitter.com/M39QW0ZkOA",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1589567940646801408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1589567933256462300,
+		"in_reply_to_status_id_str": "1589567933256462342",
+		"in_reply_to_user_id": 63414926,
+		"in_reply_to_user_id_str": "63414926",
+		"in_reply_to_screen_name": "HappyRobotKR",
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "구만(9.10000), 노리플라이, 데이브레이크, Lacuna(라쿠나), SURL(설), 소란, 솔루션스, 쏜애플, OurR(아월)",
+			"url": "https://t.co/BIvBmbtJjn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BIvBmbtJjn",
+							"expanded_url": "https://mpmgmusic.com/",
+							"display_url": "mpmgmusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12899,
+			"friends_count": 1893,
+			"listed_count": 250,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 209,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13608,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1626843310",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "강렬한 라이브 퍼포먼스로 여러분들의 마음을 뒤흔들, 기분 좋은 악몽이 될 ‘dream:undefined'에서 같은 꿈을 꾸길 기다리겠습니다.\n\n더 자세한 사항은 @mpmgmusic 홈페이지에서 확인 가능합니다.\n\n#라쿠나 #Lacuna\n#단독콘서트 #dream_undefined https://t.co/M39QW0ZkOA"
+	},
+	{
 		"created_at": "Mon Nov 07 10:29:36 +0000 2022",
 		"id": 1589563026302468000,
 		"id_str": "1589565726444163073",
