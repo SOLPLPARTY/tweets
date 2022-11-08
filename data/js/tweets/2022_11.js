@@ -1,6 +1,1353 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Tue Nov 08 05:29:59 +0000 2022",
+		"id": 1589848073987326000,
+		"id_str": "1589852711909875714",
+		"full_text": "@lucid_fall_jo \n#LucidFall\n#목소리와기타 #Voice_beside_Guitar\n#한줌의노래 #사피엔스 #진술서\n#섬고양이 #용서해주오\n#홍옥 #알바트로스 #달맞이꽃\n#A_Small_Handful_of_Songs \n#Sapiens\n#Statement #Island_Cat \n#Forgive_Me #Red_Apple \n#Albatross #Oenothera https://t.co/QBahLHRAOG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			209
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LucidFall",
+					"indices": [
+						16,
+						26
+					]
+				},
+				{
+					"text": "목소리와기타",
+					"indices": [
+						27,
+						34
+					]
+				},
+				{
+					"text": "Voice_beside_Guitar",
+					"indices": [
+						35,
+						55
+					]
+				},
+				{
+					"text": "한줌의노래",
+					"indices": [
+						56,
+						62
+					]
+				},
+				{
+					"text": "사피엔스",
+					"indices": [
+						63,
+						68
+					]
+				},
+				{
+					"text": "진술서",
+					"indices": [
+						69,
+						73
+					]
+				},
+				{
+					"text": "섬고양이",
+					"indices": [
+						74,
+						79
+					]
+				},
+				{
+					"text": "용서해주오",
+					"indices": [
+						80,
+						86
+					]
+				},
+				{
+					"text": "홍옥",
+					"indices": [
+						87,
+						90
+					]
+				},
+				{
+					"text": "알바트로스",
+					"indices": [
+						91,
+						97
+					]
+				},
+				{
+					"text": "달맞이꽃",
+					"indices": [
+						98,
+						103
+					]
+				},
+				{
+					"text": "A_Small_Handful_of_Songs",
+					"indices": [
+						104,
+						129
+					]
+				},
+				{
+					"text": "Sapiens",
+					"indices": [
+						131,
+						139
+					]
+				},
+				{
+					"text": "Statement",
+					"indices": [
+						140,
+						150
+					]
+				},
+				{
+					"text": "Island_Cat",
+					"indices": [
+						151,
+						162
+					]
+				},
+				{
+					"text": "Forgive_Me",
+					"indices": [
+						164,
+						175
+					]
+				},
+				{
+					"text": "Red_Apple",
+					"indices": [
+						176,
+						186
+					]
+				},
+				{
+					"text": "Albatross",
+					"indices": [
+						188,
+						198
+					]
+				},
+				{
+					"text": "Oenothera",
+					"indices": [
+						199,
+						209
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lucid_fall_jo",
+					"name": "Lucid Fall",
+					"id": 115856799,
+					"id_str": "115856799",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1589848067339010000,
+					"id_str": "1589848067339010049",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/media/FhBGZNSVQAEckYm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhBGZNSVQAEckYm.jpg",
+					"url": "https://t.co/QBahLHRAOG",
+					"display_url": "pic.twitter.com/QBahLHRAOG",
+					"expanded_url": "https://twitter.com/antennamusic/status/1589848073987325953/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1199,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2046,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 679,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1589848067339010000,
+					"id_str": "1589848067339010049",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/media/FhBGZNSVQAEckYm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhBGZNSVQAEckYm.jpg",
+					"url": "https://t.co/QBahLHRAOG",
+					"display_url": "pic.twitter.com/QBahLHRAOG",
+					"expanded_url": "https://twitter.com/antennamusic/status/1589848073987325953/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1199,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2046,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 679,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1589848067380871200,
+					"id_str": "1589848067380871168",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/media/FhBGZNcUAAAbF5u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhBGZNcUAAAbF5u.jpg",
+					"url": "https://t.co/QBahLHRAOG",
+					"display_url": "pic.twitter.com/QBahLHRAOG",
+					"expanded_url": "https://twitter.com/antennamusic/status/1589848073987325953/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2046,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 679,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1199,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1589848067343208400,
+					"id_str": "1589848067343208448",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/media/FhBGZNTVUAAoVba.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhBGZNTVUAAoVba.jpg",
+					"url": "https://t.co/QBahLHRAOG",
+					"display_url": "pic.twitter.com/QBahLHRAOG",
+					"expanded_url": "https://twitter.com/antennamusic/status/1589848073987325953/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1199,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2046,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 679,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1589848063379910700,
+		"in_reply_to_status_id_str": "1589848063379910656",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 적재 정규 2집 'The LIGHTS' 2022. 11. 09. 6PM Release",
+			"url": "https://t.co/XSWWwEx210",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEx210",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40481,
+			"friends_count": 12,
+			"listed_count": 377,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5578,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1666692231",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "qme",
+		"text": "@lucid_fall_jo \n#LucidFall\n#목소리와기타 #Voice_beside_Guitar\n#한줌의노래 #사피엔스 #진술서\n#섬고양이 #용서해주오\n#홍옥 #알바트로스 #달맞이꽃\n#A_Small_Handful_of_Songs \n#Sapiens\n#Statement #Island_Cat \n#Forgive_Me #Red_Apple \n#Albatross #Oenothera https://t.co/QBahLHRAOG"
+	},
+	{
+		"created_at": "Tue Nov 08 05:29:50 +0000 2022",
+		"id": 1589848063379910700,
+		"id_str": "1589852673502838784",
+		"full_text": "🔸 LP &amp; 카세트 테이프 예약 판매처\n\n[LP - 김밥레코즈]\nhttps://t.co/6fkI712oby \n\n[LP - 29CM]\nhttps://t.co/BOzjIlDJ9R \n\n[카세트 테이프 - 29CM]\nhttps://t.co/D5HvcNWbje https://t.co/zHnn4i0N3z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6fkI712oby",
+					"expanded_url": "https://bit.ly/3tbH2ug",
+					"display_url": "bit.ly/3tbH2ug",
+					"indices": [
+						40,
+						63
+					]
+				},
+				{
+					"url": "https://t.co/BOzjIlDJ9R",
+					"expanded_url": "https://bit.ly/3Ukkjs3",
+					"display_url": "bit.ly/3Ukkjs3",
+					"indices": [
+						78,
+						101
+					]
+				},
+				{
+					"url": "https://t.co/D5HvcNWbje",
+					"expanded_url": "https://bit.ly/3WHFXIg",
+					"display_url": "bit.ly/3WHFXIg",
+					"indices": [
+						121,
+						144
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1589848056064749600,
+					"id_str": "1589848056064749568",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/FhBGYjSVsAAm19L.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhBGYjSVsAAm19L.jpg",
+					"url": "https://t.co/zHnn4i0N3z",
+					"display_url": "pic.twitter.com/zHnn4i0N3z",
+					"expanded_url": "https://twitter.com/antennamusic/status/1589848063379910656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1589848056064749600,
+					"id_str": "1589848056064749568",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/FhBGYjSVsAAm19L.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhBGYjSVsAAm19L.jpg",
+					"url": "https://t.co/zHnn4i0N3z",
+					"display_url": "pic.twitter.com/zHnn4i0N3z",
+					"expanded_url": "https://twitter.com/antennamusic/status/1589848063379910656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1589848056068853800,
+					"id_str": "1589848056068853761",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/FhBGYjTUUAEkegc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhBGYjTUUAEkegc.jpg",
+					"url": "https://t.co/zHnn4i0N3z",
+					"display_url": "pic.twitter.com/zHnn4i0N3z",
+					"expanded_url": "https://twitter.com/antennamusic/status/1589848063379910656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2046,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1199,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1589848056056275000,
+					"id_str": "1589848056056274944",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/FhBGYjQUYAAfSNr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhBGYjQUYAAfSNr.jpg",
+					"url": "https://t.co/zHnn4i0N3z",
+					"display_url": "pic.twitter.com/zHnn4i0N3z",
+					"expanded_url": "https://twitter.com/antennamusic/status/1589848063379910656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1589848051870752800,
+		"in_reply_to_status_id_str": "1589848051870752768",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 적재 정규 2집 'The LIGHTS' 2022. 11. 09. 6PM Release",
+			"url": "https://t.co/XSWWwEx210",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEx210",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40481,
+			"friends_count": 12,
+			"listed_count": 377,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5578,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1666692231",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🔸 LP &amp; 카세트 테이프 예약 판매처\n\n[LP - 김밥레코즈]\nhttps://t.co/6fkI712oby \n\n[LP - 29CM]\nhttps://t.co/BOzjIlDJ9R \n\n[카세트 테이프 - 29CM]\nhttps://t.co/D5HvcNWbje https://t.co/zHnn4i0N3z"
+	},
+	{
+		"created_at": "Tue Nov 08 05:29:40 +0000 2022",
+		"id": 1589848051870752800,
+		"id_str": "1589852635112574976",
+		"full_text": "[#Notice] #루시드폴\n\n루시드폴 정규 10집 &lt;목소리와 기타&gt; 예약 판매가 오픈되었습니다. 지금 29CM와 김밥레코즈에서 구매하실 수 있습니다. https://t.co/ZkTxwK4zgq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Notice",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "루시드폴",
+					"indices": [
+						10,
+						15
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1589848042542289000,
+					"id_str": "1589848042542288897",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/FhBGXw6VUAEuJbP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhBGXw6VUAEuJbP.jpg",
+					"url": "https://t.co/ZkTxwK4zgq",
+					"display_url": "pic.twitter.com/ZkTxwK4zgq",
+					"expanded_url": "https://twitter.com/antennamusic/status/1589848051870752768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1589848042542289000,
+					"id_str": "1589848042542288897",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/FhBGXw6VUAEuJbP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhBGXw6VUAEuJbP.jpg",
+					"url": "https://t.co/ZkTxwK4zgq",
+					"display_url": "pic.twitter.com/ZkTxwK4zgq",
+					"expanded_url": "https://twitter.com/antennamusic/status/1589848051870752768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1589848042558980000,
+					"id_str": "1589848042558980096",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/FhBGXw-UAAA25ze.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhBGXw-UAAA25ze.jpg",
+					"url": "https://t.co/ZkTxwK4zgq",
+					"display_url": "pic.twitter.com/ZkTxwK4zgq",
+					"expanded_url": "https://twitter.com/antennamusic/status/1589848051870752768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1589848042554826800,
+					"id_str": "1589848042554826752",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/FhBGXw9UoAAyboN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhBGXw9UoAAyboN.jpg",
+					"url": "https://t.co/ZkTxwK4zgq",
+					"display_url": "pic.twitter.com/ZkTxwK4zgq",
+					"expanded_url": "https://twitter.com/antennamusic/status/1589848051870752768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2046,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1199,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1589848042584219600,
+					"id_str": "1589848042584219649",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/FhBGXxEVIAEoxWA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhBGXxEVIAEoxWA.jpg",
+					"url": "https://t.co/ZkTxwK4zgq",
+					"display_url": "pic.twitter.com/ZkTxwK4zgq",
+					"expanded_url": "https://twitter.com/antennamusic/status/1589848051870752768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 적재 정규 2집 'The LIGHTS' 2022. 11. 09. 6PM Release",
+			"url": "https://t.co/XSWWwEx210",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEx210",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40481,
+			"friends_count": 12,
+			"listed_count": 377,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5578,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1666692231",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Notice] #루시드폴\n\n루시드폴 정규 10집 &lt;목소리와 기타&gt; 예약 판매가 오픈되었습니다. 지금 29CM와 김밥레코즈에서 구매하실 수 있습니다. https://t.co/ZkTxwK4zgq"
+	},
+	{
+		"created_at": "Tue Nov 08 05:29:35 +0000 2022",
+		"id": 1589847824258470000,
+		"id_str": "1589852613373140992",
+		"full_text": "[VIDEO] [#인순이] #아바드림\n\n신곡무대✨ 인순이가 말하는 이별 이야기 #긴편지 ♪\n\n👉 https://t.co/TjHWe660Ns\n\n늙지 않는 마녀💖 인순이 무대를 빛내는 패션 감각🌟\n\n👉 https://t.co/p6bHeAYDXJ\n\n#INSOONI #휴맵컨텐츠 #HUMAPCONTENTS #AVADREAM #TV조선 #실리아",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "인순이",
+					"indices": [
+						9,
+						13
+					]
+				},
+				{
+					"text": "아바드림",
+					"indices": [
+						15,
+						20
+					]
+				},
+				{
+					"text": "긴편지",
+					"indices": [
+						44,
+						48
+					]
+				},
+				{
+					"text": "INSOONI",
+					"indices": [
+						136,
+						144
+					]
+				},
+				{
+					"text": "휴맵컨텐츠",
+					"indices": [
+						145,
+						151
+					]
+				},
+				{
+					"text": "HUMAPCONTENTS",
+					"indices": [
+						152,
+						166
+					]
+				},
+				{
+					"text": "AVADREAM",
+					"indices": [
+						167,
+						176
+					]
+				},
+				{
+					"text": "TV조선",
+					"indices": [
+						177,
+						182
+					]
+				},
+				{
+					"text": "실리아",
+					"indices": [
+						183,
+						187
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TjHWe660Ns",
+					"expanded_url": "https://tv.naver.com/v/30566906",
+					"display_url": "tv.naver.com/v/30566906",
+					"indices": [
+						54,
+						77
+					]
+				},
+				{
+					"url": "https://t.co/p6bHeAYDXJ",
+					"expanded_url": "https://tv.naver.com/v/30566531",
+					"display_url": "tv.naver.com/v/30566531",
+					"indices": [
+						111,
+						134
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1219506842935513000,
+			"id_str": "1219506842935513088",
+			"name": "휴맵컨텐츠(HUMAP)",
+			"screen_name": "humap_official",
+			"location": "",
+			"description": "휴맵컨텐츠(HUMAP CONTENTS) Official Twitter",
+			"url": "https://t.co/fBZZK3SmX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fBZZK3SmX6",
+							"expanded_url": "http://www.humapcontents.com/",
+							"display_url": "humapcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 384,
+			"friends_count": 2,
+			"listed_count": 2,
+			"created_at": "Tue Jan 21 06:28:27 +0000 2020",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 970,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1219506842935513088/1579755898",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[VIDEO] [#인순이] #아바드림\n\n신곡무대✨ 인순이가 말하는 이별 이야기 #긴편지 ♪\n\n👉 https://t.co/TjHWe660Ns\n\n늙지 않는 마녀💖 인순이 무대를 빛내는 패션 감각🌟\n\n👉 https://t.co/p6bHeAYDXJ\n\n#INSOONI #휴맵컨텐츠 #HUMAPCONTENTS #AVADREAM #TV조선 #실리아"
+	},
+	{
+		"created_at": "Tue Nov 08 05:29:30 +0000 2022",
+		"id": 1589845168638767000,
+		"id_str": "1589852591587938304",
+		"full_text": "[2022 서울인디뮤직페스타 라인업 공개]\n\n인디뮤지션과 레이블, 팬이 함께 교류하는 축제를 개최합니다.\n\n자세한 사항은 아래 관련 기사 전문, SIMF SNS에서 확인하실 수 있습니다.\n\n📌라인업 - https://t.co/FhnjCLlwJF\n📌페이스북 - https://t.co/n5E2uUrHxP\n📌인스타그램 - https://t.co/AQ4VbDQhba https://t.co/xJWE8HfSHJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FhnjCLlwJF",
+					"expanded_url": "https://han.gl/CqIoT",
+					"display_url": "han.gl/CqIoT",
+					"indices": [
+						113,
+						136
+					]
+				},
+				{
+					"url": "https://t.co/n5E2uUrHxP",
+					"expanded_url": "http://facebook.com/simfesta",
+					"display_url": "facebook.com/simfesta",
+					"indices": [
+						145,
+						168
+					]
+				},
+				{
+					"url": "https://t.co/AQ4VbDQhba",
+					"expanded_url": "http://instagram.com/seoulindiemusicfesta",
+					"display_url": "instagram.com/seoulindiemusi…",
+					"indices": [
+						178,
+						201
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1589831119549399000,
+					"id_str": "1589831119549399040",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/FhA2-t2agAA8JBU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhA2-t2agAA8JBU.jpg",
+					"url": "https://t.co/xJWE8HfSHJ",
+					"display_url": "pic.twitter.com/xJWE8HfSHJ",
+					"expanded_url": "https://twitter.com/record_liak/status/1589845168638767104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1018,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1589831119549399000,
+					"id_str": "1589831119549399040",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/FhA2-t2agAA8JBU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhA2-t2agAA8JBU.jpg",
+					"url": "https://t.co/xJWE8HfSHJ",
+					"display_url": "pic.twitter.com/xJWE8HfSHJ",
+					"expanded_url": "https://twitter.com/record_liak/status/1589845168638767104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1018,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 579588650,
+			"id_str": "579588650",
+			"name": "L.I.A.K",
+			"screen_name": "record_liak",
+			"location": "Seoul, Korea",
+			"description": "- 서울음악창작지원센터, 씬디 티켓라운지\n- 플럭서스/루비레코드/엠와이뮤직/주식회사엠피엠지/모던보이ENT/붕가붕가레코드/안테나/JNH뮤직/매직스트로베리/쇼파르/슈가레코드/쿨스뮤직/스티즈/인넥스트트렌드/DHPE/웨스트브릿지/그랜드라인/닥터심슨컴퍼니/미러볼뮤직/누플레이/빌리빈 등",
+			"url": "https://t.co/zKpQqBs24l",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zKpQqBs24l",
+							"expanded_url": "http://liak.or.kr/",
+							"display_url": "liak.or.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1991,
+			"friends_count": 1938,
+			"listed_count": 34,
+			"created_at": "Mon May 14 05:51:50 +0000 2012",
+			"favourites_count": 308,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2881,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/548356374137020416/Bvr-wnEw_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/548356374137020416/Bvr-wnEw_normal.jpeg",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[2022 서울인디뮤직페스타 라인업 공개]\n\n인디뮤지션과 레이블, 팬이 함께 교류하는 축제를 개최합니다.\n\n자세한 사항은 아래 관련 기사 전문, SIMF SNS에서 확인하실 수 있습니다.\n\n📌라인업 - https://t.co/FhnjCLlwJF\n📌페이스북 - https://t.co/n5E2uUrHxP\n📌인스타그램 - https://t.co/AQ4VbDQhba https://t.co/xJWE8HfSHJ"
+	},
+	{
 		"created_at": "Tue Nov 08 04:29:49 +0000 2022",
 		"id": 1589833327334547500,
 		"id_str": "1589837570606858242",
