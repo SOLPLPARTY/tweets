@@ -1,6 +1,209 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Tue Nov 08 06:29:32 +0000 2022",
+		"id": 1589855968086851600,
+		"id_str": "1589867699190042624",
+		"full_text": "목소리랑 키보드만으로 감동주기,, 이 '분'은 가능\n\n🎶Benson Boone - GHOST TOWN\n풀영상 https://t.co/q27PTcaHdK https://t.co/FBH4v3W5kp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/q27PTcaHdK",
+					"expanded_url": "https://youtu.be/5WWzXwTYg5s",
+					"display_url": "youtu.be/5WWzXwTYg5s",
+					"indices": [
+						61,
+						84
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1589855533955104800,
+					"id_str": "1589855533955104769",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1589855533955104769/pu/img/9s9DE2YNAaC1eCt1.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1589855533955104769/pu/img/9s9DE2YNAaC1eCt1.jpg",
+					"url": "https://t.co/FBH4v3W5kp",
+					"display_url": "pic.twitter.com/FBH4v3W5kp",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1589855968086851585/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1589855533955104800,
+					"id_str": "1589855533955104769",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1589855533955104769/pu/img/9s9DE2YNAaC1eCt1.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1589855533955104769/pu/img/9s9DE2YNAaC1eCt1.jpg",
+					"url": "https://t.co/FBH4v3W5kp",
+					"display_url": "pic.twitter.com/FBH4v3W5kp",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1589855968086851585/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 37996,
+						"variants": [
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1589855533955104769/pu/vid/480x852/fLfezZHVbte00L9R.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1589855533955104769/pu/pl/KG827nV4gDmzGvWK.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1589855533955104769/pu/vid/320x568/4B40enuRYEsWSscw.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1589855533955104769/pu/vid/720x1280/YwcsUNpoPxcpqABS.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 91441,
+			"friends_count": 489,
+			"listed_count": 220,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1580,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 12127,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1664247457",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "목소리랑 키보드만으로 감동주기,, 이 '분'은 가능\n\n🎶Benson Boone - GHOST TOWN\n풀영상 https://t.co/q27PTcaHdK https://t.co/FBH4v3W5kp"
+	},
+	{
 		"created_at": "Tue Nov 08 05:29:59 +0000 2022",
 		"id": 1589848073987326000,
 		"id_str": "1589852711909875714",
