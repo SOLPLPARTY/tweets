@@ -1,6 +1,615 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Tue Nov 08 02:58:22 +0000 2022",
+		"id": 1589800661574877200,
+		"id_str": "1589814557526179840",
+		"full_text": "📢KCON MD를 놓친 KCON-ers! 아직 판매중이니 걱정마세요🥰\nKCON 현장을 느낄 수 있는 라이트 세이커도 구매 가능하다는 점!\n온라인에서 구입하면 출연 아티스트의 랜덤 폴라로이드 당첨기회까지🎁\n\n자세한 내용은 홈페이지 링크를 확인해주세요👀\n🔗https://t.co/oKAmmvU5zu\n\n#KCON #KCON2022JAPAN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						166,
+						171
+					]
+				},
+				{
+					"text": "KCON2022JAPAN",
+					"indices": [
+						172,
+						186
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oKAmmvU5zu",
+					"expanded_url": "https://kcon2022japan-officialmd.com",
+					"display_url": "kcon2022japan-officialmd.com",
+					"indices": [
+						141,
+						164
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1589800659200925700,
+		"in_reply_to_status_id_str": "1589800659200925696",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER, SEE YOU AT THE NEXT KCON❤️",
+			"url": "https://t.co/IDnJhWoZ59",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWoZ59",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 474994,
+			"friends_count": 76,
+			"listed_count": 1140,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 143,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13669,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1567787455188987905/sAYoOtFz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1567787455188987905/sAYoOtFz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1664852417",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📢KCON MD를 놓친 KCON-ers! 아직 판매중이니 걱정마세요🥰\nKCON 현장을 느낄 수 있는 라이트 세이커도 구매 가능하다는 점!\n온라인에서 구입하면 출연 아티스트의 랜덤 폴라로이드 당첨기회까지🎁\n\n자세한 내용은 홈페이지 링크를 확인해주세요👀\n🔗https://t.co/oKAmmvU5zu\n\n#KCON #KCON2022JAPAN"
+	},
+	{
+		"created_at": "Tue Nov 08 02:58:15 +0000 2022",
+		"id": 1589800659200925700,
+		"id_str": "1589814527285043202",
+		"full_text": "📢KCON-ers! Don’t worry if you miss out the KCON MD🥰 \nYou can also purchase KCON LIGHT SHAKER at this time as well! \nGet your merch online and take the chance to win artist’s random Polaroid🎁\n\nCheck out the website for more info👀\n🔗https://t.co/oKAmmvU5zu\n\n#KCON #KCON2022JAPAN https://t.co/r7NvyQMKdK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						255,
+						260
+					]
+				},
+				{
+					"text": "KCON2022JAPAN",
+					"indices": [
+						261,
+						275
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oKAmmvU5zu",
+					"expanded_url": "https://kcon2022japan-officialmd.com",
+					"display_url": "kcon2022japan-officialmd.com",
+					"indices": [
+						230,
+						253
+					]
+				},
+				{
+					"url": "https://t.co/r7NvyQMKdK",
+					"expanded_url": "https://twitter.com/kconjapan/status/1589799870310670336",
+					"display_url": "twitter.com/kconjapan/stat…",
+					"indices": [
+						276,
+						299
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER, SEE YOU AT THE NEXT KCON❤️",
+			"url": "https://t.co/IDnJhWoZ59",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWoZ59",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 474994,
+			"friends_count": 76,
+			"listed_count": 1140,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 143,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13669,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1567787455188987905/sAYoOtFz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1567787455188987905/sAYoOtFz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1664852417",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1589799870310670300,
+		"quoted_status_id_str": "1589799870310670336",
+		"quoted_status_permalink": {
+			"url": "https://t.co/r7NvyQMKdK",
+			"expanded": "https://twitter.com/kconjapan/status/1589799870310670336",
+			"display": "twitter.com/kconjapan/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Nov 08 02:00:00 +0000 2022",
+			"id": 1589799870310670300,
+			"id_str": "1589799870310670336",
+			"full_text": "📢KCONグッズを見逃したKCON-ers！\nまだまだ販売中なのでご心配なく🥰\nKCONの現場が感じられるライトシェーカーも購入可能！ \nオンラインから購入すると出演アーティストのランダムポラロイドが当たるチャンスも🎁\n\n詳細はHPのURLをチェック！👀 🔗https://t.co/rz0Ah4n2C4 \n\n#KCON #KCON2022JAPAN https://t.co/rbryjBEVnv",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				175
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "KCON",
+						"indices": [
+							155,
+							160
+						]
+					},
+					{
+						"text": "KCON2022JAPAN",
+						"indices": [
+							161,
+							175
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/rz0Ah4n2C4",
+						"expanded_url": "https://kcon2022japan-officialmd.com",
+						"display_url": "kcon2022japan-officialmd.com",
+						"indices": [
+							129,
+							152
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1589503587251781600,
+						"id_str": "1589503587251781632",
+						"indices": [
+							176,
+							199
+						],
+						"media_url": "http://pbs.twimg.com/media/Fg8NF09aAAAXB8D.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Fg8NF09aAAAXB8D.jpg",
+						"url": "https://t.co/rbryjBEVnv",
+						"display_url": "pic.twitter.com/rbryjBEVnv",
+						"expanded_url": "https://twitter.com/kconjapan/status/1589799870310670336/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2000,
+								"h": 2000,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1589503587251781600,
+						"id_str": "1589503587251781632",
+						"indices": [
+							176,
+							199
+						],
+						"media_url": "http://pbs.twimg.com/media/Fg8NF09aAAAXB8D.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Fg8NF09aAAAXB8D.jpg",
+						"url": "https://t.co/rbryjBEVnv",
+						"display_url": "pic.twitter.com/rbryjBEVnv",
+						"expanded_url": "https://twitter.com/kconjapan/status/1589799870310670336/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2000,
+								"h": 2000,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3017029196,
+				"id_str": "3017029196",
+				"name": "KCON Japan",
+				"screen_name": "kconjapan",
+				"location": "",
+				"description": "世界最大級のK-Cultureフェスティバル\n『KCON JAPAN』の公式Twitterです！\n📍10/14（金） ~ 10/16(日）/ 東京・有明アリーナ",
+				"url": "https://t.co/sCRhaGCzOM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/sCRhaGCzOM",
+								"expanded_url": "http://kconjapan.com",
+								"display_url": "kconjapan.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 252897,
+				"friends_count": 158,
+				"listed_count": 508,
+				"created_at": "Thu Feb 12 06:02:55 +0000 2015",
+				"favourites_count": 167,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 7197,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5ABB5",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1554285876041367553/Z3_Jgigb_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1554285876041367553/Z3_Jgigb_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3017029196/1662617121",
+				"profile_link_color": "F5ABB5",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 78,
+			"favorite_count": 273,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"retweet_count": 10,
+		"favorite_count": 42,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "📢KCON-ers! Don’t worry if you miss out the KCON MD🥰 \nYou can also purchase KCON LIGHT SHAKER at this time as well! \nGet your merch online and take the chance to win artist’s random Polaroid🎁\n\nCheck out the website for more info👀\n🔗https://t.co/oKAmmvU5zu\n\n#KCON #KCON2022JAPAN https://t.co/r7NvyQMKdK"
+	},
+	{
+		"created_at": "Tue Nov 08 02:29:27 +0000 2022",
+		"id": 1589804884467253200,
+		"id_str": "1589807279465205760",
+		"full_text": "[#NEWS] 송민호, '걍나와' 22번째 게스트… 날 것 같은 예능감\n\n▶️https://t.co/7CQchacpeh\n\n#미스틱스토리 #네이버NOW #걍나와 #강호동 #송민호",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NEWS",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "미스틱스토리",
+					"indices": [
+						68,
+						75
+					]
+				},
+				{
+					"text": "네이버NOW",
+					"indices": [
+						76,
+						83
+					]
+				},
+				{
+					"text": "걍나와",
+					"indices": [
+						84,
+						88
+					]
+				},
+				{
+					"text": "강호동",
+					"indices": [
+						89,
+						93
+					]
+				},
+				{
+					"text": "송민호",
+					"indices": [
+						94,
+						98
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7CQchacpeh",
+					"expanded_url": "https://naver.me/GMvFzZrO",
+					"display_url": "naver.me/GMvFzZrO",
+					"indices": [
+						43,
+						66
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/pgQyM3XZDx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pgQyM3XZDx",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37510,
+			"friends_count": 14,
+			"listed_count": 301,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7338,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1667230439",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#NEWS] 송민호, '걍나와' 22번째 게스트… 날 것 같은 예능감\n\n▶️https://t.co/7CQchacpeh\n\n#미스틱스토리 #네이버NOW #걍나와 #강호동 #송민호"
+	},
+	{
 		"created_at": "Tue Nov 08 01:29:30 +0000 2022",
 		"id": 1589787384245543000,
 		"id_str": "1589792193404817409",
