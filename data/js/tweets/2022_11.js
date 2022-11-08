@@ -1,6 +1,594 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Tue Nov 08 04:29:49 +0000 2022",
+		"id": 1589833327334547500,
+		"id_str": "1589837570606858242",
+		"full_text": "2022 OuiOui（위위）연말 공연 NEW OU！ - https://t.co/3EmDJGBtTq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			54
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3EmDJGBtTq",
+					"expanded_url": "http://kko.to/2bAsJcr0fd",
+					"display_url": "kko.to/2bAsJcr0fd",
+					"indices": [
+						31,
+						54
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 76964739,
+			"id_str": "76964739",
+			"name": "inplanet",
+			"screen_name": "inplanet",
+			"location": "Seoul, KOREA",
+			"description": "Music Label & Distributor / with Boni, The Suite, Wilcox, OuiOui, DAMYE, bobae, Choi Cello / 유통팀: notice@inplanet.co.kr / 제작팀: anr@inplanet.co.kr",
+			"url": "https://t.co/WF9ly7o9FQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WF9ly7o9FQ",
+							"expanded_url": "http://www.inplanet.co.kr",
+							"display_url": "inplanet.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1419,
+			"friends_count": 757,
+			"listed_count": 61,
+			"created_at": "Thu Sep 24 15:25:25 +0000 2009",
+			"favourites_count": 134,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5576,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1383277780150853638/qacXSe09_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1383277780150853638/qacXSe09_normal.jpg",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "0099FF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2022 OuiOui（위위）연말 공연 NEW OU！ - https://t.co/3EmDJGBtTq"
+	},
+	{
+		"created_at": "Tue Nov 08 04:29:43 +0000 2022",
+		"id": 1589831935425405000,
+		"id_str": "1589837544908378112",
+		"full_text": "감사한 마음을 가득 담아 이번 투어의 마지막 페이지는 오직 솔루션스와 여러분만의 시간으로 가득 채운 단독 공연으로\n‘부산’, ‘대구’ 그리고 ‘서울’에서 펼쳐질 예정입니다.\n\n피날레의 순간을 함께해 주세요!\n\n#NAIVE #2022THESOLUTIONSCLUBTOUR\n#THESOLUTIONS #솔루션스\n#클럽투어",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NAIVE",
+					"indices": [
+						117,
+						123
+					]
+				},
+				{
+					"text": "2022THESOLUTIONSCLUBTOUR",
+					"indices": [
+						124,
+						149
+					]
+				},
+				{
+					"text": "THESOLUTIONS",
+					"indices": [
+						150,
+						163
+					]
+				},
+				{
+					"text": "솔루션스",
+					"indices": [
+						164,
+						169
+					]
+				},
+				{
+					"text": "클럽투어",
+					"indices": [
+						170,
+						175
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1589831930119610400,
+		"in_reply_to_status_id_str": "1589831930119610368",
+		"in_reply_to_user_id": 63414926,
+		"in_reply_to_user_id_str": "63414926",
+		"in_reply_to_screen_name": "HappyRobotKR",
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "구만(9.10000), 노리플라이, 데이브레이크, Lacuna(라쿠나), SURL(설), 소란, 솔루션스, 쏜애플, OurR(아월)",
+			"url": "https://t.co/BIvBmbtJjn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BIvBmbtJjn",
+							"expanded_url": "https://mpmgmusic.com/",
+							"display_url": "mpmgmusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12898,
+			"friends_count": 1893,
+			"listed_count": 250,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 209,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13614,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1626843310",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "감사한 마음을 가득 담아 이번 투어의 마지막 페이지는 오직 솔루션스와 여러분만의 시간으로 가득 채운 단독 공연으로\n‘부산’, ‘대구’ 그리고 ‘서울’에서 펼쳐질 예정입니다.\n\n피날레의 순간을 함께해 주세요!\n\n#NAIVE #2022THESOLUTIONSCLUBTOUR\n#THESOLUTIONS #솔루션스\n#클럽투어"
+	},
+	{
+		"created_at": "Tue Nov 08 04:29:34 +0000 2022",
+		"id": 1589831930119610400,
+		"id_str": "1589837510703972352",
+		"full_text": "🎟️티켓 오픈 (ONLY 인터파크)\n𝗕𝗨𝗦𝗔𝗡 2022.11.11(Fri) 7PM\n𝗗𝗔𝗘𝗚𝗨 2022.11.14(Mon) 7PM\n𝗦𝗘𝗢𝗨𝗟 2022.11.23(Wed) 7PM\n\n지난 7월부터 5개월간 지속된 대장정을 무사히 완주할 수 있었던 가장 큰 힘은\n\n팬분들의 사랑과 응원이었습니다. https://t.co/R9uBunFakk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1589805460558708700,
+					"id_str": "1589805460558708737",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/FhAfpKqUAAEVriY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhAfpKqUAAEVriY.jpg",
+					"url": "https://t.co/R9uBunFakk",
+					"display_url": "pic.twitter.com/R9uBunFakk",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1589831930119610368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1589805460558708700,
+					"id_str": "1589805460558708737",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/FhAfpKqUAAEVriY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhAfpKqUAAEVriY.jpg",
+					"url": "https://t.co/R9uBunFakk",
+					"display_url": "pic.twitter.com/R9uBunFakk",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1589831930119610368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1589831919772270600,
+		"in_reply_to_status_id_str": "1589831919772270592",
+		"in_reply_to_user_id": 63414926,
+		"in_reply_to_user_id_str": "63414926",
+		"in_reply_to_screen_name": "HappyRobotKR",
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "구만(9.10000), 노리플라이, 데이브레이크, Lacuna(라쿠나), SURL(설), 소란, 솔루션스, 쏜애플, OurR(아월)",
+			"url": "https://t.co/BIvBmbtJjn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BIvBmbtJjn",
+							"expanded_url": "https://mpmgmusic.com/",
+							"display_url": "mpmgmusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12898,
+			"friends_count": 1893,
+			"listed_count": 250,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 209,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13614,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1626843310",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🎟️티켓 오픈 (ONLY 인터파크)\n𝗕𝗨𝗦𝗔𝗡 2022.11.11(Fri) 7PM\n𝗗𝗔𝗘𝗚𝗨 2022.11.14(Mon) 7PM\n𝗦𝗘𝗢𝗨𝗟 2022.11.23(Wed) 7PM\n\n지난 7월부터 5개월간 지속된 대장정을 무사히 완주할 수 있었던 가장 큰 힘은\n\n팬분들의 사랑과 응원이었습니다. https://t.co/R9uBunFakk"
+	},
+	{
+		"created_at": "Tue Nov 08 04:29:32 +0000 2022",
+		"id": 1589831919772270600,
+		"id_str": "1589837501673381888",
+		"full_text": "[솔루션스 | 공연공지]\n\n2022 THE SOLUTIONS CLUB TOUR [NAIVE] ; FINALE\n\n🎵공연 일정\n𝗕𝗨𝗦𝗔𝗡 2022.12.10(Sat) 6PM\nat KT&amp;G 상상마당 부산\n𝗗𝗔𝗘𝗚𝗨 2022.12.11(Sun) 6PM\nat club HEAVY\n𝗦𝗘𝗢𝗨𝗟 2022.12.23(Fri) 8PM\nat KT&amp;G 상상마당 홍대 라이브홀 https://t.co/gxrqSCaI0h",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			205
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1589805360075849700,
+					"id_str": "1589805360075849729",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/FhAfjUVVQAEeteq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhAfjUVVQAEeteq.jpg",
+					"url": "https://t.co/gxrqSCaI0h",
+					"display_url": "pic.twitter.com/gxrqSCaI0h",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1589831919772270592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1589805360075849700,
+					"id_str": "1589805360075849729",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/FhAfjUVVQAEeteq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhAfjUVVQAEeteq.jpg",
+					"url": "https://t.co/gxrqSCaI0h",
+					"display_url": "pic.twitter.com/gxrqSCaI0h",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1589831919772270592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "구만(9.10000), 노리플라이, 데이브레이크, Lacuna(라쿠나), SURL(설), 소란, 솔루션스, 쏜애플, OurR(아월)",
+			"url": "https://t.co/BIvBmbtJjn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BIvBmbtJjn",
+							"expanded_url": "https://mpmgmusic.com/",
+							"display_url": "mpmgmusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12898,
+			"friends_count": 1893,
+			"listed_count": 250,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 209,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13614,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1626843310",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[솔루션스 | 공연공지]\n\n2022 THE SOLUTIONS CLUB TOUR [NAIVE] ; FINALE\n\n🎵공연 일정\n𝗕𝗨𝗦𝗔𝗡 2022.12.10(Sat) 6PM\nat KT&amp;G 상상마당 부산\n𝗗𝗔𝗘𝗚𝗨 2022.12.11(Sun) 6PM\nat club HEAVY\n𝗦𝗘𝗢𝗨𝗟 2022.12.23(Fri) 8PM\nat KT&amp;G 상상마당 홍대 라이브홀 https://t.co/gxrqSCaI0h"
+	},
+	{
 		"created_at": "Tue Nov 08 03:29:32 +0000 2022",
 		"id": 1589814968253292500,
 		"id_str": "1589822401638207489",
