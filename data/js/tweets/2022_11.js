@@ -1,6 +1,980 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Tue Nov 08 09:29:43 +0000 2022",
+		"id": 1589912178752381000,
+		"id_str": "1589913043148107778",
+		"full_text": "✔팬사인회 안내\n\n🌙먼데이프로젝트 시즌5 : 청춘의 밤🌙\n▫우예린 단독 콘서트\n\n11월 14일 단독 콘서트 종료 후 공연장에서 팬사인회가 진행됩니다.\n\n🚩 공연 종료 후 약 40분간 진행됩니다.\n🚩 공연 포스터 이미지로 제작된 사인지를 배부합니다. https://t.co/z2UkrkdktE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1589912164370116600,
+					"id_str": "1589912164370116608",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/FhCAsJVacAA23R-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhCAsJVacAA23R-.jpg",
+					"url": "https://t.co/z2UkrkdktE",
+					"display_url": "pic.twitter.com/z2UkrkdktE",
+					"expanded_url": "https://twitter.com/ruby_records/status/1589912178752380928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1589912164370116600,
+					"id_str": "1589912164370116608",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/FhCAsJVacAA23R-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhCAsJVacAA23R-.jpg",
+					"url": "https://t.co/z2UkrkdktE",
+					"display_url": "pic.twitter.com/z2UkrkdktE",
+					"expanded_url": "https://twitter.com/ruby_records/status/1589912178752380928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1589912164349116400,
+					"id_str": "1589912164349116417",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/FhCAsJQaAAEe0CN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhCAsJQaAAEe0CN.jpg",
+					"url": "https://t.co/z2UkrkdktE",
+					"display_url": "pic.twitter.com/z2UkrkdktE",
+					"expanded_url": "https://twitter.com/ruby_records/status/1589912178752380928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110930534,
+			"id_str": "110930534",
+			"name": "Ruby records",
+			"screen_name": "ruby_records",
+			"location": "대한민국 서울",
+			"description": "💎 루비레코드 #루비튜브 Rubytube #인천여관X루비살롱 rubysalon #스마일러브위크엔드 #모트 Motte #레인보우노트 RBN #우예린 yerin",
+			"url": "https://t.co/vLFrhW6ba0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vLFrhW6ba0",
+							"expanded_url": "http://youtube.com/user/rubysalon",
+							"display_url": "youtube.com/user/rubysalon",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7503,
+			"friends_count": 8144,
+			"listed_count": 195,
+			"created_at": "Wed Feb 03 07:13:24 +0000 2010",
+			"favourites_count": 1020,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7812,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1403718575479681030/-FWGVqIS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1403718575479681030/-FWGVqIS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110930534/1623507563",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "✔팬사인회 안내\n\n🌙먼데이프로젝트 시즌5 : 청춘의 밤🌙\n▫우예린 단독 콘서트\n\n11월 14일 단독 콘서트 종료 후 공연장에서 팬사인회가 진행됩니다.\n\n🚩 공연 종료 후 약 40분간 진행됩니다.\n🚩 공연 포스터 이미지로 제작된 사인지를 배부합니다. https://t.co/z2UkrkdktE"
+	},
+	{
+		"created_at": "Tue Nov 08 09:29:36 +0000 2022",
+		"id": 1589909959441289200,
+		"id_str": "1589913013108236288",
+		"full_text": "#Wilcox \n\n윌콕스 | 축시의 데이트\n2022.11.13. SUN 6PM(KST)\n\n#윌콕스 #축시의데이트 #LoveBeforeDawn https://t.co/ZwkrGbOvuM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Wilcox",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "윌콕스",
+					"indices": [
+						50,
+						54
+					]
+				},
+				{
+					"text": "축시의데이트",
+					"indices": [
+						55,
+						62
+					]
+				},
+				{
+					"text": "LoveBeforeDawn",
+					"indices": [
+						63,
+						78
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1589909952436441000,
+					"id_str": "1589909952436441088",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/FhB-rZPVEAAtxpw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhB-rZPVEAAtxpw.jpg",
+					"url": "https://t.co/ZwkrGbOvuM",
+					"display_url": "pic.twitter.com/ZwkrGbOvuM",
+					"expanded_url": "https://twitter.com/inplanet/status/1589909959441289216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1589909952436441000,
+					"id_str": "1589909952436441088",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/FhB-rZPVEAAtxpw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhB-rZPVEAAtxpw.jpg",
+					"url": "https://t.co/ZwkrGbOvuM",
+					"display_url": "pic.twitter.com/ZwkrGbOvuM",
+					"expanded_url": "https://twitter.com/inplanet/status/1589909959441289216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1589909952436412400,
+					"id_str": "1589909952436412416",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/FhB-rZPUoAAo_na.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhB-rZPUoAAo_na.jpg",
+					"url": "https://t.co/ZwkrGbOvuM",
+					"display_url": "pic.twitter.com/ZwkrGbOvuM",
+					"expanded_url": "https://twitter.com/inplanet/status/1589909959441289216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1589909952440635400,
+					"id_str": "1589909952440635393",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/FhB-rZQVEAErMoA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhB-rZQVEAErMoA.jpg",
+					"url": "https://t.co/ZwkrGbOvuM",
+					"display_url": "pic.twitter.com/ZwkrGbOvuM",
+					"expanded_url": "https://twitter.com/inplanet/status/1589909959441289216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 76964739,
+			"id_str": "76964739",
+			"name": "inplanet",
+			"screen_name": "inplanet",
+			"location": "Seoul, KOREA",
+			"description": "Music Label & Distributor / with Boni, The Suite, Wilcox, OuiOui, DAMYE, bobae, Choi Cello / 유통팀: notice@inplanet.co.kr / 제작팀: anr@inplanet.co.kr",
+			"url": "https://t.co/WF9ly7o9FQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WF9ly7o9FQ",
+							"expanded_url": "http://www.inplanet.co.kr",
+							"display_url": "inplanet.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1419,
+			"friends_count": 757,
+			"listed_count": 61,
+			"created_at": "Thu Sep 24 15:25:25 +0000 2009",
+			"favourites_count": 134,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5577,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1383277780150853638/qacXSe09_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1383277780150853638/qacXSe09_normal.jpg",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "0099FF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Wilcox \n\n윌콕스 | 축시의 데이트\n2022.11.13. SUN 6PM(KST)\n\n#윌콕스 #축시의데이트 #LoveBeforeDawn https://t.co/ZwkrGbOvuM"
+	},
+	{
+		"created_at": "Tue Nov 08 09:29:32 +0000 2022",
+		"id": 1589908950488871000,
+		"id_str": "1589912999854510082",
+		"full_text": "스웨덴세탁소의 점장님 세윤의 특별한 선물!🎁\n'𝐒𝐰𝐞𝐝𝐞𝐧 𝐋𝐚𝐮𝐧𝐝𝐫𝐲 𝐨𝐧 𝐌𝐚𝐠𝐢𝐜 𝐂𝐚𝐫𝐩𝐞𝐭' 이 \n구글 플레이스토어에 오픈되었습니다!\n우리 함께 ✨매직카펫✨을 타고 날아보아요💙 \n\n🎮 https://t.co/eLuTts1ZZa\n\n#스웨덴세탁소 #꿈결 #매직카펫\n#SwedenLaundry #In_our_dreams",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "스웨덴세탁소",
+					"indices": [
+						134,
+						141
+					]
+				},
+				{
+					"text": "꿈결",
+					"indices": [
+						142,
+						145
+					]
+				},
+				{
+					"text": "매직카펫",
+					"indices": [
+						146,
+						151
+					]
+				},
+				{
+					"text": "SwedenLaundry",
+					"indices": [
+						152,
+						166
+					]
+				},
+				{
+					"text": "In_our_dreams",
+					"indices": [
+						167,
+						181
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eLuTts1ZZa",
+					"expanded_url": "https://play.google.com/store/apps/details?id=com.goodafteryoon.swedenlaundryonmagiccarpet",
+					"display_url": "play.google.com/store/apps/det…",
+					"indices": [
+						109,
+						132
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 265792818,
+			"id_str": "265792818",
+			"name": "쇼파르엔터테인먼트",
+			"screen_name": "shofar_ent",
+			"location": "",
+			"description": "SHOFAR ENTERTAINMENT Official Twitter",
+			"url": "https://t.co/zzQk2ihRbI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zzQk2ihRbI",
+							"expanded_url": "http://shofar-ent.com/",
+							"display_url": "shofar-ent.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7625,
+			"friends_count": 4,
+			"listed_count": 63,
+			"created_at": "Mon Mar 14 04:31:00 +0000 2011",
+			"favourites_count": 52,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4953,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/265792818/1666774790",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "스웨덴세탁소의 점장님 세윤의 특별한 선물!🎁\n'𝐒𝐰𝐞𝐝𝐞𝐧 𝐋𝐚𝐮𝐧𝐝𝐫𝐲 𝐨𝐧 𝐌𝐚𝐠𝐢𝐜 𝐂𝐚𝐫𝐩𝐞𝐭' 이 \n구글 플레이스토어에 오픈되었습니다!\n우리 함께 ✨매직카펫✨을 타고 날아보아요💙 \n\n🎮 https://t.co/eLuTts1ZZa\n\n#스웨덴세탁소 #꿈결 #매직카펫\n#SwedenLaundry #In_our_dreams"
+	},
+	{
+		"created_at": "Tue Nov 08 09:29:30 +0000 2022",
+		"id": 1589907155758780400,
+		"id_str": "1589912990757052417",
+		"full_text": "권진아 - 사랑이 올 거야 (아홉수 우리들 X 권진아)\n\nMelon https://t.co/cz5igMwXu0\nGenie https://t.co/qmD74hjh3U\nBugs https://t.co/SoTJn8Y1dL\nFLO https://t.co/6SdporA5d7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cz5igMwXu0",
+					"expanded_url": "http://bit.ly/3EexIfx",
+					"display_url": "bit.ly/3EexIfx",
+					"indices": [
+						38,
+						61
+					]
+				},
+				{
+					"url": "https://t.co/qmD74hjh3U",
+					"expanded_url": "http://bit.ly/3UDa8hX",
+					"display_url": "bit.ly/3UDa8hX",
+					"indices": [
+						68,
+						91
+					]
+				},
+				{
+					"url": "https://t.co/SoTJn8Y1dL",
+					"expanded_url": "http://bit.ly/3UAYSmb",
+					"display_url": "bit.ly/3UAYSmb",
+					"indices": [
+						97,
+						120
+					]
+				},
+				{
+					"url": "https://t.co/6SdporA5d7",
+					"expanded_url": "http://bit.ly/3Akkqfl",
+					"display_url": "bit.ly/3Akkqfl",
+					"indices": [
+						125,
+						148
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1589907152705290200,
+		"in_reply_to_status_id_str": "1589907152705290240",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 적재 정규 2집 'The LIGHTS' 2022. 11. 09. 6PM Release",
+			"url": "https://t.co/XSWWwEx210",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEx210",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40509,
+			"friends_count": 12,
+			"listed_count": 377,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5587,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1666692231",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "권진아 - 사랑이 올 거야 (아홉수 우리들 X 권진아)\n\nMelon https://t.co/cz5igMwXu0\nGenie https://t.co/qmD74hjh3U\nBugs https://t.co/SoTJn8Y1dL\nFLO https://t.co/6SdporA5d7"
+	},
+	{
+		"created_at": "Tue Nov 08 09:29:28 +0000 2022",
+		"id": 1589907152705290200,
+		"id_str": "1589912981575708673",
+		"full_text": "[#Release] #권진아\n\n권진아 - 사랑이 올 거야 (아홉수 우리들 X 권진아)\n\nLyrics by 조은희, 전준규\nComposed by 전준규\nArranged by 전준규\n\n권진아가 참여한 아홉수 우리들 X 권진아 ‘사랑이 올 거야’는 지금 모든 음원 사이트에서 감상하실 수 있습니다🎧\n\n#KwonJinAh\n#아홉수우리들 #사랑이올거야 https://t.co/pK8jxLLAyX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			191
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Release",
+					"indices": [
+						1,
+						9
+					]
+				},
+				{
+					"text": "권진아",
+					"indices": [
+						11,
+						15
+					]
+				},
+				{
+					"text": "KwonJinAh",
+					"indices": [
+						165,
+						175
+					]
+				},
+				{
+					"text": "아홉수우리들",
+					"indices": [
+						176,
+						183
+					]
+				},
+				{
+					"text": "사랑이올거야",
+					"indices": [
+						184,
+						191
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1589907146535096300,
+					"id_str": "1589907146535096320",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/FhB8IEcUUAAtOKN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhB8IEcUUAAtOKN.jpg",
+					"url": "https://t.co/pK8jxLLAyX",
+					"display_url": "pic.twitter.com/pK8jxLLAyX",
+					"expanded_url": "https://twitter.com/antennamusic/status/1589907152705290240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1589907146535096300,
+					"id_str": "1589907146535096320",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/FhB8IEcUUAAtOKN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhB8IEcUUAAtOKN.jpg",
+					"url": "https://t.co/pK8jxLLAyX",
+					"display_url": "pic.twitter.com/pK8jxLLAyX",
+					"expanded_url": "https://twitter.com/antennamusic/status/1589907152705290240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 적재 정규 2집 'The LIGHTS' 2022. 11. 09. 6PM Release",
+			"url": "https://t.co/XSWWwEx210",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEx210",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40509,
+			"friends_count": 12,
+			"listed_count": 377,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5587,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1666692231",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 26,
+		"favorite_count": 33,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Release] #권진아\n\n권진아 - 사랑이 올 거야 (아홉수 우리들 X 권진아)\n\nLyrics by 조은희, 전준규\nComposed by 전준규\nArranged by 전준규\n\n권진아가 참여한 아홉수 우리들 X 권진아 ‘사랑이 올 거야’는 지금 모든 음원 사이트에서 감상하실 수 있습니다🎧\n\n#KwonJinAh\n#아홉수우리들 #사랑이올거야 https://t.co/pK8jxLLAyX"
+	},
+	{
 		"created_at": "Tue Nov 08 08:29:29 +0000 2022",
 		"id": 1589888313531719700,
 		"id_str": "1589897885721645056",
