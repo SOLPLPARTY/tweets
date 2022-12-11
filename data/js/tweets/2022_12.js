@@ -1,6 +1,486 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Sun Dec 11 08:03:20 +0000 2022",
+		"id": 1601849819546337300,
+		"id_str": "1601850103815278592",
+		"full_text": "❝ 그러나 코로나19로 행사가 취소됐고, 손해를 만회하기 위해 다른 콘서트를 여는 등 약정과 다른 목적으로 3억 9천여만 원을 사용했다가 기소됐습니다. \n\n#그린플러그드 #그플 \n#페스티벌 #공연기획사 \n#콘텐츠아이디 #김승한 \n#횡령 #금융사기 #뮤직비즈니스",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "그린플러그드",
+					"indices": [
+						87,
+						94
+					]
+				},
+				{
+					"text": "그플",
+					"indices": [
+						95,
+						98
+					]
+				},
+				{
+					"text": "페스티벌",
+					"indices": [
+						100,
+						105
+					]
+				},
+				{
+					"text": "공연기획사",
+					"indices": [
+						106,
+						112
+					]
+				},
+				{
+					"text": "콘텐츠아이디",
+					"indices": [
+						114,
+						121
+					]
+				},
+				{
+					"text": "김승한",
+					"indices": [
+						122,
+						126
+					]
+				},
+				{
+					"text": "횡령",
+					"indices": [
+						128,
+						131
+					]
+				},
+				{
+					"text": "금융사기",
+					"indices": [
+						132,
+						137
+					]
+				},
+				{
+					"text": "뮤직비즈니스",
+					"indices": [
+						138,
+						145
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1601849815909875700,
+		"in_reply_to_status_id_str": "1601849815909875712",
+		"in_reply_to_user_id": 778313051929911300,
+		"in_reply_to_user_id_str": "778313051929911296",
+		"in_reply_to_screen_name": "ArtManagementKR",
+		"user": {
+			"id": 778313051929911300,
+			"id_str": "778313051929911296",
+			"name": "문화공연예술 정보",
+			"screen_name": "ArtManagementKR",
+			"location": "문의: contact@solplparty.com",
+			"description": "문화예술 및 음악, 영화, 공연과 관련된 정보를 알려드립니다.\n\n#예술경영 #뮤직비즈니스 #엔터테인먼트\n#채용 #공모 #공고 #강좌 #창업 #스타트업",
+			"url": "https://t.co/tUrm4cod9A",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tUrm4cod9A",
+							"expanded_url": "https://culture.solpl.party",
+							"display_url": "culture.solpl.party",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 838,
+			"friends_count": 60,
+			"listed_count": 8,
+			"created_at": "Tue Sep 20 19:21:06 +0000 2016",
+			"favourites_count": 21,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 31026,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1585495522881966080/KanqeCzz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1585495522881966080/KanqeCzz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/778313051929911296/1625201124",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "❝ 그러나 코로나19로 행사가 취소됐고, 손해를 만회하기 위해 다른 콘서트를 여는 등 약정과 다른 목적으로 3억 9천여만 원을 사용했다가 기소됐습니다. \n\n#그린플러그드 #그플 \n#페스티벌 #공연기획사 \n#콘텐츠아이디 #김승한 \n#횡령 #금융사기 #뮤직비즈니스"
+	},
+	{
+		"created_at": "Sun Dec 11 08:03:15 +0000 2022",
+		"id": 1601849815909875700,
+		"id_str": "1601850085096460289",
+		"full_text": "❝ 김 씨는 재작년 '그린플러그드 서울 2020' 행사를 개최한다며 379명으로부터 8억 원을 투자받았습니다.\n\n#그린플러그드 #그플 \n#페스티벌 #공연기획사 \n#콘텐츠아이디 #김승한 \n#횡령 #금융사기 #뮤직비즈니스",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "그린플러그드",
+					"indices": [
+						63,
+						70
+					]
+				},
+				{
+					"text": "그플",
+					"indices": [
+						71,
+						74
+					]
+				},
+				{
+					"text": "페스티벌",
+					"indices": [
+						76,
+						81
+					]
+				},
+				{
+					"text": "공연기획사",
+					"indices": [
+						82,
+						88
+					]
+				},
+				{
+					"text": "콘텐츠아이디",
+					"indices": [
+						90,
+						97
+					]
+				},
+				{
+					"text": "김승한",
+					"indices": [
+						98,
+						102
+					]
+				},
+				{
+					"text": "횡령",
+					"indices": [
+						104,
+						107
+					]
+				},
+				{
+					"text": "금융사기",
+					"indices": [
+						108,
+						113
+					]
+				},
+				{
+					"text": "뮤직비즈니스",
+					"indices": [
+						114,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1601849811824652300,
+		"in_reply_to_status_id_str": "1601849811824652288",
+		"in_reply_to_user_id": 778313051929911300,
+		"in_reply_to_user_id_str": "778313051929911296",
+		"in_reply_to_screen_name": "ArtManagementKR",
+		"user": {
+			"id": 778313051929911300,
+			"id_str": "778313051929911296",
+			"name": "문화공연예술 정보",
+			"screen_name": "ArtManagementKR",
+			"location": "문의: contact@solplparty.com",
+			"description": "문화예술 및 음악, 영화, 공연과 관련된 정보를 알려드립니다.\n\n#예술경영 #뮤직비즈니스 #엔터테인먼트\n#채용 #공모 #공고 #강좌 #창업 #스타트업",
+			"url": "https://t.co/tUrm4cod9A",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tUrm4cod9A",
+							"expanded_url": "https://culture.solpl.party",
+							"display_url": "culture.solpl.party",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 838,
+			"friends_count": 60,
+			"listed_count": 8,
+			"created_at": "Tue Sep 20 19:21:06 +0000 2016",
+			"favourites_count": 21,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 31026,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1585495522881966080/KanqeCzz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1585495522881966080/KanqeCzz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/778313051929911296/1625201124",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "❝ 김 씨는 재작년 '그린플러그드 서울 2020' 행사를 개최한다며 379명으로부터 8억 원을 투자받았습니다.\n\n#그린플러그드 #그플 \n#페스티벌 #공연기획사 \n#콘텐츠아이디 #김승한 \n#횡령 #금융사기 #뮤직비즈니스"
+	},
+	{
+		"created_at": "Sun Dec 11 08:03:11 +0000 2022",
+		"id": 1601849811824652300,
+		"id_str": "1601850067584892928",
+		"full_text": "❝ 코로나19로 취소된 행사의 투자금을 횡령한 혐의로 재판에 넘겨진 음악 페스티벌 운영사 대표가 1심에서 징역 1년 6개월에 집행유예 3년을 선고받았습니다. \n\n#그린플러그드 #그플 \n#페스티벌 #공연기획사 \n#콘텐츠아이디 #김승한 \n#횡령 #금융사기 #뮤직비즈니스",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "그린플러그드",
+					"indices": [
+						90,
+						97
+					]
+				},
+				{
+					"text": "그플",
+					"indices": [
+						98,
+						101
+					]
+				},
+				{
+					"text": "페스티벌",
+					"indices": [
+						103,
+						108
+					]
+				},
+				{
+					"text": "공연기획사",
+					"indices": [
+						109,
+						115
+					]
+				},
+				{
+					"text": "콘텐츠아이디",
+					"indices": [
+						117,
+						124
+					]
+				},
+				{
+					"text": "김승한",
+					"indices": [
+						125,
+						129
+					]
+				},
+				{
+					"text": "횡령",
+					"indices": [
+						131,
+						134
+					]
+				},
+				{
+					"text": "금융사기",
+					"indices": [
+						135,
+						140
+					]
+				},
+				{
+					"text": "뮤직비즈니스",
+					"indices": [
+						141,
+						148
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1601849808209080300,
+		"in_reply_to_status_id_str": "1601849808209080321",
+		"in_reply_to_user_id": 778313051929911300,
+		"in_reply_to_user_id_str": "778313051929911296",
+		"in_reply_to_screen_name": "ArtManagementKR",
+		"user": {
+			"id": 778313051929911300,
+			"id_str": "778313051929911296",
+			"name": "문화공연예술 정보",
+			"screen_name": "ArtManagementKR",
+			"location": "문의: contact@solplparty.com",
+			"description": "문화예술 및 음악, 영화, 공연과 관련된 정보를 알려드립니다.\n\n#예술경영 #뮤직비즈니스 #엔터테인먼트\n#채용 #공모 #공고 #강좌 #창업 #스타트업",
+			"url": "https://t.co/tUrm4cod9A",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tUrm4cod9A",
+							"expanded_url": "https://culture.solpl.party",
+							"display_url": "culture.solpl.party",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 838,
+			"friends_count": 60,
+			"listed_count": 8,
+			"created_at": "Tue Sep 20 19:21:06 +0000 2016",
+			"favourites_count": 21,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 31026,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1585495522881966080/KanqeCzz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1585495522881966080/KanqeCzz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/778313051929911296/1625201124",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "❝ 코로나19로 취소된 행사의 투자금을 횡령한 혐의로 재판에 넘겨진 음악 페스티벌 운영사 대표가 1심에서 징역 1년 6개월에 집행유예 3년을 선고받았습니다. \n\n#그린플러그드 #그플 \n#페스티벌 #공연기획사 \n#콘텐츠아이디 #김승한 \n#횡령 #금융사기 #뮤직비즈니스"
+	},
+	{
 		"created_at": "Fri Dec 09 03:33:06 +0000 2022",
 		"id": 1601057321513205800,
 		"id_str": "1601057321513205762",
